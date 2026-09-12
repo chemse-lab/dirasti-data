@@ -1,0 +1,948 @@
+{
+ "generated_at": "2026-09-12T19:37:35.187Z",
+ "total": 7741,
+ "shards": [
+  {
+   "file": "bac-5e4dec23--x8dd76b09.json",
+   "level": "bac",
+   "subject": "رياضيات",
+   "count": 140
+  },
+  {
+   "file": "bac-5e4dec23--x3c29dace.json",
+   "level": "bac",
+   "subject": "هندسة الطرائق",
+   "count": 8
+  },
+  {
+   "file": "bac-5e4dec23--x402215f0.json",
+   "level": "bac",
+   "subject": "هندسة الميكانيكية",
+   "count": 2
+  },
+  {
+   "file": "bac-5e4dec23--x038864e8.json",
+   "level": "bac",
+   "subject": "هندسة الكهربائية",
+   "count": 2
+  },
+  {
+   "file": "bac-5e4dec23--x3b0e76c9.json",
+   "level": "bac",
+   "subject": "هندسة المدنية",
+   "count": 2
+  },
+  {
+   "file": "bac-5e4dec23--x6bf47148.json",
+   "level": "bac",
+   "subject": "امازيغية",
+   "count": 2
+  },
+  {
+   "file": "bac-5e4dec23--xf0519d05.json",
+   "level": "bac",
+   "subject": "علوم الفيزيائية",
+   "count": 20
+  },
+  {
+   "file": "bac-5e4dec23--xee86b77b.json",
+   "level": "bac",
+   "subject": "انجليزية",
+   "count": 40
+  },
+  {
+   "file": "bac-5e4dec23--xf2964ab5.json",
+   "level": "bac",
+   "subject": "فلسفة",
+   "count": 40
+  },
+  {
+   "file": "bac-5e4dec23--x858e891e.json",
+   "level": "bac",
+   "subject": "فرنسية",
+   "count": 39
+  },
+  {
+   "file": "bac-5e4dec23--xca4e049c.json",
+   "level": "bac",
+   "subject": "علوم الطبيعة والحياة",
+   "count": 14
+  },
+  {
+   "file": "bac-5e4dec23--x1dc2f60b.json",
+   "level": "bac",
+   "subject": "ايطالية",
+   "count": 8
+  },
+  {
+   "file": "bac-5e4dec23--x6f7b65fd.json",
+   "level": "bac",
+   "subject": "اسبانية",
+   "count": 8
+  },
+  {
+   "file": "bac-5e4dec23--x5e37d86f.json",
+   "level": "bac",
+   "subject": "المانية",
+   "count": 8
+  },
+  {
+   "file": "bac-5e4dec23--x25af644b.json",
+   "level": "bac",
+   "subject": "تربية الاسلامية",
+   "count": 2
+  },
+  {
+   "file": "bac-5e4dec23--x9c0466c0.json",
+   "level": "bac",
+   "subject": "تسيير المحاسبي والمالي",
+   "count": 8
+  },
+  {
+   "file": "bac-5e4dec23--xde7cefe6.json",
+   "level": "bac",
+   "subject": "اقتصاد والمناجمنت",
+   "count": 8
+  },
+  {
+   "file": "bac-5e4dec23--xd1ec9be1.json",
+   "level": "bac",
+   "subject": "قانون",
+   "count": 8
+  },
+  {
+   "file": "bac-5e4dec23--x91b4a510.json",
+   "level": "bac",
+   "subject": "عربية",
+   "count": 2
+  },
+  {
+   "file": "bac-5e4dec23--xdffa1d13.json",
+   "level": "bac",
+   "subject": "تاريخ والجغرافيا",
+   "count": 40
+  },
+  {
+   "file": "bac-5e4dec23--xfd1ffea5.json",
+   "level": "bac",
+   "subject": "عربية وادابها",
+   "count": 38
+  },
+  {
+   "file": "bac-5e4dec23--xcb15c783.json",
+   "level": "bac",
+   "subject": "هندسة مدنية",
+   "count": 6
+  },
+  {
+   "file": "bac-5e4dec23--x6a39dff9.json",
+   "level": "bac",
+   "subject": "هندسة كهربائية",
+   "count": 6
+  },
+  {
+   "file": "bac-5e4dec23--xb1b9bb20.json",
+   "level": "bac",
+   "subject": "هندسة ميكانيكية",
+   "count": 6
+  },
+  {
+   "file": "bac-5e4dec23--x4f1940c3.json",
+   "level": "bac",
+   "subject": "علوم الاسلامية",
+   "count": 39
+  },
+  {
+   "file": "bem-d722a518.json",
+   "level": "bem",
+   "count": 74
+  },
+  {
+   "file": "4ap-17f97124--xdffa1d13.json",
+   "level": "4ap",
+   "subject": "تاريخ والجغرافيا",
+   "count": 87
+  },
+  {
+   "file": "4ap-17f97124--x858e891e.json",
+   "level": "4ap",
+   "subject": "فرنسية",
+   "count": 44
+  },
+  {
+   "file": "4ap-17f97124--x25af644b.json",
+   "level": "4ap",
+   "subject": "تربية الاسلامية",
+   "count": 55
+  },
+  {
+   "file": "4ap-17f97124--xa78a0a7e.json",
+   "level": "4ap",
+   "subject": "تربية العلمية والتكنولوجية",
+   "count": 2
+  },
+  {
+   "file": "4ap-17f97124--xc5ee3ebe.json",
+   "level": "4ap",
+   "subject": "تربية المدنية",
+   "count": 28
+  },
+  {
+   "file": "4ap-17f97124--x8dd76b09.json",
+   "level": "4ap",
+   "subject": "رياضيات",
+   "count": 101
+  },
+  {
+   "file": "4ap-17f97124--x91b4a510.json",
+   "level": "4ap",
+   "subject": "عربية",
+   "count": 91
+  },
+  {
+   "file": "4ap-17f97124--x8ca17e18.json",
+   "level": "4ap",
+   "subject": "تربية العلمية",
+   "count": 61
+  },
+  {
+   "file": "4ap-17f97124--xee86b77b.json",
+   "level": "4ap",
+   "subject": "انجليزية",
+   "count": 26
+  },
+  {
+   "file": "teachers-8eea3d11.json",
+   "level": "teachers",
+   "count": 2
+  },
+  {
+   "file": "5ap-546d61a3--xdffa1d13.json",
+   "level": "5ap",
+   "subject": "تاريخ والجغرافيا",
+   "count": 80
+  },
+  {
+   "file": "5ap-546d61a3--x25af644b.json",
+   "level": "5ap",
+   "subject": "تربية الاسلامية",
+   "count": 51
+  },
+  {
+   "file": "5ap-546d61a3--xa78a0a7e.json",
+   "level": "5ap",
+   "subject": "تربية العلمية والتكنولوجية",
+   "count": 2
+  },
+  {
+   "file": "5ap-546d61a3--xc5ee3ebe.json",
+   "level": "5ap",
+   "subject": "تربية المدنية",
+   "count": 57
+  },
+  {
+   "file": "5ap-546d61a3--x8dd76b09.json",
+   "level": "5ap",
+   "subject": "رياضيات",
+   "count": 107
+  },
+  {
+   "file": "5ap-546d61a3--x91b4a510.json",
+   "level": "5ap",
+   "subject": "عربية",
+   "count": 120
+  },
+  {
+   "file": "5ap-546d61a3--x858e891e.json",
+   "level": "5ap",
+   "subject": "فرنسية",
+   "count": 106
+  },
+  {
+   "file": "5ap-546d61a3--x8ca17e18.json",
+   "level": "5ap",
+   "subject": "تربية العلمية",
+   "count": 50
+  },
+  {
+   "file": "5ap-546d61a3--xee86b77b.json",
+   "level": "5ap",
+   "subject": "انجليزية",
+   "count": 23
+  },
+  {
+   "file": "2ap-a837ad72.json",
+   "level": "2ap",
+   "count": 286
+  },
+  {
+   "file": "3ap-3d666b14--x25af644b.json",
+   "level": "3ap",
+   "subject": "تربية الاسلامية",
+   "count": 48
+  },
+  {
+   "file": "3ap-3d666b14--xdffa1d13.json",
+   "level": "3ap",
+   "subject": "تاريخ والجغرافيا",
+   "count": 76
+  },
+  {
+   "file": "3ap-3d666b14--xc5ee3ebe.json",
+   "level": "3ap",
+   "subject": "تربية المدنية",
+   "count": 39
+  },
+  {
+   "file": "3ap-3d666b14--x858e891e.json",
+   "level": "3ap",
+   "subject": "فرنسية",
+   "count": 85
+  },
+  {
+   "file": "3ap-3d666b14--x8dd76b09.json",
+   "level": "3ap",
+   "subject": "رياضيات",
+   "count": 82
+  },
+  {
+   "file": "3ap-3d666b14--x91b4a510.json",
+   "level": "3ap",
+   "subject": "عربية",
+   "count": 89
+  },
+  {
+   "file": "3ap-3d666b14--xee86b77b.json",
+   "level": "3ap",
+   "subject": "انجليزية",
+   "count": 19
+  },
+  {
+   "file": "3ap-3d666b14--x8ca17e18.json",
+   "level": "3ap",
+   "subject": "تربية العلمية",
+   "count": 40
+  },
+  {
+   "file": "1ap-e9f329a9.json",
+   "level": "1ap",
+   "count": 250
+  },
+  {
+   "file": "0ap-022538ad.json",
+   "level": "0ap",
+   "count": 2
+  },
+  {
+   "file": "2as-78f75952.json",
+   "level": "2as",
+   "count": 16
+  },
+  {
+   "file": "1as-a92ecd15.json",
+   "level": "1as",
+   "count": 15
+  },
+  {
+   "file": "3as-b0225673--x8dd76b09.json",
+   "level": "3as",
+   "subject": "رياضيات",
+   "count": 288
+  },
+  {
+   "file": "3as-b0225673--xfd1ffea5.json",
+   "level": "3as",
+   "subject": "عربية وادابها",
+   "count": 229
+  },
+  {
+   "file": "3as-b0225673--xca4e049c.json",
+   "level": "3as",
+   "subject": "علوم الطبيعة والحياة",
+   "count": 299
+  },
+  {
+   "file": "3as-b0225673--xf0519d05.json",
+   "level": "3as",
+   "subject": "علوم الفيزيائية",
+   "count": 77
+  },
+  {
+   "file": "3as-b0225673--x858e891e.json",
+   "level": "3as",
+   "subject": "فرنسية",
+   "count": 254
+  },
+  {
+   "file": "3as-b0225673--xee86b77b.json",
+   "level": "3as",
+   "subject": "انجليزية",
+   "count": 251
+  },
+  {
+   "file": "3as-b0225673--x25af644b.json",
+   "level": "3as",
+   "subject": "تربية الاسلامية",
+   "count": 106
+  },
+  {
+   "file": "3as-b0225673--xdffa1d13.json",
+   "level": "3as",
+   "subject": "تاريخ والجغرافيا",
+   "count": 211
+  },
+  {
+   "file": "3as-b0225673--xf2964ab5.json",
+   "level": "3as",
+   "subject": "فلسفة",
+   "count": 119
+  },
+  {
+   "file": "3as-b0225673--x9c0466c0.json",
+   "level": "3as",
+   "subject": "تسيير المحاسبي والمالي",
+   "count": 93
+  },
+  {
+   "file": "3as-b0225673--xde7cefe6.json",
+   "level": "3as",
+   "subject": "اقتصاد والمناجمنت",
+   "count": 58
+  },
+  {
+   "file": "3as-b0225673--xd1ec9be1.json",
+   "level": "3as",
+   "subject": "قانون",
+   "count": 63
+  },
+  {
+   "file": "3as-b0225673--x3b0e76c9.json",
+   "level": "3as",
+   "subject": "هندسة المدنية",
+   "count": 40
+  },
+  {
+   "file": "3as-b0225673--x3c29dace.json",
+   "level": "3as",
+   "subject": "هندسة الطرائق",
+   "count": 40
+  },
+  {
+   "file": "3as-b0225673--x402215f0.json",
+   "level": "3as",
+   "subject": "هندسة الميكانيكية",
+   "count": 15
+  },
+  {
+   "file": "3as-b0225673--x038864e8.json",
+   "level": "3as",
+   "subject": "هندسة الكهربائية",
+   "count": 50
+  },
+  {
+   "file": "3as-b0225673--x6f7b65fd.json",
+   "level": "3as",
+   "subject": "اسبانية",
+   "count": 47
+  },
+  {
+   "file": "3as-b0225673--x5e37d86f.json",
+   "level": "3as",
+   "subject": "المانية",
+   "count": 42
+  },
+  {
+   "file": "4am-5886f037--x8dd76b09.json",
+   "level": "4am",
+   "subject": "رياضيات",
+   "count": 177
+  },
+  {
+   "file": "4am-5886f037--x91b4a510.json",
+   "level": "4am",
+   "subject": "عربية",
+   "count": 114
+  },
+  {
+   "file": "4am-5886f037--x858e891e.json",
+   "level": "4am",
+   "subject": "فرنسية",
+   "count": 116
+  },
+  {
+   "file": "4am-5886f037--xee86b77b.json",
+   "level": "4am",
+   "subject": "انجليزية",
+   "count": 90
+  },
+  {
+   "file": "4am-5886f037--xca4e049c.json",
+   "level": "4am",
+   "subject": "علوم الطبيعة والحياة",
+   "count": 144
+  },
+  {
+   "file": "4am-5886f037--x25af644b.json",
+   "level": "4am",
+   "subject": "تربية الاسلامية",
+   "count": 50
+  },
+  {
+   "file": "4am-5886f037--xdffa1d13.json",
+   "level": "4am",
+   "subject": "تاريخ والجغرافيا",
+   "count": 54
+  },
+  {
+   "file": "4am-5886f037--x3a65f9b4.json",
+   "level": "4am",
+   "subject": "علوم الفيزيائية والتكنولوجيا",
+   "count": 150
+  },
+  {
+   "file": "4am-5886f037--xc5ee3ebe.json",
+   "level": "4am",
+   "subject": "تربية المدنية",
+   "count": 51
+  },
+  {
+   "file": "4am-5886f037--x87ffb58d.json",
+   "level": "4am",
+   "subject": "اعلام الالي",
+   "count": 3
+  },
+  {
+   "file": "3am-11f30712.json",
+   "level": "3am",
+   "count": 324
+  },
+  {
+   "file": "2am-c898c188--x8dd76b09.json",
+   "level": "2am",
+   "subject": "رياضيات",
+   "count": 99
+  },
+  {
+   "file": "2am-c898c188--x91b4a510.json",
+   "level": "2am",
+   "subject": "عربية",
+   "count": 69
+  },
+  {
+   "file": "2am-c898c188--x858e891e.json",
+   "level": "2am",
+   "subject": "فرنسية",
+   "count": 78
+  },
+  {
+   "file": "2am-c898c188--xee86b77b.json",
+   "level": "2am",
+   "subject": "انجليزية",
+   "count": 69
+  },
+  {
+   "file": "2am-c898c188--x25af644b.json",
+   "level": "2am",
+   "subject": "تربية الاسلامية",
+   "count": 47
+  },
+  {
+   "file": "2am-c898c188--xdffa1d13.json",
+   "level": "2am",
+   "subject": "تاريخ والجغرافيا",
+   "count": 43
+  },
+  {
+   "file": "2am-c898c188--xca4e049c.json",
+   "level": "2am",
+   "subject": "علوم الطبيعة والحياة",
+   "count": 75
+  },
+  {
+   "file": "2am-c898c188--x3a65f9b4.json",
+   "level": "2am",
+   "subject": "علوم الفيزيائية والتكنولوجيا",
+   "count": 79
+  },
+  {
+   "file": "2am-c898c188--xc5ee3ebe.json",
+   "level": "2am",
+   "subject": "تربية المدنية",
+   "count": 38
+  },
+  {
+   "file": "2am-c898c188--x87ffb58d.json",
+   "level": "2am",
+   "subject": "اعلام الالي",
+   "count": 27
+  },
+  {
+   "file": "1am-c55de173--x8dd76b09.json",
+   "level": "1am",
+   "subject": "رياضيات",
+   "count": 109
+  },
+  {
+   "file": "1am-c55de173--x91b4a510.json",
+   "level": "1am",
+   "subject": "عربية",
+   "count": 86
+  },
+  {
+   "file": "1am-c55de173--x858e891e.json",
+   "level": "1am",
+   "subject": "فرنسية",
+   "count": 97
+  },
+  {
+   "file": "1am-c55de173--xee86b77b.json",
+   "level": "1am",
+   "subject": "انجليزية",
+   "count": 98
+  },
+  {
+   "file": "1am-c55de173--x25af644b.json",
+   "level": "1am",
+   "subject": "تربية الاسلامية",
+   "count": 54
+  },
+  {
+   "file": "1am-c55de173--xdffa1d13.json",
+   "level": "1am",
+   "subject": "تاريخ والجغرافيا",
+   "count": 78
+  },
+  {
+   "file": "1am-c55de173--xca4e049c.json",
+   "level": "1am",
+   "subject": "علوم الطبيعة والحياة",
+   "count": 86
+  },
+  {
+   "file": "1am-c55de173--x3a65f9b4.json",
+   "level": "1am",
+   "subject": "علوم الفيزيائية والتكنولوجيا",
+   "count": 119
+  },
+  {
+   "file": "1am-c55de173--xc5ee3ebe.json",
+   "level": "1am",
+   "subject": "تربية المدنية",
+   "count": 97
+  },
+  {
+   "file": "1am-c55de173--x87ffb58d.json",
+   "level": "1am",
+   "subject": "اعلام الالي",
+   "count": 28
+  }
+ ],
+ "stages": [
+  {
+   "id": "primary",
+   "name": "الابتدائي",
+   "count": 2107
+  },
+  {
+   "id": "middle",
+   "name": "المتوسط",
+   "count": 2823
+  },
+  {
+   "id": "secondary",
+   "name": "الثانوي",
+   "count": 2809
+  },
+  {
+   "id": "teachers",
+   "name": "فضاء الأستاذ",
+   "count": 2
+  }
+ ],
+ "levels": [
+  {
+   "id": "bac",
+   "name": "البكالوريا",
+   "stage": "secondary",
+   "count": 496
+  },
+  {
+   "id": "bem",
+   "name": "شهادة التعليم المتوسط",
+   "stage": "middle",
+   "count": 74
+  },
+  {
+   "id": "4ap",
+   "name": "الرابعة ابتدائي",
+   "stage": "primary",
+   "count": 495
+  },
+  {
+   "id": "teachers",
+   "name": "فضاء الأستاذ",
+   "stage": "teachers",
+   "count": 2
+  },
+  {
+   "id": "5ap",
+   "name": "الخامسة ابتدائي",
+   "stage": "primary",
+   "count": 596
+  },
+  {
+   "id": "2ap",
+   "name": "الثانية ابتدائي",
+   "stage": "primary",
+   "count": 286
+  },
+  {
+   "id": "3ap",
+   "name": "الثالثة ابتدائي",
+   "stage": "primary",
+   "count": 478
+  },
+  {
+   "id": "1ap",
+   "name": "الأولى ابتدائي",
+   "stage": "primary",
+   "count": 250
+  },
+  {
+   "id": "0ap",
+   "name": "القسم التحضيري",
+   "stage": "primary",
+   "count": 2
+  },
+  {
+   "id": "2as",
+   "name": "الثانية ثانوي",
+   "stage": "secondary",
+   "count": 16
+  },
+  {
+   "id": "1as",
+   "name": "الأولى ثانوي",
+   "stage": "secondary",
+   "count": 15
+  },
+  {
+   "id": "3as",
+   "name": "الثالثة ثانوي",
+   "stage": "secondary",
+   "count": 2282
+  },
+  {
+   "id": "4am",
+   "name": "الرابعة متوسط",
+   "stage": "middle",
+   "count": 949
+  },
+  {
+   "id": "3am",
+   "name": "الثالثة متوسط",
+   "stage": "middle",
+   "count": 324
+  },
+  {
+   "id": "2am",
+   "name": "الثانية متوسط",
+   "stage": "middle",
+   "count": 624
+  },
+  {
+   "id": "1am",
+   "name": "الأولى متوسط",
+   "stage": "middle",
+   "count": 852
+  }
+ ],
+ "subjects": [
+  {
+   "id": "اعلام الالي",
+   "name": "الإعلام الآلي",
+   "count": 71
+  },
+  {
+   "id": "اقتصاد والمناجمنت",
+   "name": "الاقتصاد والمناجمنت",
+   "count": 66
+  },
+  {
+   "id": "تاريخ والجغرافيا",
+   "name": "التاريخ والجغرافيا",
+   "count": 707
+  },
+  {
+   "id": "تربية الاسلامية",
+   "name": "التربية الإسلامية",
+   "count": 515
+  },
+  {
+   "id": "تربية العلمية",
+   "name": "التربية العلمية",
+   "count": 208
+  },
+  {
+   "id": "تربية العلمية والتكنولوجية",
+   "name": "التربية العلمية والتكنولوجية",
+   "count": 8
+  },
+  {
+   "id": "تربية المدنية",
+   "name": "التربية المدنية",
+   "count": 396
+  },
+  {
+   "id": "تسيير المحاسبي والمالي",
+   "name": "التسيير المحاسبي والمالي",
+   "count": 101
+  },
+  {
+   "id": "رياضيات",
+   "name": "الرياضيات",
+   "count": 1301
+  },
+  {
+   "id": "علوم الاسلامية",
+   "name": "العلوم الإسلامية",
+   "count": 39
+  },
+  {
+   "id": "علوم الفيزيائية",
+   "name": "العلوم الفيزيائية",
+   "count": 103
+  },
+  {
+   "id": "علوم الفيزيائية والتكنولوجيا",
+   "name": "العلوم الفيزيائية والتكنولوجيا",
+   "count": 404
+  },
+  {
+   "id": "فلسفة",
+   "name": "الفلسفة",
+   "count": 161
+  },
+  {
+   "id": "قانون",
+   "name": "القانون",
+   "count": 71
+  },
+  {
+   "id": "اسبانية",
+   "name": "اللغة الإسبانية",
+   "count": 55
+  },
+  {
+   "id": "المانية",
+   "name": "اللغة الألمانية",
+   "count": 50
+  },
+  {
+   "id": "امازيغية",
+   "name": "اللغة الأمازيغية",
+   "count": 4
+  },
+  {
+   "id": "انجليزية",
+   "name": "اللغة الإنجليزية",
+   "count": 678
+  },
+  {
+   "id": "ايطالية",
+   "name": "اللغة الإيطالية",
+   "count": 8
+  },
+  {
+   "id": "عربية",
+   "name": "اللغة العربية",
+   "count": 742
+  },
+  {
+   "id": "عربية وادابها",
+   "name": "اللغة العربية وآدابها",
+   "count": 267
+  },
+  {
+   "id": "فرنسية",
+   "name": "اللغة الفرنسية",
+   "count": 932
+  },
+  {
+   "id": "هندسة الكهربائية",
+   "name": "الهندسة الكهربائية",
+   "count": 52
+  },
+  {
+   "id": "هندسة المدنية",
+   "name": "الهندسة المدنية",
+   "count": 42
+  },
+  {
+   "id": "هندسة الميكانيكية",
+   "name": "الهندسة الميكانيكية",
+   "count": 17
+  },
+  {
+   "id": "انشطة",
+   "name": "أنشطة",
+   "count": 2
+  },
+  {
+   "id": "تعلم الكتابة",
+   "name": "تعلم الكتابة",
+   "count": 2
+  },
+  {
+   "id": "علوم الطبيعة والحياة",
+   "name": "علوم الطبيعة والحياة",
+   "count": 671
+  },
+  {
+   "id": "هندسة الطرائق",
+   "name": "هندسة الطرائق",
+   "count": 48
+  },
+  {
+   "id": "هندسة كهربائية",
+   "name": "هندسة كهربائية",
+   "count": 6
+  },
+  {
+   "id": "هندسة مدنية",
+   "name": "هندسة مدنية",
+   "count": 6
+  },
+  {
+   "id": "هندسة ميكانيكية",
+   "name": "هندسة ميكانيكية",
+   "count": 6
+  },
+  {
+   "id": "وثائق بيداغوجية للاساتذة",
+   "name": "وثائق بيداغوجية للأساتذة",
+   "count": 2
+  }
+ ],
+ "years": [
+  2026,
+  2025,
+  2024,
+  2023,
+  2022,
+  2021,
+  2020,
+  2019,
+  2018,
+  2017,
+  2016,
+  2015,
+  2014,
+  2013,
+  2012,
+  2011,
+  2010,
+  2009,
+  2008
+ ]
+}
