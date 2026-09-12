@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-12T20:28:05.846Z",
+ "generated_at": "2026-09-12T20:58:03.747Z",
  "total": 7741,
  "shards": [
   {
@@ -158,6 +158,16 @@
    "count": 74
   },
   {
+   "file": "2as-78f75952.json",
+   "level": "2as",
+   "count": 16
+  },
+  {
+   "file": "teachers-8eea3d11.json",
+   "level": "teachers",
+   "count": 2
+  },
+  {
    "file": "4ap-17f97124--xdffa1d13.json",
    "level": "4ap",
    "subject": "تاريخ والجغرافيا",
@@ -210,11 +220,6 @@
    "level": "4ap",
    "subject": "انجليزية",
    "count": 26
-  },
-  {
-   "file": "teachers-8eea3d11.json",
-   "level": "teachers",
-   "count": 2
   },
   {
    "file": "5ap-546d61a3--xdffa1d13.json",
@@ -332,11 +337,6 @@
    "file": "0ap-022538ad.json",
    "level": "0ap",
    "count": 2
-  },
-  {
-   "file": "2as-78f75952.json",
-   "level": "2as",
-   "count": 16
   },
   {
    "file": "1as-a92ecd15.json",
@@ -673,16 +673,22 @@
    "count": 74
   },
   {
-   "id": "4ap",
-   "name": "الرابعة ابتدائي",
-   "stage": "primary",
-   "count": 495
+   "id": "2as",
+   "name": "الثانية ثانوي",
+   "stage": "secondary",
+   "count": 16
   },
   {
    "id": "teachers",
    "name": "فضاء الأستاذ",
    "stage": "teachers",
    "count": 2
+  },
+  {
+   "id": "4ap",
+   "name": "الرابعة ابتدائي",
+   "stage": "primary",
+   "count": 495
   },
   {
    "id": "5ap",
@@ -713,12 +719,6 @@
    "name": "القسم التحضيري",
    "stage": "primary",
    "count": 2
-  },
-  {
-   "id": "2as",
-   "name": "الثانية ثانوي",
-   "stage": "secondary",
-   "count": 16
   },
   {
    "id": "1as",
