@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-09-13T22:58:04.806Z",
- "total": 7959,
+ "generated_at": "2026-09-13T23:02:25.591Z",
+ "total": 8090,
  "shards": [
   {
    "file": "teachers-8eea3d11.json",
    "level": "teachers",
-   "count": 219
+   "count": 350
   },
   {
    "file": "bem-d722a518.json",
@@ -656,7 +656,7 @@
   {
    "id": "teachers",
    "name": "فضاء الأستاذ",
-   "count": 219
+   "count": 350
   }
  ],
  "levels": [
@@ -664,11 +664,11 @@
    "id": "teachers",
    "name": "فضاء الأستاذ",
    "stage": "teachers",
-   "count": 219,
+   "count": 350,
    "subjects": [
     {
      "id": "وثائق بيداغوجية للاساتذة",
-     "count": 219
+     "count": 350
     }
    ]
   },
@@ -1573,7 +1573,7 @@
   {
    "id": "وثائق بيداغوجية للاساتذة",
    "name": "وثائق بيداغوجية للأساتذة",
-   "count": 219
+   "count": 350
   }
  ],
  "years": [
@@ -1602,7 +1602,7 @@
  ],
  "recent": {
   "days": 7,
-  "count": 7959
+  "count": 8090
  },
  "featured": [
   {
