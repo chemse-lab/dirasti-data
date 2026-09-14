@@ -1,16 +1,278 @@
 {
- "generated_at": "2026-09-14T08:28:03.272Z",
- "total": 8133,
+ "generated_at": "2026-09-14T08:58:03.407Z",
+ "total": 9021,
  "shards": [
   {
-   "file": "teachers-8eea3d11.json",
-   "level": "teachers",
-   "count": 393
+   "file": "4am-5886f037--x87ffb58d.json",
+   "level": "4am",
+   "subject": "اعلام الالي",
+   "count": 11
+  },
+  {
+   "file": "4am-5886f037--xc5ee3ebe.json",
+   "level": "4am",
+   "subject": "تربية المدنية",
+   "count": 51
+  },
+  {
+   "file": "4am-5886f037--xca4e049c.json",
+   "level": "4am",
+   "subject": "علوم الطبيعة والحياة",
+   "count": 144
+  },
+  {
+   "file": "4am-5886f037--x858e891e.json",
+   "level": "4am",
+   "subject": "فرنسية",
+   "count": 116
+  },
+  {
+   "file": "4am-5886f037--xdffa1d13.json",
+   "level": "4am",
+   "subject": "تاريخ والجغرافيا",
+   "count": 54
+  },
+  {
+   "file": "4am-5886f037--x8dd76b09.json",
+   "level": "4am",
+   "subject": "رياضيات",
+   "count": 177
+  },
+  {
+   "file": "4am-5886f037--xee86b77b.json",
+   "level": "4am",
+   "subject": "انجليزية",
+   "count": 90
+  },
+  {
+   "file": "4am-5886f037--x25af644b.json",
+   "level": "4am",
+   "subject": "تربية الاسلامية",
+   "count": 50
+  },
+  {
+   "file": "4am-5886f037--x3a65f9b4.json",
+   "level": "4am",
+   "subject": "علوم الفيزيائية والتكنولوجيا",
+   "count": 150
+  },
+  {
+   "file": "4am-5886f037--x91b4a510.json",
+   "level": "4am",
+   "subject": "عربية",
+   "count": 114
   },
   {
    "file": "bem-d722a518.json",
    "level": "bem",
+   "count": 128
+  },
+  {
+   "file": "3am-11f30712.json",
+   "level": "3am",
+   "count": 347
+  },
+  {
+   "file": "2am-c898c188--x87ffb58d.json",
+   "level": "2am",
+   "subject": "اعلام الالي",
+   "count": 38
+  },
+  {
+   "file": "2am-c898c188--xdffa1d13.json",
+   "level": "2am",
+   "subject": "تاريخ والجغرافيا",
+   "count": 43
+  },
+  {
+   "file": "2am-c898c188--x3a65f9b4.json",
+   "level": "2am",
+   "subject": "علوم الفيزيائية والتكنولوجيا",
+   "count": 79
+  },
+  {
+   "file": "2am-c898c188--xee86b77b.json",
+   "level": "2am",
+   "subject": "انجليزية",
+   "count": 69
+  },
+  {
+   "file": "2am-c898c188--xc5ee3ebe.json",
+   "level": "2am",
+   "subject": "تربية المدنية",
+   "count": 38
+  },
+  {
+   "file": "2am-c898c188--xca4e049c.json",
+   "level": "2am",
+   "subject": "علوم الطبيعة والحياة",
    "count": 75
+  },
+  {
+   "file": "2am-c898c188--x858e891e.json",
+   "level": "2am",
+   "subject": "فرنسية",
+   "count": 78
+  },
+  {
+   "file": "2am-c898c188--x25af644b.json",
+   "level": "2am",
+   "subject": "تربية الاسلامية",
+   "count": 47
+  },
+  {
+   "file": "2am-c898c188--x91b4a510.json",
+   "level": "2am",
+   "subject": "عربية",
+   "count": 69
+  },
+  {
+   "file": "2am-c898c188--x8dd76b09.json",
+   "level": "2am",
+   "subject": "رياضيات",
+   "count": 99
+  },
+  {
+   "file": "1am-c55de173--x87ffb58d.json",
+   "level": "1am",
+   "subject": "اعلام الالي",
+   "count": 42
+  },
+  {
+   "file": "1am-c55de173--x858e891e.json",
+   "level": "1am",
+   "subject": "فرنسية",
+   "count": 97
+  },
+  {
+   "file": "1am-c55de173--xc5ee3ebe.json",
+   "level": "1am",
+   "subject": "تربية المدنية",
+   "count": 97
+  },
+  {
+   "file": "1am-c55de173--x25af644b.json",
+   "level": "1am",
+   "subject": "تربية الاسلامية",
+   "count": 54
+  },
+  {
+   "file": "1am-c55de173--xdffa1d13.json",
+   "level": "1am",
+   "subject": "تاريخ والجغرافيا",
+   "count": 78
+  },
+  {
+   "file": "1am-c55de173--x3a65f9b4.json",
+   "level": "1am",
+   "subject": "علوم الفيزيائية والتكنولوجيا",
+   "count": 119
+  },
+  {
+   "file": "1am-c55de173--x91b4a510.json",
+   "level": "1am",
+   "subject": "عربية",
+   "count": 86
+  },
+  {
+   "file": "1am-c55de173--xee86b77b.json",
+   "level": "1am",
+   "subject": "انجليزية",
+   "count": 98
+  },
+  {
+   "file": "1am-c55de173--xca4e049c.json",
+   "level": "1am",
+   "subject": "علوم الطبيعة والحياة",
+   "count": 86
+  },
+  {
+   "file": "1am-c55de173--x8dd76b09.json",
+   "level": "1am",
+   "subject": "رياضيات",
+   "count": 109
+  },
+  {
+   "file": "1ap-e9f329a9.json",
+   "level": "1ap",
+   "count": 315
+  },
+  {
+   "file": "5ap-546d61a3--x0acd2087.json",
+   "level": "5ap",
+   "subject": "تربية الموسيقية",
+   "count": 4
+  },
+  {
+   "file": "5ap-546d61a3--x668a495b.json",
+   "level": "5ap",
+   "subject": "تربية الفنية",
+   "count": 35
+  },
+  {
+   "file": "5ap-546d61a3--xee86b77b.json",
+   "level": "5ap",
+   "subject": "انجليزية",
+   "count": 23
+  },
+  {
+   "file": "5ap-546d61a3--x25af644b.json",
+   "level": "5ap",
+   "subject": "تربية الاسلامية",
+   "count": 51
+  },
+  {
+   "file": "5ap-546d61a3--xc5ee3ebe.json",
+   "level": "5ap",
+   "subject": "تربية المدنية",
+   "count": 57
+  },
+  {
+   "file": "5ap-546d61a3--x91b4a510.json",
+   "level": "5ap",
+   "subject": "عربية",
+   "count": 120
+  },
+  {
+   "file": "5ap-546d61a3--xdffa1d13.json",
+   "level": "5ap",
+   "subject": "تاريخ والجغرافيا",
+   "count": 80
+  },
+  {
+   "file": "5ap-546d61a3--x8dd76b09.json",
+   "level": "5ap",
+   "subject": "رياضيات",
+   "count": 107
+  },
+  {
+   "file": "5ap-546d61a3--x858e891e.json",
+   "level": "5ap",
+   "subject": "فرنسية",
+   "count": 106
+  },
+  {
+   "file": "5ap-546d61a3--x8ca17e18.json",
+   "level": "5ap",
+   "subject": "تربية العلمية",
+   "count": 50
+  },
+  {
+   "file": "5ap-546d61a3--xa78a0a7e.json",
+   "level": "5ap",
+   "subject": "تربية العلمية والتكنولوجية",
+   "count": 2
+  },
+  {
+   "file": "0ap-022538ad.json",
+   "level": "0ap",
+   "count": 68
+  },
+  {
+   "file": "teachers-8eea3d11--x016f5af4.json",
+   "level": "teachers",
+   "subject": "وثائق بيداغوجية للاساتذة",
+   "count": 1002
   },
   {
    "file": "2as-78f75952.json",
@@ -281,65 +543,6 @@
    "count": 2
   },
   {
-   "file": "5ap-546d61a3--xee86b77b.json",
-   "level": "5ap",
-   "subject": "انجليزية",
-   "count": 23
-  },
-  {
-   "file": "5ap-546d61a3--x25af644b.json",
-   "level": "5ap",
-   "subject": "تربية الاسلامية",
-   "count": 51
-  },
-  {
-   "file": "5ap-546d61a3--xc5ee3ebe.json",
-   "level": "5ap",
-   "subject": "تربية المدنية",
-   "count": 57
-  },
-  {
-   "file": "5ap-546d61a3--x91b4a510.json",
-   "level": "5ap",
-   "subject": "عربية",
-   "count": 120
-  },
-  {
-   "file": "5ap-546d61a3--xdffa1d13.json",
-   "level": "5ap",
-   "subject": "تاريخ والجغرافيا",
-   "count": 80
-  },
-  {
-   "file": "5ap-546d61a3--x8dd76b09.json",
-   "level": "5ap",
-   "subject": "رياضيات",
-   "count": 107
-  },
-  {
-   "file": "5ap-546d61a3--x858e891e.json",
-   "level": "5ap",
-   "subject": "فرنسية",
-   "count": 106
-  },
-  {
-   "file": "5ap-546d61a3--x8ca17e18.json",
-   "level": "5ap",
-   "subject": "تربية العلمية",
-   "count": 50
-  },
-  {
-   "file": "5ap-546d61a3--xa78a0a7e.json",
-   "level": "5ap",
-   "subject": "تربية العلمية والتكنولوجية",
-   "count": 2
-  },
-  {
-   "file": "1ap-e9f329a9.json",
-   "level": "1ap",
-   "count": 250
-  },
-  {
    "file": "4ap-17f97124--xdffa1d13.json",
    "level": "4ap",
    "subject": "تاريخ والجغرافيا",
@@ -445,208 +648,18 @@
    "level": "3ap",
    "subject": "فرنسية",
    "count": 85
-  },
-  {
-   "file": "4am-5886f037--x87ffb58d.json",
-   "level": "4am",
-   "subject": "اعلام الالي",
-   "count": 3
-  },
-  {
-   "file": "4am-5886f037--xc5ee3ebe.json",
-   "level": "4am",
-   "subject": "تربية المدنية",
-   "count": 51
-  },
-  {
-   "file": "4am-5886f037--xca4e049c.json",
-   "level": "4am",
-   "subject": "علوم الطبيعة والحياة",
-   "count": 144
-  },
-  {
-   "file": "4am-5886f037--x858e891e.json",
-   "level": "4am",
-   "subject": "فرنسية",
-   "count": 116
-  },
-  {
-   "file": "4am-5886f037--xdffa1d13.json",
-   "level": "4am",
-   "subject": "تاريخ والجغرافيا",
-   "count": 54
-  },
-  {
-   "file": "4am-5886f037--x8dd76b09.json",
-   "level": "4am",
-   "subject": "رياضيات",
-   "count": 177
-  },
-  {
-   "file": "4am-5886f037--xee86b77b.json",
-   "level": "4am",
-   "subject": "انجليزية",
-   "count": 90
-  },
-  {
-   "file": "4am-5886f037--x25af644b.json",
-   "level": "4am",
-   "subject": "تربية الاسلامية",
-   "count": 50
-  },
-  {
-   "file": "4am-5886f037--x3a65f9b4.json",
-   "level": "4am",
-   "subject": "علوم الفيزيائية والتكنولوجيا",
-   "count": 150
-  },
-  {
-   "file": "4am-5886f037--x91b4a510.json",
-   "level": "4am",
-   "subject": "عربية",
-   "count": 114
-  },
-  {
-   "file": "3am-11f30712.json",
-   "level": "3am",
-   "count": 324
-  },
-  {
-   "file": "2am-c898c188--xdffa1d13.json",
-   "level": "2am",
-   "subject": "تاريخ والجغرافيا",
-   "count": 43
-  },
-  {
-   "file": "2am-c898c188--x3a65f9b4.json",
-   "level": "2am",
-   "subject": "علوم الفيزيائية والتكنولوجيا",
-   "count": 79
-  },
-  {
-   "file": "2am-c898c188--xee86b77b.json",
-   "level": "2am",
-   "subject": "انجليزية",
-   "count": 69
-  },
-  {
-   "file": "2am-c898c188--xc5ee3ebe.json",
-   "level": "2am",
-   "subject": "تربية المدنية",
-   "count": 38
-  },
-  {
-   "file": "2am-c898c188--xca4e049c.json",
-   "level": "2am",
-   "subject": "علوم الطبيعة والحياة",
-   "count": 75
-  },
-  {
-   "file": "2am-c898c188--x87ffb58d.json",
-   "level": "2am",
-   "subject": "اعلام الالي",
-   "count": 27
-  },
-  {
-   "file": "2am-c898c188--x858e891e.json",
-   "level": "2am",
-   "subject": "فرنسية",
-   "count": 78
-  },
-  {
-   "file": "2am-c898c188--x25af644b.json",
-   "level": "2am",
-   "subject": "تربية الاسلامية",
-   "count": 47
-  },
-  {
-   "file": "2am-c898c188--x91b4a510.json",
-   "level": "2am",
-   "subject": "عربية",
-   "count": 69
-  },
-  {
-   "file": "2am-c898c188--x8dd76b09.json",
-   "level": "2am",
-   "subject": "رياضيات",
-   "count": 99
-  },
-  {
-   "file": "1am-c55de173--x87ffb58d.json",
-   "level": "1am",
-   "subject": "اعلام الالي",
-   "count": 28
-  },
-  {
-   "file": "1am-c55de173--x858e891e.json",
-   "level": "1am",
-   "subject": "فرنسية",
-   "count": 97
-  },
-  {
-   "file": "1am-c55de173--xc5ee3ebe.json",
-   "level": "1am",
-   "subject": "تربية المدنية",
-   "count": 97
-  },
-  {
-   "file": "1am-c55de173--x25af644b.json",
-   "level": "1am",
-   "subject": "تربية الاسلامية",
-   "count": 54
-  },
-  {
-   "file": "1am-c55de173--xdffa1d13.json",
-   "level": "1am",
-   "subject": "تاريخ والجغرافيا",
-   "count": 78
-  },
-  {
-   "file": "1am-c55de173--x3a65f9b4.json",
-   "level": "1am",
-   "subject": "علوم الفيزيائية والتكنولوجيا",
-   "count": 119
-  },
-  {
-   "file": "1am-c55de173--x91b4a510.json",
-   "level": "1am",
-   "subject": "عربية",
-   "count": 86
-  },
-  {
-   "file": "1am-c55de173--xee86b77b.json",
-   "level": "1am",
-   "subject": "انجليزية",
-   "count": 98
-  },
-  {
-   "file": "1am-c55de173--xca4e049c.json",
-   "level": "1am",
-   "subject": "علوم الطبيعة والحياة",
-   "count": 86
-  },
-  {
-   "file": "1am-c55de173--x8dd76b09.json",
-   "level": "1am",
-   "subject": "رياضيات",
-   "count": 109
-  },
-  {
-   "file": "0ap-022538ad.json",
-   "level": "0ap",
-   "count": 2
   }
  ],
  "stages": [
   {
    "id": "primary",
    "name": "الابتدائي",
-   "count": 2107
+   "count": 2277
   },
   {
    "id": "middle",
    "name": "المتوسط",
-   "count": 2824
+   "count": 2933
   },
   {
    "id": "secondary",
@@ -656,19 +669,55 @@
   {
    "id": "teachers",
    "name": "فضاء الأستاذ",
-   "count": 393
+   "count": 1002
   }
  ],
  "levels": [
   {
-   "id": "teachers",
-   "name": "فضاء الأستاذ",
-   "stage": "teachers",
-   "count": 393,
+   "id": "4am",
+   "name": "الرابعة متوسط",
+   "stage": "middle",
+   "count": 957,
    "subjects": [
     {
-     "id": "وثائق بيداغوجية للاساتذة",
-     "count": 393
+     "id": "رياضيات",
+     "count": 177
+    },
+    {
+     "id": "علوم الفيزيائية والتكنولوجيا",
+     "count": 150
+    },
+    {
+     "id": "علوم الطبيعة والحياة",
+     "count": 144
+    },
+    {
+     "id": "فرنسية",
+     "count": 116
+    },
+    {
+     "id": "عربية",
+     "count": 114
+    },
+    {
+     "id": "انجليزية",
+     "count": 90
+    },
+    {
+     "id": "تاريخ والجغرافيا",
+     "count": 54
+    },
+    {
+     "id": "تربية المدنية",
+     "count": 51
+    },
+    {
+     "id": "تربية الاسلامية",
+     "count": 50
+    },
+    {
+     "id": "اعلام الالي",
+     "count": 11
     }
    ]
   },
@@ -676,30 +725,30 @@
    "id": "bem",
    "name": "شهادة التعليم المتوسط",
    "stage": "middle",
-   "count": 75,
+   "count": 128,
    "subjects": [
+    {
+     "id": "علوم الطبيعة والحياة",
+     "count": 25
+    },
+    {
+     "id": "فرنسية",
+     "count": 25
+    },
+    {
+     "id": "رياضيات",
+     "count": 25
+    },
+    {
+     "id": "تربية الاسلامية",
+     "count": 10
+    },
     {
      "id": "تربية المدنية",
      "count": 8
     },
     {
-     "id": "رياضيات",
-     "count": 8
-    },
-    {
-     "id": "تربية الاسلامية",
-     "count": 8
-    },
-    {
      "id": "تاريخ والجغرافيا",
-     "count": 8
-    },
-    {
-     "id": "علوم الطبيعة والحياة",
-     "count": 8
-    },
-    {
-     "id": "فرنسية",
      "count": 8
     },
     {
@@ -721,6 +770,290 @@
     {
      "id": "علوم الفيزيائية",
      "count": 2
+    }
+   ]
+  },
+  {
+   "id": "3am",
+   "name": "الثالثة متوسط",
+   "stage": "middle",
+   "count": 347,
+   "subjects": [
+    {
+     "id": "رياضيات",
+     "count": 52
+    },
+    {
+     "id": "علوم الفيزيائية والتكنولوجيا",
+     "count": 50
+    },
+    {
+     "id": "علوم الطبيعة والحياة",
+     "count": 41
+    },
+    {
+     "id": "فرنسية",
+     "count": 37
+    },
+    {
+     "id": "انجليزية",
+     "count": 32
+    },
+    {
+     "id": "عربية",
+     "count": 31
+    },
+    {
+     "id": "تاريخ والجغرافيا",
+     "count": 26
+    },
+    {
+     "id": "تربية الاسلامية",
+     "count": 23
+    },
+    {
+     "id": "اعلام الالي",
+     "count": 21
+    },
+    {
+     "id": "تربية المدنية",
+     "count": 19
+    },
+    {
+     "id": "تربية الفنية",
+     "count": 14
+    },
+    {
+     "id": "تربية الموسيقية",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "id": "2am",
+   "name": "الثانية متوسط",
+   "stage": "middle",
+   "count": 635,
+   "subjects": [
+    {
+     "id": "رياضيات",
+     "count": 99
+    },
+    {
+     "id": "علوم الفيزيائية والتكنولوجيا",
+     "count": 79
+    },
+    {
+     "id": "فرنسية",
+     "count": 78
+    },
+    {
+     "id": "علوم الطبيعة والحياة",
+     "count": 75
+    },
+    {
+     "id": "انجليزية",
+     "count": 69
+    },
+    {
+     "id": "عربية",
+     "count": 69
+    },
+    {
+     "id": "تربية الاسلامية",
+     "count": 47
+    },
+    {
+     "id": "تاريخ والجغرافيا",
+     "count": 43
+    },
+    {
+     "id": "اعلام الالي",
+     "count": 38
+    },
+    {
+     "id": "تربية المدنية",
+     "count": 38
+    }
+   ]
+  },
+  {
+   "id": "1am",
+   "name": "الأولى متوسط",
+   "stage": "middle",
+   "count": 866,
+   "subjects": [
+    {
+     "id": "علوم الفيزيائية والتكنولوجيا",
+     "count": 119
+    },
+    {
+     "id": "رياضيات",
+     "count": 109
+    },
+    {
+     "id": "انجليزية",
+     "count": 98
+    },
+    {
+     "id": "فرنسية",
+     "count": 97
+    },
+    {
+     "id": "تربية المدنية",
+     "count": 97
+    },
+    {
+     "id": "عربية",
+     "count": 86
+    },
+    {
+     "id": "علوم الطبيعة والحياة",
+     "count": 86
+    },
+    {
+     "id": "تاريخ والجغرافيا",
+     "count": 78
+    },
+    {
+     "id": "تربية الاسلامية",
+     "count": 54
+    },
+    {
+     "id": "اعلام الالي",
+     "count": 42
+    }
+   ]
+  },
+  {
+   "id": "1ap",
+   "name": "الأولى ابتدائي",
+   "stage": "primary",
+   "count": 315,
+   "subjects": [
+    {
+     "id": "انشطة",
+     "count": 67
+    },
+    {
+     "id": "عربية",
+     "count": 57
+    },
+    {
+     "id": "رياضيات",
+     "count": 47
+    },
+    {
+     "id": "تربية الاسلامية",
+     "count": 40
+    },
+    {
+     "id": "تربية المدنية",
+     "count": 33
+    },
+    {
+     "id": "تربية العلمية",
+     "count": 29
+    },
+    {
+     "id": "فرنسية",
+     "count": 28
+    },
+    {
+     "id": "انجليزية",
+     "count": 12
+    },
+    {
+     "id": "تربية العلمية والتكنولوجية",
+     "count": 2
+    }
+   ]
+  },
+  {
+   "id": "5ap",
+   "name": "الخامسة ابتدائي",
+   "stage": "primary",
+   "count": 635,
+   "subjects": [
+    {
+     "id": "عربية",
+     "count": 120
+    },
+    {
+     "id": "رياضيات",
+     "count": 107
+    },
+    {
+     "id": "فرنسية",
+     "count": 106
+    },
+    {
+     "id": "تاريخ والجغرافيا",
+     "count": 80
+    },
+    {
+     "id": "تربية المدنية",
+     "count": 57
+    },
+    {
+     "id": "تربية الاسلامية",
+     "count": 51
+    },
+    {
+     "id": "تربية العلمية",
+     "count": 50
+    },
+    {
+     "id": "تربية الفنية",
+     "count": 35
+    },
+    {
+     "id": "انجليزية",
+     "count": 23
+    },
+    {
+     "id": "تربية الموسيقية",
+     "count": 4
+    },
+    {
+     "id": "تربية العلمية والتكنولوجية",
+     "count": 2
+    }
+   ]
+  },
+  {
+   "id": "0ap",
+   "name": "القسم التحضيري",
+   "stage": "primary",
+   "count": 68,
+   "subjects": [
+    {
+     "id": "تعلم الكتابة",
+     "count": 31
+    },
+    {
+     "id": "عربية",
+     "count": 24
+    },
+    {
+     "id": "رياضيات",
+     "count": 11
+    },
+    {
+     "id": "تربية العلمية والتكنولوجية",
+     "count": 2
+    }
+   ]
+  },
+  {
+   "id": "teachers",
+   "name": "فضاء الأستاذ",
+   "stage": "teachers",
+   "count": 1002,
+   "subjects": [
+    {
+     "id": "وثائق بيداغوجية للاساتذة",
+     "count": 1002
     }
    ]
   },
@@ -993,94 +1326,6 @@
    ]
   },
   {
-   "id": "5ap",
-   "name": "الخامسة ابتدائي",
-   "stage": "primary",
-   "count": 596,
-   "subjects": [
-    {
-     "id": "عربية",
-     "count": 120
-    },
-    {
-     "id": "رياضيات",
-     "count": 107
-    },
-    {
-     "id": "فرنسية",
-     "count": 106
-    },
-    {
-     "id": "تاريخ والجغرافيا",
-     "count": 80
-    },
-    {
-     "id": "تربية المدنية",
-     "count": 57
-    },
-    {
-     "id": "تربية الاسلامية",
-     "count": 51
-    },
-    {
-     "id": "تربية العلمية",
-     "count": 50
-    },
-    {
-     "id": "انجليزية",
-     "count": 23
-    },
-    {
-     "id": "تربية العلمية والتكنولوجية",
-     "count": 2
-    }
-   ]
-  },
-  {
-   "id": "1ap",
-   "name": "الأولى ابتدائي",
-   "stage": "primary",
-   "count": 250,
-   "subjects": [
-    {
-     "id": "عربية",
-     "count": 57
-    },
-    {
-     "id": "رياضيات",
-     "count": 47
-    },
-    {
-     "id": "تربية الاسلامية",
-     "count": 40
-    },
-    {
-     "id": "تربية المدنية",
-     "count": 33
-    },
-    {
-     "id": "تربية العلمية",
-     "count": 29
-    },
-    {
-     "id": "فرنسية",
-     "count": 28
-    },
-    {
-     "id": "انجليزية",
-     "count": 12
-    },
-    {
-     "id": "تربية العلمية والتكنولوجية",
-     "count": 2
-    },
-    {
-     "id": "انشطة",
-     "count": 2
-    }
-   ]
-  },
-  {
    "id": "4ap",
    "name": "الرابعة ابتدائي",
    "stage": "primary",
@@ -1203,217 +1448,13 @@
      "count": 19
     }
    ]
-  },
-  {
-   "id": "4am",
-   "name": "الرابعة متوسط",
-   "stage": "middle",
-   "count": 949,
-   "subjects": [
-    {
-     "id": "رياضيات",
-     "count": 177
-    },
-    {
-     "id": "علوم الفيزيائية والتكنولوجيا",
-     "count": 150
-    },
-    {
-     "id": "علوم الطبيعة والحياة",
-     "count": 144
-    },
-    {
-     "id": "فرنسية",
-     "count": 116
-    },
-    {
-     "id": "عربية",
-     "count": 114
-    },
-    {
-     "id": "انجليزية",
-     "count": 90
-    },
-    {
-     "id": "تاريخ والجغرافيا",
-     "count": 54
-    },
-    {
-     "id": "تربية المدنية",
-     "count": 51
-    },
-    {
-     "id": "تربية الاسلامية",
-     "count": 50
-    },
-    {
-     "id": "اعلام الالي",
-     "count": 3
-    }
-   ]
-  },
-  {
-   "id": "3am",
-   "name": "الثالثة متوسط",
-   "stage": "middle",
-   "count": 324,
-   "subjects": [
-    {
-     "id": "رياضيات",
-     "count": 52
-    },
-    {
-     "id": "علوم الفيزيائية والتكنولوجيا",
-     "count": 50
-    },
-    {
-     "id": "علوم الطبيعة والحياة",
-     "count": 41
-    },
-    {
-     "id": "فرنسية",
-     "count": 37
-    },
-    {
-     "id": "انجليزية",
-     "count": 32
-    },
-    {
-     "id": "عربية",
-     "count": 31
-    },
-    {
-     "id": "تاريخ والجغرافيا",
-     "count": 26
-    },
-    {
-     "id": "تربية الاسلامية",
-     "count": 23
-    },
-    {
-     "id": "تربية المدنية",
-     "count": 19
-    },
-    {
-     "id": "اعلام الالي",
-     "count": 13
-    }
-   ]
-  },
-  {
-   "id": "2am",
-   "name": "الثانية متوسط",
-   "stage": "middle",
-   "count": 624,
-   "subjects": [
-    {
-     "id": "رياضيات",
-     "count": 99
-    },
-    {
-     "id": "علوم الفيزيائية والتكنولوجيا",
-     "count": 79
-    },
-    {
-     "id": "فرنسية",
-     "count": 78
-    },
-    {
-     "id": "علوم الطبيعة والحياة",
-     "count": 75
-    },
-    {
-     "id": "انجليزية",
-     "count": 69
-    },
-    {
-     "id": "عربية",
-     "count": 69
-    },
-    {
-     "id": "تربية الاسلامية",
-     "count": 47
-    },
-    {
-     "id": "تاريخ والجغرافيا",
-     "count": 43
-    },
-    {
-     "id": "تربية المدنية",
-     "count": 38
-    },
-    {
-     "id": "اعلام الالي",
-     "count": 27
-    }
-   ]
-  },
-  {
-   "id": "1am",
-   "name": "الأولى متوسط",
-   "stage": "middle",
-   "count": 852,
-   "subjects": [
-    {
-     "id": "علوم الفيزيائية والتكنولوجيا",
-     "count": 119
-    },
-    {
-     "id": "رياضيات",
-     "count": 109
-    },
-    {
-     "id": "انجليزية",
-     "count": 98
-    },
-    {
-     "id": "فرنسية",
-     "count": 97
-    },
-    {
-     "id": "تربية المدنية",
-     "count": 97
-    },
-    {
-     "id": "عربية",
-     "count": 86
-    },
-    {
-     "id": "علوم الطبيعة والحياة",
-     "count": 86
-    },
-    {
-     "id": "تاريخ والجغرافيا",
-     "count": 78
-    },
-    {
-     "id": "تربية الاسلامية",
-     "count": 54
-    },
-    {
-     "id": "اعلام الالي",
-     "count": 28
-    }
-   ]
-  },
-  {
-   "id": "0ap",
-   "name": "القسم التحضيري",
-   "stage": "primary",
-   "count": 2,
-   "subjects": [
-    {
-     "id": "تعلم الكتابة",
-     "count": 2
-    }
-   ]
   }
  ],
  "subjects": [
   {
    "id": "اعلام الالي",
    "name": "الإعلام الآلي",
-   "count": 71
+   "count": 112
   },
   {
    "id": "اقتصاد والمناجمنت",
@@ -1428,7 +1469,7 @@
   {
    "id": "تربية الاسلامية",
    "name": "التربية الإسلامية",
-   "count": 515
+   "count": 517
   },
   {
    "id": "تربية العلمية",
@@ -1438,12 +1479,22 @@
   {
    "id": "تربية العلمية والتكنولوجية",
    "name": "التربية العلمية والتكنولوجية",
-   "count": 8
+   "count": 10
+  },
+  {
+   "id": "تربية الفنية",
+   "name": "التربية الفنية",
+   "count": 49
   },
   {
    "id": "تربية المدنية",
    "name": "التربية المدنية",
    "count": 396
+  },
+  {
+   "id": "تربية الموسيقية",
+   "name": "التربية الموسيقية",
+   "count": 5
   },
   {
    "id": "تسيير المحاسبي والمالي",
@@ -1453,7 +1504,7 @@
   {
    "id": "رياضيات",
    "name": "الرياضيات",
-   "count": 1301
+   "count": 1329
   },
   {
    "id": "علوم الاسلامية",
@@ -1508,7 +1559,7 @@
   {
    "id": "عربية",
    "name": "اللغة العربية",
-   "count": 742
+   "count": 766
   },
   {
    "id": "عربية وادابها",
@@ -1518,7 +1569,7 @@
   {
    "id": "فرنسية",
    "name": "اللغة الفرنسية",
-   "count": 932
+   "count": 949
   },
   {
    "id": "هندسة الكهربائية",
@@ -1538,17 +1589,17 @@
   {
    "id": "انشطة",
    "name": "أنشطة",
-   "count": 2
+   "count": 67
   },
   {
    "id": "تعلم الكتابة",
    "name": "تعلم الكتابة",
-   "count": 2
+   "count": 31
   },
   {
    "id": "علوم الطبيعة والحياة",
    "name": "علوم الطبيعة والحياة",
-   "count": 671
+   "count": 688
   },
   {
    "id": "هندسة الطرائق",
@@ -1573,7 +1624,7 @@
   {
    "id": "وثائق بيداغوجية للاساتذة",
    "name": "وثائق بيداغوجية للأساتذة",
-   "count": 393
+   "count": 1002
   }
  ],
  "years": [
@@ -1602,464 +1653,464 @@
  ],
  "recent": {
   "days": 7,
-  "count": 8133
+  "count": 9021
  },
  "featured": [
   {
-   "id": "D904175",
-   "title": "كتاب دليل أستاذ اللغة الإنجليزية 2018 - 3 متوسط",
-   "level": "teachers",
-   "levelName": "فضاء الأستاذ",
-   "stage": "teachers",
-   "subject": "وثائق بيداغوجية للأساتذة",
-   "subjectKey": "وثائق بيداغوجية للاساتذة",
+   "id": "D906051",
+   "title": "كتاب مذكرات مادة المعلوماتية للموسم الدراسي 2023 - 4 متوسط",
+   "level": "4am",
+   "levelName": "الرابعة متوسط",
+   "stage": "middle",
+   "subject": "الإعلام الآلي",
+   "subjectKey": "اعلام الالي",
    "stream": "all",
    "streamName": "جميع الشعب",
-   "year": 2018,
+   "year": 2023,
    "type": "كتب وأدلة",
-   "pdf": "https://www.dzexams.com/uploads/documents/dzexams-docs-3am-904175.pdf",
-   "source": "https://www.dzexams.com/ar/documents/bHlmTnZZK2hXWG8xTUVHUERMbHlMZz09",
+   "pdf": "https://www.dzexams.com/uploads/documents/dzexams-docs-4am-906051.pdf",
+   "source": "https://www.dzexams.com/ar/documents/cG9Sd2ZVWG9PQmhNZWhuTWU1MTNsZz09",
    "sourceName": "DzExams",
    "solution": false,
    "typeKey": "book",
-   "addedAt": "2026-09-13T22:30:44.457Z"
+   "addedAt": "2026-09-13T22:34:55.172Z"
   },
   {
-   "id": "D902152",
-   "title": "مسابقة توظيف أساتذ التعليم المتوسط - اختبار الثقافة العامة - سنة 2017",
-   "level": "teachers",
-   "levelName": "فضاء الأستاذ",
-   "stage": "teachers",
-   "subject": "وثائق بيداغوجية للأساتذة",
-   "subjectKey": "وثائق بيداغوجية للاساتذة",
+   "id": "D906053",
+   "title": "التوزيع السنوي لمادة الاعلام الآلي موسم 2023 - 4 متوسط",
+   "level": "4am",
+   "levelName": "الرابعة متوسط",
+   "stage": "middle",
+   "subject": "الإعلام الآلي",
+   "subjectKey": "اعلام الالي",
+   "stream": "all",
+   "streamName": "جميع الشعب",
+   "year": 2023,
+   "type": "موارد أخرى",
+   "pdf": "https://www.dzexams.com/uploads/documents/dzexams-docs-4am-906053.pdf",
+   "source": "https://www.dzexams.com/ar/documents/QlhSdkJ5L1FHSFZJNklWb2tTTGxGUT09",
+   "sourceName": "DzExams",
+   "solution": false,
+   "typeKey": "other",
+   "addedAt": "2026-09-13T22:34:55.172Z"
+  },
+  {
+   "id": "D904692",
+   "title": "المخططات السنوية في مادة الإعلام الألي موسم 2021 - 4 متوسط",
+   "level": "4am",
+   "levelName": "الرابعة متوسط",
+   "stage": "middle",
+   "subject": "الإعلام الآلي",
+   "subjectKey": "اعلام الالي",
+   "stream": "all",
+   "streamName": "جميع الشعب",
+   "year": 2021,
+   "type": "موارد أخرى",
+   "pdf": "https://www.dzexams.com/uploads/documents/dzexams-docs-4am-904692.pdf",
+   "source": "https://www.dzexams.com/ar/documents/NUJYeGI1UklxZDVjbk1KV1g1NmE2UT09",
+   "sourceName": "DzExams",
+   "solution": false,
+   "typeKey": "other",
+   "addedAt": "2026-09-13T22:34:55.172Z"
+  },
+  {
+   "id": "D900527",
+   "title": "مذكرات الإعلام الآلي إعداد الأستاذ جعيجع محمد - 4 متوسط",
+   "level": "4am",
+   "levelName": "الرابعة متوسط",
+   "stage": "middle",
+   "subject": "الإعلام الآلي",
+   "subjectKey": "اعلام الالي",
+   "stream": "all",
+   "streamName": "جميع الشعب",
+   "year": "",
+   "type": "دروس",
+   "pdf": "https://www.dzexams.com/uploads/documents/dzexams-docs-4am-900527.pdf",
+   "source": "https://www.dzexams.com/ar/documents/SFFKbUtTeU1uQnpWRnBGU0NodHh1dz09",
+   "sourceName": "DzExams",
+   "solution": false,
+   "typeKey": "lesson",
+   "addedAt": "2026-09-13T22:34:55.172Z"
+  },
+  {
+   "id": "D900528",
+   "title": "ملخصات دروس الإعلام الآلي إعداد الأستاذ جعيجع محمد - 4 متوسط",
+   "level": "4am",
+   "levelName": "الرابعة متوسط",
+   "stage": "middle",
+   "subject": "الإعلام الآلي",
+   "subjectKey": "اعلام الالي",
+   "stream": "all",
+   "streamName": "جميع الشعب",
+   "year": "",
+   "type": "ملخصات",
+   "pdf": "https://www.dzexams.com/uploads/documents/dzexams-docs-4am-900528.pdf",
+   "source": "https://www.dzexams.com/ar/documents/U0kxTmhPWWlxMWFTSThXUVR3K0Fidz09",
+   "sourceName": "DzExams",
+   "solution": false,
+   "typeKey": "summary",
+   "addedAt": "2026-09-13T22:34:55.172Z"
+  },
+  {
+   "id": "D903593",
+   "title": "ملخصات دروس شاملة في الإعلام الآلي - 4 متوسط",
+   "level": "4am",
+   "levelName": "الرابعة متوسط",
+   "stage": "middle",
+   "subject": "الإعلام الآلي",
+   "subjectKey": "اعلام الالي",
+   "stream": "all",
+   "streamName": "جميع الشعب",
+   "year": "",
+   "type": "ملخصات",
+   "pdf": "https://www.dzexams.com/uploads/documents/dzexams-docs-4am-903593.pdf",
+   "source": "https://www.dzexams.com/ar/documents/dWd6dnlGOEdRMlpIOHArUzVzakxNQT09",
+   "sourceName": "DzExams",
+   "solution": false,
+   "typeKey": "summary",
+   "addedAt": "2026-09-13T22:34:55.172Z"
+  },
+  {
+   "id": "D903616",
+   "title": "مناهج مادة الإعلام الآلي للتعليم المتوسط - 4 متوسط",
+   "level": "4am",
+   "levelName": "الرابعة متوسط",
+   "stage": "middle",
+   "subject": "الإعلام الآلي",
+   "subjectKey": "اعلام الالي",
+   "stream": "all",
+   "streamName": "جميع الشعب",
+   "year": "",
+   "type": "موارد أخرى",
+   "pdf": "https://www.dzexams.com/uploads/documents/dzexams-docs-4am-903616.pdf",
+   "source": "https://www.dzexams.com/ar/documents/Tm1qd3h5R0p4clJHOG13YkJ1aWxXQT09",
+   "sourceName": "DzExams",
+   "solution": false,
+   "typeKey": "other",
+   "addedAt": "2026-09-13T22:34:55.172Z"
+  },
+  {
+   "id": "D906052",
+   "title": "مذكرات شاملة في مادة الإعلام الآلي الجيل الثاني - 4 متوسط",
+   "level": "4am",
+   "levelName": "الرابعة متوسط",
+   "stage": "middle",
+   "subject": "الإعلام الآلي",
+   "subjectKey": "اعلام الالي",
+   "stream": "all",
+   "streamName": "جميع الشعب",
+   "year": "",
+   "type": "دروس",
+   "pdf": "https://www.dzexams.com/uploads/documents/dzexams-docs-4am-906052.pdf",
+   "source": "https://www.dzexams.com/ar/documents/dWxkeFljQlNqM0lIWE4xanc2bzJHQT09",
+   "sourceName": "DzExams",
+   "solution": false,
+   "typeKey": "lesson",
+   "addedAt": "2026-09-13T22:34:55.172Z"
+  },
+  {
+   "id": "S32204",
+   "title": "التربية الإسلامية — شهادة التعليم المتوسط — موضوع التربية الإسلامية - شهادة التعليم المتوسط 2023",
+   "level": "bem",
+   "levelName": "شهادة التعليم المتوسط",
+   "stage": "middle",
+   "subject": "التربية الإسلامية",
+   "subjectKey": "تربية الاسلامية",
+   "stream": "all",
+   "streamName": "جميع الشعب",
+   "year": 2023,
+   "type": "اختبارات وفروض",
+   "pdf": "https://www.dzexams.com/uploads/sujets/officiels/bem/2023/dzexams-bem-tarbia-islamia-629238.pdf",
+   "source": "https://www.dzexams.com/ar/annales/M2xNeDFtVm5zR0dzM0gyVzhzNG9LZz09",
+   "sourceName": "DzExams",
+   "solution": true,
+   "typeKey": "exam",
+   "addedAt": "2026-09-13T22:34:27.062Z"
+  },
+  {
+   "id": "S30859",
+   "title": "التربية الإسلامية — شهادة التعليم المتوسط — موضوع التربية الإسلامية - شهادة التعليم المتوسط 2010",
+   "level": "bem",
+   "levelName": "شهادة التعليم المتوسط",
+   "stage": "middle",
+   "subject": "التربية الإسلامية",
+   "subjectKey": "تربية الاسلامية",
+   "stream": "all",
+   "streamName": "جميع الشعب",
+   "year": 2010,
+   "type": "اختبارات وفروض",
+   "pdf": "https://www.dzexams.com/uploads/sujets/officiels/bem/2010/dzexams-bem-tarbia-islamia-332252.pdf",
+   "source": "https://www.dzexams.com/ar/annales/YWU0UzlNTnpaLzBYRm01eGQ1WGtKZz09",
+   "sourceName": "DzExams",
+   "solution": true,
+   "typeKey": "exam",
+   "addedAt": "2026-09-13T22:34:27.062Z"
+  },
+  {
+   "id": "S40712",
+   "title": "علوم الطبيعة والحياة — شهادة التعليم المتوسط — موضوع علوم الطبيعة والحياة - شهادة التعليم المتوسط 2024",
+   "level": "bem",
+   "levelName": "شهادة التعليم المتوسط",
+   "stage": "middle",
+   "subject": "علوم الطبيعة والحياة",
+   "subjectKey": "علوم الطبيعة والحياة",
+   "stream": "all",
+   "streamName": "جميع الشعب",
+   "year": 2024,
+   "type": "اختبارات وفروض",
+   "pdf": "https://www.dzexams.com/uploads/sujets/officiels/bem/2024/dzexams-bem-sciences-naturelles-612051.pdf",
+   "source": "https://www.dzexams.com/ar/annales/bGcrTGNFLzRZQWR6b2VIMUJEOGw5UT09",
+   "sourceName": "DzExams",
+   "solution": true,
+   "typeKey": "exam",
+   "addedAt": "2026-09-13T22:34:25.074Z"
+  },
+  {
+   "id": "S32208",
+   "title": "علوم الطبيعة والحياة — شهادة التعليم المتوسط — موضوع علوم الطبيعة والحياة - شهادة التعليم المتوسط 2023",
+   "level": "bem",
+   "levelName": "شهادة التعليم المتوسط",
+   "stage": "middle",
+   "subject": "علوم الطبيعة والحياة",
+   "subjectKey": "علوم الطبيعة والحياة",
+   "stream": "all",
+   "streamName": "جميع الشعب",
+   "year": 2023,
+   "type": "اختبارات وفروض",
+   "pdf": "https://www.dzexams.com/uploads/sujets/officiels/bem/2023/dzexams-bem-sciences-naturelles-470672.pdf",
+   "source": "https://www.dzexams.com/ar/annales/Ym1FNGszMEdvSm9ORkh6SExMR1pJZz09",
+   "sourceName": "DzExams",
+   "solution": true,
+   "typeKey": "exam",
+   "addedAt": "2026-09-13T22:34:25.074Z"
+  },
+  {
+   "id": "S27574",
+   "title": "علوم الطبيعة والحياة — شهادة التعليم المتوسط — موضوع علوم الطبيعة والحياة - شهادة التعليم المتوسط 2022",
+   "level": "bem",
+   "levelName": "شهادة التعليم المتوسط",
+   "stage": "middle",
+   "subject": "علوم الطبيعة والحياة",
+   "subjectKey": "علوم الطبيعة والحياة",
+   "stream": "all",
+   "streamName": "جميع الشعب",
+   "year": 2022,
+   "type": "اختبارات وفروض",
+   "pdf": "https://www.dzexams.com/uploads/sujets/officiels/bem/2022/dzexams-bem-sciences-571584.pdf",
+   "source": "https://www.dzexams.com/ar/annales/SjRWRXIxN1JVOXlqUDI3eE5ucEZtdz09",
+   "sourceName": "DzExams",
+   "solution": true,
+   "typeKey": "exam",
+   "addedAt": "2026-09-13T22:34:25.074Z"
+  },
+  {
+   "id": "S58",
+   "title": "علوم الطبيعة والحياة — شهادة التعليم المتوسط — موضوع علوم الطبيعة والحياة - شهادة التعليم المتوسط 2021",
+   "level": "bem",
+   "levelName": "شهادة التعليم المتوسط",
+   "stage": "middle",
+   "subject": "علوم الطبيعة والحياة",
+   "subjectKey": "علوم الطبيعة والحياة",
+   "stream": "all",
+   "streamName": "جميع الشعب",
+   "year": 2021,
+   "type": "اختبارات وفروض",
+   "pdf": "https://www.dzexams.com/uploads/sujets/officiels/bem/2021/dzexams-bem-sciences-1434439.pdf",
+   "source": "https://www.dzexams.com/ar/annales/eS85NU83a2t5UjI1RTAwYlVBVzFNQT09",
+   "sourceName": "DzExams",
+   "solution": true,
+   "typeKey": "exam",
+   "addedAt": "2026-09-13T22:34:25.074Z"
+  },
+  {
+   "id": "S59",
+   "title": "علوم الطبيعة والحياة — شهادة التعليم المتوسط — موضوع علوم الطبيعة والحياة - شهادة التعليم المتوسط 2020",
+   "level": "bem",
+   "levelName": "شهادة التعليم المتوسط",
+   "stage": "middle",
+   "subject": "علوم الطبيعة والحياة",
+   "subjectKey": "علوم الطبيعة والحياة",
+   "stream": "all",
+   "streamName": "جميع الشعب",
+   "year": 2020,
+   "type": "اختبارات وفروض",
+   "pdf": "https://www.dzexams.com/uploads/sujets/officiels/bem/2020/dzexams-bem-sciences-446487.pdf",
+   "source": "https://www.dzexams.com/ar/annales/SU5WdlJTU0h1QzNwWW90TzdjcjlqUT09",
+   "sourceName": "DzExams",
+   "solution": true,
+   "typeKey": "exam",
+   "addedAt": "2026-09-13T22:34:25.074Z"
+  },
+  {
+   "id": "S60",
+   "title": "علوم الطبيعة والحياة — شهادة التعليم المتوسط — موضوع علوم الطبيعة والحياة - شهادة التعليم المتوسط 2019",
+   "level": "bem",
+   "levelName": "شهادة التعليم المتوسط",
+   "stage": "middle",
+   "subject": "علوم الطبيعة والحياة",
+   "subjectKey": "علوم الطبيعة والحياة",
+   "stream": "all",
+   "streamName": "جميع الشعب",
+   "year": 2019,
+   "type": "اختبارات وفروض",
+   "pdf": "https://www.dzexams.com/uploads/sujets/officiels/bem/2019/dzexams-bem-sciences-2191929.pdf",
+   "source": "https://www.dzexams.com/ar/annales/bkxjVUptb2lEZ0dTczhRNjFZaUs0UT09",
+   "sourceName": "DzExams",
+   "solution": true,
+   "typeKey": "exam",
+   "addedAt": "2026-09-13T22:34:25.074Z"
+  },
+  {
+   "id": "S61",
+   "title": "علوم الطبيعة والحياة — شهادة التعليم المتوسط — موضوع علوم الطبيعة والحياة - شهادة التعليم المتوسط 2018",
+   "level": "bem",
+   "levelName": "شهادة التعليم المتوسط",
+   "stage": "middle",
+   "subject": "علوم الطبيعة والحياة",
+   "subjectKey": "علوم الطبيعة والحياة",
+   "stream": "all",
+   "streamName": "جميع الشعب",
+   "year": 2018,
+   "type": "اختبارات وفروض",
+   "pdf": "https://www.dzexams.com/uploads/sujets/officiels/bem/2018/dzexams-bem-sciences-2224216.pdf",
+   "source": "https://www.dzexams.com/ar/annales/REdzTEZMMWJ3dDRlSWY5ZWl6aVBxZz09",
+   "sourceName": "DzExams",
+   "solution": true,
+   "typeKey": "exam",
+   "addedAt": "2026-09-13T22:34:25.074Z"
+  },
+  {
+   "id": "S62",
+   "title": "علوم الطبيعة والحياة — شهادة التعليم المتوسط — موضوع علوم الطبيعة والحياة - شهادة التعليم المتوسط 2017",
+   "level": "bem",
+   "levelName": "شهادة التعليم المتوسط",
+   "stage": "middle",
+   "subject": "علوم الطبيعة والحياة",
+   "subjectKey": "علوم الطبيعة والحياة",
    "stream": "all",
    "streamName": "جميع الشعب",
    "year": 2017,
    "type": "اختبارات وفروض",
-   "pdf": "https://www.dzexams.com/uploads/documents/dzexams-docs-teachers-902152.pdf",
-   "source": "https://www.dzexams.com/ar/documents/aU16bFNHdDVIUlN4TVhLNS9XUVZvZz09",
+   "pdf": "https://www.dzexams.com/uploads/sujets/officiels/bem/2017/dzexams-bem-sciences-560504.pdf",
+   "source": "https://www.dzexams.com/ar/annales/YlNVdjR5ZjM1OGowRFNwRzN1ZnRBdz09",
    "sourceName": "DzExams",
-   "solution": false,
+   "solution": true,
    "typeKey": "exam",
-   "addedAt": "2026-09-13T22:30:44.457Z"
+   "addedAt": "2026-09-13T22:34:25.074Z"
   },
   {
-   "id": "D902153",
-   "title": "مسابقة توظيف أساتذ التعليم المتوسط - اختبار اللغة العربية - سنة 2017",
-   "level": "teachers",
-   "levelName": "فضاء الأستاذ",
-   "stage": "teachers",
-   "subject": "وثائق بيداغوجية للأساتذة",
-   "subjectKey": "وثائق بيداغوجية للاساتذة",
-   "stream": "all",
-   "streamName": "جميع الشعب",
-   "year": 2017,
-   "type": "اختبارات وفروض",
-   "pdf": "https://www.dzexams.com/uploads/documents/dzexams-docs-teachers-902153.pdf",
-   "source": "https://www.dzexams.com/ar/documents/b29nM3FQNW13YmRLMHBGTWYyUE0zZz09",
-   "sourceName": "DzExams",
-   "solution": false,
-   "typeKey": "exam",
-   "addedAt": "2026-09-13T22:30:44.457Z"
-  },
-  {
-   "id": "D902154",
-   "title": "مسابقة توظيف أساتذ التعليم المتوسط - اختبار تكنولوجيا الإعلام و الإتصال - سنة 2017",
-   "level": "teachers",
-   "levelName": "فضاء الأستاذ",
-   "stage": "teachers",
-   "subject": "وثائق بيداغوجية للأساتذة",
-   "subjectKey": "وثائق بيداغوجية للاساتذة",
-   "stream": "all",
-   "streamName": "جميع الشعب",
-   "year": 2017,
-   "type": "اختبارات وفروض",
-   "pdf": "https://www.dzexams.com/uploads/documents/dzexams-docs-teachers-902154.pdf",
-   "source": "https://www.dzexams.com/ar/documents/QUU2L04wbWc0dm0xSTdsL1FGcHJVZz09",
-   "sourceName": "DzExams",
-   "solution": false,
-   "typeKey": "exam",
-   "addedAt": "2026-09-13T22:30:44.457Z"
-  },
-  {
-   "id": "D902166",
-   "title": "مسابقة توظيف أساتذ التعليم الثانوي - اختبار الثقافة العامة - سنة 2017",
-   "level": "teachers",
-   "levelName": "فضاء الأستاذ",
-   "stage": "teachers",
-   "subject": "وثائق بيداغوجية للأساتذة",
-   "subjectKey": "وثائق بيداغوجية للاساتذة",
-   "stream": "all",
-   "streamName": "جميع الشعب",
-   "year": 2017,
-   "type": "اختبارات وفروض",
-   "pdf": "https://www.dzexams.com/uploads/documents/dzexams-docs-teachers-902166.pdf",
-   "source": "https://www.dzexams.com/ar/documents/RFJldWh3eWNSM1V2T0djN3Rmd0VvZz09",
-   "sourceName": "DzExams",
-   "solution": false,
-   "typeKey": "exam",
-   "addedAt": "2026-09-13T22:30:44.457Z"
-  },
-  {
-   "id": "D902167",
-   "title": "مسابقة توظيف أساتذ التعليم الثانوي - اختبار تكنولوجيا الإعلام و الإتصال - سنة 2017",
-   "level": "teachers",
-   "levelName": "فضاء الأستاذ",
-   "stage": "teachers",
-   "subject": "وثائق بيداغوجية للأساتذة",
-   "subjectKey": "وثائق بيداغوجية للاساتذة",
-   "stream": "all",
-   "streamName": "جميع الشعب",
-   "year": 2017,
-   "type": "اختبارات وفروض",
-   "pdf": "https://www.dzexams.com/uploads/documents/dzexams-docs-teachers-902167.pdf",
-   "source": "https://www.dzexams.com/ar/documents/ZlVpQXdyNkp5U0pLS3J0c2llT1k0dz09",
-   "sourceName": "DzExams",
-   "solution": false,
-   "typeKey": "exam",
-   "addedAt": "2026-09-13T22:30:44.457Z"
-  },
-  {
-   "id": "D902168",
-   "title": "مسابقة توظيف أساتذ التعليم الثانوي - اختبار العلوم الفيزيائية - سنة 2017",
-   "level": "teachers",
-   "levelName": "فضاء الأستاذ",
-   "stage": "teachers",
-   "subject": "وثائق بيداغوجية للأساتذة",
-   "subjectKey": "وثائق بيداغوجية للاساتذة",
-   "stream": "all",
-   "streamName": "جميع الشعب",
-   "year": 2017,
-   "type": "اختبارات وفروض",
-   "pdf": "https://www.dzexams.com/uploads/documents/dzexams-docs-teachers-902168.pdf",
-   "source": "https://www.dzexams.com/ar/documents/T3Bxd3l5a0lkOG5CL0FhYnljczhLUT09",
-   "sourceName": "DzExams",
-   "solution": false,
-   "typeKey": "exam",
-   "addedAt": "2026-09-13T22:30:44.457Z"
-  },
-  {
-   "id": "D21061",
-   "title": "مسابقة توظيف أساتذ التعليم الثانوي - اختبار الإعلام الآلي - سنة 2016",
-   "level": "teachers",
-   "levelName": "فضاء الأستاذ",
-   "stage": "teachers",
-   "subject": "وثائق بيداغوجية للأساتذة",
-   "subjectKey": "وثائق بيداغوجية للاساتذة",
+   "id": "S63",
+   "title": "علوم الطبيعة والحياة — شهادة التعليم المتوسط — موضوع علوم الطبيعة والحياة - شهادة التعليم المتوسط 2016",
+   "level": "bem",
+   "levelName": "شهادة التعليم المتوسط",
+   "stage": "middle",
+   "subject": "علوم الطبيعة والحياة",
+   "subjectKey": "علوم الطبيعة والحياة",
    "stream": "all",
    "streamName": "جميع الشعب",
    "year": 2016,
    "type": "اختبارات وفروض",
-   "pdf": "https://www.dzexams.com/uploads/documents/dzexams-docs-teachers-21061.pdf",
-   "source": "https://www.dzexams.com/ar/documents/WTZnNTBpY1FmczV5VjJPZHhWNmsyUT09",
+   "pdf": "https://www.dzexams.com/uploads/sujets/officiels/bem/2016/dzexams-bem-sciences-522104.pdf",
+   "source": "https://www.dzexams.com/ar/annales/c1lqUHp2Wlp3VFBkV1R2ei9sd1lqdz09",
    "sourceName": "DzExams",
-   "solution": false,
+   "solution": true,
    "typeKey": "exam",
-   "addedAt": "2026-09-13T22:30:44.457Z"
+   "addedAt": "2026-09-13T22:34:25.074Z"
   },
   {
-   "id": "D21071",
-   "title": "مسابقة توظيف أساتذ التعليم الثانوي - اختبار تكنولوجيا الإعلام و الإتصال - سنة 2016",
-   "level": "teachers",
-   "levelName": "فضاء الأستاذ",
-   "stage": "teachers",
-   "subject": "وثائق بيداغوجية للأساتذة",
-   "subjectKey": "وثائق بيداغوجية للاساتذة",
+   "id": "S64",
+   "title": "علوم الطبيعة والحياة — شهادة التعليم المتوسط — موضوع علوم الطبيعة والحياة - شهادة التعليم المتوسط 2015",
+   "level": "bem",
+   "levelName": "شهادة التعليم المتوسط",
+   "stage": "middle",
+   "subject": "علوم الطبيعة والحياة",
+   "subjectKey": "علوم الطبيعة والحياة",
    "stream": "all",
    "streamName": "جميع الشعب",
-   "year": 2016,
+   "year": 2015,
    "type": "اختبارات وفروض",
-   "pdf": "https://www.dzexams.com/uploads/documents/dzexams-docs-teachers-21071.pdf",
-   "source": "https://www.dzexams.com/ar/documents/MGw5aERjMnJsUFVPWkorelkxM1QzZz09",
+   "pdf": "https://www.dzexams.com/uploads/sujets/officiels/bem/2015/dzexams-bem-sciences-3102339.pdf",
+   "source": "https://www.dzexams.com/ar/annales/cTl1V1c3TmlsUFhxRURzMGdweVBGZz09",
    "sourceName": "DzExams",
-   "solution": false,
+   "solution": true,
    "typeKey": "exam",
-   "addedAt": "2026-09-13T22:30:44.457Z"
+   "addedAt": "2026-09-13T22:34:25.074Z"
   },
   {
-   "id": "D21402",
-   "title": "مسابقة توظيف أساتذ التعليم المتوسط - تصحيح الرياضيات - سنة 2016",
-   "level": "teachers",
-   "levelName": "فضاء الأستاذ",
-   "stage": "teachers",
-   "subject": "وثائق بيداغوجية للأساتذة",
-   "subjectKey": "وثائق بيداغوجية للاساتذة",
+   "id": "S65",
+   "title": "علوم الطبيعة والحياة — شهادة التعليم المتوسط — موضوع علوم الطبيعة والحياة - شهادة التعليم المتوسط 2014",
+   "level": "bem",
+   "levelName": "شهادة التعليم المتوسط",
+   "stage": "middle",
+   "subject": "علوم الطبيعة والحياة",
+   "subjectKey": "علوم الطبيعة والحياة",
    "stream": "all",
    "streamName": "جميع الشعب",
-   "year": 2016,
-   "type": "حلول وتصحيحات",
-   "pdf": "https://www.dzexams.com/uploads/documents/dzexams-docs-teachers-21402.pdf",
-   "source": "https://www.dzexams.com/ar/documents/V3RoR0ZpdWtoNTc2TVcrVVJ2VTZvQT09",
-   "sourceName": "DzExams",
-   "solution": false,
-   "typeKey": "solution",
-   "addedAt": "2026-09-13T22:30:44.457Z"
-  },
-  {
-   "id": "D902141",
-   "title": "مسابقة توظيف أساتذ التعليم الإبتدائي - اختبار المواد العلمية - سنة 2016",
-   "level": "teachers",
-   "levelName": "فضاء الأستاذ",
-   "stage": "teachers",
-   "subject": "وثائق بيداغوجية للأساتذة",
-   "subjectKey": "وثائق بيداغوجية للاساتذة",
-   "stream": "all",
-   "streamName": "جميع الشعب",
-   "year": 2016,
+   "year": 2014,
    "type": "اختبارات وفروض",
-   "pdf": "https://www.dzexams.com/uploads/documents/dzexams-docs-teachers-902141.pdf",
-   "source": "https://www.dzexams.com/ar/documents/Q0YvMWIrTTM1SVZUc09qNmQ1bG9EZz09",
+   "pdf": "https://www.dzexams.com/uploads/sujets/officiels/bem/2014/dzexams-bem-sciences-613028.pdf",
+   "source": "https://www.dzexams.com/ar/annales/d2ZDcy9NeDM1UkI1dFpYU1Z5K0g5UT09",
    "sourceName": "DzExams",
-   "solution": false,
+   "solution": true,
    "typeKey": "exam",
-   "addedAt": "2026-09-13T22:30:44.457Z"
+   "addedAt": "2026-09-13T22:34:25.074Z"
   },
   {
-   "id": "D902142",
-   "title": "مسابقة توظيف أساتذ التعليم الإبتدائي - اختبار تكنولوجيا الإعلام و الإتصال - سنة 2016",
-   "level": "teachers",
-   "levelName": "فضاء الأستاذ",
-   "stage": "teachers",
-   "subject": "وثائق بيداغوجية للأساتذة",
-   "subjectKey": "وثائق بيداغوجية للاساتذة",
+   "id": "S66",
+   "title": "علوم الطبيعة والحياة — شهادة التعليم المتوسط — موضوع علوم الطبيعة والحياة - شهادة التعليم المتوسط 2013",
+   "level": "bem",
+   "levelName": "شهادة التعليم المتوسط",
+   "stage": "middle",
+   "subject": "علوم الطبيعة والحياة",
+   "subjectKey": "علوم الطبيعة والحياة",
    "stream": "all",
    "streamName": "جميع الشعب",
-   "year": 2016,
+   "year": 2013,
    "type": "اختبارات وفروض",
-   "pdf": "https://www.dzexams.com/uploads/documents/dzexams-docs-teachers-902142.pdf",
-   "source": "https://www.dzexams.com/ar/documents/czlkRHgrS2d3NnAwZldXb3F3SXFzZz09",
+   "pdf": "https://www.dzexams.com/uploads/sujets/officiels/bem/2013/dzexams-bem-sciences-752846.pdf",
+   "source": "https://www.dzexams.com/ar/annales/YUtjYzY0RlBzT1RwcEMxaDN0dXdPdz09",
    "sourceName": "DzExams",
-   "solution": false,
+   "solution": true,
    "typeKey": "exam",
-   "addedAt": "2026-09-13T22:30:44.457Z"
+   "addedAt": "2026-09-13T22:34:25.074Z"
   },
   {
-   "id": "D902143",
-   "title": "مسابقة توظيف أساتذ التعليم المتوسط - اختبار الرياضيات - سنة 2016",
-   "level": "teachers",
-   "levelName": "فضاء الأستاذ",
-   "stage": "teachers",
-   "subject": "وثائق بيداغوجية للأساتذة",
-   "subjectKey": "وثائق بيداغوجية للاساتذة",
+   "id": "S67",
+   "title": "علوم الطبيعة والحياة — شهادة التعليم المتوسط — موضوع علوم الطبيعة والحياة - شهادة التعليم المتوسط 2012",
+   "level": "bem",
+   "levelName": "شهادة التعليم المتوسط",
+   "stage": "middle",
+   "subject": "علوم الطبيعة والحياة",
+   "subjectKey": "علوم الطبيعة والحياة",
    "stream": "all",
    "streamName": "جميع الشعب",
-   "year": 2016,
+   "year": 2012,
    "type": "اختبارات وفروض",
-   "pdf": "https://www.dzexams.com/uploads/documents/dzexams-docs-teachers-902143.pdf",
-   "source": "https://www.dzexams.com/ar/documents/WlZ3UVN0MncyWE41V1lOdC9Ga000dz09",
+   "pdf": "https://www.dzexams.com/uploads/sujets/officiels/bem/2012/dzexams-bem-sciences-615238.pdf",
+   "source": "https://www.dzexams.com/ar/annales/ZjVKdXRUNmRYRUgyYkdNS2l0Y2E3Zz09",
    "sourceName": "DzExams",
-   "solution": false,
+   "solution": true,
    "typeKey": "exam",
-   "addedAt": "2026-09-13T22:30:44.457Z"
+   "addedAt": "2026-09-13T22:34:25.074Z"
   },
   {
-   "id": "D902144",
-   "title": "مسابقة توظيف أساتذ التعليم المتوسط - اختبار العلوم الطبيعية - سنة 2016",
-   "level": "teachers",
-   "levelName": "فضاء الأستاذ",
-   "stage": "teachers",
-   "subject": "وثائق بيداغوجية للأساتذة",
-   "subjectKey": "وثائق بيداغوجية للاساتذة",
+   "id": "S68",
+   "title": "علوم الطبيعة والحياة — شهادة التعليم المتوسط — موضوع علوم الطبيعة والحياة - شهادة التعليم المتوسط 2011",
+   "level": "bem",
+   "levelName": "شهادة التعليم المتوسط",
+   "stage": "middle",
+   "subject": "علوم الطبيعة والحياة",
+   "subjectKey": "علوم الطبيعة والحياة",
    "stream": "all",
    "streamName": "جميع الشعب",
-   "year": 2016,
+   "year": 2011,
    "type": "اختبارات وفروض",
-   "pdf": "https://www.dzexams.com/uploads/documents/dzexams-docs-teachers-902144.pdf",
-   "source": "https://www.dzexams.com/ar/documents/NjE4eU0xbUhqQTdOWjJmVk93c09wUT09",
+   "pdf": "https://www.dzexams.com/uploads/sujets/officiels/bem/2011/dzexams-bem-sciences-389452.pdf",
+   "source": "https://www.dzexams.com/ar/annales/ZG5rbW1mNkFGMGYrV0huTUJkNER5Zz09",
    "sourceName": "DzExams",
-   "solution": false,
+   "solution": true,
    "typeKey": "exam",
-   "addedAt": "2026-09-13T22:30:44.457Z"
-  },
-  {
-   "id": "D902145",
-   "title": "مسابقة توظيف أساتذ التعليم المتوسط - اختبار الثقافة العامة - سنة 2016",
-   "level": "teachers",
-   "levelName": "فضاء الأستاذ",
-   "stage": "teachers",
-   "subject": "وثائق بيداغوجية للأساتذة",
-   "subjectKey": "وثائق بيداغوجية للاساتذة",
-   "stream": "all",
-   "streamName": "جميع الشعب",
-   "year": 2016,
-   "type": "اختبارات وفروض",
-   "pdf": "https://www.dzexams.com/uploads/documents/dzexams-docs-teachers-902145.pdf",
-   "source": "https://www.dzexams.com/ar/documents/WFc5NjR3TnRyOHVxb2RkNHpPSWVDUT09",
-   "sourceName": "DzExams",
-   "solution": false,
-   "typeKey": "exam",
-   "addedAt": "2026-09-13T22:30:44.457Z"
-  },
-  {
-   "id": "D902146",
-   "title": "مسابقة توظيف أساتذ التعليم المتوسط - اختبار اللغة العربية - سنة 2016",
-   "level": "teachers",
-   "levelName": "فضاء الأستاذ",
-   "stage": "teachers",
-   "subject": "وثائق بيداغوجية للأساتذة",
-   "subjectKey": "وثائق بيداغوجية للاساتذة",
-   "stream": "all",
-   "streamName": "جميع الشعب",
-   "year": 2016,
-   "type": "اختبارات وفروض",
-   "pdf": "https://www.dzexams.com/uploads/documents/dzexams-docs-teachers-902146.pdf",
-   "source": "https://www.dzexams.com/ar/documents/Y0Fza1FxVXhTeGV0SCtkbnE1aUdJZz09",
-   "sourceName": "DzExams",
-   "solution": false,
-   "typeKey": "exam",
-   "addedAt": "2026-09-13T22:30:44.457Z"
-  },
-  {
-   "id": "D902147",
-   "title": "مسابقة توظيف أساتذ التعليم المتوسط - اختبار اللغة الفرنسية - سنة 2016",
-   "level": "teachers",
-   "levelName": "فضاء الأستاذ",
-   "stage": "teachers",
-   "subject": "وثائق بيداغوجية للأساتذة",
-   "subjectKey": "وثائق بيداغوجية للاساتذة",
-   "stream": "all",
-   "streamName": "جميع الشعب",
-   "year": 2016,
-   "type": "اختبارات وفروض",
-   "pdf": "https://www.dzexams.com/uploads/documents/dzexams-docs-teachers-902147.pdf",
-   "source": "https://www.dzexams.com/ar/documents/RmJHWmVxNnpmNDFGMjVZL1dRemUxQT09",
-   "sourceName": "DzExams",
-   "solution": false,
-   "typeKey": "exam",
-   "addedAt": "2026-09-13T22:30:44.457Z"
-  },
-  {
-   "id": "D902148",
-   "title": "مسابقة توظيف أساتذ التعليم المتوسط - اختبار اللغة الإنجليزية - سنة 2016",
-   "level": "teachers",
-   "levelName": "فضاء الأستاذ",
-   "stage": "teachers",
-   "subject": "وثائق بيداغوجية للأساتذة",
-   "subjectKey": "وثائق بيداغوجية للاساتذة",
-   "stream": "all",
-   "streamName": "جميع الشعب",
-   "year": 2016,
-   "type": "اختبارات وفروض",
-   "pdf": "https://www.dzexams.com/uploads/documents/dzexams-docs-teachers-902148.pdf",
-   "source": "https://www.dzexams.com/ar/documents/Ulk2N2VKZlhKdEo0T2NybWdYeThYQT09",
-   "sourceName": "DzExams",
-   "solution": false,
-   "typeKey": "exam",
-   "addedAt": "2026-09-13T22:30:44.457Z"
-  },
-  {
-   "id": "D902149",
-   "title": "مسابقة توظيف أساتذ التعليم المتوسط - اختبار تكنولوجيا الإعلام و الإتصال - سنة 2016",
-   "level": "teachers",
-   "levelName": "فضاء الأستاذ",
-   "stage": "teachers",
-   "subject": "وثائق بيداغوجية للأساتذة",
-   "subjectKey": "وثائق بيداغوجية للاساتذة",
-   "stream": "all",
-   "streamName": "جميع الشعب",
-   "year": 2016,
-   "type": "اختبارات وفروض",
-   "pdf": "https://www.dzexams.com/uploads/documents/dzexams-docs-teachers-902149.pdf",
-   "source": "https://www.dzexams.com/ar/documents/MlRhM1Vrdlc0YVdQR3J6OTFGOEN4dz09",
-   "sourceName": "DzExams",
-   "solution": false,
-   "typeKey": "exam",
-   "addedAt": "2026-09-13T22:30:44.457Z"
-  },
-  {
-   "id": "D902150",
-   "title": "مسابقة توظيف أساتذ التعليم المتوسط - اختبار التاريخ و الجغرافيا - سنة 2016",
-   "level": "teachers",
-   "levelName": "فضاء الأستاذ",
-   "stage": "teachers",
-   "subject": "وثائق بيداغوجية للأساتذة",
-   "subjectKey": "وثائق بيداغوجية للاساتذة",
-   "stream": "all",
-   "streamName": "جميع الشعب",
-   "year": 2016,
-   "type": "اختبارات وفروض",
-   "pdf": "https://www.dzexams.com/uploads/documents/dzexams-docs-teachers-902150.pdf",
-   "source": "https://www.dzexams.com/ar/documents/ZWRwZWROQUp4UUIvR2lLVlZ5Y2FiQT09",
-   "sourceName": "DzExams",
-   "solution": false,
-   "typeKey": "exam",
-   "addedAt": "2026-09-13T22:30:44.457Z"
-  },
-  {
-   "id": "D902151",
-   "title": "مسابقة توظيف أساتذ التعليم المتوسط - اختبار التربية البدنية - سنة 2016",
-   "level": "teachers",
-   "levelName": "فضاء الأستاذ",
-   "stage": "teachers",
-   "subject": "وثائق بيداغوجية للأساتذة",
-   "subjectKey": "وثائق بيداغوجية للاساتذة",
-   "stream": "all",
-   "streamName": "جميع الشعب",
-   "year": 2016,
-   "type": "اختبارات وفروض",
-   "pdf": "https://www.dzexams.com/uploads/documents/dzexams-docs-teachers-902151.pdf",
-   "source": "https://www.dzexams.com/ar/documents/LzlkcWpTNERkTkV2eDV6cmFkZmR2Zz09",
-   "sourceName": "DzExams",
-   "solution": false,
-   "typeKey": "exam",
-   "addedAt": "2026-09-13T22:30:44.457Z"
-  },
-  {
-   "id": "D902155",
-   "title": "مسابقة توظيف أساتذ التعليم الثانوي - اختبار الرياضيات - سنة 2016",
-   "level": "teachers",
-   "levelName": "فضاء الأستاذ",
-   "stage": "teachers",
-   "subject": "وثائق بيداغوجية للأساتذة",
-   "subjectKey": "وثائق بيداغوجية للاساتذة",
-   "stream": "all",
-   "streamName": "جميع الشعب",
-   "year": 2016,
-   "type": "اختبارات وفروض",
-   "pdf": "https://www.dzexams.com/uploads/documents/dzexams-docs-teachers-902155.pdf",
-   "source": "https://www.dzexams.com/ar/documents/aGQ0T1owWGZORmhsa0x4VE5YVmVPUT09",
-   "sourceName": "DzExams",
-   "solution": false,
-   "typeKey": "exam",
-   "addedAt": "2026-09-13T22:30:44.457Z"
-  },
-  {
-   "id": "D902156",
-   "title": "مسابقة توظيف أساتذ التعليم الثانوي - اختبار العلوم الفيزيائية - سنة 2016",
-   "level": "teachers",
-   "levelName": "فضاء الأستاذ",
-   "stage": "teachers",
-   "subject": "وثائق بيداغوجية للأساتذة",
-   "subjectKey": "وثائق بيداغوجية للاساتذة",
-   "stream": "all",
-   "streamName": "جميع الشعب",
-   "year": 2016,
-   "type": "اختبارات وفروض",
-   "pdf": "https://www.dzexams.com/uploads/documents/dzexams-docs-teachers-902156.pdf",
-   "source": "https://www.dzexams.com/ar/documents/UmN2Rmhhb2c0MU9ubmpUR3hiYU16dz09",
-   "sourceName": "DzExams",
-   "solution": false,
-   "typeKey": "exam",
-   "addedAt": "2026-09-13T22:30:44.457Z"
-  },
-  {
-   "id": "D902157",
-   "title": "مسابقة توظيف أساتذ التعليم الثانوي - اختبار العلوم الطبيعية - سنة 2016",
-   "level": "teachers",
-   "levelName": "فضاء الأستاذ",
-   "stage": "teachers",
-   "subject": "وثائق بيداغوجية للأساتذة",
-   "subjectKey": "وثائق بيداغوجية للاساتذة",
-   "stream": "all",
-   "streamName": "جميع الشعب",
-   "year": 2016,
-   "type": "اختبارات وفروض",
-   "pdf": "https://www.dzexams.com/uploads/documents/dzexams-docs-teachers-902157.pdf",
-   "source": "https://www.dzexams.com/ar/documents/K3VPZ01zc3pNSTQ3WHJvOWZOUFBQUT09",
-   "sourceName": "DzExams",
-   "solution": false,
-   "typeKey": "exam",
-   "addedAt": "2026-09-13T22:30:44.457Z"
+   "addedAt": "2026-09-13T22:34:25.074Z"
   }
  ],
  "news": [
