@@ -1,7 +1,276 @@
 {
- "generated_at": "2026-09-14T11:58:03.924Z",
- "total": 9060,
+ "generated_at": "2026-09-14T12:25:34.304Z",
+ "total": 9628,
  "shards": [
+  {
+   "file": "bac-5e4dec23--x6f7b65fd.json",
+   "level": "bac",
+   "subject": "اسبانية",
+   "count": 23
+  },
+  {
+   "file": "bac-5e4dec23--xde7cefe6.json",
+   "level": "bac",
+   "subject": "اقتصاد والمناجمنت",
+   "count": 26
+  },
+  {
+   "file": "bac-5e4dec23--x402215f0.json",
+   "level": "bac",
+   "subject": "هندسة الميكانيكية",
+   "count": 20
+  },
+  {
+   "file": "bac-5e4dec23--x3b0e76c9.json",
+   "level": "bac",
+   "subject": "هندسة المدنية",
+   "count": 20
+  },
+  {
+   "file": "bac-5e4dec23--x9c0466c0.json",
+   "level": "bac",
+   "subject": "تسيير المحاسبي والمالي",
+   "count": 26
+  },
+  {
+   "file": "bac-5e4dec23--x038864e8.json",
+   "level": "bac",
+   "subject": "هندسة الكهربائية",
+   "count": 20
+  },
+  {
+   "file": "bac-5e4dec23--xd1ec9be1.json",
+   "level": "bac",
+   "subject": "قانون",
+   "count": 26
+  },
+  {
+   "file": "bac-5e4dec23--x3c29dace.json",
+   "level": "bac",
+   "subject": "هندسة الطرائق",
+   "count": 26
+  },
+  {
+   "file": "bac-5e4dec23--x25af644b.json",
+   "level": "bac",
+   "subject": "تربية الاسلامية",
+   "count": 20
+  },
+  {
+   "file": "bac-5e4dec23--x6bf47148.json",
+   "level": "bac",
+   "subject": "امازيغية",
+   "count": 20
+  },
+  {
+   "file": "bac-5e4dec23--xcb15c783.json",
+   "level": "bac",
+   "subject": "هندسة مدنية",
+   "count": 6
+  },
+  {
+   "file": "bac-5e4dec23--x6a39dff9.json",
+   "level": "bac",
+   "subject": "هندسة كهربائية",
+   "count": 6
+  },
+  {
+   "file": "bac-5e4dec23--xb1b9bb20.json",
+   "level": "bac",
+   "subject": "هندسة ميكانيكية",
+   "count": 6
+  },
+  {
+   "file": "bac-5e4dec23--x5e37d86f.json",
+   "level": "bac",
+   "subject": "المانية",
+   "count": 8
+  },
+  {
+   "file": "bac-5e4dec23--x1dc2f60b.json",
+   "level": "bac",
+   "subject": "ايطالية",
+   "count": 8
+  },
+  {
+   "file": "bac-5e4dec23--x8dd76b09.json",
+   "level": "bac",
+   "subject": "رياضيات",
+   "count": 140
+  },
+  {
+   "file": "bac-5e4dec23--xca4e049c.json",
+   "level": "bac",
+   "subject": "علوم الطبيعة والحياة",
+   "count": 14
+  },
+  {
+   "file": "bac-5e4dec23--xee86b77b.json",
+   "level": "bac",
+   "subject": "انجليزية",
+   "count": 40
+  },
+  {
+   "file": "bac-5e4dec23--xf0519d05.json",
+   "level": "bac",
+   "subject": "علوم الفيزيائية",
+   "count": 20
+  },
+  {
+   "file": "bac-5e4dec23--x4f1940c3.json",
+   "level": "bac",
+   "subject": "علوم الاسلامية",
+   "count": 39
+  },
+  {
+   "file": "bac-5e4dec23--x858e891e.json",
+   "level": "bac",
+   "subject": "فرنسية",
+   "count": 39
+  },
+  {
+   "file": "bac-5e4dec23--xdffa1d13.json",
+   "level": "bac",
+   "subject": "تاريخ والجغرافيا",
+   "count": 40
+  },
+  {
+   "file": "bac-5e4dec23--xfd1ffea5.json",
+   "level": "bac",
+   "subject": "عربية وادابها",
+   "count": 38
+  },
+  {
+   "file": "bac-5e4dec23--xf2964ab5.json",
+   "level": "bac",
+   "subject": "فلسفة",
+   "count": 40
+  },
+  {
+   "file": "bac-5e4dec23--x91b4a510.json",
+   "level": "bac",
+   "subject": "عربية",
+   "count": 2
+  },
+  {
+   "file": "2as-78f75952.json",
+   "level": "2as",
+   "count": 99
+  },
+  {
+   "file": "3as-b0225673--xd1ec9be1.json",
+   "level": "3as",
+   "subject": "قانون",
+   "count": 78
+  },
+  {
+   "file": "3as-b0225673--x038864e8.json",
+   "level": "3as",
+   "subject": "هندسة الكهربائية",
+   "count": 92
+  },
+  {
+   "file": "3as-b0225673--x3b0e76c9.json",
+   "level": "3as",
+   "subject": "هندسة المدنية",
+   "count": 101
+  },
+  {
+   "file": "3as-b0225673--x6f7b65fd.json",
+   "level": "3as",
+   "subject": "اسبانية",
+   "count": 56
+  },
+  {
+   "file": "3as-b0225673--x402215f0.json",
+   "level": "3as",
+   "subject": "هندسة الميكانيكية",
+   "count": 37
+  },
+  {
+   "file": "3as-b0225673--x1dc2f60b.json",
+   "level": "3as",
+   "subject": "ايطالية",
+   "count": 1
+  },
+  {
+   "file": "3as-b0225673--x3c29dace.json",
+   "level": "3as",
+   "subject": "هندسة الطرائق",
+   "count": 76
+  },
+  {
+   "file": "3as-b0225673--x5e37d86f.json",
+   "level": "3as",
+   "subject": "المانية",
+   "count": 46
+  },
+  {
+   "file": "3as-b0225673--xde7cefe6.json",
+   "level": "3as",
+   "subject": "اقتصاد والمناجمنت",
+   "count": 82
+  },
+  {
+   "file": "3as-b0225673--x9c0466c0.json",
+   "level": "3as",
+   "subject": "تسيير المحاسبي والمالي",
+   "count": 187
+  },
+  {
+   "file": "3as-b0225673--xf2964ab5.json",
+   "level": "3as",
+   "subject": "فلسفة",
+   "count": 119
+  },
+  {
+   "file": "3as-b0225673--x25af644b.json",
+   "level": "3as",
+   "subject": "تربية الاسلامية",
+   "count": 106
+  },
+  {
+   "file": "3as-b0225673--xf0519d05.json",
+   "level": "3as",
+   "subject": "علوم الفيزيائية",
+   "count": 77
+  },
+  {
+   "file": "3as-b0225673--xdffa1d13.json",
+   "level": "3as",
+   "subject": "تاريخ والجغرافيا",
+   "count": 211
+  },
+  {
+   "file": "3as-b0225673--xca4e049c.json",
+   "level": "3as",
+   "subject": "علوم الطبيعة والحياة",
+   "count": 299
+  },
+  {
+   "file": "3as-b0225673--x858e891e.json",
+   "level": "3as",
+   "subject": "فرنسية",
+   "count": 254
+  },
+  {
+   "file": "3as-b0225673--xfd1ffea5.json",
+   "level": "3as",
+   "subject": "عربية وادابها",
+   "count": 229
+  },
+  {
+   "file": "3as-b0225673--x8dd76b09.json",
+   "level": "3as",
+   "subject": "رياضيات",
+   "count": 288
+  },
+  {
+   "file": "3as-b0225673--xee86b77b.json",
+   "level": "3as",
+   "subject": "انجليزية",
+   "count": 251
+  },
   {
    "file": "4am-5886f037--x87ffb58d.json",
    "level": "4am",
@@ -275,272 +544,9 @@
    "count": 1002
   },
   {
-   "file": "2as-78f75952.json",
-   "level": "2as",
-   "count": 16
-  },
-  {
    "file": "1as-a92ecd15.json",
    "level": "1as",
    "count": 15
-  },
-  {
-   "file": "3as-b0225673--x5e37d86f.json",
-   "level": "3as",
-   "subject": "المانية",
-   "count": 42
-  },
-  {
-   "file": "3as-b0225673--xf2964ab5.json",
-   "level": "3as",
-   "subject": "فلسفة",
-   "count": 119
-  },
-  {
-   "file": "3as-b0225673--x6f7b65fd.json",
-   "level": "3as",
-   "subject": "اسبانية",
-   "count": 47
-  },
-  {
-   "file": "3as-b0225673--x3b0e76c9.json",
-   "level": "3as",
-   "subject": "هندسة المدنية",
-   "count": 40
-  },
-  {
-   "file": "3as-b0225673--x402215f0.json",
-   "level": "3as",
-   "subject": "هندسة الميكانيكية",
-   "count": 15
-  },
-  {
-   "file": "3as-b0225673--x038864e8.json",
-   "level": "3as",
-   "subject": "هندسة الكهربائية",
-   "count": 50
-  },
-  {
-   "file": "3as-b0225673--x9c0466c0.json",
-   "level": "3as",
-   "subject": "تسيير المحاسبي والمالي",
-   "count": 93
-  },
-  {
-   "file": "3as-b0225673--x25af644b.json",
-   "level": "3as",
-   "subject": "تربية الاسلامية",
-   "count": 106
-  },
-  {
-   "file": "3as-b0225673--xf0519d05.json",
-   "level": "3as",
-   "subject": "علوم الفيزيائية",
-   "count": 77
-  },
-  {
-   "file": "3as-b0225673--xde7cefe6.json",
-   "level": "3as",
-   "subject": "اقتصاد والمناجمنت",
-   "count": 58
-  },
-  {
-   "file": "3as-b0225673--xd1ec9be1.json",
-   "level": "3as",
-   "subject": "قانون",
-   "count": 63
-  },
-  {
-   "file": "3as-b0225673--x3c29dace.json",
-   "level": "3as",
-   "subject": "هندسة الطرائق",
-   "count": 40
-  },
-  {
-   "file": "3as-b0225673--xdffa1d13.json",
-   "level": "3as",
-   "subject": "تاريخ والجغرافيا",
-   "count": 211
-  },
-  {
-   "file": "3as-b0225673--xca4e049c.json",
-   "level": "3as",
-   "subject": "علوم الطبيعة والحياة",
-   "count": 299
-  },
-  {
-   "file": "3as-b0225673--x858e891e.json",
-   "level": "3as",
-   "subject": "فرنسية",
-   "count": 254
-  },
-  {
-   "file": "3as-b0225673--xfd1ffea5.json",
-   "level": "3as",
-   "subject": "عربية وادابها",
-   "count": 229
-  },
-  {
-   "file": "3as-b0225673--x8dd76b09.json",
-   "level": "3as",
-   "subject": "رياضيات",
-   "count": 288
-  },
-  {
-   "file": "3as-b0225673--xee86b77b.json",
-   "level": "3as",
-   "subject": "انجليزية",
-   "count": 251
-  },
-  {
-   "file": "bac-5e4dec23--xcb15c783.json",
-   "level": "bac",
-   "subject": "هندسة مدنية",
-   "count": 6
-  },
-  {
-   "file": "bac-5e4dec23--x3c29dace.json",
-   "level": "bac",
-   "subject": "هندسة الطرائق",
-   "count": 8
-  },
-  {
-   "file": "bac-5e4dec23--x6f7b65fd.json",
-   "level": "bac",
-   "subject": "اسبانية",
-   "count": 8
-  },
-  {
-   "file": "bac-5e4dec23--x6a39dff9.json",
-   "level": "bac",
-   "subject": "هندسة كهربائية",
-   "count": 6
-  },
-  {
-   "file": "bac-5e4dec23--xb1b9bb20.json",
-   "level": "bac",
-   "subject": "هندسة ميكانيكية",
-   "count": 6
-  },
-  {
-   "file": "bac-5e4dec23--x5e37d86f.json",
-   "level": "bac",
-   "subject": "المانية",
-   "count": 8
-  },
-  {
-   "file": "bac-5e4dec23--x1dc2f60b.json",
-   "level": "bac",
-   "subject": "ايطالية",
-   "count": 8
-  },
-  {
-   "file": "bac-5e4dec23--x8dd76b09.json",
-   "level": "bac",
-   "subject": "رياضيات",
-   "count": 140
-  },
-  {
-   "file": "bac-5e4dec23--xca4e049c.json",
-   "level": "bac",
-   "subject": "علوم الطبيعة والحياة",
-   "count": 14
-  },
-  {
-   "file": "bac-5e4dec23--xd1ec9be1.json",
-   "level": "bac",
-   "subject": "قانون",
-   "count": 8
-  },
-  {
-   "file": "bac-5e4dec23--xee86b77b.json",
-   "level": "bac",
-   "subject": "انجليزية",
-   "count": 40
-  },
-  {
-   "file": "bac-5e4dec23--xf0519d05.json",
-   "level": "bac",
-   "subject": "علوم الفيزيائية",
-   "count": 20
-  },
-  {
-   "file": "bac-5e4dec23--x4f1940c3.json",
-   "level": "bac",
-   "subject": "علوم الاسلامية",
-   "count": 39
-  },
-  {
-   "file": "bac-5e4dec23--xde7cefe6.json",
-   "level": "bac",
-   "subject": "اقتصاد والمناجمنت",
-   "count": 8
-  },
-  {
-   "file": "bac-5e4dec23--x858e891e.json",
-   "level": "bac",
-   "subject": "فرنسية",
-   "count": 39
-  },
-  {
-   "file": "bac-5e4dec23--x9c0466c0.json",
-   "level": "bac",
-   "subject": "تسيير المحاسبي والمالي",
-   "count": 8
-  },
-  {
-   "file": "bac-5e4dec23--xdffa1d13.json",
-   "level": "bac",
-   "subject": "تاريخ والجغرافيا",
-   "count": 40
-  },
-  {
-   "file": "bac-5e4dec23--xfd1ffea5.json",
-   "level": "bac",
-   "subject": "عربية وادابها",
-   "count": 38
-  },
-  {
-   "file": "bac-5e4dec23--xf2964ab5.json",
-   "level": "bac",
-   "subject": "فلسفة",
-   "count": 40
-  },
-  {
-   "file": "bac-5e4dec23--x91b4a510.json",
-   "level": "bac",
-   "subject": "عربية",
-   "count": 2
-  },
-  {
-   "file": "bac-5e4dec23--x402215f0.json",
-   "level": "bac",
-   "subject": "هندسة الميكانيكية",
-   "count": 2
-  },
-  {
-   "file": "bac-5e4dec23--x3b0e76c9.json",
-   "level": "bac",
-   "subject": "هندسة المدنية",
-   "count": 2
-  },
-  {
-   "file": "bac-5e4dec23--x038864e8.json",
-   "level": "bac",
-   "subject": "هندسة الكهربائية",
-   "count": 2
-  },
-  {
-   "file": "bac-5e4dec23--x6bf47148.json",
-   "level": "bac",
-   "subject": "امازيغية",
-   "count": 2
-  },
-  {
-   "file": "bac-5e4dec23--x25af644b.json",
-   "level": "bac",
-   "subject": "تربية الاسلامية",
-   "count": 2
   },
   {
    "file": "4ap-17f97124--xdffa1d13.json",
@@ -664,7 +670,7 @@
   {
    "id": "secondary",
    "name": "الثانوي",
-   "count": 2809
+   "count": 3377
   },
   {
    "id": "teachers",
@@ -673,6 +679,250 @@
   }
  ],
  "levels": [
+  {
+   "id": "bac",
+   "name": "البكالوريا",
+   "stage": "secondary",
+   "count": 673,
+   "subjects": [
+    {
+     "id": "رياضيات",
+     "count": 140
+    },
+    {
+     "id": "انجليزية",
+     "count": 40
+    },
+    {
+     "id": "تاريخ والجغرافيا",
+     "count": 40
+    },
+    {
+     "id": "فلسفة",
+     "count": 40
+    },
+    {
+     "id": "علوم الاسلامية",
+     "count": 39
+    },
+    {
+     "id": "فرنسية",
+     "count": 39
+    },
+    {
+     "id": "عربية وادابها",
+     "count": 38
+    },
+    {
+     "id": "اقتصاد والمناجمنت",
+     "count": 26
+    },
+    {
+     "id": "تسيير المحاسبي والمالي",
+     "count": 26
+    },
+    {
+     "id": "قانون",
+     "count": 26
+    },
+    {
+     "id": "هندسة الطرائق",
+     "count": 26
+    },
+    {
+     "id": "اسبانية",
+     "count": 23
+    },
+    {
+     "id": "هندسة الميكانيكية",
+     "count": 20
+    },
+    {
+     "id": "هندسة المدنية",
+     "count": 20
+    },
+    {
+     "id": "هندسة الكهربائية",
+     "count": 20
+    },
+    {
+     "id": "تربية الاسلامية",
+     "count": 20
+    },
+    {
+     "id": "امازيغية",
+     "count": 20
+    },
+    {
+     "id": "علوم الفيزيائية",
+     "count": 20
+    },
+    {
+     "id": "علوم الطبيعة والحياة",
+     "count": 14
+    },
+    {
+     "id": "المانية",
+     "count": 8
+    },
+    {
+     "id": "ايطالية",
+     "count": 8
+    },
+    {
+     "id": "هندسة مدنية",
+     "count": 6
+    },
+    {
+     "id": "هندسة كهربائية",
+     "count": 6
+    },
+    {
+     "id": "هندسة ميكانيكية",
+     "count": 6
+    },
+    {
+     "id": "عربية",
+     "count": 2
+    }
+   ]
+  },
+  {
+   "id": "2as",
+   "name": "الثانية ثانوي",
+   "stage": "secondary",
+   "count": 99,
+   "subjects": [
+    {
+     "id": "اسبانية",
+     "count": 33
+    },
+    {
+     "id": "ايطالية",
+     "count": 27
+    },
+    {
+     "id": "المانية",
+     "count": 23
+    },
+    {
+     "id": "فلسفة",
+     "count": 2
+    },
+    {
+     "id": "تربية الاسلامية",
+     "count": 2
+    },
+    {
+     "id": "عربية",
+     "count": 2
+    },
+    {
+     "id": "علوم الطبيعة والحياة",
+     "count": 2
+    },
+    {
+     "id": "فرنسية",
+     "count": 2
+    },
+    {
+     "id": "علوم الفيزيائية",
+     "count": 2
+    },
+    {
+     "id": "رياضيات",
+     "count": 2
+    },
+    {
+     "id": "تاريخ والجغرافيا",
+     "count": 2
+    }
+   ]
+  },
+  {
+   "id": "3as",
+   "name": "الثالثة ثانوي",
+   "stage": "secondary",
+   "count": 2590,
+   "subjects": [
+    {
+     "id": "علوم الطبيعة والحياة",
+     "count": 299
+    },
+    {
+     "id": "رياضيات",
+     "count": 288
+    },
+    {
+     "id": "فرنسية",
+     "count": 254
+    },
+    {
+     "id": "انجليزية",
+     "count": 251
+    },
+    {
+     "id": "عربية وادابها",
+     "count": 229
+    },
+    {
+     "id": "تاريخ والجغرافيا",
+     "count": 211
+    },
+    {
+     "id": "تسيير المحاسبي والمالي",
+     "count": 187
+    },
+    {
+     "id": "فلسفة",
+     "count": 119
+    },
+    {
+     "id": "تربية الاسلامية",
+     "count": 106
+    },
+    {
+     "id": "هندسة المدنية",
+     "count": 101
+    },
+    {
+     "id": "هندسة الكهربائية",
+     "count": 92
+    },
+    {
+     "id": "اقتصاد والمناجمنت",
+     "count": 82
+    },
+    {
+     "id": "قانون",
+     "count": 78
+    },
+    {
+     "id": "علوم الفيزيائية",
+     "count": 77
+    },
+    {
+     "id": "هندسة الطرائق",
+     "count": 76
+    },
+    {
+     "id": "اسبانية",
+     "count": 56
+    },
+    {
+     "id": "المانية",
+     "count": 46
+    },
+    {
+     "id": "هندسة الميكانيكية",
+     "count": 37
+    },
+    {
+     "id": "ايطالية",
+     "count": 1
+    }
+   ]
+  },
   {
    "id": "4am",
    "name": "الرابعة متوسط",
@@ -1058,46 +1308,6 @@
    ]
   },
   {
-   "id": "2as",
-   "name": "الثانية ثانوي",
-   "stage": "secondary",
-   "count": 16,
-   "subjects": [
-    {
-     "id": "فلسفة",
-     "count": 2
-    },
-    {
-     "id": "تربية الاسلامية",
-     "count": 2
-    },
-    {
-     "id": "عربية",
-     "count": 2
-    },
-    {
-     "id": "علوم الطبيعة والحياة",
-     "count": 2
-    },
-    {
-     "id": "فرنسية",
-     "count": 2
-    },
-    {
-     "id": "علوم الفيزيائية",
-     "count": 2
-    },
-    {
-     "id": "رياضيات",
-     "count": 2
-    },
-    {
-     "id": "تاريخ والجغرافيا",
-     "count": 2
-    }
-   ]
-  },
-  {
    "id": "1as",
    "name": "الأولى ثانوي",
    "stage": "secondary",
@@ -1134,194 +1344,6 @@
     {
      "id": "انجليزية",
      "count": 1
-    }
-   ]
-  },
-  {
-   "id": "3as",
-   "name": "الثالثة ثانوي",
-   "stage": "secondary",
-   "count": 2282,
-   "subjects": [
-    {
-     "id": "علوم الطبيعة والحياة",
-     "count": 299
-    },
-    {
-     "id": "رياضيات",
-     "count": 288
-    },
-    {
-     "id": "فرنسية",
-     "count": 254
-    },
-    {
-     "id": "انجليزية",
-     "count": 251
-    },
-    {
-     "id": "عربية وادابها",
-     "count": 229
-    },
-    {
-     "id": "تاريخ والجغرافيا",
-     "count": 211
-    },
-    {
-     "id": "فلسفة",
-     "count": 119
-    },
-    {
-     "id": "تربية الاسلامية",
-     "count": 106
-    },
-    {
-     "id": "تسيير المحاسبي والمالي",
-     "count": 93
-    },
-    {
-     "id": "علوم الفيزيائية",
-     "count": 77
-    },
-    {
-     "id": "قانون",
-     "count": 63
-    },
-    {
-     "id": "اقتصاد والمناجمنت",
-     "count": 58
-    },
-    {
-     "id": "هندسة الكهربائية",
-     "count": 50
-    },
-    {
-     "id": "اسبانية",
-     "count": 47
-    },
-    {
-     "id": "المانية",
-     "count": 42
-    },
-    {
-     "id": "هندسة المدنية",
-     "count": 40
-    },
-    {
-     "id": "هندسة الطرائق",
-     "count": 40
-    },
-    {
-     "id": "هندسة الميكانيكية",
-     "count": 15
-    }
-   ]
-  },
-  {
-   "id": "bac",
-   "name": "البكالوريا",
-   "stage": "secondary",
-   "count": 496,
-   "subjects": [
-    {
-     "id": "رياضيات",
-     "count": 140
-    },
-    {
-     "id": "انجليزية",
-     "count": 40
-    },
-    {
-     "id": "تاريخ والجغرافيا",
-     "count": 40
-    },
-    {
-     "id": "فلسفة",
-     "count": 40
-    },
-    {
-     "id": "علوم الاسلامية",
-     "count": 39
-    },
-    {
-     "id": "فرنسية",
-     "count": 39
-    },
-    {
-     "id": "عربية وادابها",
-     "count": 38
-    },
-    {
-     "id": "علوم الفيزيائية",
-     "count": 20
-    },
-    {
-     "id": "علوم الطبيعة والحياة",
-     "count": 14
-    },
-    {
-     "id": "هندسة الطرائق",
-     "count": 8
-    },
-    {
-     "id": "اسبانية",
-     "count": 8
-    },
-    {
-     "id": "المانية",
-     "count": 8
-    },
-    {
-     "id": "ايطالية",
-     "count": 8
-    },
-    {
-     "id": "قانون",
-     "count": 8
-    },
-    {
-     "id": "اقتصاد والمناجمنت",
-     "count": 8
-    },
-    {
-     "id": "تسيير المحاسبي والمالي",
-     "count": 8
-    },
-    {
-     "id": "هندسة مدنية",
-     "count": 6
-    },
-    {
-     "id": "هندسة كهربائية",
-     "count": 6
-    },
-    {
-     "id": "هندسة ميكانيكية",
-     "count": 6
-    },
-    {
-     "id": "عربية",
-     "count": 2
-    },
-    {
-     "id": "هندسة الميكانيكية",
-     "count": 2
-    },
-    {
-     "id": "هندسة المدنية",
-     "count": 2
-    },
-    {
-     "id": "هندسة الكهربائية",
-     "count": 2
-    },
-    {
-     "id": "امازيغية",
-     "count": 2
-    },
-    {
-     "id": "تربية الاسلامية",
-     "count": 2
     }
    ]
   },
@@ -1459,7 +1481,7 @@
   {
    "id": "اقتصاد والمناجمنت",
    "name": "الإقتصاد والمناجمنت",
-   "count": 66
+   "count": 108
   },
   {
    "id": "تاريخ والجغرافيا",
@@ -1469,7 +1491,7 @@
   {
    "id": "تربية الاسلامية",
    "name": "التربية الإسلامية",
-   "count": 532
+   "count": 550
   },
   {
    "id": "تربية العلمية",
@@ -1499,7 +1521,7 @@
   {
    "id": "تسيير المحاسبي والمالي",
    "name": "التسيير المحاسبي والمالي",
-   "count": 101
+   "count": 213
   },
   {
    "id": "رياضيات",
@@ -1529,22 +1551,22 @@
   {
    "id": "قانون",
    "name": "القانون",
-   "count": 71
+   "count": 104
   },
   {
    "id": "اسبانية",
    "name": "اللغة الإسبانية",
-   "count": 55
+   "count": 112
   },
   {
    "id": "المانية",
    "name": "اللغة الألمانية",
-   "count": 50
+   "count": 77
   },
   {
    "id": "امازيغية",
    "name": "اللغة الأمازيغية",
-   "count": 5
+   "count": 23
   },
   {
    "id": "انجليزية",
@@ -1554,7 +1576,7 @@
   {
    "id": "ايطالية",
    "name": "اللغة الإيطالية",
-   "count": 8
+   "count": 36
   },
   {
    "id": "عربية",
@@ -1574,17 +1596,17 @@
   {
    "id": "هندسة الكهربائية",
    "name": "الهندسة الكهربائية",
-   "count": 52
+   "count": 112
   },
   {
    "id": "هندسة المدنية",
    "name": "الهندسة المدنية",
-   "count": 42
+   "count": 121
   },
   {
    "id": "هندسة الميكانيكية",
    "name": "الهندسة الميكانيكية",
-   "count": 17
+   "count": 57
   },
   {
    "id": "انشطة",
@@ -1604,7 +1626,7 @@
   {
    "id": "هندسة الطرائق",
    "name": "هندسة الطرائق",
-   "count": 48
+   "count": 102
   },
   {
    "id": "هندسة كهربائية",
@@ -1653,467 +1675,472 @@
  ],
  "recent": {
   "days": 7,
-  "count": 9060
+  "count": 9628
  },
  "featured": [
   {
-   "id": "D906051",
-   "title": "كتاب مذكرات مادة المعلوماتية للموسم الدراسي 2023 - 4 متوسط",
-   "level": "4am",
-   "levelName": "الرابعة متوسط",
-   "stage": "middle",
-   "subject": "الإعلام الآلي",
-   "subjectKey": "اعلام الالي",
-   "stream": "all",
-   "streamName": "جميع الشعب",
-   "year": 2023,
-   "type": "كتب وأدلة",
-   "pdf": "https://www.dzexams.com/uploads/documents/dzexams-docs-4am-906051.pdf",
-   "source": "https://www.dzexams.com/ar/documents/cG9Sd2ZVWG9PQmhNZWhuTWU1MTNsZz09",
-   "sourceName": "DzExams",
-   "solution": false,
-   "typeKey": "book",
-   "addedAt": "2026-09-13T22:34:55.172Z"
-  },
-  {
-   "id": "D906053",
-   "title": "التوزيع السنوي لمادة الاعلام الآلي موسم 2023 - 4 متوسط",
-   "level": "4am",
-   "levelName": "الرابعة متوسط",
-   "stage": "middle",
-   "subject": "الإعلام الآلي",
-   "subjectKey": "اعلام الالي",
-   "stream": "all",
-   "streamName": "جميع الشعب",
-   "year": 2023,
-   "type": "موارد أخرى",
-   "pdf": "https://www.dzexams.com/uploads/documents/dzexams-docs-4am-906053.pdf",
-   "source": "https://www.dzexams.com/ar/documents/QlhSdkJ5L1FHSFZJNklWb2tTTGxGUT09",
-   "sourceName": "DzExams",
-   "solution": false,
-   "typeKey": "other",
-   "addedAt": "2026-09-13T22:34:55.172Z"
-  },
-  {
-   "id": "D904692",
-   "title": "المخططات السنوية في مادة الإعلام الألي موسم 2021 - 4 متوسط",
-   "level": "4am",
-   "levelName": "الرابعة متوسط",
-   "stage": "middle",
-   "subject": "الإعلام الآلي",
-   "subjectKey": "اعلام الالي",
-   "stream": "all",
-   "streamName": "جميع الشعب",
-   "year": 2021,
-   "type": "موارد أخرى",
-   "pdf": "https://www.dzexams.com/uploads/documents/dzexams-docs-4am-904692.pdf",
-   "source": "https://www.dzexams.com/ar/documents/NUJYeGI1UklxZDVjbk1KV1g1NmE2UT09",
-   "sourceName": "DzExams",
-   "solution": false,
-   "typeKey": "other",
-   "addedAt": "2026-09-13T22:34:55.172Z"
-  },
-  {
-   "id": "D900527",
-   "title": "مذكرات الإعلام الآلي إعداد الأستاذ جعيجع محمد - 4 متوسط",
-   "level": "4am",
-   "levelName": "الرابعة متوسط",
-   "stage": "middle",
-   "subject": "الإعلام الآلي",
-   "subjectKey": "اعلام الالي",
-   "stream": "all",
-   "streamName": "جميع الشعب",
-   "year": "",
-   "type": "دروس",
-   "pdf": "https://www.dzexams.com/uploads/documents/dzexams-docs-4am-900527.pdf",
-   "source": "https://www.dzexams.com/ar/documents/SFFKbUtTeU1uQnpWRnBGU0NodHh1dz09",
-   "sourceName": "DzExams",
-   "solution": false,
-   "typeKey": "lesson",
-   "addedAt": "2026-09-13T22:34:55.172Z"
-  },
-  {
-   "id": "D900528",
-   "title": "ملخصات دروس الإعلام الآلي إعداد الأستاذ جعيجع محمد - 4 متوسط",
-   "level": "4am",
-   "levelName": "الرابعة متوسط",
-   "stage": "middle",
-   "subject": "الإعلام الآلي",
-   "subjectKey": "اعلام الالي",
-   "stream": "all",
-   "streamName": "جميع الشعب",
-   "year": "",
-   "type": "ملخصات",
-   "pdf": "https://www.dzexams.com/uploads/documents/dzexams-docs-4am-900528.pdf",
-   "source": "https://www.dzexams.com/ar/documents/U0kxTmhPWWlxMWFTSThXUVR3K0Fidz09",
-   "sourceName": "DzExams",
-   "solution": false,
-   "typeKey": "summary",
-   "addedAt": "2026-09-13T22:34:55.172Z"
-  },
-  {
-   "id": "D903593",
-   "title": "ملخصات دروس شاملة في الإعلام الآلي - 4 متوسط",
-   "level": "4am",
-   "levelName": "الرابعة متوسط",
-   "stage": "middle",
-   "subject": "الإعلام الآلي",
-   "subjectKey": "اعلام الالي",
-   "stream": "all",
-   "streamName": "جميع الشعب",
-   "year": "",
-   "type": "ملخصات",
-   "pdf": "https://www.dzexams.com/uploads/documents/dzexams-docs-4am-903593.pdf",
-   "source": "https://www.dzexams.com/ar/documents/dWd6dnlGOEdRMlpIOHArUzVzakxNQT09",
-   "sourceName": "DzExams",
-   "solution": false,
-   "typeKey": "summary",
-   "addedAt": "2026-09-13T22:34:55.172Z"
-  },
-  {
-   "id": "D903616",
-   "title": "مناهج مادة الإعلام الآلي للتعليم المتوسط - 4 متوسط",
-   "level": "4am",
-   "levelName": "الرابعة متوسط",
-   "stage": "middle",
-   "subject": "الإعلام الآلي",
-   "subjectKey": "اعلام الالي",
-   "stream": "all",
-   "streamName": "جميع الشعب",
-   "year": "",
-   "type": "موارد أخرى",
-   "pdf": "https://www.dzexams.com/uploads/documents/dzexams-docs-4am-903616.pdf",
-   "source": "https://www.dzexams.com/ar/documents/Tm1qd3h5R0p4clJHOG13YkJ1aWxXQT09",
-   "sourceName": "DzExams",
-   "solution": false,
-   "typeKey": "other",
-   "addedAt": "2026-09-13T22:34:55.172Z"
-  },
-  {
-   "id": "D906052",
-   "title": "مذكرات شاملة في مادة الإعلام الآلي الجيل الثاني - 4 متوسط",
-   "level": "4am",
-   "levelName": "الرابعة متوسط",
-   "stage": "middle",
-   "subject": "الإعلام الآلي",
-   "subjectKey": "اعلام الالي",
-   "stream": "all",
-   "streamName": "جميع الشعب",
-   "year": "",
-   "type": "دروس",
-   "pdf": "https://www.dzexams.com/uploads/documents/dzexams-docs-4am-906052.pdf",
-   "source": "https://www.dzexams.com/ar/documents/dWxkeFljQlNqM0lIWE4xanc2bzJHQT09",
-   "sourceName": "DzExams",
-   "solution": false,
-   "typeKey": "lesson",
-   "addedAt": "2026-09-13T22:34:55.172Z"
-  },
-  {
-   "id": "S40708",
-   "title": "التربية الإسلامية — شهادة التعليم المتوسط — موضوع التربية الإسلامية - شهادة التعليم المتوسط 2024",
-   "level": "bem",
-   "levelName": "شهادة التعليم المتوسط",
-   "stage": "middle",
-   "subject": "التربية الإسلامية",
-   "subjectKey": "تربية الاسلامية",
+   "id": "S44436",
+   "title": "اللغة الإسبانية — شهادة البكالوريا — موضوع اللغة الإسبانية - شهادة البكالوريا 2024",
+   "level": "bac",
+   "levelName": "البكالوريا",
+   "stage": "secondary",
+   "subject": "اللغة الإسبانية",
+   "subjectKey": "اسبانية",
    "stream": "all",
    "streamName": "جميع الشعب",
    "year": 2024,
    "type": "اختبارات وفروض",
-   "pdf": "https://www.dzexams.com/uploads/sujets/officiels/bem/2024/dzexams-bem-tarbia-islamia-405821.pdf",
-   "source": "https://www.dzexams.com/ar/annales/Q1lBRjRDSnpEaWpEVmFVbEYxako1UT09",
+   "pdf": "https://www.dzexams.com/uploads/sujets/officiels/bac/2024/dzexams-bac-espagnol-1412799.pdf",
+   "source": "https://www.dzexams.com/ar/annales/NVB3N3pPVGhCUTZZTGdoSUJZa091QT09",
    "sourceName": "DzExams",
    "solution": true,
    "typeKey": "exam",
-   "addedAt": "2026-09-13T22:34:27.062Z"
+   "addedAt": "2026-09-13T22:37:15.652Z"
   },
   {
-   "id": "S32204",
-   "title": "التربية الإسلامية — شهادة التعليم المتوسط — موضوع التربية الإسلامية - شهادة التعليم المتوسط 2023",
-   "level": "bem",
-   "levelName": "شهادة التعليم المتوسط",
-   "stage": "middle",
-   "subject": "التربية الإسلامية",
-   "subjectKey": "تربية الاسلامية",
+   "id": "S32219",
+   "title": "اللغة الإسبانية — شهادة البكالوريا — موضوع اللغة الإسبانية - شهادة البكالوريا 2023",
+   "level": "bac",
+   "levelName": "البكالوريا",
+   "stage": "secondary",
+   "subject": "اللغة الإسبانية",
+   "subjectKey": "اسبانية",
    "stream": "all",
    "streamName": "جميع الشعب",
    "year": 2023,
    "type": "اختبارات وفروض",
-   "pdf": "https://www.dzexams.com/uploads/sujets/officiels/bem/2023/dzexams-bem-tarbia-islamia-629238.pdf",
-   "source": "https://www.dzexams.com/ar/annales/M2xNeDFtVm5zR0dzM0gyVzhzNG9LZz09",
+   "pdf": "https://www.dzexams.com/uploads/sujets/officiels/bac/2023/dzexams-bac-espagnol-285850.pdf",
+   "source": "https://www.dzexams.com/ar/annales/WlY0NlRmY3ppLyt4UWZRb1RQWm9xQT09",
    "sourceName": "DzExams",
    "solution": true,
    "typeKey": "exam",
-   "addedAt": "2026-09-13T22:34:27.062Z"
+   "addedAt": "2026-09-13T22:37:15.652Z"
   },
   {
-   "id": "S27571",
-   "title": "التربية الإسلامية — شهادة التعليم المتوسط — موضوع التربية الإسلامية - شهادة التعليم المتوسط 2022",
-   "level": "bem",
-   "levelName": "شهادة التعليم المتوسط",
-   "stage": "middle",
-   "subject": "التربية الإسلامية",
-   "subjectKey": "تربية الاسلامية",
+   "id": "S27538",
+   "title": "اللغة الإسبانية — شهادة البكالوريا — موضوع اللغة الإسبانية - شهادة البكالوريا 2022",
+   "level": "bac",
+   "levelName": "البكالوريا",
+   "stage": "secondary",
+   "subject": "اللغة الإسبانية",
+   "subjectKey": "اسبانية",
    "stream": "all",
    "streamName": "جميع الشعب",
    "year": 2022,
    "type": "اختبارات وفروض",
-   "pdf": "https://www.dzexams.com/uploads/sujets/officiels/bem/2022/dzexams-bem-islamia-259573.pdf",
-   "source": "https://www.dzexams.com/ar/annales/T0pHMFdOWFJUNGtqRDM2d05pU0RwZz09",
+   "pdf": "https://www.dzexams.com/uploads/sujets/officiels/bac/2022/dzexams-bac-espagnol-1240389.pdf",
+   "source": "https://www.dzexams.com/ar/annales/VWZHcTlTNUpPZlBlZkpER1BCdGVXdz09",
    "sourceName": "DzExams",
    "solution": true,
    "typeKey": "exam",
-   "addedAt": "2026-09-13T22:34:27.062Z"
+   "addedAt": "2026-09-13T22:37:15.652Z"
   },
   {
-   "id": "S91",
-   "title": "التربية الإسلامية — شهادة التعليم المتوسط — موضوع التربية الإسلامية - شهادة التعليم المتوسط 2021",
-   "level": "bem",
-   "levelName": "شهادة التعليم المتوسط",
-   "stage": "middle",
-   "subject": "التربية الإسلامية",
-   "subjectKey": "تربية الاسلامية",
+   "id": "S460",
+   "title": "اللغة الإسبانية — شهادة البكالوريا — موضوع اللغة الإسبانية - شهادة البكالوريا 2021",
+   "level": "bac",
+   "levelName": "البكالوريا",
+   "stage": "secondary",
+   "subject": "اللغة الإسبانية",
+   "subjectKey": "اسبانية",
    "stream": "all",
    "streamName": "جميع الشعب",
    "year": 2021,
    "type": "اختبارات وفروض",
-   "pdf": "https://www.dzexams.com/uploads/sujets/officiels/bem/2021/dzexams-bem-islamia-414029.pdf",
-   "source": "https://www.dzexams.com/ar/annales/MTcvZWJkS2xxdEkrdG1BTHVJS0owUT09",
+   "pdf": "https://www.dzexams.com/uploads/sujets/officiels/bac/2021/dzexams-bac-espagnol-1295507.pdf",
+   "source": "https://www.dzexams.com/ar/annales/Z1VMS1AvaEQ3L2RJcStYeHJ2UXRBZz09",
    "sourceName": "DzExams",
    "solution": true,
    "typeKey": "exam",
-   "addedAt": "2026-09-13T22:34:27.062Z"
+   "addedAt": "2026-09-13T22:37:15.652Z"
   },
   {
-   "id": "S92",
-   "title": "التربية الإسلامية — شهادة التعليم المتوسط — موضوع التربية الإسلامية - شهادة التعليم المتوسط 2020",
-   "level": "bem",
-   "levelName": "شهادة التعليم المتوسط",
-   "stage": "middle",
-   "subject": "التربية الإسلامية",
-   "subjectKey": "تربية الاسلامية",
+   "id": "S461",
+   "title": "اللغة الإسبانية — شهادة البكالوريا — موضوع اللغة الإسبانية - شهادة البكالوريا 2020",
+   "level": "bac",
+   "levelName": "البكالوريا",
+   "stage": "secondary",
+   "subject": "اللغة الإسبانية",
+   "subjectKey": "اسبانية",
    "stream": "all",
    "streamName": "جميع الشعب",
    "year": 2020,
    "type": "اختبارات وفروض",
-   "pdf": "https://www.dzexams.com/uploads/sujets/officiels/bem/2020/dzexams-bem-islamia-777332.pdf",
-   "source": "https://www.dzexams.com/ar/annales/aFJja1VRaDhJUWlxY2p2WWpJZlRkUT09",
+   "pdf": "https://www.dzexams.com/uploads/sujets/officiels/bac/2020/dzexams-bac-espagnol-1805118.pdf",
+   "source": "https://www.dzexams.com/ar/annales/dmRVeFhnYWxNUlJNcWF1TjJsM01BUT09",
    "sourceName": "DzExams",
    "solution": true,
    "typeKey": "exam",
-   "addedAt": "2026-09-13T22:34:27.062Z"
+   "addedAt": "2026-09-13T22:37:15.652Z"
   },
   {
-   "id": "S93",
-   "title": "التربية الإسلامية — شهادة التعليم المتوسط — موضوع التربية الإسلامية - شهادة التعليم المتوسط 2019",
-   "level": "bem",
-   "levelName": "شهادة التعليم المتوسط",
-   "stage": "middle",
-   "subject": "التربية الإسلامية",
-   "subjectKey": "تربية الاسلامية",
+   "id": "S462",
+   "title": "اللغة الإسبانية — شهادة البكالوريا — موضوع اللغة الإسبانية - شهادة البكالوريا 2019",
+   "level": "bac",
+   "levelName": "البكالوريا",
+   "stage": "secondary",
+   "subject": "اللغة الإسبانية",
+   "subjectKey": "اسبانية",
    "stream": "all",
    "streamName": "جميع الشعب",
    "year": 2019,
    "type": "اختبارات وفروض",
-   "pdf": "https://www.dzexams.com/uploads/sujets/officiels/bem/2019/dzexams-bem-islamia-485938.pdf",
-   "source": "https://www.dzexams.com/ar/annales/SEplT1NCS0pnUVF1d29BczF1eTZOdz09",
+   "pdf": "https://www.dzexams.com/uploads/sujets/officiels/bac/2019/dzexams-bac-espagnol-1802201.pdf",
+   "source": "https://www.dzexams.com/ar/annales/eGJ3Q1oxNHlYdUZwRG82SnhseEttdz09",
    "sourceName": "DzExams",
    "solution": true,
    "typeKey": "exam",
-   "addedAt": "2026-09-13T22:34:27.062Z"
+   "addedAt": "2026-09-13T22:37:15.652Z"
   },
   {
-   "id": "S94",
-   "title": "التربية الإسلامية — شهادة التعليم المتوسط — موضوع التربية الإسلامية - شهادة التعليم المتوسط 2018",
-   "level": "bem",
-   "levelName": "شهادة التعليم المتوسط",
-   "stage": "middle",
-   "subject": "التربية الإسلامية",
-   "subjectKey": "تربية الاسلامية",
+   "id": "S463",
+   "title": "اللغة الإسبانية — شهادة البكالوريا — موضوع اللغة الإسبانية - شهادة البكالوريا 2018",
+   "level": "bac",
+   "levelName": "البكالوريا",
+   "stage": "secondary",
+   "subject": "اللغة الإسبانية",
+   "subjectKey": "اسبانية",
    "stream": "all",
    "streamName": "جميع الشعب",
    "year": 2018,
    "type": "اختبارات وفروض",
-   "pdf": "https://www.dzexams.com/uploads/sujets/officiels/bem/2018/dzexams-bem-islamia-1034590.pdf",
-   "source": "https://www.dzexams.com/ar/annales/VDNvQTJPYTA4cUg5VGZuczc5V2NWUT09",
+   "pdf": "https://www.dzexams.com/uploads/sujets/officiels/bac/2018/dzexams-bac-espagnol-1006364.pdf",
+   "source": "https://www.dzexams.com/ar/annales/TDViTE5DeSt1cTlpN3BUUU1KSXc1UT09",
    "sourceName": "DzExams",
    "solution": true,
    "typeKey": "exam",
-   "addedAt": "2026-09-13T22:34:27.062Z"
+   "addedAt": "2026-09-13T22:37:15.652Z"
   },
   {
-   "id": "S95",
-   "title": "التربية الإسلامية — شهادة التعليم المتوسط — موضوع التربية الإسلامية - شهادة التعليم المتوسط 2017",
-   "level": "bem",
-   "levelName": "شهادة التعليم المتوسط",
-   "stage": "middle",
-   "subject": "التربية الإسلامية",
-   "subjectKey": "تربية الاسلامية",
+   "id": "S464",
+   "title": "اللغة الإسبانية — شهادة البكالوريا — موضوع اللغة الإسبانية - شهادة البكالوريا 2017",
+   "level": "bac",
+   "levelName": "البكالوريا",
+   "stage": "secondary",
+   "subject": "اللغة الإسبانية",
+   "subjectKey": "اسبانية",
    "stream": "all",
    "streamName": "جميع الشعب",
    "year": 2017,
    "type": "اختبارات وفروض",
-   "pdf": "https://www.dzexams.com/uploads/sujets/officiels/bem/2017/dzexams-bem-islamia-1143142.pdf",
-   "source": "https://www.dzexams.com/ar/annales/VnRyYmQwU3V6R1pFbDdZS2pJQWRlQT09",
+   "pdf": "https://www.dzexams.com/uploads/sujets/officiels/bac/2017-2/dzexams-bac-espagnol-862966.pdf",
+   "source": "https://www.dzexams.com/ar/annales/a0pMY2wwdXNzUTJBanFXbkZwMmk1dz09",
    "sourceName": "DzExams",
    "solution": true,
    "typeKey": "exam",
-   "addedAt": "2026-09-13T22:34:27.062Z"
+   "addedAt": "2026-09-13T22:37:15.652Z"
   },
   {
-   "id": "S96",
-   "title": "التربية الإسلامية — شهادة التعليم المتوسط — موضوع التربية الإسلامية - شهادة التعليم المتوسط 2016",
-   "level": "bem",
-   "levelName": "شهادة التعليم المتوسط",
-   "stage": "middle",
-   "subject": "التربية الإسلامية",
-   "subjectKey": "تربية الاسلامية",
+   "id": "S465",
+   "title": "اللغة الإسبانية — شهادة البكالوريا — موضوع اللغة الإسبانية - شهادة البكالوريا 2017",
+   "level": "bac",
+   "levelName": "البكالوريا",
+   "stage": "secondary",
+   "subject": "اللغة الإسبانية",
+   "subjectKey": "اسبانية",
    "stream": "all",
    "streamName": "جميع الشعب",
-   "year": 2016,
+   "year": 2017,
    "type": "اختبارات وفروض",
-   "pdf": "https://www.dzexams.com/uploads/sujets/officiels/bem/2016/dzexams-bem-islamia-607018.pdf",
-   "source": "https://www.dzexams.com/ar/annales/RHN4ZUJsM0UzbjBIYWU0aWdqZ1paZz09",
+   "pdf": "https://www.dzexams.com/uploads/sujets/officiels/bac/2017/dzexams-bac-espagnol-2021360.pdf",
+   "source": "https://www.dzexams.com/ar/annales/OHk5aUVMZ1JUUEVpdzJxMTA3R3YwQT09",
    "sourceName": "DzExams",
    "solution": true,
    "typeKey": "exam",
-   "addedAt": "2026-09-13T22:34:27.062Z"
+   "addedAt": "2026-09-13T22:37:15.652Z"
   },
   {
-   "id": "S97",
-   "title": "التربية الإسلامية — شهادة التعليم المتوسط — موضوع التربية الإسلامية - شهادة التعليم المتوسط 2015",
-   "level": "bem",
-   "levelName": "شهادة التعليم المتوسط",
-   "stage": "middle",
-   "subject": "التربية الإسلامية",
-   "subjectKey": "تربية الاسلامية",
+   "id": "S467",
+   "title": "اللغة الإسبانية — شهادة البكالوريا — موضوع اللغة الإسبانية - شهادة البكالوريا 2015",
+   "level": "bac",
+   "levelName": "البكالوريا",
+   "stage": "secondary",
+   "subject": "اللغة الإسبانية",
+   "subjectKey": "اسبانية",
    "stream": "all",
    "streamName": "جميع الشعب",
    "year": 2015,
    "type": "اختبارات وفروض",
-   "pdf": "https://www.dzexams.com/uploads/sujets/officiels/bem/2015/dzexams-bem-islamia-1161534.pdf",
-   "source": "https://www.dzexams.com/ar/annales/SU0wZVVzRE14ZTdLZzJTVk1NOENPZz09",
+   "pdf": "https://www.dzexams.com/uploads/sujets/officiels/bac/2015/dzexams-bac-espagnol-1570557.pdf",
+   "source": "https://www.dzexams.com/ar/annales/bnBpQm1ndUd1dFFnZTBKK0FIZ2YzZz09",
    "sourceName": "DzExams",
    "solution": true,
    "typeKey": "exam",
-   "addedAt": "2026-09-13T22:34:27.062Z"
+   "addedAt": "2026-09-13T22:37:15.652Z"
   },
   {
-   "id": "S98",
-   "title": "التربية الإسلامية — شهادة التعليم المتوسط — موضوع التربية الإسلامية - شهادة التعليم المتوسط 2014",
-   "level": "bem",
-   "levelName": "شهادة التعليم المتوسط",
-   "stage": "middle",
-   "subject": "التربية الإسلامية",
-   "subjectKey": "تربية الاسلامية",
+   "id": "S468",
+   "title": "اللغة الإسبانية — شهادة البكالوريا — موضوع اللغة الإسبانية - شهادة البكالوريا 2014",
+   "level": "bac",
+   "levelName": "البكالوريا",
+   "stage": "secondary",
+   "subject": "اللغة الإسبانية",
+   "subjectKey": "اسبانية",
    "stream": "all",
    "streamName": "جميع الشعب",
    "year": 2014,
    "type": "اختبارات وفروض",
-   "pdf": "https://www.dzexams.com/uploads/sujets/officiels/bem/2014/dzexams-bem-islamia-504886.pdf",
-   "source": "https://www.dzexams.com/ar/annales/djN5RVQycktIRDlkNk9OMWZONEhVUT09",
+   "pdf": "https://www.dzexams.com/uploads/sujets/officiels/bac/2014/dzexams-bac-espagnol-1473430.pdf",
+   "source": "https://www.dzexams.com/ar/annales/a1l5QWJTZVdUb2VGa1RFdnk5R0UyZz09",
    "sourceName": "DzExams",
    "solution": true,
    "typeKey": "exam",
-   "addedAt": "2026-09-13T22:34:27.062Z"
+   "addedAt": "2026-09-13T22:37:15.652Z"
   },
   {
-   "id": "S99",
-   "title": "التربية الإسلامية — شهادة التعليم المتوسط — موضوع التربية الإسلامية - شهادة التعليم المتوسط 2013",
-   "level": "bem",
-   "levelName": "شهادة التعليم المتوسط",
-   "stage": "middle",
-   "subject": "التربية الإسلامية",
-   "subjectKey": "تربية الاسلامية",
+   "id": "S469",
+   "title": "اللغة الإسبانية — شهادة البكالوريا — موضوع اللغة الإسبانية - شهادة البكالوريا 2013",
+   "level": "bac",
+   "levelName": "البكالوريا",
+   "stage": "secondary",
+   "subject": "اللغة الإسبانية",
+   "subjectKey": "اسبانية",
    "stream": "all",
    "streamName": "جميع الشعب",
    "year": 2013,
    "type": "اختبارات وفروض",
-   "pdf": "https://www.dzexams.com/uploads/sujets/officiels/bem/2013/dzexams-bem-islamia-495710.pdf",
-   "source": "https://www.dzexams.com/ar/annales/Vk1wQk83cU5ZeU5DM2thRHR4V001dz09",
+   "pdf": "https://www.dzexams.com/uploads/sujets/officiels/bac/2013/dzexams-bac-espagnol-2159015.pdf",
+   "source": "https://www.dzexams.com/ar/annales/Sm9uS0RFVjV0cmkxdFJoVkJJV2Z2QT09",
    "sourceName": "DzExams",
    "solution": true,
    "typeKey": "exam",
-   "addedAt": "2026-09-13T22:34:27.062Z"
+   "addedAt": "2026-09-13T22:37:15.652Z"
   },
   {
-   "id": "S100",
-   "title": "التربية الإسلامية — شهادة التعليم المتوسط — موضوع التربية الإسلامية - شهادة التعليم المتوسط 2012",
-   "level": "bem",
-   "levelName": "شهادة التعليم المتوسط",
-   "stage": "middle",
-   "subject": "التربية الإسلامية",
-   "subjectKey": "تربية الاسلامية",
+   "id": "S470",
+   "title": "اللغة الإسبانية — شهادة البكالوريا — موضوع اللغة الإسبانية - شهادة البكالوريا 2012",
+   "level": "bac",
+   "levelName": "البكالوريا",
+   "stage": "secondary",
+   "subject": "اللغة الإسبانية",
+   "subjectKey": "اسبانية",
    "stream": "all",
    "streamName": "جميع الشعب",
    "year": 2012,
    "type": "اختبارات وفروض",
-   "pdf": "https://www.dzexams.com/uploads/sujets/officiels/bem/2012/dzexams-bem-islamia-570782.pdf",
-   "source": "https://www.dzexams.com/ar/annales/YWkrM09pREpFNjc3NGJEMUhVb2NmZz09",
+   "pdf": "https://www.dzexams.com/uploads/sujets/officiels/bac/2012/dzexams-bac-espagnol-1993009.pdf",
+   "source": "https://www.dzexams.com/ar/annales/RjNtYTdZWUl1T2REOW5BT2I0Um9kdz09",
    "sourceName": "DzExams",
    "solution": true,
    "typeKey": "exam",
-   "addedAt": "2026-09-13T22:34:27.062Z"
+   "addedAt": "2026-09-13T22:37:15.652Z"
   },
   {
-   "id": "S101",
-   "title": "التربية الإسلامية — شهادة التعليم المتوسط — موضوع التربية الإسلامية - شهادة التعليم المتوسط 2011",
-   "level": "bem",
-   "levelName": "شهادة التعليم المتوسط",
-   "stage": "middle",
-   "subject": "التربية الإسلامية",
-   "subjectKey": "تربية الاسلامية",
-   "stream": "all",
-   "streamName": "جميع الشعب",
-   "year": 2011,
-   "type": "اختبارات وفروض",
-   "pdf": "https://www.dzexams.com/uploads/sujets/officiels/bem/2011/dzexams-bem-islamia-320477.pdf",
-   "source": "https://www.dzexams.com/ar/annales/OSt3SXlKTE9qMmxaamo4QmVPOVhIQT09",
-   "sourceName": "DzExams",
-   "solution": true,
-   "typeKey": "exam",
-   "addedAt": "2026-09-13T22:34:27.062Z"
-  },
-  {
-   "id": "S30859",
-   "title": "التربية الإسلامية — شهادة التعليم المتوسط — موضوع التربية الإسلامية - شهادة التعليم المتوسط 2010",
-   "level": "bem",
-   "levelName": "شهادة التعليم المتوسط",
-   "stage": "middle",
-   "subject": "التربية الإسلامية",
-   "subjectKey": "تربية الاسلامية",
+   "id": "S30917",
+   "title": "اللغة الإسبانية — شهادة البكالوريا — موضوع اللغة الإسبانية - شهادة البكالوريا 2010",
+   "level": "bac",
+   "levelName": "البكالوريا",
+   "stage": "secondary",
+   "subject": "اللغة الإسبانية",
+   "subjectKey": "اسبانية",
    "stream": "all",
    "streamName": "جميع الشعب",
    "year": 2010,
    "type": "اختبارات وفروض",
-   "pdf": "https://www.dzexams.com/uploads/sujets/officiels/bem/2010/dzexams-bem-tarbia-islamia-332252.pdf",
-   "source": "https://www.dzexams.com/ar/annales/YWU0UzlNTnpaLzBYRm01eGQ1WGtKZz09",
+   "pdf": "https://www.dzexams.com/uploads/sujets/officiels/bac/2010/dzexams-bac-espagnol-2394431.pdf",
+   "source": "https://www.dzexams.com/ar/annales/RyszdVVYbVhyK01ocmVEbGo0QmpMQT09",
    "sourceName": "DzExams",
    "solution": true,
    "typeKey": "exam",
-   "addedAt": "2026-09-13T22:34:27.062Z"
+   "addedAt": "2026-09-13T22:37:15.652Z"
   },
   {
-   "id": "S30849",
-   "title": "التربية الإسلامية — شهادة التعليم المتوسط — موضوع التربية الإسلامية - شهادة التعليم المتوسط 2009",
-   "level": "bem",
-   "levelName": "شهادة التعليم المتوسط",
-   "stage": "middle",
-   "subject": "التربية الإسلامية",
-   "subjectKey": "تربية الاسلامية",
+   "id": "S30876",
+   "title": "اللغة الإسبانية — شهادة البكالوريا — موضوع اللغة الإسبانية - شهادة البكالوريا 2008",
+   "level": "bac",
+   "levelName": "البكالوريا",
+   "stage": "secondary",
+   "subject": "اللغة الإسبانية",
+   "subjectKey": "اسبانية",
    "stream": "all",
    "streamName": "جميع الشعب",
-   "year": 2009,
+   "year": 2008,
    "type": "اختبارات وفروض",
-   "pdf": "https://www.dzexams.com/uploads/sujets/officiels/bem/2009/dzexams-bem-tarbia-islamia-1054693.pdf",
-   "source": "https://www.dzexams.com/ar/annales/Rm12V1pXWmdZT1VrVTRCNHRyM0VWZz09",
+   "pdf": "https://www.dzexams.com/uploads/sujets/officiels/bac/2008/dzexams-bac-espagnol-595893.pdf",
+   "source": "https://www.dzexams.com/ar/annales/VHJ5MW5EV01ZcS93d1ZsQ21SNngzZz09",
    "sourceName": "DzExams",
    "solution": true,
    "typeKey": "exam",
-   "addedAt": "2026-09-13T22:34:27.062Z"
+   "addedAt": "2026-09-13T22:37:15.652Z"
+  },
+  {
+   "id": "S40674",
+   "title": "الإقتصاد والمناجمنت — شهادة البكالوريا — موضوع الإقتصاد والمناجمنت - شهادة البكالوريا 2024",
+   "level": "bac",
+   "levelName": "البكالوريا",
+   "stage": "secondary",
+   "subject": "الإقتصاد والمناجمنت",
+   "subjectKey": "اقتصاد والمناجمنت",
+   "stream": "all",
+   "streamName": "جميع الشعب",
+   "year": 2024,
+   "type": "اختبارات وفروض",
+   "pdf": "https://www.dzexams.com/uploads/sujets/officiels/bac/2024/dzexams-bac-economie-management-1125133.pdf",
+   "source": "https://www.dzexams.com/ar/annales/RTJGUERkTEU4eGpqUzVTUzFJUkxldz09",
+   "sourceName": "DzExams",
+   "solution": true,
+   "typeKey": "exam",
+   "addedAt": "2026-09-13T22:37:09.641Z"
+  },
+  {
+   "id": "S32218",
+   "title": "الإقتصاد والمناجمنت — شهادة البكالوريا — موضوع الإقتصاد والمناجمنت - شهادة البكالوريا 2023",
+   "level": "bac",
+   "levelName": "البكالوريا",
+   "stage": "secondary",
+   "subject": "الإقتصاد والمناجمنت",
+   "subjectKey": "اقتصاد والمناجمنت",
+   "stream": "all",
+   "streamName": "جميع الشعب",
+   "year": 2023,
+   "type": "اختبارات وفروض",
+   "pdf": "https://www.dzexams.com/uploads/sujets/officiels/bac/2023/dzexams-bac-economie-management-404835.pdf",
+   "source": "https://www.dzexams.com/ar/annales/NzBLVWdkRU01dFkvRHp5cEF1dXVtZz09",
+   "sourceName": "DzExams",
+   "solution": true,
+   "typeKey": "exam",
+   "addedAt": "2026-09-13T22:37:09.641Z"
+  },
+  {
+   "id": "S27537",
+   "title": "الإقتصاد والمناجمنت — شهادة البكالوريا — موضوع الإقتصاد والمناجمنت - شهادة البكالوريا 2022",
+   "level": "bac",
+   "levelName": "البكالوريا",
+   "stage": "secondary",
+   "subject": "الإقتصاد والمناجمنت",
+   "subjectKey": "اقتصاد والمناجمنت",
+   "stream": "all",
+   "streamName": "جميع الشعب",
+   "year": 2022,
+   "type": "اختبارات وفروض",
+   "pdf": "https://www.dzexams.com/uploads/sujets/officiels/bac/2022/dzexams-bac-economie-1119683.pdf",
+   "source": "https://www.dzexams.com/ar/annales/KzVhZTZzNVpBQjdTMk9IRW1xT21vUT09",
+   "sourceName": "DzExams",
+   "solution": true,
+   "typeKey": "exam",
+   "addedAt": "2026-09-13T22:37:09.641Z"
+  },
+  {
+   "id": "S471",
+   "title": "الإقتصاد والمناجمنت — شهادة البكالوريا — موضوع الإقتصاد والمناجمنت - شهادة البكالوريا 2021",
+   "level": "bac",
+   "levelName": "البكالوريا",
+   "stage": "secondary",
+   "subject": "الإقتصاد والمناجمنت",
+   "subjectKey": "اقتصاد والمناجمنت",
+   "stream": "all",
+   "streamName": "جميع الشعب",
+   "year": 2021,
+   "type": "اختبارات وفروض",
+   "pdf": "https://www.dzexams.com/uploads/sujets/officiels/bac/2021/dzexams-bac-economie-1191860.pdf",
+   "source": "https://www.dzexams.com/ar/annales/MjN1clE4dFVWRk9hQjF3OGlFQmIyQT09",
+   "sourceName": "DzExams",
+   "solution": true,
+   "typeKey": "exam",
+   "addedAt": "2026-09-13T22:37:09.641Z"
+  },
+  {
+   "id": "S472",
+   "title": "الإقتصاد والمناجمنت — شهادة البكالوريا — موضوع الإقتصاد والمناجمنت - شهادة البكالوريا 2020",
+   "level": "bac",
+   "levelName": "البكالوريا",
+   "stage": "secondary",
+   "subject": "الإقتصاد والمناجمنت",
+   "subjectKey": "اقتصاد والمناجمنت",
+   "stream": "all",
+   "streamName": "جميع الشعب",
+   "year": 2020,
+   "type": "اختبارات وفروض",
+   "pdf": "https://www.dzexams.com/uploads/sujets/officiels/bac/2020/dzexams-bac-economie-1799934.pdf",
+   "source": "https://www.dzexams.com/ar/annales/THoweitsb0Q5TUFtblZxVXl3Z2FJZz09",
+   "sourceName": "DzExams",
+   "solution": true,
+   "typeKey": "exam",
+   "addedAt": "2026-09-13T22:37:09.641Z"
+  },
+  {
+   "id": "S473",
+   "title": "الإقتصاد والمناجمنت — شهادة البكالوريا — موضوع الإقتصاد والمناجمنت - شهادة البكالوريا 2019",
+   "level": "bac",
+   "levelName": "البكالوريا",
+   "stage": "secondary",
+   "subject": "الإقتصاد والمناجمنت",
+   "subjectKey": "اقتصاد والمناجمنت",
+   "stream": "all",
+   "streamName": "جميع الشعب",
+   "year": 2019,
+   "type": "اختبارات وفروض",
+   "pdf": "https://www.dzexams.com/uploads/sujets/officiels/bac/2019/dzexams-bac-economie-1592639.pdf",
+   "source": "https://www.dzexams.com/ar/annales/c2x4MGRYelNuK0dDNUwvUmkvUExhUT09",
+   "sourceName": "DzExams",
+   "solution": true,
+   "typeKey": "exam",
+   "addedAt": "2026-09-13T22:37:09.641Z"
+  },
+  {
+   "id": "S474",
+   "title": "الإقتصاد والمناجمنت — شهادة البكالوريا — موضوع الإقتصاد والمناجمنت - شهادة البكالوريا 2018",
+   "level": "bac",
+   "levelName": "البكالوريا",
+   "stage": "secondary",
+   "subject": "الإقتصاد والمناجمنت",
+   "subjectKey": "اقتصاد والمناجمنت",
+   "stream": "all",
+   "streamName": "جميع الشعب",
+   "year": 2018,
+   "type": "اختبارات وفروض",
+   "pdf": "https://www.dzexams.com/uploads/sujets/officiels/bac/2018/dzexams-bac-economie-1405642.pdf",
+   "source": "https://www.dzexams.com/ar/annales/cHNOVXI3NlRZdCs0Ymp3UEZ5akVuZz09",
+   "sourceName": "DzExams",
+   "solution": true,
+   "typeKey": "exam",
+   "addedAt": "2026-09-13T22:37:09.641Z"
+  },
+  {
+   "id": "S475",
+   "title": "الإقتصاد والمناجمنت — شهادة البكالوريا — موضوع الإقتصاد والمناجمنت - شهادة البكالوريا 2017",
+   "level": "bac",
+   "levelName": "البكالوريا",
+   "stage": "secondary",
+   "subject": "الإقتصاد والمناجمنت",
+   "subjectKey": "اقتصاد والمناجمنت",
+   "stream": "all",
+   "streamName": "جميع الشعب",
+   "year": 2017,
+   "type": "اختبارات وفروض",
+   "pdf": "https://www.dzexams.com/uploads/sujets/officiels/bac/2017/dzexams-bac-economie-1801928.pdf",
+   "source": "https://www.dzexams.com/ar/annales/QmhDbTRyZS9Oc1VpUi8rZjZiT2NqZz09",
+   "sourceName": "DzExams",
+   "solution": true,
+   "typeKey": "exam",
+   "addedAt": "2026-09-13T22:37:09.641Z"
+  },
+  {
+   "id": "S476",
+   "title": "الإقتصاد والمناجمنت — شهادة البكالوريا — موضوع الإقتصاد والمناجمنت - شهادة البكالوريا 2017",
+   "level": "bac",
+   "levelName": "البكالوريا",
+   "stage": "secondary",
+   "subject": "الإقتصاد والمناجمنت",
+   "subjectKey": "اقتصاد والمناجمنت",
+   "stream": "all",
+   "streamName": "جميع الشعب",
+   "year": 2017,
+   "type": "اختبارات وفروض",
+   "pdf": "https://www.dzexams.com/uploads/sujets/officiels/bac/2017-2/dzexams-bac-economie-1142277.pdf",
+   "source": "https://www.dzexams.com/ar/annales/aEpmT1JkYnRIOHEvdGxyK3FVemlXZz09",
+   "sourceName": "DzExams",
+   "solution": true,
+   "typeKey": "exam",
+   "addedAt": "2026-09-13T22:37:09.641Z"
   }
  ],
  "news": [
+  {
+   "title": "بخصوص عملية إعادة التوجيه في التعليم الثانوي العام والتكنولوجي للسنة الدراسية 2026-2027",
+   "page_url": "https://www.education.gov.dz/2026/09/14/%d8%a8%d8%ae%d8%b5%d9%88%d8%b5-%d8%b9%d9%85%d9%84%d9%8a%d8%a9-%d8%a5%d8%b9%d8%a7%d8%af%d8%a9-%d8%a7%d9%84%d8%aa%d9%88%d8%ac%d9%8a%d9%87-%d9%81%d9%8a-%d8%a7%d9%84%d8%aa%d8%b9%d9%84%d9%8a%d9%85-%d8%a7/",
+   "published_at": "2026-09-14T11:38:56.000Z"
+  },
   {
    "title": "بلاغ لفائدة المترشحين الناجحين في مسابقات التوظيف على أساس الشهادات للالتحاق برتب التعليم بعنوان سنة 2025",
    "page_url": "https://www.education.gov.dz/2026/09/12/%d8%a8%d9%84%d8%a7%d8%ba-%d9%84%d9%81%d8%a7%d8%a6%d8%af%d8%a9-%d8%a7%d9%84%d9%85%d8%aa%d8%b1%d8%b4%d8%ad%d9%8a%d9%86-%d8%a7%d9%84%d9%86%d8%a7%d8%ac%d8%ad%d9%8a%d9%86-%d9%81%d9%8a-%d9%85%d8%b3%d8%a7/",
@@ -2138,11 +2165,6 @@
    "title": "وزير التربية الوطنية يترأس ندوة وطنية مرئية مع مديري التربية",
    "page_url": "https://www.education.gov.dz/2026/09/09/%d9%88%d8%b2%d9%8a%d8%b1-%d8%a7%d9%84%d8%aa%d8%b1%d8%a8%d9%8a%d8%a9-%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a%d8%a9-%d9%8a%d8%aa%d8%b1%d8%a3%d8%b3-%d9%86%d8%af%d9%88%d8%a9-%d9%88%d8%b7%d9%86%d9%8a%d8%a9-3/",
    "published_at": "2026-09-09T16:59:34.000Z"
-  },
-  {
-   "title": "بيان بخصوص فتح عملية نقل الأساتذة داخل وخارج الولاية عن طريق التبادل",
-   "page_url": "https://www.education.gov.dz/2026/09/09/%d8%a8%d9%8a%d8%a7%d9%86-%d8%a8%d8%ae%d8%b5%d9%88%d8%b5-%d9%81%d8%aa%d8%ad-%d8%b9%d9%85%d9%84%d9%8a%d8%a9-%d9%86%d9%82%d9%84-%d8%a7%d9%84%d8%a3%d8%b3%d8%a7%d8%aa%d8%b0%d8%a9-%d8%af%d8%a7%d8%ae%d9%84/",
-   "published_at": "2026-09-09T13:05:49.000Z"
   }
  ]
 }
