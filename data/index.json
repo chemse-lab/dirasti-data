@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-14T16:58:03.526Z",
- "total": 10547,
+ "generated_at": "2026-09-14T17:05:26.881Z",
+ "total": 10760,
  "shards": [
   {
    "file": "bac-5e4dec23--xf2964ab5.json",
@@ -153,9 +153,112 @@
    "count": 38
   },
   {
-   "file": "2as-78f75952.json",
+   "file": "2as-78f75952--x91b4a510.json",
    "level": "2as",
-   "count": 343
+   "subject": "عربية",
+   "count": 11
+  },
+  {
+   "file": "2as-78f75952--xca4e049c.json",
+   "level": "2as",
+   "subject": "علوم الطبيعة والحياة",
+   "count": 55
+  },
+  {
+   "file": "2as-78f75952--x858e891e.json",
+   "level": "2as",
+   "subject": "فرنسية",
+   "count": 10
+  },
+  {
+   "file": "2as-78f75952--xf2964ab5.json",
+   "level": "2as",
+   "subject": "فلسفة",
+   "count": 9
+  },
+  {
+   "file": "2as-78f75952--xf0519d05.json",
+   "level": "2as",
+   "subject": "علوم الفيزيائية",
+   "count": 90
+  },
+  {
+   "file": "2as-78f75952--x8dd76b09.json",
+   "level": "2as",
+   "subject": "رياضيات",
+   "count": 172
+  },
+  {
+   "file": "2as-78f75952--xdffa1d13.json",
+   "level": "2as",
+   "subject": "تاريخ والجغرافيا",
+   "count": 19
+  },
+  {
+   "file": "2as-78f75952--x25af644b.json",
+   "level": "2as",
+   "subject": "تربية الاسلامية",
+   "count": 8
+  },
+  {
+   "file": "2as-78f75952--x5e37d86f.json",
+   "level": "2as",
+   "subject": "المانية",
+   "count": 28
+  },
+  {
+   "file": "2as-78f75952--x1dc2f60b.json",
+   "level": "2as",
+   "subject": "ايطالية",
+   "count": 31
+  },
+  {
+   "file": "2as-78f75952--x3c29dace.json",
+   "level": "2as",
+   "subject": "هندسة الطرائق",
+   "count": 5
+  },
+  {
+   "file": "2as-78f75952--x038864e8.json",
+   "level": "2as",
+   "subject": "هندسة الكهربائية",
+   "count": 14
+  },
+  {
+   "file": "2as-78f75952--x6f7b65fd.json",
+   "level": "2as",
+   "subject": "اسبانية",
+   "count": 38
+  },
+  {
+   "file": "2as-78f75952--xde7cefe6.json",
+   "level": "2as",
+   "subject": "اقتصاد والمناجمنت",
+   "count": 3
+  },
+  {
+   "file": "2as-78f75952--x9c0466c0.json",
+   "level": "2as",
+   "subject": "تسيير المحاسبي والمالي",
+   "count": 10
+  },
+  {
+   "file": "2as-78f75952--xd1ec9be1.json",
+   "level": "2as",
+   "subject": "قانون",
+   "count": 10
+  },
+  {
+   "file": "2as-78f75952--x402215f0.json",
+   "level": "2as",
+   "subject": "هندسة الميكانيكية",
+   "count": 28
+  },
+  {
+   "file": "2as-78f75952--x3b0e76c9.json",
+   "level": "2as",
+   "subject": "هندسة المدنية",
+   "count": 15
   },
   {
    "file": "5ap-546d61a3--xa78a0a7e.json",
@@ -682,7 +785,7 @@
   {
    "id": "secondary",
    "name": "الثانوي",
-   "count": 3923
+   "count": 4136
   },
   {
    "id": "teachers",
@@ -803,11 +906,19 @@
    "id": "2as",
    "name": "الثانية ثانوي",
    "stage": "secondary",
-   "count": 343,
+   "count": 556,
    "subjects": [
     {
      "id": "رياضيات",
-     "count": 124
+     "count": 172
+    },
+    {
+     "id": "علوم الفيزيائية",
+     "count": 90
+    },
+    {
+     "id": "علوم الطبيعة والحياة",
+     "count": 55
     },
     {
      "id": "اسبانية",
@@ -838,12 +949,24 @@
      "count": 14
     },
     {
+     "id": "عربية",
+     "count": 11
+    },
+    {
+     "id": "فرنسية",
+     "count": 10
+    },
+    {
      "id": "تسيير المحاسبي والمالي",
      "count": 10
     },
     {
      "id": "قانون",
      "count": 10
+    },
+    {
+     "id": "فلسفة",
+     "count": 9
     },
     {
      "id": "تربية الاسلامية",
@@ -856,26 +979,6 @@
     {
      "id": "اقتصاد والمناجمنت",
      "count": 3
-    },
-    {
-     "id": "فلسفة",
-     "count": 2
-    },
-    {
-     "id": "عربية",
-     "count": 2
-    },
-    {
-     "id": "علوم الطبيعة والحياة",
-     "count": 2
-    },
-    {
-     "id": "فرنسية",
-     "count": 2
-    },
-    {
-     "id": "علوم الفيزيائية",
-     "count": 2
     }
    ]
   },
@@ -1583,7 +1686,7 @@
   {
    "id": "رياضيات",
    "name": "الرياضيات",
-   "count": 1451
+   "count": 1499
   },
   {
    "id": "علوم الاسلامية",
@@ -1593,7 +1696,7 @@
   {
    "id": "علوم الفيزيائية",
    "name": "العلوم الفيزيائية",
-   "count": 139
+   "count": 227
   },
   {
    "id": "علوم الفيزيائية والتكنولوجيا",
@@ -1603,7 +1706,7 @@
   {
    "id": "فلسفة",
    "name": "الفلسفة",
-   "count": 180
+   "count": 187
   },
   {
    "id": "قانون",
@@ -1638,7 +1741,7 @@
   {
    "id": "عربية",
    "name": "اللغة العربية",
-   "count": 801
+   "count": 810
   },
   {
    "id": "عربية وادابها",
@@ -1648,7 +1751,7 @@
   {
    "id": "فرنسية",
    "name": "اللغة الفرنسية",
-   "count": 1036
+   "count": 1044
   },
   {
    "id": "هندسة الكهربائية",
@@ -1678,7 +1781,7 @@
   {
    "id": "علوم الطبيعة والحياة",
    "name": "علوم الطبيعة والحياة",
-   "count": 707
+   "count": 760
   },
   {
    "id": "هندسة الطرائق",
@@ -1732,7 +1835,7 @@
  ],
  "recent": {
   "days": 7,
-  "count": 10547
+  "count": 10760
  },
  "featured": [
   {
@@ -2097,99 +2200,99 @@
    "addedAt": "2026-09-13T22:41:34.897Z"
   },
   {
-   "id": "D432009",
-   "title": "سلسلة تمارين الفصل الأول في الرياضيات - 2 ثانوي",
+   "id": "D906784",
+   "title": "ملخص درس الممنوع من الصرف لعلة واحدة و لعلتين - 2 ثانوي",
    "level": "2as",
    "levelName": "الثانية ثانوي",
    "stage": "secondary",
-   "subject": "الرياضيات",
-   "subjectKey": "رياضيات",
+   "subject": "اللغة العربية",
+   "subjectKey": "عربية",
    "stream": "all",
    "streamName": "جميع الشعب",
    "year": "",
-   "type": "تمارين",
-   "pdf": "https://www.dzexams.com/uploads/documents/dzexams-docs-2as-432009.pdf",
-   "source": "https://www.dzexams.com/ar/documents/TC8zYmZiYmtpZkxJdTJEUVlBU1dPUT09",
+   "type": "ملخصات",
+   "pdf": "https://www.dzexams.com/uploads/documents/dzexams-docs-2as-906784.pdf",
+   "source": "https://www.dzexams.com/ar/documents/ZlN4RHNoOGFZcDVxRTBBMUZ5ZVdRZz09",
    "sourceName": "DzExams",
    "solution": false,
-   "typeKey": "exercise",
-   "addedAt": "2026-09-13T22:41:20.130Z"
+   "typeKey": "summary",
+   "addedAt": "2026-09-13T22:41:30.189Z"
   },
   {
-   "id": "D432014",
-   "title": "حلول تمارين الكتاب المدرسي في الرياضيات (تسيير و اقتصاد) - 2 ثانوي",
+   "id": "D906785",
+   "title": "كيفية تحليل النصوص الادبية في مادة اللغة العربية - 2 ثانوي",
    "level": "2as",
    "levelName": "الثانية ثانوي",
    "stage": "secondary",
-   "subject": "الرياضيات",
-   "subjectKey": "رياضيات",
-   "stream": "ges",
-   "streamName": "تسيير واقتصاد",
-   "year": "",
-   "type": "تمارين",
-   "pdf": "https://www.dzexams.com/uploads/documents/dzexams-docs-2as-432014.pdf",
-   "source": "https://www.dzexams.com/ar/documents/amsxVWNhZ1d2Y2Q0WXNtbWVVQjMyZz09",
-   "sourceName": "DzExams",
-   "solution": false,
-   "typeKey": "exercise",
-   "addedAt": "2026-09-13T22:41:20.130Z"
-  },
-  {
-   "id": "D432015",
-   "title": "حلول تمارين الكتاب المدرسي في الرياضيات (الشعب الأدبية) - 2 ثانوي",
-   "level": "2as",
-   "levelName": "الثانية ثانوي",
-   "stage": "secondary",
-   "subject": "الرياضيات",
-   "subjectKey": "رياضيات",
-   "stream": "lettres",
-   "streamName": "الشعب الأدبية",
-   "year": "",
-   "type": "تمارين",
-   "pdf": "https://www.dzexams.com/uploads/documents/dzexams-docs-2as-432015.pdf",
-   "source": "https://www.dzexams.com/ar/documents/aHZHZjNvTm9KWUFIalhFYnVneml0UT09",
-   "sourceName": "DzExams",
-   "solution": false,
-   "typeKey": "exercise",
-   "addedAt": "2026-09-13T22:41:20.130Z"
-  },
-  {
-   "id": "D900595",
-   "title": "سلسلة تمارين الفصل الأول إعداد الأستاذ قنطار لحسن - 2 ثانوي",
-   "level": "2as",
-   "levelName": "الثانية ثانوي",
-   "stage": "secondary",
-   "subject": "الرياضيات",
-   "subjectKey": "رياضيات",
+   "subject": "اللغة العربية",
+   "subjectKey": "عربية",
    "stream": "all",
    "streamName": "جميع الشعب",
    "year": "",
-   "type": "تمارين",
-   "pdf": "https://www.dzexams.com/uploads/documents/dzexams-docs-2as-900595.pdf",
-   "source": "https://www.dzexams.com/ar/documents/UXZ0OWVNdE5La3ViVWQrUGsrYWVEUT09",
+   "type": "دروس",
+   "pdf": "https://www.dzexams.com/uploads/documents/dzexams-docs-2as-906785.pdf",
+   "source": "https://www.dzexams.com/ar/documents/aVlQRW5jM2p6WkZnZVlhY2d3d3Nydz09",
    "sourceName": "DzExams",
    "solution": false,
-   "typeKey": "exercise",
-   "addedAt": "2026-09-13T22:41:20.130Z"
+   "typeKey": "lesson",
+   "addedAt": "2026-09-13T22:41:30.189Z"
   },
   {
-   "id": "D900596",
-   "title": "سلسلة تمارين حول الاشتقاقية إعداد الأستاذ قنطار لحسن - 2 ثانوي",
+   "id": "D908551",
+   "title": "درس أسلوب المدح والذم في الأدب العربي - 2 ثانوي",
    "level": "2as",
    "levelName": "الثانية ثانوي",
    "stage": "secondary",
-   "subject": "الرياضيات",
-   "subjectKey": "رياضيات",
+   "subject": "اللغة العربية",
+   "subjectKey": "عربية",
    "stream": "all",
    "streamName": "جميع الشعب",
    "year": "",
-   "type": "تمارين",
-   "pdf": "https://www.dzexams.com/uploads/documents/dzexams-docs-2as-900596.pdf",
-   "source": "https://www.dzexams.com/ar/documents/VUFFZjNMN3p2VXhmSlozVENjRzlKdz09",
+   "type": "دروس",
+   "pdf": "https://www.dzexams.com/uploads/documents/dzexams-docs-2as-908551.pdf",
+   "source": "https://www.dzexams.com/ar/documents/cy9kUnB3MFRVZlg2b2JMQ0FwQVQ0UT09",
    "sourceName": "DzExams",
    "solution": false,
-   "typeKey": "exercise",
-   "addedAt": "2026-09-13T22:41:20.130Z"
+   "typeKey": "lesson",
+   "addedAt": "2026-09-13T22:41:30.189Z"
+  },
+  {
+   "id": "D908552",
+   "title": "درس أغراض الخبر والإنشاء في الأدب العربي - 2 ثانوي",
+   "level": "2as",
+   "levelName": "الثانية ثانوي",
+   "stage": "secondary",
+   "subject": "اللغة العربية",
+   "subjectKey": "عربية",
+   "stream": "all",
+   "streamName": "جميع الشعب",
+   "year": "",
+   "type": "دروس",
+   "pdf": "https://www.dzexams.com/uploads/documents/dzexams-docs-2as-908552.pdf",
+   "source": "https://www.dzexams.com/ar/documents/dHp4dEROL0oyTURyRmZWZDA4OHBIUT09",
+   "sourceName": "DzExams",
+   "solution": false,
+   "typeKey": "lesson",
+   "addedAt": "2026-09-13T22:41:30.189Z"
+  },
+  {
+   "id": "D908553",
+   "title": "درس الإجاز والمساواة والإطناب في الأدب العربي - 2 ثانوي",
+   "level": "2as",
+   "levelName": "الثانية ثانوي",
+   "stage": "secondary",
+   "subject": "اللغة العربية",
+   "subjectKey": "عربية",
+   "stream": "all",
+   "streamName": "جميع الشعب",
+   "year": "",
+   "type": "دروس",
+   "pdf": "https://www.dzexams.com/uploads/documents/dzexams-docs-2as-908553.pdf",
+   "source": "https://www.dzexams.com/ar/documents/TStRdm9jQTlhaitNMXRyRFc3NDBVZz09",
+   "sourceName": "DzExams",
+   "solution": false,
+   "typeKey": "lesson",
+   "addedAt": "2026-09-13T22:41:30.189Z"
   }
  ],
  "news": [
