@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-14T19:58:05.150Z",
- "total": 10760,
+ "generated_at": "2026-09-14T20:06:12.160Z",
+ "total": 10762,
  "shards": [
   {
    "file": "bac-5e4dec23--xf2964ab5.json",
@@ -174,7 +174,7 @@
    "file": "2as-78f75952--xf2964ab5.json",
    "level": "2as",
    "subject": "فلسفة",
-   "count": 9
+   "count": 11
   },
   {
    "file": "2as-78f75952--xf0519d05.json",
@@ -785,7 +785,7 @@
   {
    "id": "secondary",
    "name": "الثانوي",
-   "count": 4136
+   "count": 4138
   },
   {
    "id": "teachers",
@@ -906,7 +906,7 @@
    "id": "2as",
    "name": "الثانية ثانوي",
    "stage": "secondary",
-   "count": 556,
+   "count": 558,
    "subjects": [
     {
      "id": "رياضيات",
@@ -953,6 +953,10 @@
      "count": 11
     },
     {
+     "id": "فلسفة",
+     "count": 11
+    },
+    {
      "id": "فرنسية",
      "count": 10
     },
@@ -963,10 +967,6 @@
     {
      "id": "قانون",
      "count": 10
-    },
-    {
-     "id": "فلسفة",
-     "count": 9
     },
     {
      "id": "تربية الاسلامية",
@@ -1706,7 +1706,7 @@
   {
    "id": "فلسفة",
    "name": "الفلسفة",
-   "count": 187
+   "count": 189
   },
   {
    "id": "قانون",
@@ -1835,7 +1835,7 @@
  ],
  "recent": {
   "days": 7,
-  "count": 10760
+  "count": 10762
  },
  "featured": [
   {
