@@ -1,24 +1,54 @@
 {
- "generated_at": "2026-09-22T16:58:03.621Z",
- "total": 11095,
+ "generated_at": "2026-09-22T17:28:12.808Z",
+ "total": 11146,
  "shards": [
+  {
+   "file": "3as-b0225673--xf2964ab5.json",
+   "level": "3as",
+   "subject": "فلسفة",
+   "count": 128
+  },
   {
    "file": "3as-b0225673--xdffa1d13.json",
    "level": "3as",
    "subject": "تاريخ والجغرافيا",
-   "count": 217
+   "count": 220
+  },
+  {
+   "file": "3as-b0225673--x6acf11b0.json",
+   "level": "3as",
+   "subject": "تسيير محاسبي",
+   "count": 4
+  },
+  {
+   "file": "3as-b0225673--xe204e82f.json",
+   "level": "3as",
+   "subject": "تكنولوجيا",
+   "count": 7
+  },
+  {
+   "file": "3as-b0225673--xca4e049c.json",
+   "level": "3as",
+   "subject": "علوم الطبيعة والحياة",
+   "count": 335
+  },
+  {
+   "file": "3as-b0225673--x6f7b65fd.json",
+   "level": "3as",
+   "subject": "اسبانية",
+   "count": 59
+  },
+  {
+   "file": "3as-b0225673--x5e37d86f.json",
+   "level": "3as",
+   "subject": "المانية",
+   "count": 48
   },
   {
    "file": "3as-b0225673--x858e891e.json",
    "level": "3as",
    "subject": "فرنسية",
    "count": 256
-  },
-  {
-   "file": "3as-b0225673--xca4e049c.json",
-   "level": "3as",
-   "subject": "علوم الطبيعة والحياة",
-   "count": 331
   },
   {
    "file": "3as-b0225673--x25af644b.json",
@@ -39,40 +69,10 @@
    "count": 307
   },
   {
-   "file": "3as-b0225673--x6f7b65fd.json",
-   "level": "3as",
-   "subject": "اسبانية",
-   "count": 57
-  },
-  {
-   "file": "3as-b0225673--xe204e82f.json",
-   "level": "3as",
-   "subject": "تكنولوجيا",
-   "count": 4
-  },
-  {
-   "file": "3as-b0225673--x6acf11b0.json",
-   "level": "3as",
-   "subject": "تسيير محاسبي",
-   "count": 1
-  },
-  {
    "file": "3as-b0225673--xced38d1b.json",
    "level": "3as",
    "subject": "اقتصاد ومناجمنت",
    "count": 1
-  },
-  {
-   "file": "3as-b0225673--x5e37d86f.json",
-   "level": "3as",
-   "subject": "المانية",
-   "count": 47
-  },
-  {
-   "file": "3as-b0225673--xf2964ab5.json",
-   "level": "3as",
-   "subject": "فلسفة",
-   "count": 121
   },
   {
    "file": "3as-b0225673--xec764203.json",
@@ -151,6 +151,143 @@
    "level": "3as",
    "subject": "عربية وادابها",
    "count": 229
+  },
+  {
+   "file": "2as-78f75952--xd1ec9be1.json",
+   "level": "2as",
+   "subject": "قانون",
+   "count": 11
+  },
+  {
+   "file": "2as-78f75952--xdffa1d13.json",
+   "level": "2as",
+   "subject": "تاريخ والجغرافيا",
+   "count": 22
+  },
+  {
+   "file": "2as-78f75952--x6f7b65fd.json",
+   "level": "2as",
+   "subject": "اسبانية",
+   "count": 39
+  },
+  {
+   "file": "2as-78f75952--x090a0157.json",
+   "level": "2as",
+   "subject": "علوم اسلامية",
+   "count": 1
+  },
+  {
+   "file": "2as-78f75952--x858e891e.json",
+   "level": "2as",
+   "subject": "فرنسية",
+   "count": 11
+  },
+  {
+   "file": "2as-78f75952--xced38d1b.json",
+   "level": "2as",
+   "subject": "اقتصاد ومناجمنت",
+   "count": 2
+  },
+  {
+   "file": "2as-78f75952--xf2964ab5.json",
+   "level": "2as",
+   "subject": "فلسفة",
+   "count": 13
+  },
+  {
+   "file": "2as-78f75952--xc07862d0.json",
+   "level": "2as",
+   "subject": "لغة ايطالية",
+   "count": 2
+  },
+  {
+   "file": "2as-78f75952--xe204e82f.json",
+   "level": "2as",
+   "subject": "تكنولوجيا",
+   "count": 4
+  },
+  {
+   "file": "2as-78f75952--x91b4a510.json",
+   "level": "2as",
+   "subject": "عربية",
+   "count": 11
+  },
+  {
+   "file": "2as-78f75952--xca4e049c.json",
+   "level": "2as",
+   "subject": "علوم الطبيعة والحياة",
+   "count": 55
+  },
+  {
+   "file": "2as-78f75952--xf0519d05.json",
+   "level": "2as",
+   "subject": "علوم الفيزيائية",
+   "count": 91
+  },
+  {
+   "file": "2as-78f75952--x8dd76b09.json",
+   "level": "2as",
+   "subject": "رياضيات",
+   "count": 172
+  },
+  {
+   "file": "2as-78f75952--x25af644b.json",
+   "level": "2as",
+   "subject": "تربية الاسلامية",
+   "count": 8
+  },
+  {
+   "file": "2as-78f75952--x5e37d86f.json",
+   "level": "2as",
+   "subject": "المانية",
+   "count": 28
+  },
+  {
+   "file": "2as-78f75952--x1dc2f60b.json",
+   "level": "2as",
+   "subject": "ايطالية",
+   "count": 31
+  },
+  {
+   "file": "2as-78f75952--x3c29dace.json",
+   "level": "2as",
+   "subject": "هندسة الطرائق",
+   "count": 5
+  },
+  {
+   "file": "2as-78f75952--x038864e8.json",
+   "level": "2as",
+   "subject": "هندسة الكهربائية",
+   "count": 14
+  },
+  {
+   "file": "2as-78f75952--xde7cefe6.json",
+   "level": "2as",
+   "subject": "اقتصاد والمناجمنت",
+   "count": 3
+  },
+  {
+   "file": "2as-78f75952--x9c0466c0.json",
+   "level": "2as",
+   "subject": "تسيير المحاسبي والمالي",
+   "count": 10
+  },
+  {
+   "file": "2as-78f75952--x402215f0.json",
+   "level": "2as",
+   "subject": "هندسة الميكانيكية",
+   "count": 28
+  },
+  {
+   "file": "2as-78f75952--x3b0e76c9.json",
+   "level": "2as",
+   "subject": "هندسة المدنية",
+   "count": 15
+  },
+  {
+   "file": "1as-a92ecd15.json",
+   "level": "1as",
+   "count": 271
   },
   {
    "file": "bac-5e4dec23--x8dd76b09.json",
@@ -301,119 +438,6 @@
    "level": "bac",
    "subject": "عربية وادابها",
    "count": 38
-  },
-  {
-   "file": "2as-78f75952--x91b4a510.json",
-   "level": "2as",
-   "subject": "عربية",
-   "count": 11
-  },
-  {
-   "file": "2as-78f75952--xca4e049c.json",
-   "level": "2as",
-   "subject": "علوم الطبيعة والحياة",
-   "count": 55
-  },
-  {
-   "file": "2as-78f75952--x858e891e.json",
-   "level": "2as",
-   "subject": "فرنسية",
-   "count": 10
-  },
-  {
-   "file": "2as-78f75952--xf2964ab5.json",
-   "level": "2as",
-   "subject": "فلسفة",
-   "count": 12
-  },
-  {
-   "file": "2as-78f75952--xf0519d05.json",
-   "level": "2as",
-   "subject": "علوم الفيزيائية",
-   "count": 91
-  },
-  {
-   "file": "2as-78f75952--x8dd76b09.json",
-   "level": "2as",
-   "subject": "رياضيات",
-   "count": 172
-  },
-  {
-   "file": "2as-78f75952--xdffa1d13.json",
-   "level": "2as",
-   "subject": "تاريخ والجغرافيا",
-   "count": 19
-  },
-  {
-   "file": "2as-78f75952--x25af644b.json",
-   "level": "2as",
-   "subject": "تربية الاسلامية",
-   "count": 8
-  },
-  {
-   "file": "2as-78f75952--x5e37d86f.json",
-   "level": "2as",
-   "subject": "المانية",
-   "count": 28
-  },
-  {
-   "file": "2as-78f75952--x1dc2f60b.json",
-   "level": "2as",
-   "subject": "ايطالية",
-   "count": 31
-  },
-  {
-   "file": "2as-78f75952--x3c29dace.json",
-   "level": "2as",
-   "subject": "هندسة الطرائق",
-   "count": 5
-  },
-  {
-   "file": "2as-78f75952--x038864e8.json",
-   "level": "2as",
-   "subject": "هندسة الكهربائية",
-   "count": 14
-  },
-  {
-   "file": "2as-78f75952--x6f7b65fd.json",
-   "level": "2as",
-   "subject": "اسبانية",
-   "count": 38
-  },
-  {
-   "file": "2as-78f75952--xde7cefe6.json",
-   "level": "2as",
-   "subject": "اقتصاد والمناجمنت",
-   "count": 3
-  },
-  {
-   "file": "2as-78f75952--x9c0466c0.json",
-   "level": "2as",
-   "subject": "تسيير المحاسبي والمالي",
-   "count": 10
-  },
-  {
-   "file": "2as-78f75952--xd1ec9be1.json",
-   "level": "2as",
-   "subject": "قانون",
-   "count": 10
-  },
-  {
-   "file": "2as-78f75952--x402215f0.json",
-   "level": "2as",
-   "subject": "هندسة الميكانيكية",
-   "count": 28
-  },
-  {
-   "file": "2as-78f75952--x3b0e76c9.json",
-   "level": "2as",
-   "subject": "هندسة المدنية",
-   "count": 15
-  },
-  {
-   "file": "1as-a92ecd15.json",
-   "level": "1as",
-   "count": 259
   },
   {
    "file": "5ap-546d61a3--xa78a0a7e.json",
@@ -821,7 +845,7 @@
   {
    "id": "secondary",
    "name": "الثانوي",
-   "count": 4470
+   "count": 4521
   },
   {
    "id": "teachers",
@@ -834,11 +858,11 @@
    "id": "3as",
    "name": "الثالثة ثانوي",
    "stage": "secondary",
-   "count": 2751,
+   "count": 2774,
    "subjects": [
     {
      "id": "علوم الطبيعة والحياة",
-     "count": 331
+     "count": 335
     },
     {
      "id": "رياضيات",
@@ -862,15 +886,15 @@
     },
     {
      "id": "تاريخ والجغرافيا",
-     "count": 217
+     "count": 220
+    },
+    {
+     "id": "فلسفة",
+     "count": 128
     },
     {
      "id": "تربية الاسلامية",
      "count": 126
-    },
-    {
-     "id": "فلسفة",
-     "count": 121
     },
     {
      "id": "هندسة المدنية",
@@ -898,31 +922,31 @@
     },
     {
      "id": "اسبانية",
-     "count": 57
+     "count": 59
     },
     {
      "id": "المانية",
-     "count": 47
+     "count": 48
     },
     {
      "id": "هندسة الميكانيكية",
      "count": 37
     },
     {
+     "id": "تكنولوجيا",
+     "count": 7
+    },
+    {
      "id": "علوم اسلامية",
      "count": 5
     },
     {
-     "id": "تكنولوجيا",
+     "id": "تسيير محاسبي",
      "count": 4
     },
     {
      "id": "عربية",
      "count": 3
-    },
-    {
-     "id": "تسيير محاسبي",
-     "count": 1
     },
     {
      "id": "اقتصاد ومناجمنت",
@@ -934,6 +958,162 @@
     },
     {
      "id": "ايطالية",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "id": "2as",
+   "name": "الثانية ثانوي",
+   "stage": "secondary",
+   "count": 576,
+   "subjects": [
+    {
+     "id": "رياضيات",
+     "count": 172
+    },
+    {
+     "id": "علوم الفيزيائية",
+     "count": 91
+    },
+    {
+     "id": "علوم الطبيعة والحياة",
+     "count": 55
+    },
+    {
+     "id": "اسبانية",
+     "count": 39
+    },
+    {
+     "id": "ايطالية",
+     "count": 31
+    },
+    {
+     "id": "المانية",
+     "count": 28
+    },
+    {
+     "id": "هندسة الميكانيكية",
+     "count": 28
+    },
+    {
+     "id": "تاريخ والجغرافيا",
+     "count": 22
+    },
+    {
+     "id": "هندسة المدنية",
+     "count": 15
+    },
+    {
+     "id": "هندسة الكهربائية",
+     "count": 14
+    },
+    {
+     "id": "فلسفة",
+     "count": 13
+    },
+    {
+     "id": "قانون",
+     "count": 11
+    },
+    {
+     "id": "فرنسية",
+     "count": 11
+    },
+    {
+     "id": "عربية",
+     "count": 11
+    },
+    {
+     "id": "تسيير المحاسبي والمالي",
+     "count": 10
+    },
+    {
+     "id": "تربية الاسلامية",
+     "count": 8
+    },
+    {
+     "id": "هندسة الطرائق",
+     "count": 5
+    },
+    {
+     "id": "تكنولوجيا",
+     "count": 4
+    },
+    {
+     "id": "اقتصاد والمناجمنت",
+     "count": 3
+    },
+    {
+     "id": "اقتصاد ومناجمنت",
+     "count": 2
+    },
+    {
+     "id": "لغة ايطالية",
+     "count": 2
+    },
+    {
+     "id": "علوم اسلامية",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "id": "1as",
+   "name": "الأولى ثانوي",
+   "stage": "secondary",
+   "count": 271,
+   "subjects": [
+    {
+     "id": "رياضيات",
+     "count": 121
+    },
+    {
+     "id": "تربية الفنية",
+     "count": 68
+    },
+    {
+     "id": "تكنولوجيا",
+     "count": 25
+    },
+    {
+     "id": "تاريخ والجغرافيا",
+     "count": 25
+    },
+    {
+     "id": "فرنسية",
+     "count": 10
+    },
+    {
+     "id": "اعلام الالي",
+     "count": 8
+    },
+    {
+     "id": "علوم الطبيعة والحياة",
+     "count": 3
+    },
+    {
+     "id": "علوم فيزيائية",
+     "count": 2
+    },
+    {
+     "id": "انجليزية",
+     "count": 2
+    },
+    {
+     "id": "تربية الاسلامية",
+     "count": 2
+    },
+    {
+     "id": "علوم الفيزيائية",
+     "count": 2
+    },
+    {
+     "id": "عربية",
+     "count": 2
+    },
+    {
+     "id": "علوم اسلامية",
      "count": 1
     }
    ]
@@ -1043,138 +1223,6 @@
     {
      "id": "هندسة ميكانيكية",
      "count": 6
-    }
-   ]
-  },
-  {
-   "id": "2as",
-   "name": "الثانية ثانوي",
-   "stage": "secondary",
-   "count": 560,
-   "subjects": [
-    {
-     "id": "رياضيات",
-     "count": 172
-    },
-    {
-     "id": "علوم الفيزيائية",
-     "count": 91
-    },
-    {
-     "id": "علوم الطبيعة والحياة",
-     "count": 55
-    },
-    {
-     "id": "اسبانية",
-     "count": 38
-    },
-    {
-     "id": "ايطالية",
-     "count": 31
-    },
-    {
-     "id": "المانية",
-     "count": 28
-    },
-    {
-     "id": "هندسة الميكانيكية",
-     "count": 28
-    },
-    {
-     "id": "تاريخ والجغرافيا",
-     "count": 19
-    },
-    {
-     "id": "هندسة المدنية",
-     "count": 15
-    },
-    {
-     "id": "هندسة الكهربائية",
-     "count": 14
-    },
-    {
-     "id": "فلسفة",
-     "count": 12
-    },
-    {
-     "id": "عربية",
-     "count": 11
-    },
-    {
-     "id": "فرنسية",
-     "count": 10
-    },
-    {
-     "id": "تسيير المحاسبي والمالي",
-     "count": 10
-    },
-    {
-     "id": "قانون",
-     "count": 10
-    },
-    {
-     "id": "تربية الاسلامية",
-     "count": 8
-    },
-    {
-     "id": "هندسة الطرائق",
-     "count": 5
-    },
-    {
-     "id": "اقتصاد والمناجمنت",
-     "count": 3
-    }
-   ]
-  },
-  {
-   "id": "1as",
-   "name": "الأولى ثانوي",
-   "stage": "secondary",
-   "count": 259,
-   "subjects": [
-    {
-     "id": "رياضيات",
-     "count": 121
-    },
-    {
-     "id": "تربية الفنية",
-     "count": 68
-    },
-    {
-     "id": "تاريخ والجغرافيا",
-     "count": 24
-    },
-    {
-     "id": "تكنولوجيا",
-     "count": 22
-    },
-    {
-     "id": "فرنسية",
-     "count": 8
-    },
-    {
-     "id": "اعلام الالي",
-     "count": 7
-    },
-    {
-     "id": "تربية الاسلامية",
-     "count": 2
-    },
-    {
-     "id": "علوم الطبيعة والحياة",
-     "count": 2
-    },
-    {
-     "id": "علوم الفيزيائية",
-     "count": 2
-    },
-    {
-     "id": "عربية",
-     "count": 2
-    },
-    {
-     "id": "انجليزية",
-     "count": 1
     }
    ]
   },
@@ -1692,13 +1740,13 @@
    "id": "اقتصاد ومناجمنت",
    "name": "اقتصاد ومناجمنت",
    "icon": "📊",
-   "count": 1
+   "count": 3
   },
   {
    "id": "اعلام الالي",
    "name": "الإعلام الآلي",
    "icon": "🖥️",
-   "count": 119
+   "count": 120
   },
   {
    "id": "اقتصاد والمناجمنت",
@@ -1710,7 +1758,7 @@
    "id": "تاريخ والجغرافيا",
    "name": "التاريخ والجغرافيا",
    "icon": "🗺️",
-   "count": 883
+   "count": 890
   },
   {
    "id": "تربية الاسلامية",
@@ -1758,7 +1806,7 @@
    "id": "تكنولوجيا",
    "name": "التكنولوجيا",
    "icon": "⚙️",
-   "count": 26
+   "count": 36
   },
   {
    "id": "رياضيات",
@@ -1788,25 +1836,25 @@
    "id": "فلسفة",
    "name": "الفلسفة",
    "icon": "💭",
-   "count": 224
+   "count": 232
   },
   {
    "id": "قانون",
    "name": "القانون",
    "icon": "⚖️",
-   "count": 114
+   "count": 115
   },
   {
    "id": "اسبانية",
    "name": "اللغة الإسبانية",
    "icon": "ES",
-   "count": 121
+   "count": 124
   },
   {
    "id": "المانية",
    "name": "اللغة الألمانية",
    "icon": "DE",
-   "count": 101
+   "count": 102
   },
   {
    "id": "امازيغية",
@@ -1818,7 +1866,7 @@
    "id": "انجليزية",
    "name": "اللغة الإنجليزية",
    "icon": "EN",
-   "count": 716
+   "count": 717
   },
   {
    "id": "ايطالية",
@@ -1842,7 +1890,7 @@
    "id": "فرنسية",
    "name": "اللغة الفرنسية",
    "icon": "FR",
-   "count": 1052
+   "count": 1055
   },
   {
    "id": "هندسة الكهربائية",
@@ -1872,7 +1920,7 @@
    "id": "تسيير محاسبي",
    "name": "تسيير محاسبي",
    "icon": "📊",
-   "count": 1
+   "count": 4
   },
   {
    "id": "تعلم الكتابة",
@@ -1884,19 +1932,25 @@
    "id": "علوم اسلامية",
    "name": "علوم إسلامية",
    "icon": "🕌",
-   "count": 5
+   "count": 7
   },
   {
    "id": "علوم الطبيعة والحياة",
    "name": "علوم الطبيعة والحياة",
    "icon": "🧬",
-   "count": 792
+   "count": 797
   },
   {
    "id": "علوم فيزيائية",
    "name": "علوم فيزيائية",
    "icon": "🔬",
-   "count": 1
+   "count": 3
+  },
+  {
+   "id": "لغة ايطالية",
+   "name": "لغة إيطالية",
+   "icon": "IT",
+   "count": 2
   },
   {
    "id": "هندسة الطرائق",
@@ -1955,12 +2009,32 @@
  ],
  "recent": {
   "days": 7,
-  "count": 183
+  "count": 234
  },
  "featured": [
   {
-   "id": "ed-%D9%85%D8%B7%D9%88%D9%8A%D8%A7%D8%AA-%D9%83%D9%84%D9%8A%D9%83-%D9%85%D9%84%D8%AE%D8%B5%D8%A9-%D9%84%D8%AF%D8%B1%D9%88%D8%B3-%D8%A7%D9%84%D8%AC%D8%BA%D8%B1%D8%A7%D9%81%D9%8A%D8%A7",
-   "title": "مطويات كليك ملخصة لدروس الجغرافيا 3 ثانوي",
+   "id": "ed-%D8%B3%D9%84%D8%B3%D9%84%D8%A9-%D9%85%D8%B3%D8%AA%D9%82%D8%A8%D9%84%D9%8A-%D9%84%D8%AD%D9%88%D9%84%D9%8A%D8%A7%D8%AA-%D8%A8%D9%83%D8%A7%D9%84%D9%88%D8%B1%D9%8A%D8%A7",
+   "title": "سلسلة مستقبلي لحوليات بكالوريا الفلسفة شعب علمية",
+   "level": "3as",
+   "levelName": "الثالثة ثانوي",
+   "stage": "secondary",
+   "subject": "الفلسفة",
+   "subjectKey": "فلسفة",
+   "stream": "sci",
+   "streamName": "الشعب العلمية",
+   "year": "",
+   "type": "ملخصات",
+   "pdf": "https://eddirasa.com/wp-content/uploads/2014/03/Mostakbali_Phylo_3AS.pdf",
+   "image": "",
+   "source": "https://eddirasa.com/%D8%B3%D9%84%D8%B3%D9%84%D8%A9-%D9%85%D8%B3%D8%AA%D9%82%D8%A8%D9%84%D9%8A-%D9%84%D8%AD%D9%88%D9%84%D9%8A%D8%A7%D8%AA-%D8%A8%D9%83%D8%A7%D9%84%D9%88%D8%B1%D9%8A%D8%A7/",
+   "sourceName": "موقع الدراسة",
+   "solution": false,
+   "typeKey": "summary",
+   "addedAt": "2026-09-22T17:10:54.378Z"
+  },
+  {
+   "id": "ed-%D8%AC%D8%AF%D9%88%D9%84-%D8%AA%D9%88%D8%A7%D8%B1%D9%8A%D8%AE-%D8%A7%D9%84%D8%B3%D9%86%D8%A9-%D8%A7%D9%84%D8%AB%D8%A7%D9%84%D8%AB%D8%A9-%D8%AB%D8%A7%D9%86%D9%88%D9%8A",
+   "title": "جدول ملخص لأهم تواريخ برنامج مادة التاريخ للسنة الثالثة ثانوي",
    "level": "3as",
    "levelName": "الثالثة ثانوي",
    "stage": "secondary",
@@ -1970,37 +2044,277 @@
    "streamName": "جميع الشعب",
    "year": "",
    "type": "ملخصات",
-   "pdf": "https://eddirasa.com/wp-content/uploads/2013/12/Click_Geografique_3as.pdf",
+   "pdf": "https://eddirasa.com/wp-content/uploads/2014/03/جدول-تواريخ-السنة-الثالثة-ثانوي.pdf",
    "image": "",
-   "source": "https://eddirasa.com/%D9%85%D8%B7%D9%88%D9%8A%D8%A7%D8%AA-%D9%83%D9%84%D9%8A%D9%83-%D9%85%D9%84%D8%AE%D8%B5%D8%A9-%D9%84%D8%AF%D8%B1%D9%88%D8%B3-%D8%A7%D9%84%D8%AC%D8%BA%D8%B1%D8%A7%D9%81%D9%8A%D8%A7/",
+   "source": "https://eddirasa.com/%D8%AC%D8%AF%D9%88%D9%84-%D8%AA%D9%88%D8%A7%D8%B1%D9%8A%D8%AE-%D8%A7%D9%84%D8%B3%D9%86%D8%A9-%D8%A7%D9%84%D8%AB%D8%A7%D9%84%D8%AB%D8%A9-%D8%AB%D8%A7%D9%86%D9%88%D9%8A/",
    "sourceName": "موقع الدراسة",
    "solution": false,
    "typeKey": "summary",
-   "addedAt": "2026-09-22T16:58:01.568Z"
+   "addedAt": "2026-09-22T17:10:42.353Z"
   },
   {
-   "id": "ed-%D9%85%D8%B7%D9%88%D9%8A%D8%A7%D8%AA-%D9%83%D9%84%D9%8A%D9%83-%D9%85%D9%84%D8%AE%D8%B5%D8%A9-%D9%84%D8%AF%D8%B1%D9%88%D8%B3-%D8%A7%D9%84%D9%81%D8%B1%D9%86%D8%B3%D9%8A%D8%A9",
-   "title": "مطويات كليك ملخصة لدروس اللغة الفرنسية 3 ثانوي",
+   "id": "ed-%D9%83%D8%AA%D8%A7%D8%A8-%D8%A7%D9%84%D8%AF%D8%B1%D8%B1-%D9%81%D9%8A-%D8%A7%D9%84%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE-%D9%88-%D8%A7%D9%84%D8%AC%D8%BA%D8%B1%D8%A7%D9%81%D9%8A%D8%A7-%D8%AB%D8%A7%D9%84%D8%AB",
+   "title": "كتاب الدرر في التاريخ و الجغرافيا سنة ثالثة ثانوي",
    "level": "3as",
    "levelName": "الثالثة ثانوي",
    "stage": "secondary",
-   "subject": "اللغة الفرنسية",
-   "subjectKey": "فرنسية",
+   "subject": "التاريخ والجغرافيا",
+   "subjectKey": "تاريخ والجغرافيا",
    "stream": "all",
    "streamName": "جميع الشعب",
    "year": "",
    "type": "ملخصات",
-   "pdf": "https://eddirasa.com/wp-content/uploads/2013/12/Click_Francais_3as.pdf",
+   "pdf": "https://eddirasa.com/wp-content/uploads/2014/03/Eddorrar_his_geo_3AS.pdf",
    "image": "",
-   "source": "https://eddirasa.com/%D9%85%D8%B7%D9%88%D9%8A%D8%A7%D8%AA-%D9%83%D9%84%D9%8A%D9%83-%D9%85%D9%84%D8%AE%D8%B5%D8%A9-%D9%84%D8%AF%D8%B1%D9%88%D8%B3-%D8%A7%D9%84%D9%81%D8%B1%D9%86%D8%B3%D9%8A%D8%A9/",
+   "source": "https://eddirasa.com/%D9%83%D8%AA%D8%A7%D8%A8-%D8%A7%D9%84%D8%AF%D8%B1%D8%B1-%D9%81%D9%8A-%D8%A7%D9%84%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE-%D9%88-%D8%A7%D9%84%D8%AC%D8%BA%D8%B1%D8%A7%D9%81%D9%8A%D8%A7-%D8%AB%D8%A7%D9%84%D8%AB/",
    "sourceName": "موقع الدراسة",
    "solution": false,
    "typeKey": "summary",
-   "addedAt": "2026-09-22T16:57:49.551Z"
+   "addedAt": "2026-09-22T17:10:30.277Z"
   },
   {
-   "id": "ed-%D9%85%D8%B7%D9%88%D9%8A%D8%A7%D8%AA-%D9%83%D9%84%D9%8A%D9%83-%D9%84%D8%AF%D8%B1%D9%88%D8%B3-%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85-%D8%A7%D9%84%D8%B7%D8%A8%D9%8A%D8%B9%D9%8A%D8%A9",
-   "title": "مطويات كليك ملخصة لدروس العلوم الطبيعية 3 ثانوي",
+   "id": "ed-%D9%85%D8%B7%D9%88%D9%8A%D8%A9-%D9%83%D9%84%D9%8A%D9%83-%D9%84%D8%A3%D9%82%D9%88%D8%A7%D9%84-%D8%A7%D9%84%D9%81%D9%84%D8%A7%D8%B3%D9%81%D8%A9-%D8%B4%D8%B9%D8%A8-%D8%B9%D9%84%D9%85%D9%8A%D8%A9",
+   "title": "مطوية كليك لأقوال الفلاسفة شعب علمية سنة ثالثة ثانوي",
+   "level": "3as",
+   "levelName": "الثالثة ثانوي",
+   "stage": "secondary",
+   "subject": "الفلسفة",
+   "subjectKey": "فلسفة",
+   "stream": "sci",
+   "streamName": "الشعب العلمية",
+   "year": "",
+   "type": "ملخصات",
+   "pdf": "https://eddirasa.com/wp-content/uploads/2014/03/AKWAL_Phylo_SC_3AS.pdf.pdf",
+   "image": "",
+   "source": "https://eddirasa.com/%D9%85%D8%B7%D9%88%D9%8A%D8%A9-%D9%83%D9%84%D9%8A%D9%83-%D9%84%D8%A3%D9%82%D9%88%D8%A7%D9%84-%D8%A7%D9%84%D9%81%D9%84%D8%A7%D8%B3%D9%81%D8%A9-%D8%B4%D8%B9%D8%A8-%D8%B9%D9%84%D9%85%D9%8A%D8%A9/",
+   "sourceName": "موقع الدراسة",
+   "solution": false,
+   "typeKey": "summary",
+   "addedAt": "2026-09-22T17:10:12.196Z"
+  },
+  {
+   "id": "ed-%D9%85%D8%B7%D9%88%D9%8A%D8%A9-%D9%83%D9%84%D9%8A%D9%83-%D9%84%D8%A3%D9%82%D9%88%D8%A7%D9%84-%D8%A7%D9%84%D9%81%D9%84%D8%A7%D8%B3%D9%81%D8%A9-%D8%B4%D8%B9%D8%A8%D8%A9-%D8%A2%D8%AF%D8%A7%D8%A8",
+   "title": "مطوية كليك لأقوال الفلاسفة شعبة آداب سنة ثالثة ثانوي",
+   "level": "3as",
+   "levelName": "الثالثة ثانوي",
+   "stage": "secondary",
+   "subject": "الفلسفة",
+   "subjectKey": "فلسفة",
+   "stream": "all",
+   "streamName": "جميع الشعب",
+   "year": "",
+   "type": "دروس",
+   "pdf": "https://eddirasa.com/wp-content/uploads/2014/03/AKWAL_Phylo_LP_3AS.pdf",
+   "image": "",
+   "source": "https://eddirasa.com/%D9%85%D8%B7%D9%88%D9%8A%D8%A9-%D9%83%D9%84%D9%8A%D9%83-%D9%84%D8%A3%D9%82%D9%88%D8%A7%D9%84-%D8%A7%D9%84%D9%81%D9%84%D8%A7%D8%B3%D9%81%D8%A9-%D8%B4%D8%B9%D8%A8%D8%A9-%D8%A2%D8%AF%D8%A7%D8%A8/",
+   "sourceName": "موقع الدراسة",
+   "solution": false,
+   "typeKey": "lesson",
+   "addedAt": "2026-09-22T17:10:00.184Z"
+  },
+  {
+   "id": "ed-%D9%85%D8%B7%D9%88%D9%8A%D8%A9-%D9%83%D9%84%D9%8A%D9%83-%D9%81%D9%8A-%D8%A7%D9%84%D8%AA%D8%B3%D9%8A%D9%8A%D8%B1-%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D8%B3%D8%A8%D9%8A-scf",
+   "title": "مطوية كليك في التسيير المحاسبي SCF سنة 3 ثانوي",
+   "level": "3as",
+   "levelName": "الثالثة ثانوي",
+   "stage": "secondary",
+   "subject": "تسيير محاسبي",
+   "subjectKey": "تسيير محاسبي",
+   "stream": "all",
+   "streamName": "جميع الشعب",
+   "year": "",
+   "type": "ملخصات",
+   "pdf": "https://eddirasa.com/wp-content/uploads/2014/03/Clic_gestion_SCF_3AS.pdf",
+   "image": "",
+   "source": "https://eddirasa.com/%D9%85%D8%B7%D9%88%D9%8A%D8%A9-%D9%83%D9%84%D9%8A%D9%83-%D9%81%D9%8A-%D8%A7%D9%84%D8%AA%D8%B3%D9%8A%D9%8A%D8%B1-%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D8%B3%D8%A8%D9%8A-scf/",
+   "sourceName": "موقع الدراسة",
+   "solution": false,
+   "typeKey": "summary",
+   "addedAt": "2026-09-22T17:09:51.131Z"
+  },
+  {
+   "id": "ed-%D9%85%D8%B7%D9%88%D9%8A%D8%A9-%D9%83%D9%84%D9%8A%D9%83-%D9%84%D9%84%D9%85%D8%B5%D8%B7%D9%84%D8%AD%D8%A7%D8%AA-%D8%A7%D9%84%D9%81%D9%84%D8%B3%D9%81%D9%8A%D8%A9-%D8%AB%D8%A7%D9%84%D8%AB%D8%A9",
+   "title": "مطوية كليك للمصطلحات الفلسفية سنة ثالثة ثانوي",
+   "level": "3as",
+   "levelName": "الثالثة ثانوي",
+   "stage": "secondary",
+   "subject": "الفلسفة",
+   "subjectKey": "فلسفة",
+   "stream": "all",
+   "streamName": "جميع الشعب",
+   "year": "",
+   "type": "دروس",
+   "pdf": "https://eddirasa.com/wp-content/uploads/2014/03/Terms_Phylo_LP_3AS.pdf",
+   "image": "",
+   "source": "https://eddirasa.com/%D9%85%D8%B7%D9%88%D9%8A%D8%A9-%D9%83%D9%84%D9%8A%D9%83-%D9%84%D9%84%D9%85%D8%B5%D8%B7%D9%84%D8%AD%D8%A7%D8%AA-%D8%A7%D9%84%D9%81%D9%84%D8%B3%D9%81%D9%8A%D8%A9-%D8%AB%D8%A7%D9%84%D8%AB%D8%A9/",
+   "sourceName": "موقع الدراسة",
+   "solution": false,
+   "typeKey": "lesson",
+   "addedAt": "2026-09-22T17:09:48.142Z"
+  },
+  {
+   "id": "ed-%D9%85%D8%B7%D9%88%D9%8A%D8%A9-%D9%83%D9%84%D9%8A%D9%83-%D9%81%D9%8A-%D8%A7%D9%84%D9%81%D9%84%D8%B3%D9%81%D8%A9-%D8%B3%D9%86%D8%A9-%D8%AB%D8%A7%D9%84%D8%AB%D8%A9-%D8%AB%D8%A7%D9%86%D9%88%D9%8A",
+   "title": "مطوية كليك في الفلسفة سنة ثالثة ثانوي",
+   "level": "3as",
+   "levelName": "الثالثة ثانوي",
+   "stage": "secondary",
+   "subject": "الفلسفة",
+   "subjectKey": "فلسفة",
+   "stream": "all",
+   "streamName": "جميع الشعب",
+   "year": "",
+   "type": "دروس",
+   "pdf": "https://eddirasa.com/wp-content/uploads/2014/03/Clic_phylo-3AS.pdf",
+   "image": "",
+   "source": "https://eddirasa.com/%D9%85%D8%B7%D9%88%D9%8A%D8%A9-%D9%83%D9%84%D9%8A%D9%83-%D9%81%D9%8A-%D8%A7%D9%84%D9%81%D9%84%D8%B3%D9%81%D8%A9-%D8%B3%D9%86%D8%A9-%D8%AB%D8%A7%D9%84%D8%AB%D8%A9-%D8%AB%D8%A7%D9%86%D9%88%D9%8A/",
+   "sourceName": "موقع الدراسة",
+   "solution": false,
+   "typeKey": "lesson",
+   "addedAt": "2026-09-22T17:09:42.130Z"
+  },
+  {
+   "id": "ed-%D8%B3%D9%84%D8%A7%D9%84%D9%85-%D8%AA%D9%86%D9%82%D9%8A%D8%B7-%D8%A7%D9%84%D9%85%D9%82%D8%A7%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D9%81%D9%84%D8%B3%D9%81%D9%8A%D8%A9-%D8%AB%D8%A7%D9%84%D8%AB%D8%A9",
+   "title": "سلالم تنقيط المقالات الفلسفية للسنة الثالثة ثانوي",
+   "level": "3as",
+   "levelName": "الثالثة ثانوي",
+   "stage": "secondary",
+   "subject": "الفلسفة",
+   "subjectKey": "فلسفة",
+   "stream": "all",
+   "streamName": "جميع الشعب",
+   "year": "",
+   "type": "ملخصات",
+   "pdf": "https://eddirasa.com/wp-content/uploads/2014/03/salalim_al_tankit.pdf",
+   "image": "",
+   "source": "https://eddirasa.com/%D8%B3%D9%84%D8%A7%D9%84%D9%85-%D8%AA%D9%86%D9%82%D9%8A%D8%B7-%D8%A7%D9%84%D9%85%D9%82%D8%A7%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D9%81%D9%84%D8%B3%D9%81%D9%8A%D8%A9-%D8%AB%D8%A7%D9%84%D8%AB%D8%A9/",
+   "sourceName": "موقع الدراسة",
+   "solution": false,
+   "typeKey": "summary",
+   "addedAt": "2026-09-22T17:09:36.082Z"
+  },
+  {
+   "id": "ed-%D9%83%D8%AA%D8%A7%D8%A8-%D9%85%D8%B9%D8%A7%D9%84%D8%AC%D8%A9-%D8%A7%D9%84%D8%A5%D8%B4%D9%83%D8%A7%D9%84%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D9%81%D9%84%D8%B3%D9%81%D9%8A%D8%A9-3",
+   "title": "كتاب معالجة الإشكاليات الفلسفية للسنة 3 ثانوي علمي",
+   "level": "3as",
+   "levelName": "الثالثة ثانوي",
+   "stage": "secondary",
+   "subject": "الفلسفة",
+   "subjectKey": "فلسفة",
+   "stream": "all",
+   "streamName": "جميع الشعب",
+   "year": "",
+   "type": "دروس",
+   "pdf": "https://eddirasa.com/wp-content/uploads/2014/03/Ichkaliyat_phylo_3AS.pdf",
+   "image": "",
+   "source": "https://eddirasa.com/%D9%83%D8%AA%D8%A7%D8%A8-%D9%85%D8%B9%D8%A7%D9%84%D8%AC%D8%A9-%D8%A7%D9%84%D8%A5%D8%B4%D9%83%D8%A7%D9%84%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D9%81%D9%84%D8%B3%D9%81%D9%8A%D8%A9-3/",
+   "sourceName": "موقع الدراسة",
+   "solution": false,
+   "typeKey": "lesson",
+   "addedAt": "2026-09-22T17:09:30.096Z"
+  },
+  {
+   "id": "ed-%D9%83%D8%AA%D8%A7%D8%A8-%D8%A7%D9%84%D9%85%D8%B9%D8%A7%D8%B5%D8%B1-%D9%81%D9%8A-%D8%A7%D9%84%D8%AA%D8%B3%D9%8A%D9%8A%D8%B1-%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D8%B3%D8%A8%D9%8A",
+   "title": "كتاب المعاصر في التسيير المحاسبي و المالي سنة 3 ثانوي",
+   "level": "3as",
+   "levelName": "الثالثة ثانوي",
+   "stage": "secondary",
+   "subject": "تسيير محاسبي",
+   "subjectKey": "تسيير محاسبي",
+   "stream": "all",
+   "streamName": "جميع الشعب",
+   "year": "",
+   "type": "ملخصات",
+   "pdf": "https://eddirasa.com/wp-content/uploads/2014/03/El_mo3assir_gestion_3as.pdf",
+   "image": "",
+   "source": "https://eddirasa.com/%D9%83%D8%AA%D8%A7%D8%A8-%D8%A7%D9%84%D9%85%D8%B9%D8%A7%D8%B5%D8%B1-%D9%81%D9%8A-%D8%A7%D9%84%D8%AA%D8%B3%D9%8A%D9%8A%D8%B1-%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D8%B3%D8%A8%D9%8A/",
+   "sourceName": "موقع الدراسة",
+   "solution": false,
+   "typeKey": "summary",
+   "addedAt": "2026-09-22T17:09:24.142Z"
+  },
+  {
+   "id": "ed-%D9%83%D8%AA%D8%A7%D8%A8-%D8%A7%D9%84%D8%AA%D9%83%D9%86%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A7-%D9%87%D9%86%D8%AF%D8%B3%D8%A9-%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A6%D9%8A%D8%A9-%D8%AA%D9%82%D9%86%D9%8A",
+   "title": "كتاب التكنولوجيا هندسة كهربائية تقني رياضي",
+   "level": "3as",
+   "levelName": "الثالثة ثانوي",
+   "stage": "secondary",
+   "subject": "التكنولوجيا",
+   "subjectKey": "تكنولوجيا",
+   "stream": "mt",
+   "streamName": "تقني رياضي",
+   "year": "",
+   "type": "ملخصات",
+   "pdf": "https://eddirasa.com/wp-content/uploads/2014/03/كتاب-التكنولوجيا-الجزء-الاول-الثالثة-ثانوي.pdf",
+   "image": "",
+   "source": "https://eddirasa.com/%D9%83%D8%AA%D8%A7%D8%A8-%D8%A7%D9%84%D8%AA%D9%83%D9%86%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A7-%D9%87%D9%86%D8%AF%D8%B3%D8%A9-%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A6%D9%8A%D8%A9-%D8%AA%D9%82%D9%86%D9%8A/",
+   "sourceName": "موقع الدراسة",
+   "solution": false,
+   "typeKey": "summary",
+   "addedAt": "2026-09-22T17:09:09.018Z"
+  },
+  {
+   "id": "ed-%D8%A7%D9%84%D9%83%D8%AA%D8%A7%D8%A8-%D8%A7%D9%84%D9%85%D8%AF%D8%B1%D8%B3%D9%8A-%D9%81%D9%8A-%D8%A7%D9%84%D9%87%D9%86%D8%AF%D8%B3%D8%A9-%D8%A7%D9%84%D9%85%D8%AF%D9%86%D9%8A%D8%A9",
+   "title": "الكتاب المدرسي في الهندسة المدنية ثالثة ثانوي",
+   "level": "3as",
+   "levelName": "الثالثة ثانوي",
+   "stage": "secondary",
+   "subject": "التكنولوجيا",
+   "subjectKey": "تكنولوجيا",
+   "stream": "all",
+   "streamName": "جميع الشعب",
+   "year": "",
+   "type": "ملخصات",
+   "pdf": "https://eddirasa.com/wp-content/uploads/2014/03/3-annee-gc-2003.pdf",
+   "image": "",
+   "source": "https://eddirasa.com/%D8%A7%D9%84%D9%83%D8%AA%D8%A7%D8%A8-%D8%A7%D9%84%D9%85%D8%AF%D8%B1%D8%B3%D9%8A-%D9%81%D9%8A-%D8%A7%D9%84%D9%87%D9%86%D8%AF%D8%B3%D8%A9-%D8%A7%D9%84%D9%85%D8%AF%D9%86%D9%8A%D8%A9/",
+   "sourceName": "موقع الدراسة",
+   "solution": false,
+   "typeKey": "summary",
+   "addedAt": "2026-09-22T17:09:06.016Z"
+  },
+  {
+   "id": "ed-%D9%85%D8%B7%D9%88%D9%8A%D8%A9-%D9%83%D9%84%D9%8A%D9%83-%D9%81%D9%8A-%D8%A7%D9%84%D8%AA%D8%B3%D9%8A%D9%8A%D8%B1-%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D8%B3%D8%A8%D9%8A",
+   "title": "مطوية كليك في التسيير المحاسبي و المالي سنة 3 ثانوي",
+   "level": "3as",
+   "levelName": "الثالثة ثانوي",
+   "stage": "secondary",
+   "subject": "تسيير محاسبي",
+   "subjectKey": "تسيير محاسبي",
+   "stream": "all",
+   "streamName": "جميع الشعب",
+   "year": "",
+   "type": "ملخصات",
+   "pdf": "https://eddirasa.com/wp-content/uploads/2014/03/click-gestion.pdf",
+   "image": "",
+   "source": "https://eddirasa.com/%D9%85%D8%B7%D9%88%D9%8A%D8%A9-%D9%83%D9%84%D9%8A%D9%83-%D9%81%D9%8A-%D8%A7%D9%84%D8%AA%D8%B3%D9%8A%D9%8A%D8%B1-%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D8%B3%D8%A8%D9%8A/",
+   "sourceName": "موقع الدراسة",
+   "solution": false,
+   "typeKey": "summary",
+   "addedAt": "2026-09-22T17:09:00.072Z"
+  },
+  {
+   "id": "ed-%D9%83%D8%AA%D8%A7%D8%A8-%D8%A7%D9%84%D9%85%D8%AE%D8%AA%D8%A7%D8%B1-%D8%AA%D9%83%D9%86%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A7-%D9%87%D9%86%D8%AF%D8%B3%D8%A9-%D9%85%D8%AF%D9%86%D9%8A%D8%A9",
+   "title": "سلسلة كتاب المختار في التكنولوجيا هندسة مدنية",
+   "level": "3as",
+   "levelName": "الثالثة ثانوي",
+   "stage": "secondary",
+   "subject": "التكنولوجيا",
+   "subjectKey": "تكنولوجيا",
+   "stream": "all",
+   "streamName": "جميع الشعب",
+   "year": "",
+   "type": "ملخصات",
+   "pdf": "https://eddirasa.com/wp-content/uploads/2014/03/genie-civil-3as.pdf",
+   "image": "",
+   "source": "https://eddirasa.com/%D9%83%D8%AA%D8%A7%D8%A8-%D8%A7%D9%84%D9%85%D8%AE%D8%AA%D8%A7%D8%B1-%D8%AA%D9%83%D9%86%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A7-%D9%87%D9%86%D8%AF%D8%B3%D8%A9-%D9%85%D8%AF%D9%86%D9%8A%D8%A9/",
+   "sourceName": "موقع الدراسة",
+   "solution": false,
+   "typeKey": "summary",
+   "addedAt": "2026-09-22T17:08:32.969Z"
+  },
+  {
+   "id": "ed-siege-respiratoires-doxydation",
+   "title": "الوحدة 2 النشاط 2 : مقر الأكسدة التنفسيّة",
    "level": "3as",
    "levelName": "الثالثة ثانوي",
    "stage": "secondary",
@@ -2010,433 +2324,173 @@
    "streamName": "جميع الشعب",
    "year": "",
    "type": "دروس",
-   "pdf": "https://eddirasa.com/wp-content/uploads/2013/12/Click_Science_3as.pdf",
+   "pdf": "https://eddirasa.com/wp-content/uploads/2014/02/الوحدة-2-النشاط-2-_-مقر-الأكسدة-التنفسيّة-_-موقع-الدراسة-الجزائري.pdf",
    "image": "",
-   "source": "https://eddirasa.com/%D9%85%D8%B7%D9%88%D9%8A%D8%A7%D8%AA-%D9%83%D9%84%D9%8A%D9%83-%D9%84%D8%AF%D8%B1%D9%88%D8%B3-%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85-%D8%A7%D9%84%D8%B7%D8%A8%D9%8A%D8%B9%D9%8A%D8%A9/",
+   "source": "https://eddirasa.com/siege-respiratoires-doxydation/",
    "sourceName": "موقع الدراسة",
    "solution": false,
    "typeKey": "lesson",
-   "addedAt": "2026-09-22T16:57:46.592Z"
+   "addedAt": "2026-09-22T17:05:02.627Z"
   },
   {
-   "id": "ed-%D9%85%D8%B4%D8%B1%D9%88%D8%B9%D9%8A%D8%A9-%D8%A7%D9%84%D9%88%D9%82%D9%81-%D8%B9%D9%84%D9%88%D9%85-%D8%A5%D8%B3%D9%84%D8%A7%D9%85%D9%8A%D8%A9-%D8%AB%D8%A7%D9%84%D8%AB%D8%A9",
-   "title": "مشروعية الوقف - علوم إسلامية ثالثة ثانوي",
+   "id": "ed-mecanismes-convertir-lenergie-chimique-inherente-a-la-mi-air",
+   "title": "آليات تحويل الطاقة الكيميائية الكامنة في الوسط الهوائي",
    "level": "3as",
    "levelName": "الثالثة ثانوي",
    "stage": "secondary",
-   "subject": "التربية الإسلامية",
-   "subjectKey": "تربية الاسلامية",
+   "subject": "علوم الطبيعة والحياة",
+   "subjectKey": "علوم الطبيعة والحياة",
    "stream": "all",
    "streamName": "جميع الشعب",
    "year": "",
    "type": "دروس",
-   "pdf": "https://eddirasa.com/wp-content/uploads/2013/12/مشروعية-الوقف.pdf",
+   "pdf": "https://eddirasa.com/wp-content/uploads/2014/02/آليات-تحويل-الطاقة-الكيميائية-الكامنة-في-الوسط-الهوائي-_-موقع-الدراسة-الجزائري.pdf",
    "image": "",
-   "source": "https://eddirasa.com/%D9%85%D8%B4%D8%B1%D9%88%D8%B9%D9%8A%D8%A9-%D8%A7%D9%84%D9%88%D9%82%D9%81-%D8%B9%D9%84%D9%88%D9%85-%D8%A5%D8%B3%D9%84%D8%A7%D9%85%D9%8A%D8%A9-%D8%AB%D8%A7%D9%84%D8%AB%D8%A9/",
+   "source": "https://eddirasa.com/mecanismes-convertir-lenergie-chimique-inherente-a-la-mi-air/",
    "sourceName": "موقع الدراسة",
    "solution": false,
    "typeKey": "lesson",
-   "addedAt": "2026-09-22T16:57:31.516Z"
+   "addedAt": "2026-09-22T17:04:44.595Z"
   },
   {
-   "id": "ed-%D9%85%D8%B7%D9%88%D9%8A%D8%A7%D8%AA-%D9%83%D9%84%D9%8A%D9%83-%D9%85%D9%84%D8%AE%D8%B5%D8%A9-%D9%84%D8%AF%D8%B1%D9%88%D8%B3-%D8%A7%D9%84%D8%A5%D9%86%D8%AC%D9%84%D9%8A%D8%B2%D9%8A%D8%A9",
-   "title": "مطويات كليك ملخصة لدروس اللغة الإنجليزية 3 ثانوي",
+   "id": "ed-%D9%83%D8%AA%D8%A7%D8%A8-%D8%A7%D9%84%D9%85%D8%B1%D8%A7%D8%B3%D9%84%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86-%D8%AB%D8%A7%D9%86%D9%8A%D8%A9-%D8%AB%D8%A7%D9%86%D9%88%D9%8A",
+   "title": "كتاب المراسلة في القانون ثانية ثانوي",
+   "level": "2as",
+   "levelName": "الثانية ثانوي",
+   "stage": "secondary",
+   "subject": "قانون",
+   "subjectKey": "قانون",
+   "stream": "all",
+   "streamName": "جميع الشعب",
+   "year": "",
+   "type": "ملخصات",
+   "pdf": "https://eddirasa.com/wp-content/uploads/2014/01/كتاب-المراسلة-لمادة-القانون-02-ثانوي.pdf",
+   "image": "",
+   "source": "https://eddirasa.com/%D9%83%D8%AA%D8%A7%D8%A8-%D8%A7%D9%84%D9%85%D8%B1%D8%A7%D8%B3%D9%84%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86-%D8%AB%D8%A7%D9%86%D9%8A%D8%A9-%D8%AB%D8%A7%D9%86%D9%88%D9%8A/",
+   "sourceName": "موقع الدراسة",
+   "solution": false,
+   "typeKey": "summary",
+   "addedAt": "2026-09-22T17:04:38.552Z"
+  },
+  {
+   "id": "ed-%D9%83%D8%AA%D8%A7%D8%A8-%D8%A7%D9%84%D8%A3%D8%B3%D8%AA%D8%A7%D8%B0-%D9%81%D9%8A-%D8%A7%D9%84%D8%AC%D8%BA%D8%B1%D8%A7%D9%81%D9%8A%D8%A7-%D9%84%D9%84%D8%AB%D8%A7%D9%86%D9%8A%D8%A9-%D8%AB%D8%A7%D9%86",
+   "title": "كتاب الأستاذ في الجغرافيا للثانية ثانوي",
+   "level": "2as",
+   "levelName": "الثانية ثانوي",
+   "stage": "secondary",
+   "subject": "التاريخ والجغرافيا",
+   "subjectKey": "تاريخ والجغرافيا",
+   "stream": "all",
+   "streamName": "جميع الشعب",
+   "year": "",
+   "type": "ملخصات",
+   "pdf": "https://eddirasa.com/wp-content/uploads/2014/01/geography2as-book_guide.pdf",
+   "image": "",
+   "source": "https://eddirasa.com/%D9%83%D8%AA%D8%A7%D8%A8-%D8%A7%D9%84%D8%A3%D8%B3%D8%AA%D8%A7%D8%B0-%D9%81%D9%8A-%D8%A7%D9%84%D8%AC%D8%BA%D8%B1%D8%A7%D9%81%D9%8A%D8%A7-%D9%84%D9%84%D8%AB%D8%A7%D9%86%D9%8A%D8%A9-%D8%AB%D8%A7%D9%86/",
+   "sourceName": "موقع الدراسة",
+   "solution": false,
+   "typeKey": "summary",
+   "addedAt": "2026-09-22T17:04:26.554Z"
+  },
+  {
+   "id": "ed-%D9%83%D8%AA%D8%A7%D8%A8-%D8%AA%D8%B5%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D8%A3%D9%81%D8%B9%D8%A7%D9%84-%D9%81%D9%8A-%D8%A7%D9%84%D9%84%D8%BA%D8%A9-%D8%A7%D9%84%D8%A5%D8%B3%D8%A8%D8%A7%D9%86%D9%8A%D8%A9",
+   "title": "كتاب تصريف الأفعال في اللغة الإسبانية",
    "level": "3as",
    "levelName": "الثالثة ثانوي",
    "stage": "secondary",
-   "subject": "اللغة الإنجليزية",
-   "subjectKey": "انجليزية",
+   "subject": "اللغة الإسبانية",
+   "subjectKey": "اسبانية",
+   "stream": "all",
+   "streamName": "جميع الشعب",
+   "year": "",
+   "type": "ملخصات",
+   "pdf": "https://eddirasa.com/wp-content/uploads/2014/01/spanish2as-conjugaison.pdf",
+   "image": "",
+   "source": "https://eddirasa.com/%D9%83%D8%AA%D8%A7%D8%A8-%D8%AA%D8%B5%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D8%A3%D9%81%D8%B9%D8%A7%D9%84-%D9%81%D9%8A-%D8%A7%D9%84%D9%84%D8%BA%D8%A9-%D8%A7%D9%84%D8%A5%D8%B3%D8%A8%D8%A7%D9%86%D9%8A%D8%A9/",
+   "sourceName": "موقع الدراسة",
+   "solution": false,
+   "typeKey": "summary",
+   "addedAt": "2026-09-22T17:04:17.510Z"
+  },
+  {
+   "id": "ed-reactions_de_phase_el_kimo_hayawiya",
+   "title": "الوحدة 1 النشاط 4 : تفاعلات المرحلة الكيموحيوية",
+   "level": "3as",
+   "levelName": "الثالثة ثانوي",
+   "stage": "secondary",
+   "subject": "علوم الطبيعة والحياة",
+   "subjectKey": "علوم الطبيعة والحياة",
    "stream": "all",
    "streamName": "جميع الشعب",
    "year": "",
    "type": "دروس",
-   "pdf": "https://eddirasa.com/wp-content/uploads/2013/12/Click_English_3as.pdf",
+   "pdf": "https://eddirasa.com/wp-content/uploads/2014/02/الوحدة-1-النشاط-4-_-تفاعلات-المرحلة-الكيموحيوية-_-موقع-الدراسة-الجزائري.pdf",
    "image": "",
-   "source": "https://eddirasa.com/%D9%85%D8%B7%D9%88%D9%8A%D8%A7%D8%AA-%D9%83%D9%84%D9%8A%D9%83-%D9%85%D9%84%D8%AE%D8%B5%D8%A9-%D9%84%D8%AF%D8%B1%D9%88%D8%B3-%D8%A7%D9%84%D8%A5%D9%86%D8%AC%D9%84%D9%8A%D8%B2%D9%8A%D8%A9/",
+   "source": "https://eddirasa.com/reactions_de_phase_el_kimo_hayawiya/",
    "sourceName": "موقع الدراسة",
    "solution": false,
    "typeKey": "lesson",
-   "addedAt": "2026-09-22T16:57:28.483Z"
+   "addedAt": "2026-09-22T17:04:14.448Z"
   },
   {
-   "id": "ed-%D8%A7%D9%84%D9%82%D9%8A%D9%85-%D9%81%D9%8A-%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86-%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D9%85-%D8%B9%D9%84%D9%88%D9%85-%D8%A5%D8%B3%D9%84%D8%A7%D9%85%D9%8A%D8%A9",
-   "title": "القيم في القرآن الكريم - علوم إسلامية الثالثة ثانوي",
-   "level": "3as",
-   "levelName": "الثالثة ثانوي",
+   "id": "ed-%D9%83%D8%AA%D8%A7%D8%A8-%D8%A7%D9%84%D8%A3%D8%B3%D8%AA%D8%A7%D8%B0-%D9%81%D9%8A-%D8%A7%D9%84%D9%84%D8%BA%D8%A9-%D8%A7%D9%84%D8%A5%D8%B3%D8%A8%D8%A7%D9%86%D9%8A%D8%A9-%D8%AB%D8%A7%D9%86%D9%8A%D8%A9",
+   "title": "كتاب الأستاذ في اللغة الإسبانية ثانية ثانوي",
+   "level": "2as",
+   "levelName": "الثانية ثانوي",
    "stage": "secondary",
-   "subject": "التربية الإسلامية",
-   "subjectKey": "تربية الاسلامية",
+   "subject": "اللغة الإسبانية",
+   "subjectKey": "اسبانية",
    "stream": "all",
    "streamName": "جميع الشعب",
    "year": "",
-   "type": "دروس",
-   "pdf": "https://eddirasa.com/wp-content/uploads/2013/12/القيم-في-القرآن-الكريم.pdf",
+   "type": "ملخصات",
+   "pdf": "https://eddirasa.com/wp-content/uploads/2014/01/spanish2as-prof_guide.pdf",
    "image": "",
-   "source": "https://eddirasa.com/%D8%A7%D9%84%D9%82%D9%8A%D9%85-%D9%81%D9%8A-%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86-%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D9%85-%D8%B9%D9%84%D9%88%D9%85-%D8%A5%D8%B3%D9%84%D8%A7%D9%85%D9%8A%D8%A9/",
+   "source": "https://eddirasa.com/%D9%83%D8%AA%D8%A7%D8%A8-%D8%A7%D9%84%D8%A3%D8%B3%D8%AA%D8%A7%D8%B0-%D9%81%D9%8A-%D8%A7%D9%84%D9%84%D8%BA%D8%A9-%D8%A7%D9%84%D8%A5%D8%B3%D8%A8%D8%A7%D9%86%D9%8A%D8%A9-%D8%AB%D8%A7%D9%86%D9%8A%D8%A9/",
    "sourceName": "موقع الدراسة",
    "solution": false,
-   "typeKey": "lesson",
-   "addedAt": "2026-09-22T16:57:25.470Z"
+   "typeKey": "summary",
+   "addedAt": "2026-09-22T17:04:11.504Z"
   },
   {
-   "id": "ed-%D9%85%D9%86-%D8%A7%D9%84%D9%85%D8%B9%D8%A7%D9%85%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%AC%D8%A7%D8%A6%D8%B2%D8%A9-%D8%B9%D9%84%D9%88%D9%85",
-   "title": "من المعاملات المالية الجائزة - علوم إسلامية ثالثة ثانوي",
-   "level": "3as",
-   "levelName": "الثالثة ثانوي",
+   "id": "ed-%D9%83%D8%AA%D8%A7%D8%A8-%D8%A7%D9%84%D8%A3%D8%B3%D8%AA%D8%A7%D8%B0-%D9%81%D9%8A-%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85-%D8%A7%D9%84%D8%A5%D8%B3%D9%84%D8%A7%D9%85%D9%8A%D8%A9-%D8%AB%D8%A7%D9%86%D9%8A",
+   "title": "كتاب الأستاذ في العلوم الإسلامية ثانية ثانوي",
+   "level": "2as",
+   "levelName": "الثانية ثانوي",
    "stage": "secondary",
-   "subject": "التربية الإسلامية",
-   "subjectKey": "تربية الاسلامية",
+   "subject": "علوم إسلامية",
+   "subjectKey": "علوم اسلامية",
    "stream": "all",
    "streamName": "جميع الشعب",
    "year": "",
-   "type": "دروس",
-   "pdf": "https://eddirasa.com/wp-content/uploads/2013/12/من-المعاملات-المالية-الجائزة.pdf",
+   "type": "ملخصات",
+   "pdf": "https://eddirasa.com/wp-content/uploads/2014/01/Eduislamique.pdf",
    "image": "",
-   "source": "https://eddirasa.com/%D9%85%D9%86-%D8%A7%D9%84%D9%85%D8%B9%D8%A7%D9%85%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%AC%D8%A7%D8%A6%D8%B2%D8%A9-%D8%B9%D9%84%D9%88%D9%85/",
+   "source": "https://eddirasa.com/%D9%83%D8%AA%D8%A7%D8%A8-%D8%A7%D9%84%D8%A3%D8%B3%D8%AA%D8%A7%D8%B0-%D9%81%D9%8A-%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85-%D8%A7%D9%84%D8%A5%D8%B3%D9%84%D8%A7%D9%85%D9%8A%D8%A9-%D8%AB%D8%A7%D9%86%D9%8A/",
    "sourceName": "موقع الدراسة",
    "solution": false,
-   "typeKey": "lesson",
-   "addedAt": "2026-09-22T16:57:19.432Z"
+   "typeKey": "summary",
+   "addedAt": "2026-09-22T17:04:08.788Z"
   },
   {
-   "id": "ed-%D9%85%D9%86-%D8%A7%D9%84%D9%85%D8%B4%D8%A7%D9%83%D9%84-%D8%A7%D9%84%D8%A3%D8%B3%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D9%86%D8%B3%D8%A8-%D9%88-%D8%A3%D8%AD%D9%83%D8%A7%D9%85%D9%87",
-   "title": "من المشاكل الأسرية: النسب و أحكامه الشرعية - علوم إسلامية 3AS",
-   "level": "3as",
-   "levelName": "الثالثة ثانوي",
+   "id": "ed-%D9%83%D8%AA%D8%A7%D8%A8-%D8%AA%D8%AD%D8%B6%D9%8A%D8%B1-%D8%AF%D8%B1%D9%88%D8%B3-%D8%A7%D9%84%D9%84%D8%BA%D8%A9-%D8%A7%D9%84%D9%81%D8%B1%D9%86%D8%B3%D9%8A%D8%A9-%D9%84%D9%84%D8%AB%D8%A7%D9%86%D9%8A",
+   "title": "كتاب تحضير دروس اللغة الفرنسية للثانية ثانوي",
+   "level": "2as",
+   "levelName": "الثانية ثانوي",
    "stage": "secondary",
-   "subject": "التربية الإسلامية",
-   "subjectKey": "تربية الاسلامية",
+   "subject": "اللغة الفرنسية",
+   "subjectKey": "فرنسية",
    "stream": "all",
    "streamName": "جميع الشعب",
    "year": "",
-   "type": "دروس",
-   "pdf": "https://eddirasa.com/wp-content/uploads/2013/12/من-المشاكل-الأسرية-النسب-وأحكامه-الشرعية.pdf",
+   "type": "ملخصات",
+   "pdf": "https://eddirasa.com/wp-content/uploads/2014/02/Tous-les-projets-en-PDF-By-Islam-Benmahammed.pdf",
    "image": "",
-   "source": "https://eddirasa.com/%D9%85%D9%86-%D8%A7%D9%84%D9%85%D8%B4%D8%A7%D9%83%D9%84-%D8%A7%D9%84%D8%A3%D8%B3%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D9%86%D8%B3%D8%A8-%D9%88-%D8%A3%D8%AD%D9%83%D8%A7%D9%85%D9%87/",
+   "source": "https://eddirasa.com/%D9%83%D8%AA%D8%A7%D8%A8-%D8%AA%D8%AD%D8%B6%D9%8A%D8%B1-%D8%AF%D8%B1%D9%88%D8%B3-%D8%A7%D9%84%D9%84%D8%BA%D8%A9-%D8%A7%D9%84%D9%81%D8%B1%D9%86%D8%B3%D9%8A%D8%A9-%D9%84%D9%84%D8%AB%D8%A7%D9%86%D9%8A/",
    "sourceName": "موقع الدراسة",
    "solution": false,
-   "typeKey": "lesson",
-   "addedAt": "2026-09-22T16:57:16.390Z"
-  },
-  {
-   "id": "ed-%D8%A7%D9%84%D8%A5%D8%B3%D9%84%D8%A7%D9%85-%D9%88-%D8%A7%D9%84%D8%B1%D8%B3%D8%A7%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%B3%D9%85%D8%A7%D9%88%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D8%A7%D8%A8%D9%82%D8%A9",
-   "title": "الإسلام و الرسالات السماوية السابقة - علوم إسلامية ثالثة ثانوي",
-   "level": "3as",
-   "levelName": "الثالثة ثانوي",
-   "stage": "secondary",
-   "subject": "التربية الإسلامية",
-   "subjectKey": "تربية الاسلامية",
-   "stream": "all",
-   "streamName": "جميع الشعب",
-   "year": "",
-   "type": "دروس",
-   "pdf": "https://eddirasa.com/wp-content/uploads/2013/12/الإسلام-والرسالات-السماوية-السابقة.pdf",
-   "image": "",
-   "source": "https://eddirasa.com/%D8%A7%D9%84%D8%A5%D8%B3%D9%84%D8%A7%D9%85-%D9%88-%D8%A7%D9%84%D8%B1%D8%B3%D8%A7%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%B3%D9%85%D8%A7%D9%88%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D8%A7%D8%A8%D9%82%D8%A9/",
-   "sourceName": "موقع الدراسة",
-   "solution": false,
-   "typeKey": "lesson",
-   "addedAt": "2026-09-22T16:57:13.456Z"
-  },
-  {
-   "id": "ed-%D8%A7%D9%84%D8%B9%D9%84%D8%A7%D9%82%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%D9%8A%D8%A9-%D8%A8%D9%8A%D9%86-%D8%A7%D9%84%D9%85%D8%B3%D9%84%D9%85%D9%8A%D9%86",
-   "title": "العلاقات الإجتماعية بين المسلمين و غيرهم - علوم إسلامية 3AS",
-   "level": "3as",
-   "levelName": "الثالثة ثانوي",
-   "stage": "secondary",
-   "subject": "التربية الإسلامية",
-   "subjectKey": "تربية الاسلامية",
-   "stream": "all",
-   "streamName": "جميع الشعب",
-   "year": "",
-   "type": "دروس",
-   "pdf": "https://eddirasa.com/wp-content/uploads/2013/12/العلاقات-الاجتماعية-بين-المسلمين-و-غيرهم.pdf",
-   "image": "",
-   "source": "https://eddirasa.com/%D8%A7%D9%84%D8%B9%D9%84%D8%A7%D9%82%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%D9%8A%D8%A9-%D8%A8%D9%8A%D9%86-%D8%A7%D9%84%D9%85%D8%B3%D9%84%D9%85%D9%8A%D9%86/",
-   "sourceName": "موقع الدراسة",
-   "solution": false,
-   "typeKey": "lesson",
-   "addedAt": "2026-09-22T16:57:07.421Z"
-  },
-  {
-   "id": "ed-%D8%A3%D8%AB%D8%B1-%D8%A7%D9%84%D8%A5%D9%8A%D9%85%D8%A7%D9%86-%D9%88-%D8%A7%D9%84%D8%B9%D8%A8%D8%A7%D8%AF%D8%A7%D8%AA-%D9%81%D9%8A-%D8%A5%D8%AC%D8%AA%D9%86%D8%A7%D8%A8",
-   "title": "أثر الإيمان و العبادات في إجتناب الإنحراف و الجريمة - علوم إسلامية 3AS",
-   "level": "3as",
-   "levelName": "الثالثة ثانوي",
-   "stage": "secondary",
-   "subject": "التربية الإسلامية",
-   "subjectKey": "تربية الاسلامية",
-   "stream": "all",
-   "streamName": "جميع الشعب",
-   "year": "",
-   "type": "دروس",
-   "pdf": "https://eddirasa.com/wp-content/uploads/2013/12/أثر-الإيمان-والعبادات-في-اجتناب-الانحراف-و-الجريمة.pdf",
-   "image": "",
-   "source": "https://eddirasa.com/%D8%A3%D8%AB%D8%B1-%D8%A7%D9%84%D8%A5%D9%8A%D9%85%D8%A7%D9%86-%D9%88-%D8%A7%D9%84%D8%B9%D8%A8%D8%A7%D8%AF%D8%A7%D8%AA-%D9%81%D9%8A-%D8%A5%D8%AC%D8%AA%D9%86%D8%A7%D8%A8/",
-   "sourceName": "موقع الدراسة",
-   "solution": false,
-   "typeKey": "lesson",
-   "addedAt": "2026-09-22T16:57:04.414Z"
-  },
-  {
-   "id": "ed-%D8%A7%D9%84%D8%B4%D8%B1%D9%83%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D9%81%D9%82%D9%87-%D8%A7%D9%84%D8%A5%D8%B3%D9%84%D8%A7%D9%85%D9%8A-%D8%B9%D9%84%D9%88%D9%85-%D8%A5%D8%B3%D9%84%D8%A7%D9%85%D9%8A%D8%A9",
-   "title": "الشركة في الفقه الإسلامي - علوم إسلامية ثالثة ثانوي",
-   "level": "3as",
-   "levelName": "الثالثة ثانوي",
-   "stage": "secondary",
-   "subject": "التربية الإسلامية",
-   "subjectKey": "تربية الاسلامية",
-   "stream": "all",
-   "streamName": "جميع الشعب",
-   "year": "",
-   "type": "دروس",
-   "pdf": "https://eddirasa.com/wp-content/uploads/2013/12/الشركة-في-الفقه-الإسلامي.pdf",
-   "image": "",
-   "source": "https://eddirasa.com/%D8%A7%D9%84%D8%B4%D8%B1%D9%83%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D9%81%D9%82%D9%87-%D8%A7%D9%84%D8%A5%D8%B3%D9%84%D8%A7%D9%85%D9%8A-%D8%B9%D9%84%D9%88%D9%85-%D8%A5%D8%B3%D9%84%D8%A7%D9%85%D9%8A%D8%A9/",
-   "sourceName": "موقع الدراسة",
-   "solution": false,
-   "typeKey": "lesson",
-   "addedAt": "2026-09-22T16:57:01.527Z"
-  },
-  {
-   "id": "ed-%D9%88%D8%B3%D8%A7%D8%A6%D9%84-%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86-%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D9%85-%D9%81%D9%8A-%D8%AA%D8%AB%D8%A8%D9%8A%D8%AA-%D8%A7%D9%84%D8%B9%D9%82%D9%8A%D8%AF%D8%A9",
-   "title": "وسائل القرآن الكريم في تثبيت العقيدة - علوم إسلامية 3AS",
-   "level": "3as",
-   "levelName": "الثالثة ثانوي",
-   "stage": "secondary",
-   "subject": "التربية الإسلامية",
-   "subjectKey": "تربية الاسلامية",
-   "stream": "all",
-   "streamName": "جميع الشعب",
-   "year": "",
-   "type": "دروس",
-   "pdf": "https://eddirasa.com/wp-content/uploads/2013/12/وسائل-القرآن-الكريم-في-تثبيت-العقيدة-الإسلامية.pdf",
-   "image": "",
-   "source": "https://eddirasa.com/%D9%88%D8%B3%D8%A7%D8%A6%D9%84-%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86-%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D9%85-%D9%81%D9%8A-%D8%AA%D8%AB%D8%A8%D9%8A%D8%AA-%D8%A7%D9%84%D8%B9%D9%82%D9%8A%D8%AF%D8%A9/",
-   "sourceName": "موقع الدراسة",
-   "solution": false,
-   "typeKey": "lesson",
-   "addedAt": "2026-09-22T16:56:58.308Z"
-  },
-  {
-   "id": "ed-%D8%AD%D9%82%D9%88%D9%82-%D8%A7%D9%84%D8%B9%D9%85%D8%A7%D9%84-%D9%88-%D9%88%D8%A7%D8%AC%D8%A8%D8%A7%D8%AA%D9%87%D9%85-%D9%81%D9%8A-%D8%A7%D9%84%D8%A5%D8%B3%D9%84%D8%A7%D9%85-%D8%B9%D9%84%D9%88%D9%85",
-   "title": "حقوق العمال و واجباتهم في الإسلام - علوم إسلامية 3AS",
-   "level": "3as",
-   "levelName": "الثالثة ثانوي",
-   "stage": "secondary",
-   "subject": "التربية الإسلامية",
-   "subjectKey": "تربية الاسلامية",
-   "stream": "all",
-   "streamName": "جميع الشعب",
-   "year": "",
-   "type": "دروس",
-   "pdf": "https://eddirasa.com/wp-content/uploads/2013/12/حقوق-العمال-وواجباتهم-في-الإسلام.pdf",
-   "image": "",
-   "source": "https://eddirasa.com/%D8%AD%D9%82%D9%88%D9%82-%D8%A7%D9%84%D8%B9%D9%85%D8%A7%D9%84-%D9%88-%D9%88%D8%A7%D8%AC%D8%A8%D8%A7%D8%AA%D9%87%D9%85-%D9%81%D9%8A-%D8%A7%D9%84%D8%A5%D8%B3%D9%84%D8%A7%D9%85-%D8%B9%D9%84%D9%88%D9%85/",
-   "sourceName": "موقع الدراسة",
-   "solution": false,
-   "typeKey": "lesson",
-   "addedAt": "2026-09-22T16:56:55.321Z"
-  },
-  {
-   "id": "ed-%D9%85%D9%86-%D9%85%D8%B5%D8%A7%D8%AF%D8%B1-%D8%A7%D9%84%D8%AA%D8%B4%D8%B1%D9%8A%D8%B9-%D8%A7%D9%84%D8%A5%D8%B3%D9%84%D8%A7%D9%85%D9%8A-%D8%B9%D9%84%D9%88%D9%85-%D8%A5%D8%B3%D9%84%D8%A7%D9%85%D9%8A",
-   "title": "من مصادر التشريع الإسلامي - علوم إسلامية ثالثة ثانوي",
-   "level": "3as",
-   "levelName": "الثالثة ثانوي",
-   "stage": "secondary",
-   "subject": "التربية الإسلامية",
-   "subjectKey": "تربية الاسلامية",
-   "stream": "all",
-   "streamName": "جميع الشعب",
-   "year": "",
-   "type": "دروس",
-   "pdf": "https://eddirasa.com/wp-content/uploads/2013/12/من-مصادر-التشريع-الإسلامي.pdf",
-   "image": "",
-   "source": "https://eddirasa.com/%D9%85%D9%86-%D9%85%D8%B5%D8%A7%D8%AF%D8%B1-%D8%A7%D9%84%D8%AA%D8%B4%D8%B1%D9%8A%D8%B9-%D8%A7%D9%84%D8%A5%D8%B3%D9%84%D8%A7%D9%85%D9%8A-%D8%B9%D9%84%D9%88%D9%85-%D8%A5%D8%B3%D9%84%D8%A7%D9%85%D9%8A/",
-   "sourceName": "موقع الدراسة",
-   "solution": false,
-   "typeKey": "lesson",
-   "addedAt": "2026-09-22T16:56:52.392Z"
-  },
-  {
-   "id": "ed-%D9%85%D9%88%D9%82%D9%81-%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86-%D9%85%D9%86-%D8%A7%D9%84%D8%B9%D9%82%D9%84-%D8%B9%D9%84%D9%88%D9%85-%D8%A5%D8%B3%D9%84%D8%A7%D9%85%D9%8A%D8%A9-3as",
-   "title": "موقف القرآن من العقل - علوم إسلامية 3AS",
-   "level": "3as",
-   "levelName": "الثالثة ثانوي",
-   "stage": "secondary",
-   "subject": "التربية الإسلامية",
-   "subjectKey": "تربية الاسلامية",
-   "stream": "all",
-   "streamName": "جميع الشعب",
-   "year": "",
-   "type": "دروس",
-   "pdf": "https://eddirasa.com/wp-content/uploads/2013/12/موقف-القرآن-الكريم-من-العقل.pdf",
-   "image": "",
-   "source": "https://eddirasa.com/%D9%85%D9%88%D9%82%D9%81-%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86-%D9%85%D9%86-%D8%A7%D9%84%D8%B9%D9%82%D9%84-%D8%B9%D9%84%D9%88%D9%85-%D8%A5%D8%B3%D9%84%D8%A7%D9%85%D9%8A%D8%A9-3as/",
-   "sourceName": "موقع الدراسة",
-   "solution": false,
-   "typeKey": "lesson",
-   "addedAt": "2026-09-22T16:56:49.395Z"
-  },
-  {
-   "id": "ed-%D8%A7%D9%84%D8%B9%D9%85%D9%84-%D9%88-%D8%A7%D9%84%D8%A5%D9%86%D8%AA%D8%A7%D8%AC-%D9%81%D9%8A-%D8%A7%D9%84%D8%A5%D8%B3%D9%84%D8%A7%D9%85",
-   "title": "العمل و الإنتاج في الإسلام و مشكلة البطالة - علوم إسلامية 3AS",
-   "level": "3as",
-   "levelName": "الثالثة ثانوي",
-   "stage": "secondary",
-   "subject": "التربية الإسلامية",
-   "subjectKey": "تربية الاسلامية",
-   "stream": "all",
-   "streamName": "جميع الشعب",
-   "year": "",
-   "type": "دروس",
-   "pdf": "https://eddirasa.com/wp-content/uploads/2013/12/العمل-والإنتاج-في-الإسلام-ومشكلة-البطالة.pdf",
-   "image": "",
-   "source": "https://eddirasa.com/%D8%A7%D9%84%D8%B9%D9%85%D9%84-%D9%88-%D8%A7%D9%84%D8%A5%D9%86%D8%AA%D8%A7%D8%AC-%D9%81%D9%8A-%D8%A7%D9%84%D8%A5%D8%B3%D9%84%D8%A7%D9%85/",
-   "sourceName": "موقع الدراسة",
-   "solution": false,
-   "typeKey": "lesson",
-   "addedAt": "2026-09-22T16:56:46.451Z"
-  },
-  {
-   "id": "ed-%D8%A7%D9%84%D8%B1%D8%A8%D8%A7-%D9%88-%D9%85%D8%B4%D9%83%D9%84%D8%A9-%D8%A7%D9%84%D9%81%D8%A7%D8%A6%D8%AF%D8%A9-%D8%B9%D9%84%D9%88%D9%85-%D8%A5%D8%B3%D9%84%D8%A7%D9%85%D9%8A%D8%A9",
-   "title": "الربا و مشكلة الفائدة - علوم إسلامية ثالثة ثانوي",
-   "level": "3as",
-   "levelName": "الثالثة ثانوي",
-   "stage": "secondary",
-   "subject": "التربية الإسلامية",
-   "subjectKey": "تربية الاسلامية",
-   "stream": "all",
-   "streamName": "جميع الشعب",
-   "year": "",
-   "type": "دروس",
-   "pdf": "https://eddirasa.com/wp-content/uploads/2013/12/الربا-و-مشكلة-الفائدة.pdf",
-   "image": "",
-   "source": "https://eddirasa.com/%D8%A7%D9%84%D8%B1%D8%A8%D8%A7-%D9%88-%D9%85%D8%B4%D9%83%D9%84%D8%A9-%D8%A7%D9%84%D9%81%D8%A7%D8%A6%D8%AF%D8%A9-%D8%B9%D9%84%D9%88%D9%85-%D8%A5%D8%B3%D9%84%D8%A7%D9%85%D9%8A%D8%A9/",
-   "sourceName": "موقع الدراسة",
-   "solution": false,
-   "typeKey": "lesson",
-   "addedAt": "2026-09-22T16:56:40.464Z"
-  },
-  {
-   "id": "ed-%D9%85%D9%86-%D8%A7%D9%84%D8%B7%D8%B1%D9%82-%D8%A7%D9%84%D9%85%D8%B4%D8%B1%D9%88%D8%B9%D8%A9-%D9%84%D8%A7%D9%86%D8%AA%D9%82%D8%A7%D9%84-%D8%A7%D9%84%D9%85%D8%A7%D9%84-%D8%B9%D9%84%D9%88%D9%85",
-   "title": "من الطرق المشروعة لانتقال المال - علوم إسلامية ثالثة ثانوي",
-   "level": "3as",
-   "levelName": "الثالثة ثانوي",
-   "stage": "secondary",
-   "subject": "التربية الإسلامية",
-   "subjectKey": "تربية الاسلامية",
-   "stream": "all",
-   "streamName": "جميع الشعب",
-   "year": "",
-   "type": "دروس",
-   "pdf": "https://eddirasa.com/wp-content/uploads/2013/12/من-الطرق-المشروعة-لانتقال-المال.pdf",
-   "image": "",
-   "source": "https://eddirasa.com/%D9%85%D9%86-%D8%A7%D9%84%D8%B7%D8%B1%D9%82-%D8%A7%D9%84%D9%85%D8%B4%D8%B1%D9%88%D8%B9%D8%A9-%D9%84%D8%A7%D9%86%D8%AA%D9%82%D8%A7%D9%84-%D8%A7%D9%84%D9%85%D8%A7%D9%84-%D8%B9%D9%84%D9%88%D9%85/",
-   "sourceName": "موقع الدراسة",
-   "solution": false,
-   "typeKey": "lesson",
-   "addedAt": "2026-09-22T16:56:34.440Z"
-  },
-  {
-   "id": "ed-%D8%AD%D9%82%D9%88%D9%82-%D8%A7%D9%84%D8%A5%D9%86%D8%B3%D8%A7%D9%86-%D9%81%D9%8A-%D9%85%D8%AC%D8%A7%D9%84-%D8%A7%D9%84%D8%B9%D9%84%D8%A7%D9%82%D8%A7%D8%AA-%D8%A7%D9%84%D8%B9%D8%A7%D9%85%D8%A9",
-   "title": "حقوق الإنسان في مجال العلاقات العامة و التعامل الدولي - علوم إسلامية 3AS",
-   "level": "3as",
-   "levelName": "الثالثة ثانوي",
-   "stage": "secondary",
-   "subject": "التربية الإسلامية",
-   "subjectKey": "تربية الاسلامية",
-   "stream": "all",
-   "streamName": "جميع الشعب",
-   "year": "",
-   "type": "دروس",
-   "pdf": "https://eddirasa.com/wp-content/uploads/2013/12/حقوق-الإنسان-في-مجال-العلاقات-العامة-والتعامل-الدولي.pdf",
-   "image": "",
-   "source": "https://eddirasa.com/%D8%AD%D9%82%D9%88%D9%82-%D8%A7%D9%84%D8%A5%D9%86%D8%B3%D8%A7%D9%86-%D9%81%D9%8A-%D9%85%D8%AC%D8%A7%D9%84-%D8%A7%D9%84%D8%B9%D9%84%D8%A7%D9%82%D8%A7%D8%AA-%D8%A7%D9%84%D8%B9%D8%A7%D9%85%D8%A9/",
-   "sourceName": "موقع الدراسة",
-   "solution": false,
-   "typeKey": "lesson",
-   "addedAt": "2026-09-22T16:56:31.328Z"
-  },
-  {
-   "id": "ed-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D9%88%D8%A7%D8%A9-%D8%A3%D9%85%D8%A7%D9%85-%D8%A7%D9%84%D8%B4%D8%B1%D9%8A%D8%B9%D8%A9-%D8%A7%D9%84%D8%A5%D8%B3%D9%84%D8%A7%D9%85%D9%8A%D8%A9-%D8%B9%D9%84%D9%88%D9%85",
-   "title": "المساواة أمام الشريعة الإسلامية - علوم إسلامية ثالثة ثانوي",
-   "level": "3as",
-   "levelName": "الثالثة ثانوي",
-   "stage": "secondary",
-   "subject": "التربية الإسلامية",
-   "subjectKey": "تربية الاسلامية",
-   "stream": "all",
-   "streamName": "جميع الشعب",
-   "year": "",
-   "type": "دروس",
-   "pdf": "https://eddirasa.com/wp-content/uploads/2013/12/المساواة-أمام-أحكام-الشريعة-الإسلامية.pdf",
-   "image": "",
-   "source": "https://eddirasa.com/%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D9%88%D8%A7%D8%A9-%D8%A3%D9%85%D8%A7%D9%85-%D8%A7%D9%84%D8%B4%D8%B1%D9%8A%D8%B9%D8%A9-%D8%A7%D9%84%D8%A5%D8%B3%D9%84%D8%A7%D9%85%D9%8A%D8%A9-%D8%B9%D9%84%D9%88%D9%85/",
-   "sourceName": "موقع الدراسة",
-   "solution": false,
-   "typeKey": "lesson",
-   "addedAt": "2026-09-22T16:56:25.308Z"
-  },
-  {
-   "id": "ed-%D8%AA%D8%AD%D9%84%D9%8A%D9%84-%D9%88%D8%AB%D9%8A%D9%82%D8%A9-%D8%AE%D8%B7%D8%A8%D8%A9-%D8%A7%D9%84%D8%B1%D8%B3%D9%88%D9%84-%D8%B5-%D9%81%D9%8A-%D8%AD%D8%AC%D8%A9",
-   "title": "تحليل وثيقة خطبة الرسول (ص) في حجة الوداع - علوم إسلامية 3AS",
-   "level": "3as",
-   "levelName": "الثالثة ثانوي",
-   "stage": "secondary",
-   "subject": "التربية الإسلامية",
-   "subjectKey": "تربية الاسلامية",
-   "stream": "all",
-   "streamName": "جميع الشعب",
-   "year": "",
-   "type": "دروس",
-   "pdf": "https://eddirasa.com/wp-content/uploads/2013/12/تحليل-وثيقة-خطبة-الرسول-صلى-الله-عليه-وسلم-في-حجة-الوداع.pdf",
-   "image": "",
-   "source": "https://eddirasa.com/%D8%AA%D8%AD%D9%84%D9%8A%D9%84-%D9%88%D8%AB%D9%8A%D9%82%D8%A9-%D8%AE%D8%B7%D8%A8%D8%A9-%D8%A7%D9%84%D8%B1%D8%B3%D9%88%D9%84-%D8%B5-%D9%81%D9%8A-%D8%AD%D8%AC%D8%A9/",
-   "sourceName": "موقع الدراسة",
-   "solution": false,
-   "typeKey": "lesson",
-   "addedAt": "2026-09-22T16:56:22.232Z"
-  },
-  {
-   "id": "ed-%D8%AA%D9%88%D8%AC%D9%8A%D9%87%D8%A7%D8%AA-%D8%A7%D9%84%D8%B1%D8%B3%D9%88%D9%84-%D8%B5-%D9%81%D9%8A-%D8%B5%D9%84%D8%A9-%D8%A7%D9%84%D8%A2%D8%A8%D8%A7%D8%A1",
-   "title": "توجيهات الرسول (ص) في صلة الآباء بالابناء - علوم إسلامية 3AS",
-   "level": "3as",
-   "levelName": "الثالثة ثانوي",
-   "stage": "secondary",
-   "subject": "التربية الإسلامية",
-   "subjectKey": "تربية الاسلامية",
-   "stream": "all",
-   "streamName": "جميع الشعب",
-   "year": "",
-   "type": "دروس",
-   "pdf": "https://eddirasa.com/wp-content/uploads/2013/12/توجيهات-الرسول-صلى-الله-عليه-وسلم-في-صلة-الآباء-بالأبناء.pdf",
-   "image": "",
-   "source": "https://eddirasa.com/%D8%AA%D9%88%D8%AC%D9%8A%D9%87%D8%A7%D8%AA-%D8%A7%D9%84%D8%B1%D8%B3%D9%88%D9%84-%D8%B5-%D9%81%D9%8A-%D8%B5%D9%84%D8%A9-%D8%A7%D9%84%D8%A2%D8%A8%D8%A7%D8%A1/",
-   "sourceName": "موقع الدراسة",
-   "solution": false,
-   "typeKey": "lesson",
-   "addedAt": "2026-09-22T16:56:19.232Z"
-  },
-  {
-   "id": "ed-%D8%A7%D9%84%D8%B5%D8%AD%D8%A9-%D8%A7%D9%84%D9%86%D9%81%D8%B3%D9%8A%D8%A9-%D9%88-%D8%A7%D9%84%D8%AC%D8%B3%D9%85%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86",
-   "title": "الصحة النفسية و الجسمية في القرآن الكريم - علوم إسلامية 3AS",
-   "level": "3as",
-   "levelName": "الثالثة ثانوي",
-   "stage": "secondary",
-   "subject": "التربية الإسلامية",
-   "subjectKey": "تربية الاسلامية",
-   "stream": "all",
-   "streamName": "جميع الشعب",
-   "year": "",
-   "type": "دروس",
-   "pdf": "https://eddirasa.com/wp-content/uploads/2013/12/الصحة-النفسية-والجسمية-في-القرآن-الكريم.pdf",
-   "image": "",
-   "source": "https://eddirasa.com/%D8%A7%D9%84%D8%B5%D8%AD%D8%A9-%D8%A7%D9%84%D9%86%D9%81%D8%B3%D9%8A%D8%A9-%D9%88-%D8%A7%D9%84%D8%AC%D8%B3%D9%85%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86/",
-   "sourceName": "موقع الدراسة",
-   "solution": false,
-   "typeKey": "lesson",
-   "addedAt": "2026-09-22T16:56:16.286Z"
+   "typeKey": "summary",
+   "addedAt": "2026-09-22T17:04:05.524Z"
   }
  ],
  "news": [
