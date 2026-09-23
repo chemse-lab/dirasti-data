@@ -1,7 +1,19 @@
 {
- "generated_at": "2026-09-23T09:28:03.494Z",
- "total": 11235,
+ "generated_at": "2026-09-23T09:37:26.164Z",
+ "total": 11239,
  "shards": [
+  {
+   "file": "3as-b0225673--x91b4a510.json",
+   "level": "3as",
+   "subject": "عربية",
+   "count": 6
+  },
+  {
+   "file": "3as-b0225673--xf0519d05.json",
+   "level": "3as",
+   "subject": "علوم الفيزيائية",
+   "count": 100
+  },
   {
    "file": "3as-b0225673--xca4e049c.json",
    "level": "3as",
@@ -13,12 +25,6 @@
    "level": "3as",
    "subject": "رياضيات",
    "count": 320
-  },
-  {
-   "file": "3as-b0225673--x91b4a510.json",
-   "level": "3as",
-   "subject": "عربية",
-   "count": 5
   },
   {
    "file": "3as-b0225673--xf2964ab5.json",
@@ -91,12 +97,6 @@
    "level": "3as",
    "subject": "علوم اسلامية",
    "count": 5
-  },
-  {
-   "file": "3as-b0225673--xf0519d05.json",
-   "level": "3as",
-   "subject": "علوم الفيزيائية",
-   "count": 97
   },
   {
    "file": "3as-b0225673--xd1ec9be1.json",
@@ -845,7 +845,7 @@
   {
    "id": "secondary",
    "name": "الثانوي",
-   "count": 4599
+   "count": 4603
   },
   {
    "id": "teachers",
@@ -858,7 +858,7 @@
    "id": "3as",
    "name": "الثالثة ثانوي",
    "stage": "secondary",
-   "count": 2804,
+   "count": 2808,
    "subjects": [
     {
      "id": "علوم الطبيعة والحياة",
@@ -902,7 +902,7 @@
     },
     {
      "id": "علوم الفيزيائية",
-     "count": 97
+     "count": 100
     },
     {
      "id": "هندسة الكهربائية",
@@ -938,7 +938,7 @@
     },
     {
      "id": "عربية",
-     "count": 5
+     "count": 6
     },
     {
      "id": "علوم اسلامية",
@@ -1824,7 +1824,7 @@
    "id": "علوم الفيزيائية",
    "name": "العلوم الفيزيائية",
    "icon": "🔬",
-   "count": 248
+   "count": 251
   },
   {
    "id": "علوم الفيزيائية والتكنولوجيا",
@@ -1878,7 +1878,7 @@
    "id": "عربية",
    "name": "اللغة العربية",
    "icon": "📖",
-   "count": 815
+   "count": 816
   },
   {
    "id": "عربية وادابها",
@@ -2009,9 +2009,89 @@
  ],
  "recent": {
   "days": 7,
-  "count": 323
+  "count": 327
  },
  "featured": [
+  {
+   "id": "ed-%D9%83%D8%AA%D8%A7%D8%A8-%D8%A7%D9%84%D9%85%D8%A8%D8%B3%D8%B7-%D9%81%D9%8A-%D8%A7%D9%84%D9%84%D8%BA%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D8%A5%D8%AC%D8%A7%D8%A8%D8%A9-%D8%B9%D9%84%D9%89",
+   "title": "كتاب المبسط في اللغة العربية إجابة على الأسئلة المتكررة 3 ثانوي",
+   "level": "3as",
+   "levelName": "الثالثة ثانوي",
+   "stage": "secondary",
+   "subject": "اللغة العربية",
+   "subjectKey": "عربية",
+   "stream": "all",
+   "streamName": "جميع الشعب",
+   "year": "",
+   "type": "دروس",
+   "pdf": "https://eddirasa.com/wp-content/uploads/2015/01/arabic3as_mobasit_fi_adab.pdf",
+   "image": "",
+   "source": "https://eddirasa.com/%D9%83%D8%AA%D8%A7%D8%A8-%D8%A7%D9%84%D9%85%D8%A8%D8%B3%D8%B7-%D9%81%D9%8A-%D8%A7%D9%84%D9%84%D8%BA%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D8%A5%D8%AC%D8%A7%D8%A8%D8%A9-%D8%B9%D9%84%D9%89/",
+   "sourceName": "موقع الدراسة",
+   "solution": true,
+   "typeKey": "lesson",
+   "addedAt": "2026-09-23T09:36:09.696Z"
+  },
+  {
+   "id": "ed-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D8%AC-%D8%AF%D8%B1%D9%88%D8%B3-%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85-%D8%A7%D9%84%D9%81%D9%8A%D8%B2%D9%8A%D8%A7%D8%A6%D9%8A%D8%A9-%D8%B3%D9%86%D8%A9-3-%D8%AB%D8%A7-2",
+   "title": "برنامج دروس العلوم الفيزيائية سنة 3 ثانوي علوم تجريبية",
+   "level": "3as",
+   "levelName": "الثالثة ثانوي",
+   "stage": "secondary",
+   "subject": "العلوم الفيزيائية",
+   "subjectKey": "علوم الفيزيائية",
+   "stream": "se",
+   "streamName": "علوم تجريبية",
+   "year": "",
+   "type": "دروس",
+   "pdf": "https://eddirasa.com/wp-content/uploads/2015/01/س3-ع-ت.pdf",
+   "image": "",
+   "source": "https://eddirasa.com/%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D8%AC-%D8%AF%D8%B1%D9%88%D8%B3-%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85-%D8%A7%D9%84%D9%81%D9%8A%D8%B2%D9%8A%D8%A7%D8%A6%D9%8A%D8%A9-%D8%B3%D9%86%D8%A9-3-%D8%AB%D8%A7-2/",
+   "sourceName": "موقع الدراسة",
+   "solution": false,
+   "typeKey": "lesson",
+   "addedAt": "2026-09-23T09:34:33.447Z"
+  },
+  {
+   "id": "ed-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D8%AC-%D8%AF%D8%B1%D9%88%D8%B3-%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85-%D8%A7%D9%84%D9%81%D9%8A%D8%B2%D9%8A%D8%A7%D8%A6%D9%8A%D8%A9-%D8%B3%D9%86%D8%A9-3-%D8%AB%D8%A7%D9%86",
+   "title": "برنامج دروس العلوم الفيزيائية سنة 3 ثانوي رياضيات و تقني رياضي",
+   "level": "3as",
+   "levelName": "الثالثة ثانوي",
+   "stage": "secondary",
+   "subject": "العلوم الفيزيائية",
+   "subjectKey": "علوم الفيزيائية",
+   "stream": "mt",
+   "streamName": "تقني رياضي",
+   "year": "",
+   "type": "دروس",
+   "pdf": "https://eddirasa.com/wp-content/uploads/2015/01/س3-ر-تر.pdf",
+   "image": "",
+   "source": "https://eddirasa.com/%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D8%AC-%D8%AF%D8%B1%D9%88%D8%B3-%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85-%D8%A7%D9%84%D9%81%D9%8A%D8%B2%D9%8A%D8%A7%D8%A6%D9%8A%D8%A9-%D8%B3%D9%86%D8%A9-3-%D8%AB%D8%A7%D9%86/",
+   "sourceName": "موقع الدراسة",
+   "solution": false,
+   "typeKey": "lesson",
+   "addedAt": "2026-09-23T09:33:30.272Z"
+  },
+  {
+   "id": "ed-%D9%85%D9%81%D9%83%D8%B1%D8%A9-%D9%85%D9%84%D8%AE%D8%B5%D8%A9-%D9%84%D9%83%D9%84-%D9%82%D9%88%D8%A7%D9%86%D9%8A%D9%86-%D8%A7%D9%84%D9%83%D9%8A%D9%85%D9%8A%D8%A7%D8%A1",
+   "title": "مفكرة ملخصة لكل قوانين الكيمياء",
+   "level": "3as",
+   "levelName": "الثالثة ثانوي",
+   "stage": "secondary",
+   "subject": "العلوم الفيزيائية",
+   "subjectKey": "علوم الفيزيائية",
+   "stream": "all",
+   "streamName": "جميع الشعب",
+   "year": "",
+   "type": "دروس",
+   "pdf": "https://eddirasa.com/wp-content/uploads/2014/12/chimie.pdf",
+   "image": "",
+   "source": "https://eddirasa.com/%D9%85%D9%81%D9%83%D8%B1%D8%A9-%D9%85%D9%84%D8%AE%D8%B5%D8%A9-%D9%84%D9%83%D9%84-%D9%82%D9%88%D8%A7%D9%86%D9%8A%D9%86-%D8%A7%D9%84%D9%83%D9%8A%D9%85%D9%8A%D8%A7%D8%A1/",
+   "sourceName": "موقع الدراسة",
+   "solution": false,
+   "typeKey": "lesson",
+   "addedAt": "2026-09-23T09:29:08.617Z"
+  },
   {
    "id": "ed-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D8%AC-%D8%AF%D8%B1%D9%88%D8%B3-%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85-%D8%A7%D9%84%D8%B7%D8%A8%D9%8A%D8%B9%D9%8A%D8%A9-%D8%B3%D9%86%D8%A9-3-%D8%AB%D8%A7%D9%86%D9%88-2",
    "title": "برنامج دروس العلوم الطبيعية سنة 3 ثانوي رياضيات",
@@ -2411,86 +2491,6 @@
    "solution": false,
    "typeKey": "lesson",
    "addedAt": "2026-09-23T09:21:13.377Z"
-  },
-  {
-   "id": "ed-%D9%85%D9%84%D8%AE%D8%B5-%D9%88%D8%AD%D8%AF%D8%A9-%D8%AA%D8%B1%D9%83%D9%8A%D8%A8-%D8%A7%D9%84%D8%A8%D8%B1%D9%88%D8%AA%D9%8A%D9%86-%D8%B9%D9%84%D9%88%D9%85-%D8%B3%D9%86%D8%A9-3-%D8%AB%D8%A7%D9%86%D9%88",
-   "title": "ملخص وحدة تركيب البروتين علوم سنة 3 ثانوي",
-   "level": "3as",
-   "levelName": "الثالثة ثانوي",
-   "stage": "secondary",
-   "subject": "علوم الطبيعة والحياة",
-   "subjectKey": "علوم الطبيعة والحياة",
-   "stream": "all",
-   "streamName": "جميع الشعب",
-   "year": "",
-   "type": "ملخصات",
-   "pdf": "https://eddirasa.com/wp-content/uploads/2014/12/1-تركيب-البروتين.pdf",
-   "image": "",
-   "source": "https://eddirasa.com/%D9%85%D9%84%D8%AE%D8%B5-%D9%88%D8%AD%D8%AF%D8%A9-%D8%AA%D8%B1%D9%83%D9%8A%D8%A8-%D8%A7%D9%84%D8%A8%D8%B1%D9%88%D8%AA%D9%8A%D9%86-%D8%B9%D9%84%D9%88%D9%85-%D8%B3%D9%86%D8%A9-3-%D8%AB%D8%A7%D9%86%D9%88/",
-   "sourceName": "موقع الدراسة",
-   "solution": false,
-   "typeKey": "summary",
-   "addedAt": "2026-09-23T09:21:10.369Z"
-  },
-  {
-   "id": "ed-%D9%85%D9%84%D8%AE%D8%B5-%D8%A7%D9%84%D9%86%D8%B4%D8%A7%D8%B7-%D8%A7%D9%84%D8%A5%D9%86%D8%B2%D9%8A%D9%85%D9%8A-%D9%84%D9%84%D8%A8%D8%B1%D9%88%D8%AA%D9%8A%D9%86%D8%A7%D8%AA-%D8%B9%D9%84%D9%88%D9%85",
-   "title": "ملخص النشاط الإنزيمي للبروتينات علوم سنة 3 ثانوي",
-   "level": "3as",
-   "levelName": "الثالثة ثانوي",
-   "stage": "secondary",
-   "subject": "علوم الطبيعة والحياة",
-   "subjectKey": "علوم الطبيعة والحياة",
-   "stream": "all",
-   "streamName": "جميع الشعب",
-   "year": "",
-   "type": "ملخصات",
-   "pdf": "https://eddirasa.com/wp-content/uploads/2014/12/3-النشاط-الأنزيمي-للبروتينات.pdf",
-   "image": "",
-   "source": "https://eddirasa.com/%D9%85%D9%84%D8%AE%D8%B5-%D8%A7%D9%84%D9%86%D8%B4%D8%A7%D8%B7-%D8%A7%D9%84%D8%A5%D9%86%D8%B2%D9%8A%D9%85%D9%8A-%D9%84%D9%84%D8%A8%D8%B1%D9%88%D8%AA%D9%8A%D9%86%D8%A7%D8%AA-%D8%B9%D9%84%D9%88%D9%85/",
-   "sourceName": "موقع الدراسة",
-   "solution": false,
-   "typeKey": "summary",
-   "addedAt": "2026-09-23T09:21:04.287Z"
-  },
-  {
-   "id": "ed-%D9%85%D9%88%D8%B6%D9%88%D8%B9-%D8%A8%D9%83%D8%A7%D9%84%D9%88%D8%B1%D9%8A%D8%A7-%D9%85%D9%82%D8%AA%D8%B1%D8%AD-%D9%81%D9%8A-%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85-%D8%A7%D9%84%D8%B7%D8%A8%D9%8A%D8%B9",
-   "title": "موضوع بكالوريا مقترح في العلوم الطبيعية مع الحل رقم 1",
-   "level": "bac",
-   "levelName": "البكالوريا",
-   "stage": "secondary",
-   "subject": "علوم الطبيعة والحياة",
-   "subjectKey": "علوم الطبيعة والحياة",
-   "stream": "all",
-   "streamName": "جميع الشعب",
-   "year": "",
-   "type": "دروس",
-   "pdf": "https://eddirasa.com/wp-content/uploads/2014/12/annale-bac-science.pdf",
-   "image": "",
-   "source": "https://eddirasa.com/%D9%85%D9%88%D8%B6%D9%88%D8%B9-%D8%A8%D9%83%D8%A7%D9%84%D9%88%D8%B1%D9%8A%D8%A7-%D9%85%D9%82%D8%AA%D8%B1%D8%AD-%D9%81%D9%8A-%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85-%D8%A7%D9%84%D8%B7%D8%A8%D9%8A%D8%B9/",
-   "sourceName": "موقع الدراسة",
-   "solution": true,
-   "typeKey": "lesson",
-   "addedAt": "2026-09-23T09:21:01.265Z"
-  },
-  {
-   "id": "ed-annals-prepared-bac-maths-physics-mowafik",
-   "title": "حوليات الموفق للبكالوريا في الرياضيات و الفيزياء",
-   "level": "bac",
-   "levelName": "البكالوريا",
-   "stage": "secondary",
-   "subject": "الرياضيات",
-   "subjectKey": "رياضيات",
-   "stream": "all",
-   "streamName": "جميع الشعب",
-   "year": "",
-   "type": "دروس",
-   "pdf": "https://eddirasa.com/wp-content/uploads/2014/12/حوليات-الرياضيات-والفيزياء.pdf",
-   "image": "",
-   "source": "https://eddirasa.com/annals-prepared-bac-maths-physics-mowafik/",
-   "sourceName": "موقع الدراسة",
-   "solution": false,
-   "typeKey": "lesson",
-   "addedAt": "2026-09-23T09:20:52.252Z"
   }
  ],
  "news": [
