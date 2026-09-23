@@ -1,7 +1,12 @@
 {
- "generated_at": "2026-09-23T13:28:03.626Z",
- "total": 11276,
+ "generated_at": "2026-09-23T13:48:17.854Z",
+ "total": 11281,
  "shards": [
+  {
+   "file": "3am-11f30712.json",
+   "level": "3am",
+   "count": 337
+  },
   {
    "file": "3as-b0225673--xf0519d05.json",
    "level": "3as",
@@ -815,11 +820,6 @@
    "count": 242
   },
   {
-   "file": "3am-11f30712.json",
-   "level": "3am",
-   "count": 332
-  },
-  {
    "file": "0ap-022538ad.json",
    "level": "0ap",
    "count": 68
@@ -840,7 +840,7 @@
   {
    "id": "middle",
    "name": "المتوسط",
-   "count": 3061
+   "count": 3066
   },
   {
    "id": "secondary",
@@ -854,6 +854,54 @@
   }
  ],
  "levels": [
+  {
+   "id": "3am",
+   "name": "الثالثة متوسط",
+   "stage": "middle",
+   "count": 337,
+   "subjects": [
+    {
+     "id": "رياضيات",
+     "count": 53
+    },
+    {
+     "id": "علوم الفيزيائية والتكنولوجيا",
+     "count": 50
+    },
+    {
+     "id": "علوم الطبيعة والحياة",
+     "count": 41
+    },
+    {
+     "id": "فرنسية",
+     "count": 39
+    },
+    {
+     "id": "انجليزية",
+     "count": 33
+    },
+    {
+     "id": "عربية",
+     "count": 32
+    },
+    {
+     "id": "تاريخ والجغرافيا",
+     "count": 26
+    },
+    {
+     "id": "تربية الاسلامية",
+     "count": 23
+    },
+    {
+     "id": "اعلام الالي",
+     "count": 21
+    },
+    {
+     "id": "تربية المدنية",
+     "count": 19
+    }
+   ]
+  },
   {
    "id": "3as",
    "name": "الثالثة ثانوي",
@@ -1651,54 +1699,6 @@
    ]
   },
   {
-   "id": "3am",
-   "name": "الثالثة متوسط",
-   "stage": "middle",
-   "count": 332,
-   "subjects": [
-    {
-     "id": "رياضيات",
-     "count": 52
-    },
-    {
-     "id": "علوم الفيزيائية والتكنولوجيا",
-     "count": 50
-    },
-    {
-     "id": "علوم الطبيعة والحياة",
-     "count": 41
-    },
-    {
-     "id": "فرنسية",
-     "count": 37
-    },
-    {
-     "id": "انجليزية",
-     "count": 32
-    },
-    {
-     "id": "عربية",
-     "count": 31
-    },
-    {
-     "id": "تاريخ والجغرافيا",
-     "count": 26
-    },
-    {
-     "id": "تربية الاسلامية",
-     "count": 23
-    },
-    {
-     "id": "اعلام الالي",
-     "count": 21
-    },
-    {
-     "id": "تربية المدنية",
-     "count": 19
-    }
-   ]
-  },
-  {
    "id": "0ap",
    "name": "القسم التحضيري",
    "stage": "primary",
@@ -1812,7 +1812,7 @@
    "id": "رياضيات",
    "name": "الرياضيات",
    "icon": "📐",
-   "count": 1723
+   "count": 1724
   },
   {
    "id": "علوم الاسلامية",
@@ -1866,7 +1866,7 @@
    "id": "انجليزية",
    "name": "اللغة الإنجليزية",
    "icon": "EN",
-   "count": 723
+   "count": 724
   },
   {
    "id": "ايطالية",
@@ -1878,7 +1878,7 @@
    "id": "عربية",
    "name": "اللغة العربية",
    "icon": "📖",
-   "count": 817
+   "count": 818
   },
   {
    "id": "عربية وادابها",
@@ -1890,7 +1890,7 @@
    "id": "فرنسية",
    "name": "اللغة الفرنسية",
    "icon": "FR",
-   "count": 1059
+   "count": 1061
   },
   {
    "id": "هندسة الكهربائية",
@@ -2009,9 +2009,109 @@
  ],
  "recent": {
   "days": 7,
-  "count": 364
+  "count": 369
  },
  "featured": [
+  {
+   "id": "ed-%D8%AD%D9%84%D9%88%D9%84-%D8%AA%D9%85%D8%A7%D8%B1%D9%8A%D9%86-%D8%A7%D9%84%D9%83%D8%AA%D8%A7%D8%A8-%D8%A7%D9%84%D9%85%D8%AF%D8%B1%D8%B3%D9%8A-%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A7%D8%AA-%D8%B3%D9%86",
+   "title": "حلول تمارين الكتاب المدرسي رياضيات سنة ثالثة متوسط",
+   "level": "3am",
+   "levelName": "الثالثة متوسط",
+   "stage": "middle",
+   "subject": "الرياضيات",
+   "subjectKey": "رياضيات",
+   "stream": "all",
+   "streamName": "جميع الشعب",
+   "year": "",
+   "type": "ملخصات",
+   "pdf": "https://eddirasa.com/wp-content/uploads/2015/04/حلول-تمارين-الكتاب-المدرسي-رياضيات-ثالثة-متوسط.pdf",
+   "image": "",
+   "source": "https://eddirasa.com/%D8%AD%D9%84%D9%88%D9%84-%D8%AA%D9%85%D8%A7%D8%B1%D9%8A%D9%86-%D8%A7%D9%84%D9%83%D8%AA%D8%A7%D8%A8-%D8%A7%D9%84%D9%85%D8%AF%D8%B1%D8%B3%D9%8A-%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A7%D8%AA-%D8%B3%D9%86/",
+   "sourceName": "موقع الدراسة",
+   "solution": true,
+   "typeKey": "summary",
+   "addedAt": "2026-09-23T13:47:07.294Z"
+  },
+  {
+   "id": "ed-%D9%83%D8%AA%D8%A7%D8%A8-%D8%A7%D9%84%D8%A3%D8%B3%D8%AA%D8%A7%D8%B0-%D9%81%D9%8A-%D8%A7%D9%84%D9%84%D8%BA%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D8%B3%D9%86%D8%A9-%D8%AB%D8%A7%D9%84%D8%AB",
+   "title": "كتاب الأستاذ في اللغة العربية سنة ثالثة متوسط",
+   "level": "3am",
+   "levelName": "الثالثة متوسط",
+   "stage": "middle",
+   "subject": "اللغة العربية",
+   "subjectKey": "عربية",
+   "stream": "all",
+   "streamName": "جميع الشعب",
+   "year": "",
+   "type": "ملخصات",
+   "pdf": "https://eddirasa.com/wp-content/uploads/2015/04/ARABE.pdf",
+   "image": "",
+   "source": "https://eddirasa.com/%D9%83%D8%AA%D8%A7%D8%A8-%D8%A7%D9%84%D8%A3%D8%B3%D8%AA%D8%A7%D8%B0-%D9%81%D9%8A-%D8%A7%D9%84%D9%84%D8%BA%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D8%B3%D9%86%D8%A9-%D8%AB%D8%A7%D9%84%D8%AB/",
+   "sourceName": "موقع الدراسة",
+   "solution": false,
+   "typeKey": "summary",
+   "addedAt": "2026-09-23T13:41:35.558Z"
+  },
+  {
+   "id": "ed-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D8%AC-%D9%88-%D8%AF%D8%B1%D9%88%D8%B3-%D8%A7%D9%84%D9%84%D8%BA%D8%A9-%D8%A7%D9%84%D9%81%D8%B1%D9%86%D8%B3%D9%8A%D8%A9-%D8%B3%D9%86%D8%A9-%D8%AB%D8%A7%D9%84%D8%AB%D8%A9",
+   "title": "برنامج و دروس اللغة الفرنسية سنة ثالثة متوسط",
+   "level": "3am",
+   "levelName": "الثالثة متوسط",
+   "stage": "middle",
+   "subject": "اللغة الفرنسية",
+   "subjectKey": "فرنسية",
+   "stream": "all",
+   "streamName": "جميع الشعب",
+   "year": "",
+   "type": "ملخصات",
+   "pdf": "https://eddirasa.com/wp-content/uploads/2015/04/Français-programme.pdf",
+   "image": "",
+   "source": "https://eddirasa.com/%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D8%AC-%D9%88-%D8%AF%D8%B1%D9%88%D8%B3-%D8%A7%D9%84%D9%84%D8%BA%D8%A9-%D8%A7%D9%84%D9%81%D8%B1%D9%86%D8%B3%D9%8A%D8%A9-%D8%B3%D9%86%D8%A9-%D8%AB%D8%A7%D9%84%D8%AB%D8%A9/",
+   "sourceName": "موقع الدراسة",
+   "solution": false,
+   "typeKey": "summary",
+   "addedAt": "2026-09-23T13:36:43.843Z"
+  },
+  {
+   "id": "ed-%D9%83%D8%AA%D8%A7%D8%A8-%D8%A7%D9%84%D8%A3%D8%B3%D8%AA%D8%A7%D8%B0-%D9%81%D9%8A-%D8%A7%D9%84%D9%84%D8%BA%D8%A9-%D8%A7%D9%84%D9%81%D8%B1%D9%86%D8%B3%D9%8A%D8%A9-%D8%AB%D8%A7%D9%84%D8%AB%D8%A9-%D9%85",
+   "title": "كتاب الأستاذ في اللغة الفرنسية ثالثة متوسط",
+   "level": "3am",
+   "levelName": "الثالثة متوسط",
+   "stage": "middle",
+   "subject": "اللغة الفرنسية",
+   "subjectKey": "فرنسية",
+   "stream": "all",
+   "streamName": "جميع الشعب",
+   "year": "",
+   "type": "ملخصات",
+   "pdf": "https://eddirasa.com/wp-content/uploads/2015/04/french3am-guide_professeur.pdf",
+   "image": "",
+   "source": "https://eddirasa.com/%D9%83%D8%AA%D8%A7%D8%A8-%D8%A7%D9%84%D8%A3%D8%B3%D8%AA%D8%A7%D8%B0-%D9%81%D9%8A-%D8%A7%D9%84%D9%84%D8%BA%D8%A9-%D8%A7%D9%84%D9%81%D8%B1%D9%86%D8%B3%D9%8A%D8%A9-%D8%AB%D8%A7%D9%84%D8%AB%D8%A9-%D9%85/",
+   "sourceName": "موقع الدراسة",
+   "solution": false,
+   "typeKey": "summary",
+   "addedAt": "2026-09-23T13:36:28.742Z"
+  },
+  {
+   "id": "ed-%D9%83%D8%AA%D8%A7%D8%A8-%D8%A7%D9%84%D8%A3%D8%B3%D8%AA%D8%A7%D8%B0-%D9%84%D9%84%D8%BA%D8%A9-%D8%A7%D9%84%D8%A5%D9%86%D8%AC%D9%84%D9%8A%D8%B2%D9%8A%D8%A9-%D8%B3%D9%86%D8%A9-%D8%AB%D8%A7%D9%84%D8%AB",
+   "title": "كتاب الأستاذ للغة الإنجليزية سنة ثالثة متوسط",
+   "level": "3am",
+   "levelName": "الثالثة متوسط",
+   "stage": "middle",
+   "subject": "اللغة الإنجليزية",
+   "subjectKey": "انجليزية",
+   "stream": "all",
+   "streamName": "جميع الشعب",
+   "year": "",
+   "type": "ملخصات",
+   "pdf": "https://eddirasa.com/wp-content/uploads/2015/04/Teachers-book-3AM.pdf",
+   "image": "",
+   "source": "https://eddirasa.com/%D9%83%D8%AA%D8%A7%D8%A8-%D8%A7%D9%84%D8%A3%D8%B3%D8%AA%D8%A7%D8%B0-%D9%84%D9%84%D8%BA%D8%A9-%D8%A7%D9%84%D8%A5%D9%86%D8%AC%D9%84%D9%8A%D8%B2%D9%8A%D8%A9-%D8%B3%D9%86%D8%A9-%D8%AB%D8%A7%D9%84%D8%AB/",
+   "sourceName": "موقع الدراسة",
+   "solution": false,
+   "typeKey": "summary",
+   "addedAt": "2026-09-23T13:31:55.025Z"
+  },
   {
    "id": "ed-%D8%AA%D8%B9%D8%A7%D8%B1%D9%8A%D9%81-%D9%84%D9%85%D8%B9%D8%B8%D9%85-%D9%85%D8%B5%D8%B7%D9%84%D8%AD%D8%A7%D8%AA-%D8%A7%D9%84%D9%81%D9%8A%D8%B2%D9%8A%D8%A7%D8%A1-%D8%AB%D8%A7%D9%84%D8%AB%D8%A9-%D8%AB",
    "title": "تعاريف لمعظم مصطلحات الفيزياء ثالثة ثانوي",
@@ -2391,106 +2491,6 @@
    "solution": false,
    "typeKey": "summary",
    "addedAt": "2026-09-23T13:17:07.560Z"
-  },
-  {
-   "id": "ed-%D9%85%D9%84%D8%AE%D8%B5-%D8%A7%D9%84%D8%A3%D8%B9%D8%AF%D8%A7%D8%AF-%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%A8%D8%A9-%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A7%D8%AA-%D8%B3%D9%86%D8%A9-%D8%AB%D8%A7%D9%84%D8%AB",
-   "title": "ملخص الأعداد المركبة رياضيات سنة ثالثة ثانوي",
-   "level": "3as",
-   "levelName": "الثالثة ثانوي",
-   "stage": "secondary",
-   "subject": "الرياضيات",
-   "subjectKey": "رياضيات",
-   "stream": "all",
-   "streamName": "جميع الشعب",
-   "year": "",
-   "type": "ملخصات",
-   "pdf": "https://eddirasa.com/wp-content/uploads/2015/03/05-Nombres-complexes.pdf",
-   "image": "",
-   "source": "https://eddirasa.com/%D9%85%D9%84%D8%AE%D8%B5-%D8%A7%D9%84%D8%A3%D8%B9%D8%AF%D8%A7%D8%AF-%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%A8%D8%A9-%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A7%D8%AA-%D8%B3%D9%86%D8%A9-%D8%AB%D8%A7%D9%84%D8%AB/",
-   "sourceName": "موقع الدراسة",
-   "solution": false,
-   "typeKey": "summary",
-   "addedAt": "2026-09-23T13:16:55.568Z"
-  },
-  {
-   "id": "ed-%D9%85%D9%84%D8%AE%D8%B5-%D8%A7%D9%84%D8%AF%D8%A7%D8%A6%D8%B1%D8%A9-%D8%A7%D9%84%D9%85%D8%AB%D9%84%D8%AB%D9%8A%D8%A9-%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A7%D8%AA-%D8%B3%D9%86%D8%A9-%D8%AB%D8%A7%D9%84",
-   "title": "ملخص الدائرة المثلثية رياضيات سنة ثالثة ثانوي",
-   "level": "3as",
-   "levelName": "الثالثة ثانوي",
-   "stage": "secondary",
-   "subject": "الرياضيات",
-   "subjectKey": "رياضيات",
-   "stream": "all",
-   "streamName": "جميع الشعب",
-   "year": "",
-   "type": "ملخصات",
-   "pdf": "https://eddirasa.com/wp-content/uploads/2015/03/06-Trigonométrie-1.pdf",
-   "image": "",
-   "source": "https://eddirasa.com/%D9%85%D9%84%D8%AE%D8%B5-%D8%A7%D9%84%D8%AF%D8%A7%D8%A6%D8%B1%D8%A9-%D8%A7%D9%84%D9%85%D8%AB%D9%84%D8%AB%D9%8A%D8%A9-%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A7%D8%AA-%D8%B3%D9%86%D8%A9-%D8%AB%D8%A7%D9%84/",
-   "sourceName": "موقع الدراسة",
-   "solution": false,
-   "typeKey": "summary",
-   "addedAt": "2026-09-23T13:16:49.510Z"
-  },
-  {
-   "id": "ed-%D9%85%D9%84%D8%AE%D8%B5-%D8%A7%D9%84%D8%AA%D8%AD%D9%84%D9%8A%D9%84-%D8%A7%D9%84%D8%AA%D9%88%D9%81%D9%8A%D9%82%D9%8A-%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A7%D8%AA-%D8%B3%D9%86%D8%A9-%D8%AB%D8%A7%D9%84",
-   "title": "ملخص التحليل التوفيقي رياضيات سنة ثالثة ثانوي",
-   "level": "3as",
-   "levelName": "الثالثة ثانوي",
-   "stage": "secondary",
-   "subject": "الرياضيات",
-   "subjectKey": "رياضيات",
-   "stream": "all",
-   "streamName": "جميع الشعب",
-   "year": "",
-   "type": "ملخصات",
-   "pdf": "https://eddirasa.com/wp-content/uploads/2015/03/11-Dénombrement.pdf",
-   "image": "",
-   "source": "https://eddirasa.com/%D9%85%D9%84%D8%AE%D8%B5-%D8%A7%D9%84%D8%AA%D8%AD%D9%84%D9%8A%D9%84-%D8%A7%D9%84%D8%AA%D9%88%D9%81%D9%8A%D9%82%D9%8A-%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A7%D8%AA-%D8%B3%D9%86%D8%A9-%D8%AB%D8%A7%D9%84/",
-   "sourceName": "موقع الدراسة",
-   "solution": false,
-   "typeKey": "summary",
-   "addedAt": "2026-09-23T13:16:40.508Z"
-  },
-  {
-   "id": "ed-%D9%85%D9%84%D8%AE%D8%B5-%D8%A7%D9%84%D8%AF%D9%88%D8%A7%D9%84-%D8%A7%D9%84%D8%A3%D8%B5%D9%84%D9%8A%D8%A9-%D9%88-%D8%A7%D9%84%D8%AD%D8%B3%D8%A7%D8%A8-%D8%A7%D9%84%D8%AA%D9%83%D8%A7%D9%85%D9%84%D9%8A",
-   "title": "ملخص الدوال الأصلية و الحساب التكاملي رياضيات سنة ثالثة ثانوي",
-   "level": "3as",
-   "levelName": "الثالثة ثانوي",
-   "stage": "secondary",
-   "subject": "الرياضيات",
-   "subjectKey": "رياضيات",
-   "stream": "all",
-   "streamName": "جميع الشعب",
-   "year": "",
-   "type": "ملخصات",
-   "pdf": "https://eddirasa.com/wp-content/uploads/2015/03/10-Primitives-et-Intégrales.pdf",
-   "image": "",
-   "source": "https://eddirasa.com/%D9%85%D9%84%D8%AE%D8%B5-%D8%A7%D9%84%D8%AF%D9%88%D8%A7%D9%84-%D8%A7%D9%84%D8%A3%D8%B5%D9%84%D9%8A%D8%A9-%D9%88-%D8%A7%D9%84%D8%AD%D8%B3%D8%A7%D8%A8-%D8%A7%D9%84%D8%AA%D9%83%D8%A7%D9%85%D9%84%D9%8A/",
-   "sourceName": "موقع الدراسة",
-   "solution": false,
-   "typeKey": "summary",
-   "addedAt": "2026-09-23T13:16:31.489Z"
-  },
-  {
-   "id": "ed-%D9%85%D9%84%D8%AE%D8%B5-%D8%AF%D8%B1%D8%A7%D8%B3%D8%A9-%D8%A7%D9%84%D9%81%D8%B1%D9%88%D8%B9-%D8%A7%D9%84%D9%84%D8%A7%D9%86%D9%87%D8%A7%D8%A6%D9%8A%D8%A9-%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A7%D8%AA",
-   "title": "ملخص دراسة الفروع اللانهائية رياضيات سنة ثالثة ثانوي",
-   "level": "3as",
-   "levelName": "الثالثة ثانوي",
-   "stage": "secondary",
-   "subject": "الرياضيات",
-   "subjectKey": "رياضيات",
-   "stream": "all",
-   "streamName": "جميع الشعب",
-   "year": "",
-   "type": "ملخصات",
-   "pdf": "https://eddirasa.com/wp-content/uploads/2015/03/01-Asymptotes.pdf",
-   "image": "",
-   "source": "https://eddirasa.com/%D9%85%D9%84%D8%AE%D8%B5-%D8%AF%D8%B1%D8%A7%D8%B3%D8%A9-%D8%A7%D9%84%D9%81%D8%B1%D9%88%D8%B9-%D8%A7%D9%84%D9%84%D8%A7%D9%86%D9%87%D8%A7%D8%A6%D9%8A%D8%A9-%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A7%D8%AA/",
-   "sourceName": "موقع الدراسة",
-   "solution": false,
-   "typeKey": "summary",
-   "addedAt": "2026-09-23T13:16:19.451Z"
   }
  ],
  "news": [
