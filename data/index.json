@@ -1,30 +1,42 @@
 {
- "generated_at": "2026-09-23T12:58:03.627Z",
- "total": 11247,
+ "generated_at": "2026-09-23T13:28:03.626Z",
+ "total": 11276,
  "shards": [
-  {
-   "file": "3as-b0225673--x91b4a510.json",
-   "level": "3as",
-   "subject": "عربية",
-   "count": 7
-  },
   {
    "file": "3as-b0225673--xf0519d05.json",
    "level": "3as",
    "subject": "علوم الفيزيائية",
-   "count": 100
-  },
-  {
-   "file": "3as-b0225673--xca4e049c.json",
-   "level": "3as",
-   "subject": "علوم الطبيعة والحياة",
-   "count": 346
+   "count": 108
   },
   {
    "file": "3as-b0225673--x8dd76b09.json",
    "level": "3as",
    "subject": "رياضيات",
-   "count": 320
+   "count": 332
+  },
+  {
+   "file": "3as-b0225673--xca4e049c.json",
+   "level": "3as",
+   "subject": "علوم الطبيعة والحياة",
+   "count": 347
+  },
+  {
+   "file": "3as-b0225673--xdffa1d13.json",
+   "level": "3as",
+   "subject": "تاريخ والجغرافيا",
+   "count": 223
+  },
+  {
+   "file": "3as-b0225673--x858e891e.json",
+   "level": "3as",
+   "subject": "فرنسية",
+   "count": 257
+  },
+  {
+   "file": "3as-b0225673--x91b4a510.json",
+   "level": "3as",
+   "subject": "عربية",
+   "count": 7
   },
   {
    "file": "3as-b0225673--xf2964ab5.json",
@@ -37,12 +49,6 @@
    "level": "3as",
    "subject": "تكنولوجيا",
    "count": 8
-  },
-  {
-   "file": "3as-b0225673--xdffa1d13.json",
-   "level": "3as",
-   "subject": "تاريخ والجغرافيا",
-   "count": 220
   },
   {
    "file": "3as-b0225673--x6acf11b0.json",
@@ -61,12 +67,6 @@
    "level": "3as",
    "subject": "المانية",
    "count": 48
-  },
-  {
-   "file": "3as-b0225673--x858e891e.json",
-   "level": "3as",
-   "subject": "فرنسية",
-   "count": 256
   },
   {
    "file": "3as-b0225673--x25af644b.json",
@@ -156,7 +156,7 @@
    "file": "bac-5e4dec23--x8dd76b09.json",
    "level": "bac",
    "subject": "رياضيات",
-   "count": 197
+   "count": 198
   },
   {
    "file": "bac-5e4dec23--xca4e049c.json",
@@ -303,6 +303,12 @@
    "count": 38
   },
   {
+   "file": "1am-c55de173--x8dd76b09.json",
+   "level": "1am",
+   "subject": "رياضيات",
+   "count": 111
+  },
+  {
    "file": "1am-c55de173--x87ffb58d.json",
    "level": "1am",
    "subject": "اعلام الالي",
@@ -357,10 +363,9 @@
    "count": 86
   },
   {
-   "file": "1am-c55de173--x8dd76b09.json",
-   "level": "1am",
-   "subject": "رياضيات",
-   "count": 109
+   "file": "1as-a92ecd15.json",
+   "level": "1as",
+   "count": 272
   },
   {
    "file": "2am-c898c188--xee86b77b.json",
@@ -553,11 +558,6 @@
    "level": "2as",
    "subject": "هندسة المدنية",
    "count": 15
-  },
-  {
-   "file": "1as-a92ecd15.json",
-   "level": "1as",
-   "count": 271
   },
   {
    "file": "5ap-546d61a3--xa78a0a7e.json",
@@ -840,12 +840,12 @@
   {
    "id": "middle",
    "name": "المتوسط",
-   "count": 3059
+   "count": 3061
   },
   {
    "id": "secondary",
    "name": "الثانوي",
-   "count": 4610
+   "count": 4637
   },
   {
    "id": "teachers",
@@ -858,19 +858,19 @@
    "id": "3as",
    "name": "الثالثة ثانوي",
    "stage": "secondary",
-   "count": 2809,
+   "count": 2834,
    "subjects": [
     {
      "id": "علوم الطبيعة والحياة",
-     "count": 346
+     "count": 347
     },
     {
      "id": "رياضيات",
-     "count": 320
+     "count": 332
     },
     {
      "id": "فرنسية",
-     "count": 256
+     "count": 257
     },
     {
      "id": "انجليزية",
@@ -886,7 +886,7 @@
     },
     {
      "id": "تاريخ والجغرافيا",
-     "count": 220
+     "count": 223
     },
     {
      "id": "فلسفة",
@@ -897,12 +897,12 @@
      "count": 126
     },
     {
-     "id": "هندسة المدنية",
-     "count": 102
+     "id": "علوم الفيزيائية",
+     "count": 108
     },
     {
-     "id": "علوم الفيزيائية",
-     "count": 100
+     "id": "هندسة المدنية",
+     "count": 102
     },
     {
      "id": "هندسة الكهربائية",
@@ -966,11 +966,11 @@
    "id": "bac",
    "name": "البكالوريا",
    "stage": "secondary",
-   "count": 954,
+   "count": 955,
    "subjects": [
     {
      "id": "رياضيات",
-     "count": 197
+     "count": 198
     },
     {
      "id": "فلسفة",
@@ -1074,7 +1074,7 @@
    "id": "1am",
    "name": "الأولى متوسط",
    "stage": "middle",
-   "count": 867,
+   "count": 869,
    "subjects": [
     {
      "id": "علوم الفيزيائية والتكنولوجيا",
@@ -1082,7 +1082,7 @@
     },
     {
      "id": "رياضيات",
-     "count": 109
+     "count": 111
     },
     {
      "id": "انجليزية",
@@ -1115,6 +1115,66 @@
     {
      "id": "اعلام الالي",
      "count": 43
+    }
+   ]
+  },
+  {
+   "id": "1as",
+   "name": "الأولى ثانوي",
+   "stage": "secondary",
+   "count": 272,
+   "subjects": [
+    {
+     "id": "رياضيات",
+     "count": 122
+    },
+    {
+     "id": "تربية الفنية",
+     "count": 68
+    },
+    {
+     "id": "تكنولوجيا",
+     "count": 25
+    },
+    {
+     "id": "تاريخ والجغرافيا",
+     "count": 25
+    },
+    {
+     "id": "فرنسية",
+     "count": 10
+    },
+    {
+     "id": "اعلام الالي",
+     "count": 8
+    },
+    {
+     "id": "علوم الطبيعة والحياة",
+     "count": 3
+    },
+    {
+     "id": "علوم فيزيائية",
+     "count": 2
+    },
+    {
+     "id": "انجليزية",
+     "count": 2
+    },
+    {
+     "id": "تربية الاسلامية",
+     "count": 2
+    },
+    {
+     "id": "علوم الفيزيائية",
+     "count": 2
+    },
+    {
+     "id": "عربية",
+     "count": 2
+    },
+    {
+     "id": "علوم اسلامية",
+     "count": 1
     }
    ]
   },
@@ -1254,66 +1314,6 @@
     },
     {
      "id": "لغة ايطالية",
-     "count": 2
-    },
-    {
-     "id": "علوم اسلامية",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "id": "1as",
-   "name": "الأولى ثانوي",
-   "stage": "secondary",
-   "count": 271,
-   "subjects": [
-    {
-     "id": "رياضيات",
-     "count": 121
-    },
-    {
-     "id": "تربية الفنية",
-     "count": 68
-    },
-    {
-     "id": "تكنولوجيا",
-     "count": 25
-    },
-    {
-     "id": "تاريخ والجغرافيا",
-     "count": 25
-    },
-    {
-     "id": "فرنسية",
-     "count": 10
-    },
-    {
-     "id": "اعلام الالي",
-     "count": 8
-    },
-    {
-     "id": "علوم الطبيعة والحياة",
-     "count": 3
-    },
-    {
-     "id": "علوم فيزيائية",
-     "count": 2
-    },
-    {
-     "id": "انجليزية",
-     "count": 2
-    },
-    {
-     "id": "تربية الاسلامية",
-     "count": 2
-    },
-    {
-     "id": "علوم الفيزيائية",
-     "count": 2
-    },
-    {
-     "id": "عربية",
      "count": 2
     },
     {
@@ -1758,7 +1758,7 @@
    "id": "تاريخ والجغرافيا",
    "name": "التاريخ والجغرافيا",
    "icon": "🗺️",
-   "count": 890
+   "count": 893
   },
   {
    "id": "تربية الاسلامية",
@@ -1812,7 +1812,7 @@
    "id": "رياضيات",
    "name": "الرياضيات",
    "icon": "📐",
-   "count": 1707
+   "count": 1723
   },
   {
    "id": "علوم الاسلامية",
@@ -1824,7 +1824,7 @@
    "id": "علوم الفيزيائية",
    "name": "العلوم الفيزيائية",
    "icon": "🔬",
-   "count": 251
+   "count": 259
   },
   {
    "id": "علوم الفيزيائية والتكنولوجيا",
@@ -1890,7 +1890,7 @@
    "id": "فرنسية",
    "name": "اللغة الفرنسية",
    "icon": "FR",
-   "count": 1058
+   "count": 1059
   },
   {
    "id": "هندسة الكهربائية",
@@ -1938,7 +1938,7 @@
    "id": "علوم الطبيعة والحياة",
    "name": "علوم الطبيعة والحياة",
    "icon": "🧬",
-   "count": 820
+   "count": 821
   },
   {
    "id": "علوم فيزيائية",
@@ -2009,232 +2009,92 @@
  ],
  "recent": {
   "days": 7,
-  "count": 335
+  "count": 364
  },
  "featured": [
   {
-   "id": "ed-%D9%83%D8%AA%D8%A7%D8%A8-%D8%AF%D8%B1%D9%88%D8%B3-%D9%81%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%B1%D8%A7%D8%A8-%D9%84%D9%84%D8%B7%D9%84%D8%A7%D8%A8-%D9%88-%D8%A7%D9%84%D9%85%D8%B9%D9%84%D9%85%D9%8A%D9%86",
-   "title": "كتاب دروس في الإعراب للطلاب و المعلمين",
-   "level": "3as",
-   "levelName": "الثالثة ثانوي",
-   "stage": "secondary",
-   "subject": "اللغة العربية",
-   "subjectKey": "عربية",
-   "stream": "all",
-   "streamName": "جميع الشعب",
-   "year": "",
-   "type": "دروس",
-   "pdf": "https://eddirasa.com/wp-content/uploads/2015/01/arabic_livre-doros_i3rab.pdf",
-   "image": "",
-   "source": "https://eddirasa.com/%D9%83%D8%AA%D8%A7%D8%A8-%D8%AF%D8%B1%D9%88%D8%B3-%D9%81%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%B1%D8%A7%D8%A8-%D9%84%D9%84%D8%B7%D9%84%D8%A7%D8%A8-%D9%88-%D8%A7%D9%84%D9%85%D8%B9%D9%84%D9%85%D9%8A%D9%86/",
-   "sourceName": "موقع الدراسة",
-   "solution": false,
-   "typeKey": "lesson",
-   "addedAt": "2026-09-23T12:51:15.011Z"
-  },
-  {
-   "id": "ed-%D8%A7%D9%84%D8%AA%D8%B5%D8%AD%D9%8A%D8%AD-%D8%A7%D9%84%D9%85%D9%81%D8%B5%D9%84-%D9%84%D8%A8%D9%83%D8%A7%D9%84%D9%88%D8%B1%D9%8A%D8%A7-2011-%D9%81%D9%8A-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A",
-   "title": "التصحيح المفصل لبكالوريا 2011 في الرياضيات",
-   "level": "bac",
-   "levelName": "البكالوريا",
-   "stage": "secondary",
-   "subject": "الرياضيات",
-   "subjectKey": "رياضيات",
-   "stream": "all",
-   "streamName": "جميع الشعب",
-   "year": 2011,
-   "type": "حلول وتصحيحات",
-   "pdf": "https://eddirasa.com/wp-content/uploads/2015/01/BAC-2011-MATH-Correction.pdf",
-   "image": "",
-   "source": "https://eddirasa.com/%D8%A7%D9%84%D8%AA%D8%B5%D8%AD%D9%8A%D8%AD-%D8%A7%D9%84%D9%85%D9%81%D8%B5%D9%84-%D9%84%D8%A8%D9%83%D8%A7%D9%84%D9%88%D8%B1%D9%8A%D8%A7-2011-%D9%81%D9%8A-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A/",
-   "sourceName": "موقع الدراسة",
-   "solution": true,
-   "typeKey": "solution",
-   "addedAt": "2026-09-23T12:39:22.218Z"
-  },
-  {
-   "id": "ed-%D8%A7%D9%84%D8%AA%D8%B5%D8%AD%D9%8A%D8%AD-%D8%A7%D9%84%D9%85%D9%81%D8%B5%D9%84-%D9%84%D8%A8%D9%83%D8%A7%D9%84%D9%88%D8%B1%D9%8A%D8%A7-2013-%D9%81%D9%8A-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A",
-   "title": "التصحيح المفصل لبكالوريا 2013 في الرياضيات",
-   "level": "bac",
-   "levelName": "البكالوريا",
-   "stage": "secondary",
-   "subject": "الرياضيات",
-   "subjectKey": "رياضيات",
-   "stream": "all",
-   "streamName": "جميع الشعب",
-   "year": 2013,
-   "type": "حلول وتصحيحات",
-   "pdf": "https://eddirasa.com/wp-content/uploads/2015/01/BAC-2013-MATH-Correction.pdf",
-   "image": "",
-   "source": "https://eddirasa.com/%D8%A7%D9%84%D8%AA%D8%B5%D8%AD%D9%8A%D8%AD-%D8%A7%D9%84%D9%85%D9%81%D8%B5%D9%84-%D9%84%D8%A8%D9%83%D8%A7%D9%84%D9%88%D8%B1%D9%8A%D8%A7-2013-%D9%81%D9%8A-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A/",
-   "sourceName": "موقع الدراسة",
-   "solution": true,
-   "typeKey": "solution",
-   "addedAt": "2026-09-23T12:39:13.110Z"
-  },
-  {
-   "id": "ed-%D8%A7%D9%84%D8%AA%D8%B5%D8%AD%D9%8A%D8%AD-%D8%A7%D9%84%D9%85%D9%81%D8%B5%D9%84-%D9%84%D8%A8%D9%83%D8%A7%D9%84%D9%88%D8%B1%D9%8A%D8%A7-2012-%D9%81%D9%8A-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A",
-   "title": "التصحيح المفصل لبكالوريا 2012 في الرياضيات",
-   "level": "bac",
-   "levelName": "البكالوريا",
-   "stage": "secondary",
-   "subject": "الرياضيات",
-   "subjectKey": "رياضيات",
-   "stream": "all",
-   "streamName": "جميع الشعب",
-   "year": 2012,
-   "type": "حلول وتصحيحات",
-   "pdf": "https://eddirasa.com/wp-content/uploads/2015/01/BAC-2012-MATH-Correction.pdf",
-   "image": "",
-   "source": "https://eddirasa.com/%D8%A7%D9%84%D8%AA%D8%B5%D8%AD%D9%8A%D8%AD-%D8%A7%D9%84%D9%85%D9%81%D8%B5%D9%84-%D9%84%D8%A8%D9%83%D8%A7%D9%84%D9%88%D8%B1%D9%8A%D8%A7-2012-%D9%81%D9%8A-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A/",
-   "sourceName": "موقع الدراسة",
-   "solution": true,
-   "typeKey": "solution",
-   "addedAt": "2026-09-23T12:39:01.061Z"
-  },
-  {
-   "id": "ed-%D8%A7%D9%84%D8%AA%D8%B5%D8%AD%D9%8A%D8%AD-%D8%A7%D9%84%D9%85%D9%81%D8%B5%D9%84-%D9%84%D8%A8%D9%83%D8%A7%D9%84%D9%88%D8%B1%D9%8A%D8%A7-2009-%D9%81%D9%8A-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A",
-   "title": "التصحيح المفصل لبكالوريا 2009 في الرياضيات",
-   "level": "bac",
-   "levelName": "البكالوريا",
-   "stage": "secondary",
-   "subject": "الرياضيات",
-   "subjectKey": "رياضيات",
-   "stream": "all",
-   "streamName": "جميع الشعب",
-   "year": 2009,
-   "type": "حلول وتصحيحات",
-   "pdf": "https://eddirasa.com/wp-content/uploads/2015/01/BAC-2009-MATH-Correction.pdf",
-   "image": "",
-   "source": "https://eddirasa.com/%D8%A7%D9%84%D8%AA%D8%B5%D8%AD%D9%8A%D8%AD-%D8%A7%D9%84%D9%85%D9%81%D8%B5%D9%84-%D9%84%D8%A8%D9%83%D8%A7%D9%84%D9%88%D8%B1%D9%8A%D8%A7-2009-%D9%81%D9%8A-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A/",
-   "sourceName": "موقع الدراسة",
-   "solution": true,
-   "typeKey": "solution",
-   "addedAt": "2026-09-23T12:38:37.106Z"
-  },
-  {
-   "id": "ed-%D8%A7%D9%84%D8%AA%D8%B5%D8%AD%D9%8A%D8%AD-%D8%A7%D9%84%D9%85%D9%81%D8%B5%D9%84-%D9%84%D8%A8%D9%83%D8%A7%D9%84%D9%88%D8%B1%D9%8A%D8%A7-2010-%D9%81%D9%8A-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A",
-   "title": "التصحيح المفصل لبكالوريا 2010 في الرياضيات",
-   "level": "bac",
-   "levelName": "البكالوريا",
-   "stage": "secondary",
-   "subject": "الرياضيات",
-   "subjectKey": "رياضيات",
-   "stream": "all",
-   "streamName": "جميع الشعب",
-   "year": 2010,
-   "type": "حلول وتصحيحات",
-   "pdf": "https://eddirasa.com/wp-content/uploads/2015/01/BAC-2010-MATH-Correction.pdf",
-   "image": "",
-   "source": "https://eddirasa.com/%D8%A7%D9%84%D8%AA%D8%B5%D8%AD%D9%8A%D8%AD-%D8%A7%D9%84%D9%85%D9%81%D8%B5%D9%84-%D9%84%D8%A8%D9%83%D8%A7%D9%84%D9%88%D8%B1%D9%8A%D8%A7-2010-%D9%81%D9%8A-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A/",
-   "sourceName": "موقع الدراسة",
-   "solution": true,
-   "typeKey": "solution",
-   "addedAt": "2026-09-23T12:38:28.015Z"
-  },
-  {
-   "id": "ed-%D8%A7%D9%84%D8%AA%D8%B5%D8%AD%D9%8A%D8%AD-%D8%A7%D9%84%D9%85%D9%81%D8%B5%D9%84-%D9%84%D8%A8%D9%83%D8%A7%D9%84%D9%88%D8%B1%D9%8A%D8%A7-2008-%D9%81%D9%8A-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A",
-   "title": "التصحيح المفصل لبكالوريا 2008 في الرياضيات",
-   "level": "bac",
-   "levelName": "البكالوريا",
-   "stage": "secondary",
-   "subject": "الرياضيات",
-   "subjectKey": "رياضيات",
-   "stream": "all",
-   "streamName": "جميع الشعب",
-   "year": 2008,
-   "type": "حلول وتصحيحات",
-   "pdf": "https://eddirasa.com/wp-content/uploads/2015/01/BAC-2008-MATH-Correction.pdf",
-   "image": "",
-   "source": "https://eddirasa.com/%D8%A7%D9%84%D8%AA%D8%B5%D8%AD%D9%8A%D8%AD-%D8%A7%D9%84%D9%85%D9%81%D8%B5%D9%84-%D9%84%D8%A8%D9%83%D8%A7%D9%84%D9%88%D8%B1%D9%8A%D8%A7-2008-%D9%81%D9%8A-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A/",
-   "sourceName": "موقع الدراسة",
-   "solution": true,
-   "typeKey": "solution",
-   "addedAt": "2026-09-23T12:38:01.010Z"
-  },
-  {
-   "id": "ed-%D9%85%D8%B0%D9%83%D8%B1%D8%A7%D8%AA-%D8%AF%D8%B1%D9%88%D8%B3-%D8%A7%D9%84%D8%A5%D8%B9%D9%84%D8%A7%D9%85-%D8%A7%D9%84%D8%A2%D9%84%D9%8A-%D8%B3%D9%86%D8%A9-%D8%A3%D9%88%D9%84%D9%89-%D9%85%D8%AA%D9%88",
-   "title": "مذكرات دروس الإعلام الآلي سنة أولى متوسط",
-   "level": "1am",
-   "levelName": "الأولى متوسط",
-   "stage": "middle",
-   "subject": "الإعلام الآلي",
-   "subjectKey": "اعلام الالي",
-   "stream": "all",
-   "streamName": "جميع الشعب",
-   "year": "",
-   "type": "دروس",
-   "pdf": "https://eddirasa.com/wp-content/uploads/2015/01/مذكرات1-متوسط-معلوماتية-2011.pdf",
-   "image": "",
-   "source": "https://eddirasa.com/%D9%85%D8%B0%D9%83%D8%B1%D8%A7%D8%AA-%D8%AF%D8%B1%D9%88%D8%B3-%D8%A7%D9%84%D8%A5%D8%B9%D9%84%D8%A7%D9%85-%D8%A7%D9%84%D8%A2%D9%84%D9%8A-%D8%B3%D9%86%D8%A9-%D8%A3%D9%88%D9%84%D9%89-%D9%85%D8%AA%D9%88/",
-   "sourceName": "موقع الدراسة",
-   "solution": false,
-   "typeKey": "lesson",
-   "addedAt": "2026-09-23T12:30:44.933Z"
-  },
-  {
-   "id": "ed-%D9%83%D8%AA%D8%A7%D8%A8-%D8%A7%D9%84%D9%85%D8%A8%D8%B3%D8%B7-%D9%81%D9%8A-%D8%A7%D9%84%D9%84%D8%BA%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D8%A5%D8%AC%D8%A7%D8%A8%D8%A9-%D8%B9%D9%84%D9%89",
-   "title": "كتاب المبسط في اللغة العربية إجابة على الأسئلة المتكررة 3 ثانوي",
-   "level": "3as",
-   "levelName": "الثالثة ثانوي",
-   "stage": "secondary",
-   "subject": "اللغة العربية",
-   "subjectKey": "عربية",
-   "stream": "all",
-   "streamName": "جميع الشعب",
-   "year": "",
-   "type": "دروس",
-   "pdf": "https://eddirasa.com/wp-content/uploads/2015/01/arabic3as_mobasit_fi_adab.pdf",
-   "image": "",
-   "source": "https://eddirasa.com/%D9%83%D8%AA%D8%A7%D8%A8-%D8%A7%D9%84%D9%85%D8%A8%D8%B3%D8%B7-%D9%81%D9%8A-%D8%A7%D9%84%D9%84%D8%BA%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D8%A5%D8%AC%D8%A7%D8%A8%D8%A9-%D8%B9%D9%84%D9%89/",
-   "sourceName": "موقع الدراسة",
-   "solution": true,
-   "typeKey": "lesson",
-   "addedAt": "2026-09-23T09:36:09.696Z"
-  },
-  {
-   "id": "ed-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D8%AC-%D8%AF%D8%B1%D9%88%D8%B3-%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85-%D8%A7%D9%84%D9%81%D9%8A%D8%B2%D9%8A%D8%A7%D8%A6%D9%8A%D8%A9-%D8%B3%D9%86%D8%A9-3-%D8%AB%D8%A7-2",
-   "title": "برنامج دروس العلوم الفيزيائية سنة 3 ثانوي علوم تجريبية",
+   "id": "ed-%D8%AA%D8%B9%D8%A7%D8%B1%D9%8A%D9%81-%D9%84%D9%85%D8%B9%D8%B8%D9%85-%D9%85%D8%B5%D8%B7%D9%84%D8%AD%D8%A7%D8%AA-%D8%A7%D9%84%D9%81%D9%8A%D8%B2%D9%8A%D8%A7%D8%A1-%D8%AB%D8%A7%D9%84%D8%AB%D8%A9-%D8%AB",
+   "title": "تعاريف لمعظم مصطلحات الفيزياء ثالثة ثانوي",
    "level": "3as",
    "levelName": "الثالثة ثانوي",
    "stage": "secondary",
    "subject": "العلوم الفيزيائية",
    "subjectKey": "علوم الفيزيائية",
-   "stream": "se",
-   "streamName": "علوم تجريبية",
+   "stream": "all",
+   "streamName": "جميع الشعب",
    "year": "",
-   "type": "دروس",
-   "pdf": "https://eddirasa.com/wp-content/uploads/2015/01/س3-ع-ت.pdf",
+   "type": "ملخصات",
+   "pdf": "https://eddirasa.com/wp-content/uploads/2015/04/معضم-تعاريف-مادة-العلوم-الفيزيائية-من-الوحدة-1الى-6-1-1.pdf",
    "image": "",
-   "source": "https://eddirasa.com/%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D8%AC-%D8%AF%D8%B1%D9%88%D8%B3-%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85-%D8%A7%D9%84%D9%81%D9%8A%D8%B2%D9%8A%D8%A7%D8%A6%D9%8A%D8%A9-%D8%B3%D9%86%D8%A9-3-%D8%AB%D8%A7-2/",
+   "source": "https://eddirasa.com/%D8%AA%D8%B9%D8%A7%D8%B1%D9%8A%D9%81-%D9%84%D9%85%D8%B9%D8%B8%D9%85-%D9%85%D8%B5%D8%B7%D9%84%D8%AD%D8%A7%D8%AA-%D8%A7%D9%84%D9%81%D9%8A%D8%B2%D9%8A%D8%A7%D8%A1-%D8%AB%D8%A7%D9%84%D8%AB%D8%A9-%D8%AB/",
    "sourceName": "موقع الدراسة",
    "solution": false,
-   "typeKey": "lesson",
-   "addedAt": "2026-09-23T09:34:33.447Z"
+   "typeKey": "summary",
+   "addedAt": "2026-09-23T13:26:33.173Z"
   },
   {
-   "id": "ed-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D8%AC-%D8%AF%D8%B1%D9%88%D8%B3-%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85-%D8%A7%D9%84%D9%81%D9%8A%D8%B2%D9%8A%D8%A7%D8%A6%D9%8A%D8%A9-%D8%B3%D9%86%D8%A9-3-%D8%AB%D8%A7%D9%86",
-   "title": "برنامج دروس العلوم الفيزيائية سنة 3 ثانوي رياضيات و تقني رياضي",
+   "id": "ed-%D9%85%D9%84%D8%AE%D8%B5-%D9%85%D8%B1%D8%A7%D9%82%D8%A8%D8%A9-%D8%AA%D8%B7%D9%88%D8%B1-%D8%AC%D9%85%D9%84%D8%A9-%D9%83%DB%8C%D9%85%DB%8C%D8%A7%D8%A6%DB%8C%D8%A9-%D9%81%D9%8A%D8%B2%D9%8A%D8%A7%D8%A1",
+   "title": "ملخص مراقبة تطور جملة كیمیائیة فيزياء ثالثة ثانوي",
    "level": "3as",
    "levelName": "الثالثة ثانوي",
    "stage": "secondary",
    "subject": "العلوم الفيزيائية",
    "subjectKey": "علوم الفيزيائية",
-   "stream": "mt",
-   "streamName": "تقني رياضي",
+   "stream": "all",
+   "streamName": "جميع الشعب",
    "year": "",
-   "type": "دروس",
-   "pdf": "https://eddirasa.com/wp-content/uploads/2015/01/س3-ر-تر.pdf",
+   "type": "ملخصات",
+   "pdf": "https://eddirasa.com/wp-content/uploads/2015/04/ملخص-مراقبة-تطور-جملة-كیمیائیة.pdf",
    "image": "",
-   "source": "https://eddirasa.com/%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D8%AC-%D8%AF%D8%B1%D9%88%D8%B3-%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85-%D8%A7%D9%84%D9%81%D9%8A%D8%B2%D9%8A%D8%A7%D8%A6%D9%8A%D8%A9-%D8%B3%D9%86%D8%A9-3-%D8%AB%D8%A7%D9%86/",
+   "source": "https://eddirasa.com/%D9%85%D9%84%D8%AE%D8%B5-%D9%85%D8%B1%D8%A7%D9%82%D8%A8%D8%A9-%D8%AA%D8%B7%D9%88%D8%B1-%D8%AC%D9%85%D9%84%D8%A9-%D9%83%DB%8C%D9%85%DB%8C%D8%A7%D8%A6%DB%8C%D8%A9-%D9%81%D9%8A%D8%B2%D9%8A%D8%A7%D8%A1/",
    "sourceName": "موقع الدراسة",
    "solution": false,
-   "typeKey": "lesson",
-   "addedAt": "2026-09-23T09:33:30.272Z"
+   "typeKey": "summary",
+   "addedAt": "2026-09-23T13:26:30.165Z"
   },
   {
-   "id": "ed-%D9%85%D9%81%D9%83%D8%B1%D8%A9-%D9%85%D9%84%D8%AE%D8%B5%D8%A9-%D9%84%D9%83%D9%84-%D9%82%D9%88%D8%A7%D9%86%D9%8A%D9%86-%D8%A7%D9%84%D9%83%D9%8A%D9%85%D9%8A%D8%A7%D8%A1",
-   "title": "مفكرة ملخصة لكل قوانين الكيمياء",
+   "id": "ed-%D9%85%D9%84%D8%AE%D8%B5-%D8%AA%D8%B7%D9%88%D8%B1-%D8%AC%D9%85%D9%84%D8%A9-%D9%83%DB%8C%D9%85%DB%8C%D8%A7%D8%A6%DB%8C%D8%A9-%D9%86%D8%AD%D9%88-%D8%AD%D8%A7%D9%84%D8%A9-%D8%A7%D9%84%D8%AA%D9%88%D8%A7",
+   "title": "ملخص تطور جملة كیمیائیة نحو حالة التوازن فيزياء ثالثة ثانوي",
+   "level": "3as",
+   "levelName": "الثالثة ثانوي",
+   "stage": "secondary",
+   "subject": "العلوم الفيزيائية",
+   "subjectKey": "علوم الفيزيائية",
+   "stream": "all",
+   "streamName": "جميع الشعب",
+   "year": "",
+   "type": "ملخصات",
+   "pdf": "https://eddirasa.com/wp-content/uploads/2015/04/ملخص-تطور-جملة-كیمیائیة-نحو-حالة-التوازن.pdf",
+   "image": "",
+   "source": "https://eddirasa.com/%D9%85%D9%84%D8%AE%D8%B5-%D8%AA%D8%B7%D9%88%D8%B1-%D8%AC%D9%85%D9%84%D8%A9-%D9%83%DB%8C%D9%85%DB%8C%D8%A7%D8%A6%DB%8C%D8%A9-%D9%86%D8%AD%D9%88-%D8%AD%D8%A7%D9%84%D8%A9-%D8%A7%D9%84%D8%AA%D9%88%D8%A7/",
+   "sourceName": "موقع الدراسة",
+   "solution": false,
+   "typeKey": "summary",
+   "addedAt": "2026-09-23T13:26:21.096Z"
+  },
+  {
+   "id": "ed-%D9%85%D9%84%D8%AE%D8%B5-%D8%AA%D8%B7%D9%88%D8%B1-%D8%AC%D9%85%D9%84%D8%A9-%D9%85%DB%8C%D9%83%D8%A7%D9%86%DB%8C%D9%83%DB%8C%D8%A9-%D9%81%D9%8A%D8%B2%D9%8A%D8%A7%D8%A1-%D8%AB%D8%A7%D9%84%D8%AB%D8%A9",
+   "title": "ملخص تطور جملة میكانیكیة فيزياء ثالثة ثانوي",
+   "level": "3as",
+   "levelName": "الثالثة ثانوي",
+   "stage": "secondary",
+   "subject": "العلوم الفيزيائية",
+   "subjectKey": "علوم الفيزيائية",
+   "stream": "all",
+   "streamName": "جميع الشعب",
+   "year": "",
+   "type": "ملخصات",
+   "pdf": "https://eddirasa.com/wp-content/uploads/2015/04/ملخص-تطور-جملة-میكانیكیة.pdf",
+   "image": "",
+   "source": "https://eddirasa.com/%D9%85%D9%84%D8%AE%D8%B5-%D8%AA%D8%B7%D9%88%D8%B1-%D8%AC%D9%85%D9%84%D8%A9-%D9%85%DB%8C%D9%83%D8%A7%D9%86%DB%8C%D9%83%DB%8C%D8%A9-%D9%81%D9%8A%D8%B2%D9%8A%D8%A7%D8%A1-%D8%AB%D8%A7%D9%84%D8%AB%D8%A9/",
+   "sourceName": "موقع الدراسة",
+   "solution": false,
+   "typeKey": "summary",
+   "addedAt": "2026-09-23T13:26:15.043Z"
+  },
+  {
+   "id": "ed-%D9%81%D9%8A%D8%B2%D9%8A%D8%A7%D8%A1-3as-%D8%A7%D9%84%D8%A5%D9%87%D8%AA%D8%B2%D8%A7%D8%B2%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D9%8A%D9%83%D8%A7%D9%86%D9%8A%D9%83%D9%8A%D8%A9-%D8%A7%D9%84%D8%AF%D8%B1",
+   "title": "فيزياء 3AS : الإهتزازات الميكانيكية - الدرس الأول",
    "level": "3as",
    "levelName": "الثالثة ثانوي",
    "stage": "secondary",
@@ -2244,237 +2104,77 @@
    "streamName": "جميع الشعب",
    "year": "",
    "type": "دروس",
-   "pdf": "https://eddirasa.com/wp-content/uploads/2014/12/chimie.pdf",
+   "pdf": "https://eddirasa.com/wp-content/uploads/2015/04/U7_cours.pdf",
    "image": "",
-   "source": "https://eddirasa.com/%D9%85%D9%81%D9%83%D8%B1%D8%A9-%D9%85%D9%84%D8%AE%D8%B5%D8%A9-%D9%84%D9%83%D9%84-%D9%82%D9%88%D8%A7%D9%86%D9%8A%D9%86-%D8%A7%D9%84%D9%83%D9%8A%D9%85%D9%8A%D8%A7%D8%A1/",
+   "source": "https://eddirasa.com/%D9%81%D9%8A%D8%B2%D9%8A%D8%A7%D8%A1-3as-%D8%A7%D9%84%D8%A5%D9%87%D8%AA%D8%B2%D8%A7%D8%B2%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D9%8A%D9%83%D8%A7%D9%86%D9%8A%D9%83%D9%8A%D8%A9-%D8%A7%D9%84%D8%AF%D8%B1/",
    "sourceName": "موقع الدراسة",
    "solution": false,
    "typeKey": "lesson",
-   "addedAt": "2026-09-23T09:29:08.617Z"
+   "addedAt": "2026-09-23T13:26:12.057Z"
   },
   {
-   "id": "ed-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D8%AC-%D8%AF%D8%B1%D9%88%D8%B3-%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85-%D8%A7%D9%84%D8%B7%D8%A8%D9%8A%D8%B9%D9%8A%D8%A9-%D8%B3%D9%86%D8%A9-3-%D8%AB%D8%A7%D9%86%D9%88-2",
-   "title": "برنامج دروس العلوم الطبيعية سنة 3 ثانوي رياضيات",
+   "id": "ed-%D9%83%D8%AA%D8%A7%D8%A8-%D8%A7%D9%84%D8%B9%D9%85%D9%84%D8%A7%D9%82-%D9%81%D9%8A-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A7%D8%AA-%D9%84%D9%84%D8%AB%D8%A7%D9%84%D8%AB%D8%A9-%D8%AB%D8%A7%D9%86",
+   "title": "كتاب العملاق في الرياضيات للثالثة ثانوي",
    "level": "3as",
    "levelName": "الثالثة ثانوي",
    "stage": "secondary",
-   "subject": "علوم الطبيعة والحياة",
-   "subjectKey": "علوم الطبيعة والحياة",
+   "subject": "الرياضيات",
+   "subjectKey": "رياضيات",
    "stream": "all",
    "streamName": "جميع الشعب",
    "year": "",
    "type": "دروس",
-   "pdf": "https://eddirasa.com/wp-content/uploads/2014/12/برنامج-دروس-العلوم-الطبيعية-سنة-3-ثانوي-رياضيات.pdf",
+   "pdf": "https://eddirasa.com/wp-content/uploads/2015/04/chapitre1al3emlaq.pdf",
    "image": "",
-   "source": "https://eddirasa.com/%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D8%AC-%D8%AF%D8%B1%D9%88%D8%B3-%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85-%D8%A7%D9%84%D8%B7%D8%A8%D9%8A%D8%B9%D9%8A%D8%A9-%D8%B3%D9%86%D8%A9-3-%D8%AB%D8%A7%D9%86%D9%88-2/",
+   "source": "https://eddirasa.com/%D9%83%D8%AA%D8%A7%D8%A8-%D8%A7%D9%84%D8%B9%D9%85%D9%84%D8%A7%D9%82-%D9%81%D9%8A-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A7%D8%AA-%D9%84%D9%84%D8%AB%D8%A7%D9%84%D8%AB%D8%A9-%D8%AB%D8%A7%D9%86/",
    "sourceName": "موقع الدراسة",
    "solution": false,
    "typeKey": "lesson",
-   "addedAt": "2026-09-23T09:27:53.336Z"
+   "addedAt": "2026-09-23T13:26:03.057Z"
   },
   {
-   "id": "ed-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D8%AC-%D8%AF%D8%B1%D9%88%D8%B3-%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85-%D8%A7%D9%84%D8%B7%D8%A8%D9%8A%D8%B9%D9%8A%D8%A9-%D8%B3%D9%86%D8%A9-3-%D8%AB%D8%A7%D9%86%D9%88%D9%8A",
-   "title": "برنامج دروس العلوم الطبيعية سنة 3 ثانوي علوم تجريبية",
+   "id": "ed-%D9%85%D9%84%D8%AE%D8%B5-%D8%A7%D9%84%D9%85%D8%AA%D8%A7%D8%A8%D8%B9%D8%A9-%D8%A7%D9%84%D8%B2%D9%85%D9%86%DB%8C%D8%A9-%D9%84%D8%AA%D8%AD%D9%88%D9%84-%D9%83%DB%8C%D9%85%DB%8C%D8%A7%D8%A6%D9%8A-%D9%81",
+   "title": "ملخص المتابعة الزمنیة لتحول كیمیائي فيزياء ثالثة ثانوي",
    "level": "3as",
    "levelName": "الثالثة ثانوي",
    "stage": "secondary",
-   "subject": "علوم الطبيعة والحياة",
-   "subjectKey": "علوم الطبيعة والحياة",
-   "stream": "se",
-   "streamName": "علوم تجريبية",
+   "subject": "العلوم الفيزيائية",
+   "subjectKey": "علوم الفيزيائية",
+   "stream": "all",
+   "streamName": "جميع الشعب",
    "year": "",
-   "type": "دروس",
-   "pdf": "https://eddirasa.com/wp-content/uploads/2019/12/برنامج-دروس-العلوم-الطبيعية-سنة-3-ثانوي-علوم-تجريبية.pdf",
+   "type": "ملخصات",
+   "pdf": "https://eddirasa.com/wp-content/uploads/2015/04/ملخص-المتابعة-الزمنیة-لتحول-كیمیائي-فيزياء-ثالثة-ثانوي.pdf",
    "image": "",
-   "source": "https://eddirasa.com/%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D8%AC-%D8%AF%D8%B1%D9%88%D8%B3-%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85-%D8%A7%D9%84%D8%B7%D8%A8%D9%8A%D8%B9%D9%8A%D8%A9-%D8%B3%D9%86%D8%A9-3-%D8%AB%D8%A7%D9%86%D9%88%D9%8A/",
+   "source": "https://eddirasa.com/%D9%85%D9%84%D8%AE%D8%B5-%D8%A7%D9%84%D9%85%D8%AA%D8%A7%D8%A8%D8%B9%D8%A9-%D8%A7%D9%84%D8%B2%D9%85%D9%86%DB%8C%D8%A9-%D9%84%D8%AA%D8%AD%D9%88%D9%84-%D9%83%DB%8C%D9%85%DB%8C%D8%A7%D8%A6%D9%8A-%D9%81/",
    "sourceName": "موقع الدراسة",
    "solution": false,
-   "typeKey": "lesson",
-   "addedAt": "2026-09-23T09:27:41.335Z"
+   "typeKey": "summary",
+   "addedAt": "2026-09-23T13:26:00.031Z"
   },
   {
-   "id": "ed-%D8%AD%D9%88%D9%84%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%A8%D9%83%D8%A7%D9%84%D9%88%D8%B1%D9%8A%D8%A7-%D8%B9%D9%84%D9%88%D9%85-%D8%B7%D8%A8%D9%8A%D8%B9%D9%8A%D8%A9-%D9%85%D9%86-%D8%B3%D9%86%D8%A9-2008",
-   "title": "حوليات البكالوريا علوم طبيعية من سنة 2008 إلى 2013",
-   "level": "bac",
-   "levelName": "البكالوريا",
+   "id": "ed-%D9%85%D9%84%D8%AE%D8%B5-%D8%A7%D9%84%D8%B8%D9%88%D8%A7%DA%BE%D8%B1-%D8%A7%D9%84%D9%83%DA%BE%D8%B1%D8%A8%D8%A7%D8%A6%DB%8C%D8%A9-%D9%81%D9%8A%D8%B2%D9%8A%D8%A7%D8%A1-%D8%AB%D8%A7%D9%84%D8%AB%D8%A9",
+   "title": "ملخص الظواھر الكھربائیة فيزياء ثالثة ثانوي",
+   "level": "3as",
+   "levelName": "الثالثة ثانوي",
    "stage": "secondary",
-   "subject": "علوم الطبيعة والحياة",
-   "subjectKey": "علوم الطبيعة والحياة",
+   "subject": "العلوم الفيزيائية",
+   "subjectKey": "علوم الفيزيائية",
    "stream": "all",
    "streamName": "جميع الشعب",
-   "year": 2013,
-   "type": "دروس",
-   "pdf": "https://eddirasa.com/wp-content/uploads/2014/12/حوليات-العلوم-الطبيعية-2008-2013.pdf",
+   "year": "",
+   "type": "ملخصات",
+   "pdf": "https://eddirasa.com/wp-content/uploads/2015/04/ملخص-الظواھر-الكھربائیة-فيزياء-ثالثة-ثانوي.pdf",
    "image": "",
-   "source": "https://eddirasa.com/%D8%AD%D9%88%D9%84%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%A8%D9%83%D8%A7%D9%84%D9%88%D8%B1%D9%8A%D8%A7-%D8%B9%D9%84%D9%88%D9%85-%D8%B7%D8%A8%D9%8A%D8%B9%D9%8A%D8%A9-%D9%85%D9%86-%D8%B3%D9%86%D8%A9-2008/",
+   "source": "https://eddirasa.com/%D9%85%D9%84%D8%AE%D8%B5-%D8%A7%D9%84%D8%B8%D9%88%D8%A7%DA%BE%D8%B1-%D8%A7%D9%84%D9%83%DA%BE%D8%B1%D8%A8%D8%A7%D8%A6%DB%8C%D8%A9-%D9%81%D9%8A%D8%B2%D9%8A%D8%A7%D8%A1-%D8%AB%D8%A7%D9%84%D8%AB%D8%A9/",
    "sourceName": "موقع الدراسة",
    "solution": false,
-   "typeKey": "lesson",
-   "addedAt": "2026-09-23T09:27:32.349Z"
+   "typeKey": "summary",
+   "addedAt": "2026-09-23T13:25:57.007Z"
   },
   {
-   "id": "ed-%D8%AD%D9%88%D9%84%D9%8A%D8%A7%D8%AA-%D8%A8%D9%83%D8%A7%D9%84%D9%88%D8%B1%D9%8A%D8%A7-%D8%A7%D9%84%D9%81%D8%A7%D8%A6%D8%B2-%D9%81%D9%8A-%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85-%D8%A7%D9%84%D8%B7%D8%A8",
-   "title": "حوليات بكالوريا الفائز في العلوم الطبيعية مع الحل",
-   "level": "bac",
-   "levelName": "البكالوريا",
-   "stage": "secondary",
-   "subject": "علوم الطبيعة والحياة",
-   "subjectKey": "علوم الطبيعة والحياة",
-   "stream": "all",
-   "streamName": "جميع الشعب",
-   "year": "",
-   "type": "دروس",
-   "pdf": "https://eddirasa.com/wp-content/uploads/2014/12/حوليات-الفائز-في-العلوم.pdf",
-   "image": "",
-   "source": "https://eddirasa.com/%D8%AD%D9%88%D9%84%D9%8A%D8%A7%D8%AA-%D8%A8%D9%83%D8%A7%D9%84%D9%88%D8%B1%D9%8A%D8%A7-%D8%A7%D9%84%D9%81%D8%A7%D8%A6%D8%B2-%D9%81%D9%8A-%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85-%D8%A7%D9%84%D8%B7%D8%A8/",
-   "sourceName": "موقع الدراسة",
-   "solution": true,
-   "typeKey": "lesson",
-   "addedAt": "2026-09-23T09:23:19.679Z"
-  },
-  {
-   "id": "ed-%D9%85%D9%88%D8%B6%D9%88%D8%B9-%D8%A8%D9%83%D8%A7%D9%84%D9%88%D8%B1%D9%8A%D8%A7-%D9%85%D9%82%D8%AA%D8%B1%D8%AD-%D9%81%D9%8A-%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85-%D8%A7%D9%84%D8%B7%D8%A8%D9%8A%D8%B9-12",
-   "title": "موضوع بكالوريا مقترح في العلوم الطبيعية مع الحل رقم 1",
-   "level": "bac",
-   "levelName": "البكالوريا",
-   "stage": "secondary",
-   "subject": "علوم الطبيعة والحياة",
-   "subjectKey": "علوم الطبيعة والحياة",
-   "stream": "all",
-   "streamName": "جميع الشعب",
-   "year": "",
-   "type": "دروس",
-   "pdf": "https://eddirasa.com/wp-content/uploads/2014/12/annale-bac-science6.pdf",
-   "image": "",
-   "source": "https://eddirasa.com/%D9%85%D9%88%D8%B6%D9%88%D8%B9-%D8%A8%D9%83%D8%A7%D9%84%D9%88%D8%B1%D9%8A%D8%A7-%D9%85%D9%82%D8%AA%D8%B1%D8%AD-%D9%81%D9%8A-%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85-%D8%A7%D9%84%D8%B7%D8%A8%D9%8A%D8%B9-12/",
-   "sourceName": "موقع الدراسة",
-   "solution": true,
-   "typeKey": "lesson",
-   "addedAt": "2026-09-23T09:23:16.691Z"
-  },
-  {
-   "id": "ed-%D8%AD%D9%88%D9%84%D9%8A%D8%A7%D8%AA-%D8%A7%D8%B3%D8%AA%D8%B9%D8%AF-%D9%84%D9%84%D8%A8%D9%83%D8%A7%D9%84%D9%88%D8%B1%D9%8A%D8%A7-%D9%81%D9%8A-%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85-%D8%A7%D9%84%D8%B7",
-   "title": "حوليات استعد للبكالوريا في العلوم الطبيعية مع الحل",
-   "level": "bac",
-   "levelName": "البكالوريا",
-   "stage": "secondary",
-   "subject": "علوم الطبيعة والحياة",
-   "subjectKey": "علوم الطبيعة والحياة",
-   "stream": "all",
-   "streamName": "جميع الشعب",
-   "year": "",
-   "type": "دروس",
-   "pdf": "https://eddirasa.com/wp-content/uploads/2014/12/SciencExesSol3as.pdf",
-   "image": "",
-   "source": "https://eddirasa.com/%D8%AD%D9%88%D9%84%D9%8A%D8%A7%D8%AA-%D8%A7%D8%B3%D8%AA%D8%B9%D8%AF-%D9%84%D9%84%D8%A8%D9%83%D8%A7%D9%84%D9%88%D8%B1%D9%8A%D8%A7-%D9%81%D9%8A-%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85-%D8%A7%D9%84%D8%B7/",
-   "sourceName": "موقع الدراسة",
-   "solution": true,
-   "typeKey": "lesson",
-   "addedAt": "2026-09-23T09:22:55.629Z"
-  },
-  {
-   "id": "ed-%D9%85%D9%88%D8%B6%D9%88%D8%B9-%D8%A8%D9%83%D8%A7%D9%84%D9%88%D8%B1%D9%8A%D8%A7-%D9%85%D9%82%D8%AA%D8%B1%D8%AD-%D9%81%D9%8A-%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85-%D8%A7%D9%84%D8%B7%D8%A8%D9%8A%D8%B9-9",
-   "title": "موضوع بكالوريا مقترح في العلوم الطبيعية مع الحل رقم 9",
-   "level": "bac",
-   "levelName": "البكالوريا",
-   "stage": "secondary",
-   "subject": "علوم الطبيعة والحياة",
-   "subjectKey": "علوم الطبيعة والحياة",
-   "stream": "all",
-   "streamName": "جميع الشعب",
-   "year": "",
-   "type": "دروس",
-   "pdf": "https://eddirasa.com/wp-content/uploads/2014/12/annale-bac-science3.pdf",
-   "image": "",
-   "source": "https://eddirasa.com/%D9%85%D9%88%D8%B6%D9%88%D8%B9-%D8%A8%D9%83%D8%A7%D9%84%D9%88%D8%B1%D9%8A%D8%A7-%D9%85%D9%82%D8%AA%D8%B1%D8%AD-%D9%81%D9%8A-%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85-%D8%A7%D9%84%D8%B7%D8%A8%D9%8A%D8%B9-9/",
-   "sourceName": "موقع الدراسة",
-   "solution": true,
-   "typeKey": "lesson",
-   "addedAt": "2026-09-23T09:22:52.570Z"
-  },
-  {
-   "id": "ed-%D9%85%D9%88%D8%B6%D9%88%D8%B9-%D8%A8%D9%83%D8%A7%D9%84%D9%88%D8%B1%D9%8A%D8%A7-%D9%85%D9%82%D8%AA%D8%B1%D8%AD-%D9%81%D9%8A-%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85-%D8%A7%D9%84%D8%B7%D8%A8%D9%8A%D8%B9-10",
-   "title": "موضوع بكالوريا مقترح في العلوم الطبيعية مع الحل رقم 10",
-   "level": "bac",
-   "levelName": "البكالوريا",
-   "stage": "secondary",
-   "subject": "علوم الطبيعة والحياة",
-   "subjectKey": "علوم الطبيعة والحياة",
-   "stream": "all",
-   "streamName": "جميع الشعب",
-   "year": "",
-   "type": "دروس",
-   "pdf": "https://eddirasa.com/wp-content/uploads/2014/12/annale-bac-science4.pdf",
-   "image": "",
-   "source": "https://eddirasa.com/%D9%85%D9%88%D8%B6%D9%88%D8%B9-%D8%A8%D9%83%D8%A7%D9%84%D9%88%D8%B1%D9%8A%D8%A7-%D9%85%D9%82%D8%AA%D8%B1%D8%AD-%D9%81%D9%8A-%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85-%D8%A7%D9%84%D8%B7%D8%A8%D9%8A%D8%B9-10/",
-   "sourceName": "موقع الدراسة",
-   "solution": true,
-   "typeKey": "lesson",
-   "addedAt": "2026-09-23T09:22:37.603Z"
-  },
-  {
-   "id": "ed-%D9%85%D9%88%D8%B6%D9%88%D8%B9-%D8%A8%D9%83%D8%A7%D9%84%D9%88%D8%B1%D9%8A%D8%A7-%D9%85%D9%82%D8%AA%D8%B1%D8%AD-%D9%81%D9%8A-%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85-%D8%A7%D9%84%D8%B7%D8%A8%D9%8A%D8%B9-11",
-   "title": "موضوع بكالوريا مقترح في العلوم الطبيعية مع الحل رقم 11",
-   "level": "bac",
-   "levelName": "البكالوريا",
-   "stage": "secondary",
-   "subject": "علوم الطبيعة والحياة",
-   "subjectKey": "علوم الطبيعة والحياة",
-   "stream": "all",
-   "streamName": "جميع الشعب",
-   "year": "",
-   "type": "دروس",
-   "pdf": "https://eddirasa.com/wp-content/uploads/2014/12/annale-bac-science5.pdf",
-   "image": "",
-   "source": "https://eddirasa.com/%D9%85%D9%88%D8%B6%D9%88%D8%B9-%D8%A8%D9%83%D8%A7%D9%84%D9%88%D8%B1%D9%8A%D8%A7-%D9%85%D9%82%D8%AA%D8%B1%D8%AD-%D9%81%D9%8A-%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85-%D8%A7%D9%84%D8%B7%D8%A8%D9%8A%D8%B9-11/",
-   "sourceName": "موقع الدراسة",
-   "solution": true,
-   "typeKey": "lesson",
-   "addedAt": "2026-09-23T09:22:31.487Z"
-  },
-  {
-   "id": "ed-%D8%AD%D9%88%D9%84%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%B1%D9%81%D9%8A%D9%82-%D9%81%D9%8A-%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85-%D8%A7%D9%84%D8%B7%D8%A8%D9%8A%D8%B9%D9%8A%D8%A9-%D9%85%D8%B9-%D8%A7%D9%84",
-   "title": "حوليات بكالوريا الرفيق في العلوم الطبيعية مع الحل",
-   "level": "bac",
-   "levelName": "البكالوريا",
-   "stage": "secondary",
-   "subject": "علوم الطبيعة والحياة",
-   "subjectKey": "علوم الطبيعة والحياة",
-   "stream": "all",
-   "streamName": "جميع الشعب",
-   "year": "",
-   "type": "دروس",
-   "pdf": "https://eddirasa.com/wp-content/uploads/2014/12/الرفيق-في-العلوم.pdf",
-   "image": "",
-   "source": "https://eddirasa.com/%D8%AD%D9%88%D9%84%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%B1%D9%81%D9%8A%D9%82-%D9%81%D9%8A-%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85-%D8%A7%D9%84%D8%B7%D8%A8%D9%8A%D8%B9%D9%8A%D8%A9-%D9%85%D8%B9-%D8%A7%D9%84/",
-   "sourceName": "موقع الدراسة",
-   "solution": true,
-   "typeKey": "lesson",
-   "addedAt": "2026-09-23T09:22:25.552Z"
-  },
-  {
-   "id": "ed-%D9%85%D9%88%D8%B6%D9%88%D8%B9-%D8%A8%D9%83%D8%A7%D9%84%D9%88%D8%B1%D9%8A%D8%A7-%D9%85%D9%82%D8%AA%D8%B1%D8%AD-%D9%81%D9%8A-%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85-%D8%A7%D9%84%D8%B7%D8%A8%D9%8A%D8%B9-13",
-   "title": "موضوع بكالوريا مقترح في العلوم الطبيعية مع الحل رقم 2",
-   "level": "bac",
-   "levelName": "البكالوريا",
-   "stage": "secondary",
-   "subject": "علوم الطبيعة والحياة",
-   "subjectKey": "علوم الطبيعة والحياة",
-   "stream": "all",
-   "streamName": "جميع الشعب",
-   "year": "",
-   "type": "دروس",
-   "pdf": "https://eddirasa.com/wp-content/uploads/2014/12/annale-bac-science7.pdf",
-   "image": "",
-   "source": "https://eddirasa.com/%D9%85%D9%88%D8%B6%D9%88%D8%B9-%D8%A8%D9%83%D8%A7%D9%84%D9%88%D8%B1%D9%8A%D8%A7-%D9%85%D9%82%D8%AA%D8%B1%D8%AD-%D9%81%D9%8A-%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85-%D8%A7%D9%84%D8%B7%D8%A8%D9%8A%D8%B9-13/",
-   "sourceName": "موقع الدراسة",
-   "solution": true,
-   "typeKey": "lesson",
-   "addedAt": "2026-09-23T09:22:19.589Z"
-  },
-  {
-   "id": "ed-%D9%85%D9%84%D8%AE%D8%B5-%D8%A7%D9%84%D8%B9%D9%84%D8%A7%D9%82%D8%A9-%D8%A8%D9%8A%D9%86-%D8%A8%D9%86%D9%8A%D8%A9-%D9%88-%D8%AA%D8%B1%D9%83%D9%8A%D8%A8-%D8%A7%D9%84%D8%A8%D8%B1%D9%88%D8%AA%D9%8A%D9%86",
-   "title": "ملخص العلاقة بين بنية و تركيب البروتين علوم سنة 3 ثانوي",
+   "id": "ed-%D9%85%D9%84%D8%AE%D8%B5-%D8%AF%D8%B1%D9%88%D8%B3-%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85-%D8%A7%D9%84%D8%B7%D8%A8%D9%8A%D8%B9%D9%8A%D8%A9-%D9%84%D9%84%D8%B3%D9%86%D8%A9-%D8%A7%D9%84%D8%AB%D8%A7%D9%84",
+   "title": "ملخص دروس العلوم الطبيعية للسنة الثالثة ثانوي",
    "level": "3as",
    "levelName": "الثالثة ثانوي",
    "stage": "secondary",
@@ -2484,13 +2184,313 @@
    "streamName": "جميع الشعب",
    "year": "",
    "type": "ملخصات",
-   "pdf": "https://eddirasa.com/wp-content/uploads/2014/12/2-العلاقة-بين-بنية-البروتين-و-وظيفته.pdf",
+   "pdf": "https://eddirasa.com/wp-content/uploads/2015/04/ملخص-دروس-العلوم-الطبيعية-للسنة-الثالثة-ثانوي.pdf",
    "image": "",
-   "source": "https://eddirasa.com/%D9%85%D9%84%D8%AE%D8%B5-%D8%A7%D9%84%D8%B9%D9%84%D8%A7%D9%82%D8%A9-%D8%A8%D9%8A%D9%86-%D8%A8%D9%86%D9%8A%D8%A9-%D9%88-%D8%AA%D8%B1%D9%83%D9%8A%D8%A8-%D8%A7%D9%84%D8%A8%D8%B1%D9%88%D8%AA%D9%8A%D9%86/",
+   "source": "https://eddirasa.com/%D9%85%D9%84%D8%AE%D8%B5-%D8%AF%D8%B1%D9%88%D8%B3-%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85-%D8%A7%D9%84%D8%B7%D8%A8%D9%8A%D8%B9%D9%8A%D8%A9-%D9%84%D9%84%D8%B3%D9%86%D8%A9-%D8%A7%D9%84%D8%AB%D8%A7%D9%84/",
    "sourceName": "موقع الدراسة",
    "solution": false,
    "typeKey": "summary",
-   "addedAt": "2026-09-23T09:22:04.472Z"
+   "addedAt": "2026-09-23T13:25:48.037Z"
+  },
+  {
+   "id": "ed-%D9%85%D9%84%D8%AE%D8%B5-%D8%A7%D9%84%D8%AA%D8%AD%D9%88%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D9%88%D9%88%DB%8C%D8%A9-%D9%81%D9%8A%D8%B2%D9%8A%D8%A7%D8%A1-%D8%AB%D8%A7%D9%84%D8%AB%D8%A9-%D8%AB%D8%A7",
+   "title": "ملخص التحولات النوویة فيزياء ثالثة ثانوي",
+   "level": "3as",
+   "levelName": "الثالثة ثانوي",
+   "stage": "secondary",
+   "subject": "العلوم الفيزيائية",
+   "subjectKey": "علوم الفيزيائية",
+   "stream": "all",
+   "streamName": "جميع الشعب",
+   "year": "",
+   "type": "ملخصات",
+   "pdf": "https://eddirasa.com/wp-content/uploads/2015/04/ملخص-التحولات-النوویة-فيزياء-ثالثة-ثانوي.pdf",
+   "image": "",
+   "source": "https://eddirasa.com/%D9%85%D9%84%D8%AE%D8%B5-%D8%A7%D9%84%D8%AA%D8%AD%D9%88%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D9%88%D9%88%DB%8C%D8%A9-%D9%81%D9%8A%D8%B2%D9%8A%D8%A7%D8%A1-%D8%AB%D8%A7%D9%84%D8%AB%D8%A9-%D8%AB%D8%A7/",
+   "sourceName": "موقع الدراسة",
+   "solution": false,
+   "typeKey": "summary",
+   "addedAt": "2026-09-23T13:25:45.006Z"
+  },
+  {
+   "id": "ed-%D9%85%D9%84%D8%AE%D8%B5%D8%A7%D8%AA-%D8%A7%D9%84%D8%AC%D8%BA%D8%B1%D8%A7%D9%81%D9%8A%D8%A7-%D9%84%D9%84%D8%B3%D9%86%D8%A9-%D8%A7%D9%84%D8%AB%D8%A7%D9%84%D8%AB%D8%A9-%D8%AB%D8%A7%D9%86%D9%88%D9%8A",
+   "title": "ملخصات الجغرافيا للسنة الثالثة ثانوي",
+   "level": "3as",
+   "levelName": "الثالثة ثانوي",
+   "stage": "secondary",
+   "subject": "التاريخ والجغرافيا",
+   "subjectKey": "تاريخ والجغرافيا",
+   "stream": "all",
+   "streamName": "جميع الشعب",
+   "year": "",
+   "type": "ملخصات",
+   "pdf": "https://eddirasa.com/wp-content/uploads/2015/03/ملخصات-الجغرافيا-للسنة-الثالثة-ثانوي.pdf",
+   "image": "",
+   "source": "https://eddirasa.com/%D9%85%D9%84%D8%AE%D8%B5%D8%A7%D8%AA-%D8%A7%D9%84%D8%AC%D8%BA%D8%B1%D8%A7%D9%81%D9%8A%D8%A7-%D9%84%D9%84%D8%B3%D9%86%D8%A9-%D8%A7%D9%84%D8%AB%D8%A7%D9%84%D8%AB%D8%A9-%D8%AB%D8%A7%D9%86%D9%88%D9%8A/",
+   "sourceName": "موقع الدراسة",
+   "solution": false,
+   "typeKey": "summary",
+   "addedAt": "2026-09-23T13:19:56.040Z"
+  },
+  {
+   "id": "ed-%D9%83%D8%AA%D8%A7%D8%A8-%D8%A7%D9%84%D9%85%D8%AA%D9%85%D9%8A%D8%B2-%D9%81%D9%8A-%D8%A7%D9%84%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE-%D9%88-%D8%A7%D9%84%D8%AC%D8%BA%D8%B1%D8%A7%D9%81%D9%8A%D8%A7-%D9%84%D9%84",
+   "title": "كتاب المتميز في التاريخ و الجغرافيا للسنة الثالثة ثانوي",
+   "level": "3as",
+   "levelName": "الثالثة ثانوي",
+   "stage": "secondary",
+   "subject": "التاريخ والجغرافيا",
+   "subjectKey": "تاريخ والجغرافيا",
+   "stream": "all",
+   "streamName": "جميع الشعب",
+   "year": "",
+   "type": "ملخصات",
+   "pdf": "https://eddirasa.com/wp-content/uploads/2015/03/مصطلحات-شخصيات-أحداث-معلمية.pdf",
+   "image": "",
+   "source": "https://eddirasa.com/%D9%83%D8%AA%D8%A7%D8%A8-%D8%A7%D9%84%D9%85%D8%AA%D9%85%D9%8A%D8%B2-%D9%81%D9%8A-%D8%A7%D9%84%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE-%D9%88-%D8%A7%D9%84%D8%AC%D8%BA%D8%B1%D8%A7%D9%81%D9%8A%D8%A7-%D9%84%D9%84/",
+   "sourceName": "موقع الدراسة",
+   "solution": false,
+   "typeKey": "summary",
+   "addedAt": "2026-09-23T13:19:46.981Z"
+  },
+  {
+   "id": "ed-%D9%85%D9%84%D8%AE%D8%B5%D8%A7%D8%AA-%D8%A7%D9%84%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE-%D9%84%D9%84%D8%B3%D9%86%D8%A9-%D8%A7%D9%84%D8%AB%D8%A7%D9%84%D8%AB%D8%A9-%D8%AB%D8%A7%D9%86%D9%88%D9%8A",
+   "title": "ملخصات التاريخ للسنة الثالثة ثانوي",
+   "level": "3as",
+   "levelName": "الثالثة ثانوي",
+   "stage": "secondary",
+   "subject": "التاريخ والجغرافيا",
+   "subjectKey": "تاريخ والجغرافيا",
+   "stream": "all",
+   "streamName": "جميع الشعب",
+   "year": "",
+   "type": "ملخصات",
+   "pdf": "https://eddirasa.com/wp-content/uploads/2015/03/ملخصات-التاريخ-للسنة-الثالثة-ثانوي.pdf",
+   "image": "",
+   "source": "https://eddirasa.com/%D9%85%D9%84%D8%AE%D8%B5%D8%A7%D8%AA-%D8%A7%D9%84%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE-%D9%84%D9%84%D8%B3%D9%86%D8%A9-%D8%A7%D9%84%D8%AB%D8%A7%D9%84%D8%AB%D8%A9-%D8%AB%D8%A7%D9%86%D9%88%D9%8A/",
+   "sourceName": "موقع الدراسة",
+   "solution": false,
+   "typeKey": "summary",
+   "addedAt": "2026-09-23T13:19:28.950Z"
+  },
+  {
+   "id": "ed-%D8%A3%D8%B3%D8%A6%D9%84%D8%A9-%D8%A8%D9%83%D8%A7%D9%84%D9%88%D8%B1%D9%8A%D8%A7-%D8%A7%D9%84%D9%84%D8%BA%D8%A9-%D8%A7%D9%84%D9%81%D8%B1%D9%86%D8%B3%D9%8A%D8%A9-%D9%88-%D8%A3%D8%AC%D9%88%D8%A8%D8%AA",
+   "title": "أسئلة بكالوريا اللغة الفرنسية و أجوبتها باللغة العربية",
+   "level": "3as",
+   "levelName": "الثالثة ثانوي",
+   "stage": "secondary",
+   "subject": "اللغة الفرنسية",
+   "subjectKey": "فرنسية",
+   "stream": "all",
+   "streamName": "جميع الشعب",
+   "year": "",
+   "type": "ملخصات",
+   "pdf": "https://eddirasa.com/wp-content/uploads/2015/03/frensh-bac-question.pdf",
+   "image": "",
+   "source": "https://eddirasa.com/%D8%A3%D8%B3%D8%A6%D9%84%D8%A9-%D8%A8%D9%83%D8%A7%D9%84%D9%88%D8%B1%D9%8A%D8%A7-%D8%A7%D9%84%D9%84%D8%BA%D8%A9-%D8%A7%D9%84%D9%81%D8%B1%D9%86%D8%B3%D9%8A%D8%A9-%D9%88-%D8%A3%D8%AC%D9%88%D8%A8%D8%AA/",
+   "sourceName": "موقع الدراسة",
+   "solution": false,
+   "typeKey": "summary",
+   "addedAt": "2026-09-23T13:18:28.766Z"
+  },
+  {
+   "id": "ed-%D9%85%D9%84%D8%AE%D8%B5-%D8%A7%D9%84%D8%AA%D8%AD%D9%88%D9%8A%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D9%82%D8%B7%D9%8A%D8%A9-%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A7%D8%AA-%D8%B3%D9%86%D8%A9-%D8%AB%D8%A7",
+   "title": "ملخص التحويلات النقطية رياضيات سنة ثالثة ثانوي",
+   "level": "3as",
+   "levelName": "الثالثة ثانوي",
+   "stage": "secondary",
+   "subject": "الرياضيات",
+   "subjectKey": "رياضيات",
+   "stream": "all",
+   "streamName": "جميع الشعب",
+   "year": "",
+   "type": "ملخصات",
+   "pdf": "https://eddirasa.com/wp-content/uploads/2015/03/08-Transformations.pdf",
+   "image": "",
+   "source": "https://eddirasa.com/%D9%85%D9%84%D8%AE%D8%B5-%D8%A7%D9%84%D8%AA%D8%AD%D9%88%D9%8A%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D9%82%D8%B7%D9%8A%D8%A9-%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A7%D8%AA-%D8%B3%D9%86%D8%A9-%D8%AB%D8%A7/",
+   "sourceName": "موقع الدراسة",
+   "solution": false,
+   "typeKey": "summary",
+   "addedAt": "2026-09-23T13:17:31.642Z"
+  },
+  {
+   "id": "ed-%D9%85%D9%84%D8%AE%D8%B5-%D8%A7%D9%84%D8%AC%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D8%B3%D9%84%D9%85%D9%8A-%D9%88-%D8%A7%D9%84%D9%87%D9%86%D8%AF%D8%B3%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D9%81%D8%B6%D8%A7%D8%A1",
+   "title": "ملخص الجداء السلمي و الهندسة في الفضاء رياضيات سنة ثالثة ثانوي",
+   "level": "3as",
+   "levelName": "الثالثة ثانوي",
+   "stage": "secondary",
+   "subject": "الرياضيات",
+   "subjectKey": "رياضيات",
+   "stream": "all",
+   "streamName": "جميع الشعب",
+   "year": "",
+   "type": "ملخصات",
+   "pdf": "https://eddirasa.com/wp-content/uploads/2015/03/04-Géometrie.pdf",
+   "image": "",
+   "source": "https://eddirasa.com/%D9%85%D9%84%D8%AE%D8%B5-%D8%A7%D9%84%D8%AC%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D8%B3%D9%84%D9%85%D9%8A-%D9%88-%D8%A7%D9%84%D9%87%D9%86%D8%AF%D8%B3%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D9%81%D8%B6%D8%A7%D8%A1/",
+   "sourceName": "موقع الدراسة",
+   "solution": false,
+   "typeKey": "summary",
+   "addedAt": "2026-09-23T13:17:25.616Z"
+  },
+  {
+   "id": "ed-%D9%85%D9%84%D8%AE%D8%B5-%D8%A7%D9%84%D8%AF%D9%88%D8%A7%D9%84-%D8%A7%D9%84%D8%A3%D8%B3%D9%8A%D8%A9-%D9%88-%D8%A7%D9%84%D9%84%D9%88%D8%BA%D8%A7%D8%B1%D9%8A%D8%AA%D9%85%D9%8A%D8%A9-%D8%B1%D9%8A%D8%A7",
+   "title": "ملخص الدوال الأسية و اللوغاريتمية رياضيات سنة ثالثة ثانوي",
+   "level": "3as",
+   "levelName": "الثالثة ثانوي",
+   "stage": "secondary",
+   "subject": "الرياضيات",
+   "subjectKey": "رياضيات",
+   "stream": "all",
+   "streamName": "جميع الشعب",
+   "year": "",
+   "type": "ملخصات",
+   "pdf": "https://eddirasa.com/wp-content/uploads/2015/03/02-Exponontielle-Logarithme.pdf",
+   "image": "",
+   "source": "https://eddirasa.com/%D9%85%D9%84%D8%AE%D8%B5-%D8%A7%D9%84%D8%AF%D9%88%D8%A7%D9%84-%D8%A7%D9%84%D8%A3%D8%B3%D9%8A%D8%A9-%D9%88-%D8%A7%D9%84%D9%84%D9%88%D8%BA%D8%A7%D8%B1%D9%8A%D8%AA%D9%85%D9%8A%D8%A9-%D8%B1%D9%8A%D8%A7/",
+   "sourceName": "موقع الدراسة",
+   "solution": false,
+   "typeKey": "summary",
+   "addedAt": "2026-09-23T13:17:19.620Z"
+  },
+  {
+   "id": "ed-%D9%85%D9%84%D8%AE%D8%B5-%D8%A7%D9%84%D8%AF%D9%88%D8%A7%D9%84-%D8%A7%D9%84%D9%85%D8%AB%D9%84%D8%AB%D9%8A%D8%A9-%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A7%D8%AA-%D8%B3%D9%86%D8%A9-%D8%AB%D8%A7%D9%84%D8%AB",
+   "title": "ملخص الدوال المثلثية رياضيات سنة ثالثة ثانوي",
+   "level": "3as",
+   "levelName": "الثالثة ثانوي",
+   "stage": "secondary",
+   "subject": "الرياضيات",
+   "subjectKey": "رياضيات",
+   "stream": "all",
+   "streamName": "جميع الشعب",
+   "year": "",
+   "type": "ملخصات",
+   "pdf": "https://eddirasa.com/wp-content/uploads/2015/03/07-Trigonométrie-2.pdf",
+   "image": "",
+   "source": "https://eddirasa.com/%D9%85%D9%84%D8%AE%D8%B5-%D8%A7%D9%84%D8%AF%D9%88%D8%A7%D9%84-%D8%A7%D9%84%D9%85%D8%AB%D9%84%D8%AB%D9%8A%D8%A9-%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A7%D8%AA-%D8%B3%D9%86%D8%A9-%D8%AB%D8%A7%D9%84%D8%AB/",
+   "sourceName": "موقع الدراسة",
+   "solution": false,
+   "typeKey": "summary",
+   "addedAt": "2026-09-23T13:17:10.591Z"
+  },
+  {
+   "id": "ed-%D9%85%D9%84%D8%AE%D8%B5-%D8%A7%D9%84%D8%AF%D9%88%D8%A7%D9%84-%D8%A7%D9%84%D9%85%D8%B1%D8%AC%D8%B9%D9%8A%D8%A9-%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A7%D8%AA-%D8%B3%D9%86%D8%A9-%D8%AB%D8%A7%D9%84%D8%AB",
+   "title": "ملخص الدوال المرجعية رياضيات سنة ثالثة ثانوي",
+   "level": "3as",
+   "levelName": "الثالثة ثانوي",
+   "stage": "secondary",
+   "subject": "الرياضيات",
+   "subjectKey": "رياضيات",
+   "stream": "all",
+   "streamName": "جميع الشعب",
+   "year": "",
+   "type": "ملخصات",
+   "pdf": "https://eddirasa.com/wp-content/uploads/2015/03/03-Fonctions-élémentaires.pdf",
+   "image": "",
+   "source": "https://eddirasa.com/%D9%85%D9%84%D8%AE%D8%B5-%D8%A7%D9%84%D8%AF%D9%88%D8%A7%D9%84-%D8%A7%D9%84%D9%85%D8%B1%D8%AC%D8%B9%D9%8A%D8%A9-%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A7%D8%AA-%D8%B3%D9%86%D8%A9-%D8%AB%D8%A7%D9%84%D8%AB/",
+   "sourceName": "موقع الدراسة",
+   "solution": false,
+   "typeKey": "summary",
+   "addedAt": "2026-09-23T13:17:07.560Z"
+  },
+  {
+   "id": "ed-%D9%85%D9%84%D8%AE%D8%B5-%D8%A7%D9%84%D8%A3%D8%B9%D8%AF%D8%A7%D8%AF-%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%A8%D8%A9-%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A7%D8%AA-%D8%B3%D9%86%D8%A9-%D8%AB%D8%A7%D9%84%D8%AB",
+   "title": "ملخص الأعداد المركبة رياضيات سنة ثالثة ثانوي",
+   "level": "3as",
+   "levelName": "الثالثة ثانوي",
+   "stage": "secondary",
+   "subject": "الرياضيات",
+   "subjectKey": "رياضيات",
+   "stream": "all",
+   "streamName": "جميع الشعب",
+   "year": "",
+   "type": "ملخصات",
+   "pdf": "https://eddirasa.com/wp-content/uploads/2015/03/05-Nombres-complexes.pdf",
+   "image": "",
+   "source": "https://eddirasa.com/%D9%85%D9%84%D8%AE%D8%B5-%D8%A7%D9%84%D8%A3%D8%B9%D8%AF%D8%A7%D8%AF-%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%A8%D8%A9-%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A7%D8%AA-%D8%B3%D9%86%D8%A9-%D8%AB%D8%A7%D9%84%D8%AB/",
+   "sourceName": "موقع الدراسة",
+   "solution": false,
+   "typeKey": "summary",
+   "addedAt": "2026-09-23T13:16:55.568Z"
+  },
+  {
+   "id": "ed-%D9%85%D9%84%D8%AE%D8%B5-%D8%A7%D9%84%D8%AF%D8%A7%D8%A6%D8%B1%D8%A9-%D8%A7%D9%84%D9%85%D8%AB%D9%84%D8%AB%D9%8A%D8%A9-%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A7%D8%AA-%D8%B3%D9%86%D8%A9-%D8%AB%D8%A7%D9%84",
+   "title": "ملخص الدائرة المثلثية رياضيات سنة ثالثة ثانوي",
+   "level": "3as",
+   "levelName": "الثالثة ثانوي",
+   "stage": "secondary",
+   "subject": "الرياضيات",
+   "subjectKey": "رياضيات",
+   "stream": "all",
+   "streamName": "جميع الشعب",
+   "year": "",
+   "type": "ملخصات",
+   "pdf": "https://eddirasa.com/wp-content/uploads/2015/03/06-Trigonométrie-1.pdf",
+   "image": "",
+   "source": "https://eddirasa.com/%D9%85%D9%84%D8%AE%D8%B5-%D8%A7%D9%84%D8%AF%D8%A7%D8%A6%D8%B1%D8%A9-%D8%A7%D9%84%D9%85%D8%AB%D9%84%D8%AB%D9%8A%D8%A9-%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A7%D8%AA-%D8%B3%D9%86%D8%A9-%D8%AB%D8%A7%D9%84/",
+   "sourceName": "موقع الدراسة",
+   "solution": false,
+   "typeKey": "summary",
+   "addedAt": "2026-09-23T13:16:49.510Z"
+  },
+  {
+   "id": "ed-%D9%85%D9%84%D8%AE%D8%B5-%D8%A7%D9%84%D8%AA%D8%AD%D9%84%D9%8A%D9%84-%D8%A7%D9%84%D8%AA%D9%88%D9%81%D9%8A%D9%82%D9%8A-%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A7%D8%AA-%D8%B3%D9%86%D8%A9-%D8%AB%D8%A7%D9%84",
+   "title": "ملخص التحليل التوفيقي رياضيات سنة ثالثة ثانوي",
+   "level": "3as",
+   "levelName": "الثالثة ثانوي",
+   "stage": "secondary",
+   "subject": "الرياضيات",
+   "subjectKey": "رياضيات",
+   "stream": "all",
+   "streamName": "جميع الشعب",
+   "year": "",
+   "type": "ملخصات",
+   "pdf": "https://eddirasa.com/wp-content/uploads/2015/03/11-Dénombrement.pdf",
+   "image": "",
+   "source": "https://eddirasa.com/%D9%85%D9%84%D8%AE%D8%B5-%D8%A7%D9%84%D8%AA%D8%AD%D9%84%D9%8A%D9%84-%D8%A7%D9%84%D8%AA%D9%88%D9%81%D9%8A%D9%82%D9%8A-%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A7%D8%AA-%D8%B3%D9%86%D8%A9-%D8%AB%D8%A7%D9%84/",
+   "sourceName": "موقع الدراسة",
+   "solution": false,
+   "typeKey": "summary",
+   "addedAt": "2026-09-23T13:16:40.508Z"
+  },
+  {
+   "id": "ed-%D9%85%D9%84%D8%AE%D8%B5-%D8%A7%D9%84%D8%AF%D9%88%D8%A7%D9%84-%D8%A7%D9%84%D8%A3%D8%B5%D9%84%D9%8A%D8%A9-%D9%88-%D8%A7%D9%84%D8%AD%D8%B3%D8%A7%D8%A8-%D8%A7%D9%84%D8%AA%D9%83%D8%A7%D9%85%D9%84%D9%8A",
+   "title": "ملخص الدوال الأصلية و الحساب التكاملي رياضيات سنة ثالثة ثانوي",
+   "level": "3as",
+   "levelName": "الثالثة ثانوي",
+   "stage": "secondary",
+   "subject": "الرياضيات",
+   "subjectKey": "رياضيات",
+   "stream": "all",
+   "streamName": "جميع الشعب",
+   "year": "",
+   "type": "ملخصات",
+   "pdf": "https://eddirasa.com/wp-content/uploads/2015/03/10-Primitives-et-Intégrales.pdf",
+   "image": "",
+   "source": "https://eddirasa.com/%D9%85%D9%84%D8%AE%D8%B5-%D8%A7%D9%84%D8%AF%D9%88%D8%A7%D9%84-%D8%A7%D9%84%D8%A3%D8%B5%D9%84%D9%8A%D8%A9-%D9%88-%D8%A7%D9%84%D8%AD%D8%B3%D8%A7%D8%A8-%D8%A7%D9%84%D8%AA%D9%83%D8%A7%D9%85%D9%84%D9%8A/",
+   "sourceName": "موقع الدراسة",
+   "solution": false,
+   "typeKey": "summary",
+   "addedAt": "2026-09-23T13:16:31.489Z"
+  },
+  {
+   "id": "ed-%D9%85%D9%84%D8%AE%D8%B5-%D8%AF%D8%B1%D8%A7%D8%B3%D8%A9-%D8%A7%D9%84%D9%81%D8%B1%D9%88%D8%B9-%D8%A7%D9%84%D9%84%D8%A7%D9%86%D9%87%D8%A7%D8%A6%D9%8A%D8%A9-%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A7%D8%AA",
+   "title": "ملخص دراسة الفروع اللانهائية رياضيات سنة ثالثة ثانوي",
+   "level": "3as",
+   "levelName": "الثالثة ثانوي",
+   "stage": "secondary",
+   "subject": "الرياضيات",
+   "subjectKey": "رياضيات",
+   "stream": "all",
+   "streamName": "جميع الشعب",
+   "year": "",
+   "type": "ملخصات",
+   "pdf": "https://eddirasa.com/wp-content/uploads/2015/03/01-Asymptotes.pdf",
+   "image": "",
+   "source": "https://eddirasa.com/%D9%85%D9%84%D8%AE%D8%B5-%D8%AF%D8%B1%D8%A7%D8%B3%D8%A9-%D8%A7%D9%84%D9%81%D8%B1%D9%88%D8%B9-%D8%A7%D9%84%D9%84%D8%A7%D9%86%D9%87%D8%A7%D8%A6%D9%8A%D8%A9-%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A7%D8%AA/",
+   "sourceName": "موقع الدراسة",
+   "solution": false,
+   "typeKey": "summary",
+   "addedAt": "2026-09-23T13:16:19.451Z"
   }
  ],
  "news": [
