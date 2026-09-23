@@ -1,30 +1,30 @@
 {
- "generated_at": "2026-09-23T19:58:04.454Z",
- "total": 11406,
+ "generated_at": "2026-09-23T20:58:15.622Z",
+ "total": 11482,
  "shards": [
   {
    "file": "bac-5e4dec23--x8dd76b09.json",
    "level": "bac",
    "subject": "رياضيات",
-   "count": 236
+   "count": 263
   },
   {
    "file": "bac-5e4dec23--xf2964ab5.json",
    "level": "bac",
    "subject": "فلسفة",
-   "count": 138
+   "count": 163
+  },
+  {
+   "file": "bac-5e4dec23--xca4e049c.json",
+   "level": "bac",
+   "subject": "علوم الطبيعة والحياة",
+   "count": 48
   },
   {
    "file": "bac-5e4dec23--x3084b732.json",
    "level": "bac",
    "subject": "تربية البدنية",
    "count": 1
-  },
-  {
-   "file": "bac-5e4dec23--xca4e049c.json",
-   "level": "bac",
-   "subject": "علوم الطبيعة والحياة",
-   "count": 45
   },
   {
    "file": "bac-5e4dec23--xf0519d05.json",
@@ -159,22 +159,52 @@
    "count": 38
   },
   {
-   "file": "3as-b0225673--xee86b77b.json",
+   "file": "3as-b0225673--x8dd76b09.json",
    "level": "3as",
-   "subject": "انجليزية",
-   "count": 258
-  },
-  {
-   "file": "3as-b0225673--xca4e049c.json",
-   "level": "3as",
-   "subject": "علوم الطبيعة والحياة",
-   "count": 360
+   "subject": "رياضيات",
+   "count": 337
   },
   {
    "file": "3as-b0225673--xdffa1d13.json",
    "level": "3as",
    "subject": "تاريخ والجغرافيا",
-   "count": 224
+   "count": 225
+  },
+  {
+   "file": "3as-b0225673--xca4e049c.json",
+   "level": "3as",
+   "subject": "علوم الطبيعة والحياة",
+   "count": 366
+  },
+  {
+   "file": "3as-b0225673--xf0519d05.json",
+   "level": "3as",
+   "subject": "علوم الفيزيائية",
+   "count": 114
+  },
+  {
+   "file": "3as-b0225673--x6f7b65fd.json",
+   "level": "3as",
+   "subject": "اسبانية",
+   "count": 60
+  },
+  {
+   "file": "3as-b0225673--xf2964ab5.json",
+   "level": "3as",
+   "subject": "فلسفة",
+   "count": 132
+  },
+  {
+   "file": "3as-b0225673--x5e37d86f.json",
+   "level": "3as",
+   "subject": "المانية",
+   "count": 50
+  },
+  {
+   "file": "3as-b0225673--xee86b77b.json",
+   "level": "3as",
+   "subject": "انجليزية",
+   "count": 258
   },
   {
    "file": "3as-b0225673--x090a0157.json",
@@ -201,22 +231,10 @@
    "count": 1
   },
   {
-   "file": "3as-b0225673--xf0519d05.json",
-   "level": "3as",
-   "subject": "علوم الفيزيائية",
-   "count": 111
-  },
-  {
    "file": "3as-b0225673--x25af644b.json",
    "level": "3as",
    "subject": "تربية الاسلامية",
    "count": 127
-  },
-  {
-   "file": "3as-b0225673--x8dd76b09.json",
-   "level": "3as",
-   "subject": "رياضيات",
-   "count": 333
   },
   {
    "file": "3as-b0225673--x91b4a510.json",
@@ -225,28 +243,10 @@
    "count": 7
   },
   {
-   "file": "3as-b0225673--xf2964ab5.json",
-   "level": "3as",
-   "subject": "فلسفة",
-   "count": 131
-  },
-  {
    "file": "3as-b0225673--x6acf11b0.json",
    "level": "3as",
    "subject": "تسيير محاسبي",
    "count": 4
-  },
-  {
-   "file": "3as-b0225673--x6f7b65fd.json",
-   "level": "3as",
-   "subject": "اسبانية",
-   "count": 59
-  },
-  {
-   "file": "3as-b0225673--x5e37d86f.json",
-   "level": "3as",
-   "subject": "المانية",
-   "count": 48
   },
   {
    "file": "3as-b0225673--xced38d1b.json",
@@ -315,21 +315,16 @@
    "count": 229
   },
   {
-   "file": "bem-d722a518.json",
-   "level": "bem",
-   "count": 244
+   "file": "4am-5886f037--xf0519d05.json",
+   "level": "4am",
+   "subject": "علوم الفيزيائية",
+   "count": 13
   },
   {
    "file": "4am-5886f037--x858e891e.json",
    "level": "4am",
    "subject": "فرنسية",
    "count": 123
-  },
-  {
-   "file": "4am-5886f037--xf0519d05.json",
-   "level": "4am",
-   "subject": "علوم الفيزيائية",
-   "count": 12
   },
   {
    "file": "4am-5886f037--x25af644b.json",
@@ -398,9 +393,16 @@
    "count": 114
   },
   {
-   "file": "3am-11f30712.json",
-   "level": "3am",
-   "count": 337
+   "file": "1am-c55de173--xec764203.json",
+   "level": "1am",
+   "subject": "علوم فيزيائية",
+   "count": 1
+  },
+  {
+   "file": "1am-c55de173--x91b4a510.json",
+   "level": "1am",
+   "subject": "عربية",
+   "count": 87
   },
   {
    "file": "1am-c55de173--x8dd76b09.json",
@@ -445,12 +447,6 @@
    "count": 119
   },
   {
-   "file": "1am-c55de173--x91b4a510.json",
-   "level": "1am",
-   "subject": "عربية",
-   "count": 86
-  },
-  {
    "file": "1am-c55de173--xee86b77b.json",
    "level": "1am",
    "subject": "انجليزية",
@@ -461,6 +457,16 @@
    "level": "1am",
    "subject": "علوم الطبيعة والحياة",
    "count": 86
+  },
+  {
+   "file": "bem-d722a518.json",
+   "level": "bem",
+   "count": 244
+  },
+  {
+   "file": "3am-11f30712.json",
+   "level": "3am",
+   "count": 337
   },
   {
    "file": "1as-a92ecd15.json",
@@ -858,12 +864,12 @@
   {
    "id": "middle",
    "name": "المتوسط",
-   "count": 3088
+   "count": 3091
   },
   {
    "id": "secondary",
    "name": "الثانوي",
-   "count": 4740
+   "count": 4813
   },
   {
    "id": "teachers",
@@ -876,15 +882,15 @@
    "id": "bac",
    "name": "البكالوريا",
    "stage": "secondary",
-   "count": 1025,
+   "count": 1080,
    "subjects": [
     {
      "id": "رياضيات",
-     "count": 236
+     "count": 263
     },
     {
      "id": "فلسفة",
-     "count": 138
+     "count": 163
     },
     {
      "id": "انجليزية",
@@ -900,7 +906,7 @@
     },
     {
      "id": "علوم الطبيعة والحياة",
-     "count": 45
+     "count": 48
     },
     {
      "id": "علوم الفيزيائية",
@@ -988,15 +994,15 @@
    "id": "3as",
    "name": "الثالثة ثانوي",
    "stage": "secondary",
-   "count": 2867,
+   "count": 2885,
    "subjects": [
     {
      "id": "علوم الطبيعة والحياة",
-     "count": 360
+     "count": 366
     },
     {
      "id": "رياضيات",
-     "count": 333
+     "count": 337
     },
     {
      "id": "انجليزية",
@@ -1016,11 +1022,11 @@
     },
     {
      "id": "تاريخ والجغرافيا",
-     "count": 224
+     "count": 225
     },
     {
      "id": "فلسفة",
-     "count": 131
+     "count": 132
     },
     {
      "id": "تربية الاسلامية",
@@ -1028,7 +1034,7 @@
     },
     {
      "id": "علوم الفيزيائية",
-     "count": 111
+     "count": 114
     },
     {
      "id": "هندسة المدنية",
@@ -1052,11 +1058,11 @@
     },
     {
      "id": "اسبانية",
-     "count": 59
+     "count": 60
     },
     {
      "id": "المانية",
-     "count": 48
+     "count": 50
     },
     {
      "id": "هندسة الميكانيكية",
@@ -1092,6 +1098,118 @@
     },
     {
      "id": "ايطالية",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "id": "4am",
+   "name": "الرابعة متوسط",
+   "stage": "middle",
+   "count": 993,
+   "subjects": [
+    {
+     "id": "رياضيات",
+     "count": 177
+    },
+    {
+     "id": "علوم الفيزيائية والتكنولوجيا",
+     "count": 150
+    },
+    {
+     "id": "علوم الطبيعة والحياة",
+     "count": 144
+    },
+    {
+     "id": "فرنسية",
+     "count": 123
+    },
+    {
+     "id": "عربية",
+     "count": 114
+    },
+    {
+     "id": "انجليزية",
+     "count": 90
+    },
+    {
+     "id": "تاريخ والجغرافيا",
+     "count": 54
+    },
+    {
+     "id": "تربية الاسلامية",
+     "count": 51
+    },
+    {
+     "id": "تربية المدنية",
+     "count": 51
+    },
+    {
+     "id": "تربية الفنية",
+     "count": 14
+    },
+    {
+     "id": "علوم الفيزيائية",
+     "count": 13
+    },
+    {
+     "id": "اعلام الالي",
+     "count": 11
+    },
+    {
+     "id": "تربية الموسيقية",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "id": "1am",
+   "name": "الأولى متوسط",
+   "stage": "middle",
+   "count": 871,
+   "subjects": [
+    {
+     "id": "علوم الفيزيائية والتكنولوجيا",
+     "count": 119
+    },
+    {
+     "id": "رياضيات",
+     "count": 111
+    },
+    {
+     "id": "انجليزية",
+     "count": 98
+    },
+    {
+     "id": "فرنسية",
+     "count": 97
+    },
+    {
+     "id": "تربية المدنية",
+     "count": 97
+    },
+    {
+     "id": "عربية",
+     "count": 87
+    },
+    {
+     "id": "علوم الطبيعة والحياة",
+     "count": 86
+    },
+    {
+     "id": "تاريخ والجغرافيا",
+     "count": 78
+    },
+    {
+     "id": "تربية الاسلامية",
+     "count": 54
+    },
+    {
+     "id": "اعلام الالي",
+     "count": 43
+    },
+    {
+     "id": "علوم فيزيائية",
      "count": 1
     }
    ]
@@ -1149,66 +1267,6 @@
    ]
   },
   {
-   "id": "4am",
-   "name": "الرابعة متوسط",
-   "stage": "middle",
-   "count": 992,
-   "subjects": [
-    {
-     "id": "رياضيات",
-     "count": 177
-    },
-    {
-     "id": "علوم الفيزيائية والتكنولوجيا",
-     "count": 150
-    },
-    {
-     "id": "علوم الطبيعة والحياة",
-     "count": 144
-    },
-    {
-     "id": "فرنسية",
-     "count": 123
-    },
-    {
-     "id": "عربية",
-     "count": 114
-    },
-    {
-     "id": "انجليزية",
-     "count": 90
-    },
-    {
-     "id": "تاريخ والجغرافيا",
-     "count": 54
-    },
-    {
-     "id": "تربية الاسلامية",
-     "count": 51
-    },
-    {
-     "id": "تربية المدنية",
-     "count": 51
-    },
-    {
-     "id": "تربية الفنية",
-     "count": 14
-    },
-    {
-     "id": "علوم الفيزيائية",
-     "count": 12
-    },
-    {
-     "id": "اعلام الالي",
-     "count": 11
-    },
-    {
-     "id": "تربية الموسيقية",
-     "count": 1
-    }
-   ]
-  },
-  {
    "id": "3am",
    "name": "الثالثة متوسط",
    "stage": "middle",
@@ -1253,54 +1311,6 @@
     {
      "id": "تربية المدنية",
      "count": 19
-    }
-   ]
-  },
-  {
-   "id": "1am",
-   "name": "الأولى متوسط",
-   "stage": "middle",
-   "count": 869,
-   "subjects": [
-    {
-     "id": "علوم الفيزيائية والتكنولوجيا",
-     "count": 119
-    },
-    {
-     "id": "رياضيات",
-     "count": 111
-    },
-    {
-     "id": "انجليزية",
-     "count": 98
-    },
-    {
-     "id": "فرنسية",
-     "count": 97
-    },
-    {
-     "id": "تربية المدنية",
-     "count": 97
-    },
-    {
-     "id": "عربية",
-     "count": 86
-    },
-    {
-     "id": "علوم الطبيعة والحياة",
-     "count": 86
-    },
-    {
-     "id": "تاريخ والجغرافيا",
-     "count": 78
-    },
-    {
-     "id": "تربية الاسلامية",
-     "count": 54
-    },
-    {
-     "id": "اعلام الالي",
-     "count": 43
     }
    ]
   },
@@ -1788,7 +1798,7 @@
    "id": "تاريخ والجغرافيا",
    "name": "التاريخ والجغرافيا",
    "icon": "🗺️",
-   "count": 894
+   "count": 895
   },
   {
    "id": "تربية الاسلامية",
@@ -1848,7 +1858,7 @@
    "id": "رياضيات",
    "name": "الرياضيات",
    "icon": "📐",
-   "count": 1763
+   "count": 1794
   },
   {
    "id": "علوم الاسلامية",
@@ -1860,7 +1870,7 @@
    "id": "علوم الفيزيائية",
    "name": "العلوم الفيزيائية",
    "icon": "🔬",
-   "count": 274
+   "count": 278
   },
   {
    "id": "علوم الفيزيائية والتكنولوجيا",
@@ -1872,7 +1882,7 @@
    "id": "فلسفة",
    "name": "الفلسفة",
    "icon": "💭",
-   "count": 282
+   "count": 308
   },
   {
    "id": "قانون",
@@ -1884,13 +1894,13 @@
    "id": "اسبانية",
    "name": "اللغة الإسبانية",
    "icon": "ES",
-   "count": 124
+   "count": 125
   },
   {
    "id": "المانية",
    "name": "اللغة الألمانية",
    "icon": "DE",
-   "count": 102
+   "count": 104
   },
   {
    "id": "امازيغية",
@@ -1914,7 +1924,7 @@
    "id": "عربية",
    "name": "اللغة العربية",
    "icon": "📖",
-   "count": 819
+   "count": 820
   },
   {
    "id": "عربية وادابها",
@@ -1974,13 +1984,13 @@
    "id": "علوم الطبيعة والحياة",
    "name": "علوم الطبيعة والحياة",
    "icon": "🧬",
-   "count": 834
+   "count": 843
   },
   {
    "id": "علوم فيزيائية",
    "name": "علوم فيزيائية",
    "icon": "🔬",
-   "count": 3
+   "count": 4
   },
   {
    "id": "لغة ايطالية",
@@ -2045,12 +2055,12 @@
  ],
  "recent": {
   "days": 7,
-  "count": 494
+  "count": 570
  },
  "featured": [
   {
-   "id": "ed-correction-bac-se-his-geo-2016",
-   "title": "تصحيح بكالوريا الجزئية 2016 – اختبار التاريخ و الجغرافيا شعب علمية",
+   "id": "ed-correction-bac-se-his-geo-2016-1",
+   "title": "تصحيح بكالوريا 2016 – اختبار التاريخ و الجغرافيا شعب علمية",
    "level": "bac",
    "levelName": "البكالوريا",
    "stage": "secondary",
@@ -2060,97 +2070,17 @@
    "streamName": "الشعب العلمية",
    "year": 2016,
    "type": "حلول وتصحيحات",
-   "pdf": "https://eddirasa.com/wp-content/uploads/2016/06/correction-bac-his-geo-2016-se-2.pdf",
+   "pdf": "https://eddirasa.com/wp-content/uploads/2017/12/eddirasa-com-correction-bac-sci-his-geo-2016.pdf",
    "image": "",
-   "source": "https://eddirasa.com/correction-bac-se-his-geo-2016/",
+   "source": "https://eddirasa.com/correction-bac-se-his-geo-2016-1/",
    "sourceName": "موقع الدراسة",
    "solution": true,
    "typeKey": "solution",
-   "addedAt": "2026-09-23T17:31:51.171Z"
+   "addedAt": "2026-09-23T20:57:45.785Z"
   },
   {
-   "id": "ed-bac-sci-his-geo-2016-2",
-   "title": "بكالوريا 2016 الإستثنائية – اختبار التاريخ و الجغرافيا شعب علمية",
-   "level": "bac",
-   "levelName": "البكالوريا",
-   "stage": "secondary",
-   "subject": "الرياضيات",
-   "subjectKey": "رياضيات",
-   "stream": "sci",
-   "streamName": "الشعب العلمية",
-   "year": 2016,
-   "type": "دروس",
-   "pdf": "https://eddirasa.com/wp-content/uploads/2016/06/bac-his-geo-2016-se-2.pdf",
-   "image": "",
-   "source": "https://eddirasa.com/bac-sci-his-geo-2016-2/",
-   "sourceName": "موقع الدراسة",
-   "solution": false,
-   "typeKey": "lesson",
-   "addedAt": "2026-09-23T17:31:45.132Z"
-  },
-  {
-   "id": "ed-correction-bac-se-english-2016-2",
-   "title": "تصحيح بكالوريا الجزئية 2016 – اختبار اللغة الإنجليزية شعب علمية",
-   "level": "bac",
-   "levelName": "البكالوريا",
-   "stage": "secondary",
-   "subject": "الرياضيات",
-   "subjectKey": "رياضيات",
-   "stream": "sci",
-   "streamName": "الشعب العلمية",
-   "year": 2016,
-   "type": "حلول وتصحيحات",
-   "pdf": "https://eddirasa.com/wp-content/uploads/2016/06/correction-bac-english-2016-se-2.pdf",
-   "image": "",
-   "source": "https://eddirasa.com/correction-bac-se-english-2016-2/",
-   "sourceName": "موقع الدراسة",
-   "solution": true,
-   "typeKey": "solution",
-   "addedAt": "2026-09-23T17:31:39.173Z"
-  },
-  {
-   "id": "ed-bac-sci-english-2016-2",
-   "title": "بكالوريا 2016 الإستثنائية – اختبار اللغة الإنجليزية شعب علمية",
-   "level": "bac",
-   "levelName": "البكالوريا",
-   "stage": "secondary",
-   "subject": "الرياضيات",
-   "subjectKey": "رياضيات",
-   "stream": "sci",
-   "streamName": "الشعب العلمية",
-   "year": 2016,
-   "type": "دروس",
-   "pdf": "https://eddirasa.com/wp-content/uploads/2016/06/bac-english-2016-se-2.pdf",
-   "image": "",
-   "source": "https://eddirasa.com/bac-sci-english-2016-2/",
-   "sourceName": "موقع الدراسة",
-   "solution": false,
-   "typeKey": "lesson",
-   "addedAt": "2026-09-23T17:31:14.978Z"
-  },
-  {
-   "id": "ed-correction-bac-se-francais-2016-2",
-   "title": "تصحيح بكالوريا الجزئية 2016 – اختبار اللغة الفرنسية شعب علمية",
-   "level": "bac",
-   "levelName": "البكالوريا",
-   "stage": "secondary",
-   "subject": "الرياضيات",
-   "subjectKey": "رياضيات",
-   "stream": "sci",
-   "streamName": "الشعب العلمية",
-   "year": 2016,
-   "type": "حلول وتصحيحات",
-   "pdf": "https://eddirasa.com/wp-content/uploads/2016/06/correction-bac-francais-2016-se-2.pdf",
-   "image": "",
-   "source": "https://eddirasa.com/correction-bac-se-francais-2016-2/",
-   "sourceName": "موقع الدراسة",
-   "solution": true,
-   "typeKey": "solution",
-   "addedAt": "2026-09-23T17:31:12.061Z"
-  },
-  {
-   "id": "ed-correction-bac-se-phylosofi-2016",
-   "title": "تصحيح بكالوريا الجزئية 2016 – اختبار الفلسفة شعب علوم تجريبية و رياضيات",
+   "id": "ed-correction-bac-se-phylosofi-2016-1",
+   "title": "تصحيح بكالوريا 2016 – اختبار الفلسفة شعب علوم تجريبية و رياضيات",
    "level": "bac",
    "levelName": "البكالوريا",
    "stage": "secondary",
@@ -2160,77 +2090,77 @@
    "streamName": "علوم تجريبية",
    "year": 2016,
    "type": "حلول وتصحيحات",
-   "pdf": "https://eddirasa.com/wp-content/uploads/2016/06/correction-bac-philo-2016-se-2.pdf",
+   "pdf": "https://eddirasa.com/wp-content/uploads/2017/12/eddirasa-com-correction-bac-sci-philo-2016.pdf",
    "image": "",
-   "source": "https://eddirasa.com/correction-bac-se-phylosofi-2016/",
+   "source": "https://eddirasa.com/correction-bac-se-phylosofi-2016-1/",
    "sourceName": "موقع الدراسة",
    "solution": true,
    "typeKey": "solution",
-   "addedAt": "2026-09-23T17:30:59.967Z"
+   "addedAt": "2026-09-23T20:57:42.806Z"
   },
   {
-   "id": "ed-bac-sci-francais-2016-2",
-   "title": "بكالوريا 2016 الجزئية – اختبار اللغة الفرنسية شعب علمية",
+   "id": "ed-correction-bac-tamazighte-2016",
+   "title": "تصحيح بكالوريا 2016 – اختبار اللغة الأمازيغية جميع الشعب",
    "level": "bac",
    "levelName": "البكالوريا",
    "stage": "secondary",
+   "subject": "الفلسفة",
+   "subjectKey": "فلسفة",
+   "stream": "all",
+   "streamName": "جميع الشعب",
+   "year": 2016,
+   "type": "حلول وتصحيحات",
+   "pdf": "https://eddirasa.com/wp-content/uploads/2016/06/eddirasa-com-correction-bac-li-tam-2016.pdf",
+   "image": "",
+   "source": "https://eddirasa.com/correction-bac-tamazighte-2016/",
+   "sourceName": "موقع الدراسة",
+   "solution": true,
+   "typeKey": "solution",
+   "addedAt": "2026-09-23T20:57:15.824Z"
+  },
+  {
+   "id": "ed-%D8%A7%D9%84%D8%A3%D8%B3%D8%A6%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D8%A7%D8%A6%D8%B9%D8%A9-%D9%81%D9%8A-%D8%AF%D8%B1%D8%A7%D8%B3%D8%A9-%D8%A7%D9%84%D8%AF%D9%88%D8%A7%D9%84-%D9%88-%D9%83%D9%8A%D9%81",
+   "title": "الأسئلة الشائعة في دراسة الدوال و كيفية الإجابة عليها",
+   "level": "3as",
+   "levelName": "الثالثة ثانوي",
+   "stage": "secondary",
    "subject": "الرياضيات",
    "subjectKey": "رياضيات",
-   "stream": "sci",
-   "streamName": "الشعب العلمية",
-   "year": 2016,
-   "type": "دروس",
-   "pdf": "https://eddirasa.com/wp-content/uploads/2016/06/bac-francais-2016-se-2.pdf",
+   "stream": "all",
+   "streamName": "جميع الشعب",
+   "year": "",
+   "type": "ملخصات",
+   "pdf": "https://eddirasa.com/wp-content/uploads/2017/10/الأسئلة-الشائعة-في-دراسة-الدوال-و-كيفية-الإجابة-عليها.pdf",
    "image": "",
-   "source": "https://eddirasa.com/bac-sci-francais-2016-2/",
+   "source": "https://eddirasa.com/%D8%A7%D9%84%D8%A3%D8%B3%D8%A6%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D8%A7%D8%A6%D8%B9%D8%A9-%D9%81%D9%8A-%D8%AF%D8%B1%D8%A7%D8%B3%D8%A9-%D8%A7%D9%84%D8%AF%D9%88%D8%A7%D9%84-%D9%88-%D9%83%D9%8A%D9%81/",
+   "sourceName": "موقع الدراسة",
+   "solution": true,
+   "typeKey": "summary",
+   "addedAt": "2026-09-23T20:54:54.361Z"
+  },
+  {
+   "id": "ed-%D9%85%D9%84%D8%AE%D8%B5-%D8%AF%D8%B1%D8%B3-%D8%A7%D9%84%D9%86%D9%87%D8%A7%D9%8A%D8%A7%D8%AA-%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%B3%D9%86%D8%A9-%D8%A7%D9%84%D8%AB%D8%A7%D9%84",
+   "title": "ملخص درس النهايات رياضيات السنة الثالثة ثانوي",
+   "level": "3as",
+   "levelName": "الثالثة ثانوي",
+   "stage": "secondary",
+   "subject": "الرياضيات",
+   "subjectKey": "رياضيات",
+   "stream": "all",
+   "streamName": "جميع الشعب",
+   "year": "",
+   "type": "ملخصات",
+   "pdf": "https://eddirasa.com/wp-content/uploads/2022/12/ملخص-درس-النهايات-إعداد-الأستاذ-حمادة-محمد-العربي.pdf",
+   "image": "",
+   "source": "https://eddirasa.com/%D9%85%D9%84%D8%AE%D8%B5-%D8%AF%D8%B1%D8%B3-%D8%A7%D9%84%D9%86%D9%87%D8%A7%D9%8A%D8%A7%D8%AA-%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%B3%D9%86%D8%A9-%D8%A7%D9%84%D8%AB%D8%A7%D9%84/",
    "sourceName": "موقع الدراسة",
    "solution": false,
-   "typeKey": "lesson",
-   "addedAt": "2026-09-23T17:30:57.005Z"
+   "typeKey": "summary",
+   "addedAt": "2026-09-23T20:54:00.712Z"
   },
   {
-   "id": "ed-bac-sc-philosophy-2016-2",
-   "title": "بكالوريا 2016 الجزئية – اختبار الفلسفة شعبة علوم تجريبية + رياضيات",
-   "level": "bac",
-   "levelName": "البكالوريا",
-   "stage": "secondary",
-   "subject": "الرياضيات",
-   "subjectKey": "رياضيات",
-   "stream": "se",
-   "streamName": "علوم تجريبية",
-   "year": 2016,
-   "type": "حلول وتصحيحات",
-   "pdf": "https://eddirasa.com/wp-content/uploads/2016/06/bac-philo-2016-se-2.pdf",
-   "image": "",
-   "source": "https://eddirasa.com/bac-sc-philosophy-2016-2/",
-   "sourceName": "موقع الدراسة",
-   "solution": false,
-   "typeKey": "solution",
-   "addedAt": "2026-09-23T17:30:35.939Z"
-  },
-  {
-   "id": "ed-correction-bac-lt-english-2016",
-   "title": "تصحيح بكالوريا 2016 – اختبار اللغة الإنجليزية شعبة آداب و فلسفة",
-   "level": "bac",
-   "levelName": "البكالوريا",
-   "stage": "secondary",
-   "subject": "الفلسفة",
-   "subjectKey": "فلسفة",
-   "stream": "lit",
-   "streamName": "آداب وفلسفة",
-   "year": 2016,
-   "type": "حلول وتصحيحات",
-   "pdf": "https://eddirasa.com/wp-content/uploads/2016/06/eddirasa-com-correction-bac-li-eng-2016.pdf",
-   "image": "",
-   "source": "https://eddirasa.com/correction-bac-lt-english-2016/",
-   "sourceName": "موقع الدراسة",
-   "solution": true,
-   "typeKey": "solution",
-   "addedAt": "2026-09-23T17:30:23.907Z"
-  },
-  {
-   "id": "ed-correction-bac-se-english-2016",
-   "title": "تصحيح بكالوريا 2016 – اختبار اللغة الإنجليزية شعب علمية",
+   "id": "ed-correction-bac-se-arabe-2017-2",
+   "title": "تصحيح بكالوريا 2017 الاستثنائية – اختبار اللغة العربية الشعب العلمية",
    "level": "bac",
    "levelName": "البكالوريا",
    "stage": "secondary",
@@ -2238,79 +2168,19 @@
    "subjectKey": "رياضيات",
    "stream": "sci",
    "streamName": "الشعب العلمية",
-   "year": 2016,
+   "year": 2017,
    "type": "حلول وتصحيحات",
-   "pdf": "https://eddirasa.com/wp-content/uploads/2016/06/eddirasa-com-correction-bac-ge-eng-2016.pdf",
+   "pdf": "https://eddirasa.com/wp-content/uploads/2017/07/correction-bac-se-arabe-2017-2.pdf",
    "image": "",
-   "source": "https://eddirasa.com/correction-bac-se-english-2016/",
+   "source": "https://eddirasa.com/correction-bac-se-arabe-2017-2/",
    "sourceName": "موقع الدراسة",
    "solution": true,
    "typeKey": "solution",
-   "addedAt": "2026-09-23T17:30:20.910Z"
+   "addedAt": "2026-09-23T20:44:47.714Z"
   },
   {
-   "id": "ed-correction-bac-lt-his-geo-2016",
-   "title": "تصحيح بكالوريا 2016 – اختبار التاريخ و الجغرافيا شعبة آداب و فلسفة",
-   "level": "bac",
-   "levelName": "البكالوريا",
-   "stage": "secondary",
-   "subject": "الفلسفة",
-   "subjectKey": "فلسفة",
-   "stream": "lit",
-   "streamName": "آداب وفلسفة",
-   "year": 2016,
-   "type": "حلول وتصحيحات",
-   "pdf": "https://eddirasa.com/wp-content/uploads/2016/06/eddirasa-com-correction-bac-li-his-geo-2016.pdf",
-   "image": "",
-   "source": "https://eddirasa.com/correction-bac-lt-his-geo-2016/",
-   "sourceName": "موقع الدراسة",
-   "solution": true,
-   "typeKey": "solution",
-   "addedAt": "2026-09-23T17:30:14.870Z"
-  },
-  {
-   "id": "ed-correction-bac-se-arabe-2016",
-   "title": "تصحيح بكالوريا 2016 – اختبار اللغة العربية شعب علمية",
-   "level": "bac",
-   "levelName": "البكالوريا",
-   "stage": "secondary",
-   "subject": "الرياضيات",
-   "subjectKey": "رياضيات",
-   "stream": "sci",
-   "streamName": "الشعب العلمية",
-   "year": 2016,
-   "type": "حلول وتصحيحات",
-   "pdf": "https://eddirasa.com/wp-content/uploads/2016/06/eddirasa-com-correction-bac-ge-ara-2016.pdf",
-   "image": "",
-   "source": "https://eddirasa.com/correction-bac-se-arabe-2016/",
-   "sourceName": "موقع الدراسة",
-   "solution": true,
-   "typeKey": "solution",
-   "addedAt": "2026-09-23T17:30:05.858Z"
-  },
-  {
-   "id": "ed-correction-bac-lt-phylosofie-2016",
-   "title": "تصحيح بكالوريا 2016 – اختبار الفلسفة شعبة آداب و فلسفة",
-   "level": "bac",
-   "levelName": "البكالوريا",
-   "stage": "secondary",
-   "subject": "الفلسفة",
-   "subjectKey": "فلسفة",
-   "stream": "lit",
-   "streamName": "آداب وفلسفة",
-   "year": 2016,
-   "type": "حلول وتصحيحات",
-   "pdf": "https://eddirasa.com/wp-content/uploads/2016/06/eddirasa-com-correction-bac-li-philo-2016.pdf",
-   "image": "",
-   "source": "https://eddirasa.com/correction-bac-lt-phylosofie-2016/",
-   "sourceName": "موقع الدراسة",
-   "solution": true,
-   "typeKey": "solution",
-   "addedAt": "2026-09-23T17:29:50.792Z"
-  },
-  {
-   "id": "ed-correction-bac-math-math-2016",
-   "title": "تصحيح بكالوريا 2016 – اختبار الرياضيات شعبة رياضيات",
+   "id": "ed-bac-math-sciences-2017-2",
+   "title": "بكالوريا 2017 الإستثنائية – اختبار العلوم الطبيعية شعبة رياضيات",
    "level": "bac",
    "levelName": "البكالوريا",
    "stage": "secondary",
@@ -2318,19 +2188,159 @@
    "subjectKey": "رياضيات",
    "stream": "all",
    "streamName": "جميع الشعب",
-   "year": 2016,
-   "type": "حلول وتصحيحات",
-   "pdf": "https://eddirasa.com/wp-content/uploads/2016/06/eddirasa-com-correction-bac-math-math-2016.pdf",
+   "year": 2017,
+   "type": "دروس",
+   "pdf": "https://eddirasa.com/wp-content/uploads/2017/07/bac-math-sciences-2017.pdf",
    "image": "",
-   "source": "https://eddirasa.com/correction-bac-math-math-2016/",
+   "source": "https://eddirasa.com/bac-math-sciences-2017-2/",
+   "sourceName": "موقع الدراسة",
+   "solution": false,
+   "typeKey": "lesson",
+   "addedAt": "2026-09-23T20:44:32.736Z"
+  },
+  {
+   "id": "ed-bac-sc-philosofie-2017-2",
+   "title": "بكالوريا 2017 الإستثنائية – اختبار الفلسفة شعبة علوم تجريبية + رياضيات",
+   "level": "bac",
+   "levelName": "البكالوريا",
+   "stage": "secondary",
+   "subject": "الرياضيات",
+   "subjectKey": "رياضيات",
+   "stream": "se",
+   "streamName": "علوم تجريبية",
+   "year": 2017,
+   "type": "دروس",
+   "pdf": "https://eddirasa.com/wp-content/uploads/2017/07/bac-sc-philosofie-2017-2.pdf",
+   "image": "",
+   "source": "https://eddirasa.com/bac-sc-philosofie-2017-2/",
+   "sourceName": "موقع الدراسة",
+   "solution": false,
+   "typeKey": "lesson",
+   "addedAt": "2026-09-23T20:44:29.695Z"
+  },
+  {
+   "id": "ed-bac-sci-his-geo-2017-2",
+   "title": "بكالوريا 2017 الإستثنائية – اختبار التاريخ والجغرافيا شعب علمية",
+   "level": "bac",
+   "levelName": "البكالوريا",
+   "stage": "secondary",
+   "subject": "الرياضيات",
+   "subjectKey": "رياضيات",
+   "stream": "sci",
+   "streamName": "الشعب العلمية",
+   "year": 2017,
+   "type": "دروس",
+   "pdf": "https://eddirasa.com/wp-content/uploads/2017/07/bac-sci-his-geo-2017-2.pdf",
+   "image": "",
+   "source": "https://eddirasa.com/bac-sci-his-geo-2017-2/",
+   "sourceName": "موقع الدراسة",
+   "solution": false,
+   "typeKey": "lesson",
+   "addedAt": "2026-09-23T20:44:26.702Z"
+  },
+  {
+   "id": "ed-correction-bac-lt-arabe-2017-2",
+   "title": "تصحيح بكالوريا 2017 الاستثنائية – اختبار اللغة العربية شعبة آداب وفلسفة",
+   "level": "bac",
+   "levelName": "البكالوريا",
+   "stage": "secondary",
+   "subject": "الفلسفة",
+   "subjectKey": "فلسفة",
+   "stream": "lit",
+   "streamName": "آداب وفلسفة",
+   "year": 2017,
+   "type": "حلول وتصحيحات",
+   "pdf": "https://eddirasa.com/wp-content/uploads/2017/07/correction-bac-lt-arabe-2017-2.pdf",
+   "image": "",
+   "source": "https://eddirasa.com/correction-bac-lt-arabe-2017-2/",
    "sourceName": "موقع الدراسة",
    "solution": true,
    "typeKey": "solution",
-   "addedAt": "2026-09-23T17:29:41.788Z"
+   "addedAt": "2026-09-23T20:44:17.664Z"
   },
   {
-   "id": "ed-correction-bac-math-physique-2016",
-   "title": "تصحيح بكالوريا 2016 – اختبار الفيزياء شعبة رياضيات و تقني رياضي",
+   "id": "ed-bac-lt-francais-2017-2",
+   "title": "بكالوريا 2017 الإستثنائية – اختبار اللغة الفرنسية شعبة آداب وفلسفة",
+   "level": "bac",
+   "levelName": "البكالوريا",
+   "stage": "secondary",
+   "subject": "الفلسفة",
+   "subjectKey": "فلسفة",
+   "stream": "lit",
+   "streamName": "آداب وفلسفة",
+   "year": 2017,
+   "type": "دروس",
+   "pdf": "https://eddirasa.com/wp-content/uploads/2017/07/bac-lt-francais-2017-2.pdf",
+   "image": "",
+   "source": "https://eddirasa.com/bac-lt-francais-2017-2/",
+   "sourceName": "موقع الدراسة",
+   "solution": false,
+   "typeKey": "lesson",
+   "addedAt": "2026-09-23T20:43:35.570Z"
+  },
+  {
+   "id": "ed-bac-lt-english-2017-2",
+   "title": "بكالوريا 2017 الإستثنائية – اختبار اللغة الإنجليزية شعبة آداب وفلسفة",
+   "level": "bac",
+   "levelName": "البكالوريا",
+   "stage": "secondary",
+   "subject": "الفلسفة",
+   "subjectKey": "فلسفة",
+   "stream": "lit",
+   "streamName": "آداب وفلسفة",
+   "year": 2017,
+   "type": "دروس",
+   "pdf": "https://eddirasa.com/wp-content/uploads/2017/07/bac-lt-english-2017-2.pdf",
+   "image": "",
+   "source": "https://eddirasa.com/bac-lt-english-2017-2/",
+   "sourceName": "موقع الدراسة",
+   "solution": false,
+   "typeKey": "lesson",
+   "addedAt": "2026-09-23T20:43:32.588Z"
+  },
+  {
+   "id": "ed-bac-let-philos-2017-2",
+   "title": "بكالوريا 2017 الإستثنائية – اختبار الفلسفة شعبة آداب وفلسفة",
+   "level": "bac",
+   "levelName": "البكالوريا",
+   "stage": "secondary",
+   "subject": "الفلسفة",
+   "subjectKey": "فلسفة",
+   "stream": "lit",
+   "streamName": "آداب وفلسفة",
+   "year": 2017,
+   "type": "دروس",
+   "pdf": "https://eddirasa.com/wp-content/uploads/2017/07/bac-let-philos-2017-2.pdf",
+   "image": "",
+   "source": "https://eddirasa.com/bac-let-philos-2017-2/",
+   "sourceName": "موقع الدراسة",
+   "solution": false,
+   "typeKey": "lesson",
+   "addedAt": "2026-09-23T20:43:23.561Z"
+  },
+  {
+   "id": "ed-bac-let-arabe-2017-2",
+   "title": "بكالوريا 2017 الإستثنائية – اختبار اللغة العربية شعبة آداب وفلسفة",
+   "level": "bac",
+   "levelName": "البكالوريا",
+   "stage": "secondary",
+   "subject": "الفلسفة",
+   "subjectKey": "فلسفة",
+   "stream": "lit",
+   "streamName": "آداب وفلسفة",
+   "year": 2017,
+   "type": "دروس",
+   "pdf": "https://eddirasa.com/wp-content/uploads/2017/07/bac-let-arabe-2017-2.pdf",
+   "image": "",
+   "source": "https://eddirasa.com/bac-let-arabe-2017-2/",
+   "sourceName": "موقع الدراسة",
+   "solution": false,
+   "typeKey": "lesson",
+   "addedAt": "2026-09-23T20:43:20.524Z"
+  },
+  {
+   "id": "ed-bac-math-physique-2017-2",
+   "title": "بكالوريا 2017 الإستثنائية – اختبار الفيزياء شعب رياضيات وتقني رياضي",
    "level": "bac",
    "levelName": "البكالوريا",
    "stage": "secondary",
@@ -2338,39 +2348,59 @@
    "subjectKey": "رياضيات",
    "stream": "mt",
    "streamName": "تقني رياضي",
-   "year": 2016,
-   "type": "حلول وتصحيحات",
-   "pdf": "https://eddirasa.com/wp-content/uploads/2016/06/eddirasa-com-correction-bac-math-physique-2016.pdf",
+   "year": 2017,
+   "type": "دروس",
+   "pdf": "https://eddirasa.com/wp-content/uploads/2017/07/bac-math-physique-2017-2-1.pdf",
    "image": "",
-   "source": "https://eddirasa.com/correction-bac-math-physique-2016/",
+   "source": "https://eddirasa.com/bac-math-physique-2017-2/",
    "sourceName": "موقع الدراسة",
-   "solution": true,
-   "typeKey": "solution",
-   "addedAt": "2026-09-23T17:29:26.690Z"
+   "solution": false,
+   "typeKey": "lesson",
+   "addedAt": "2026-09-23T20:43:17.325Z"
   },
   {
-   "id": "ed-correction-bac-math-science-2016",
-   "title": "تصحيح بكالوريا 2016 – اختبار العلوم الطبيعية شعبة رياضيات",
+   "id": "ed-bac-science-islamique-2017-2",
+   "title": "بكالوريا 2017 الاستثنائية – اختبار العلوم الإسلامية جميع الشعب",
    "level": "bac",
    "levelName": "البكالوريا",
    "stage": "secondary",
-   "subject": "الرياضيات",
-   "subjectKey": "رياضيات",
+   "subject": "الفلسفة",
+   "subjectKey": "فلسفة",
    "stream": "all",
    "streamName": "جميع الشعب",
-   "year": 2016,
-   "type": "حلول وتصحيحات",
-   "pdf": "https://eddirasa.com/wp-content/uploads/2016/06/eddirasa-com-correction-bac-math-science-2016.pdf",
+   "year": 2017,
+   "type": "دروس",
+   "pdf": "https://eddirasa.com/wp-content/uploads/2017/07/bac-science-islamique-2017-2.pdf",
    "image": "",
-   "source": "https://eddirasa.com/correction-bac-math-science-2016/",
+   "source": "https://eddirasa.com/bac-science-islamique-2017-2/",
    "sourceName": "موقع الدراسة",
-   "solution": true,
-   "typeKey": "solution",
-   "addedAt": "2026-09-23T17:29:08.693Z"
+   "solution": false,
+   "typeKey": "lesson",
+   "addedAt": "2026-09-23T20:42:48.315Z"
   },
   {
-   "id": "ed-bac-sci-francais-2016",
-   "title": "بكالوريا 2016 – اختبار اللغة الفرنسية شعب علمية",
+   "id": "ed-bac-lt-histoir-2017-2",
+   "title": "بكالوريا 2017 الإستثنائية – اختبار التاريخ والجغرافيا شعبة آداب وفلسفة",
+   "level": "bac",
+   "levelName": "البكالوريا",
+   "stage": "secondary",
+   "subject": "الفلسفة",
+   "subjectKey": "فلسفة",
+   "stream": "lit",
+   "streamName": "آداب وفلسفة",
+   "year": 2017,
+   "type": "دروس",
+   "pdf": "https://eddirasa.com/wp-content/uploads/2017/07/bac-lt-histoir-2017-2.pdf",
+   "image": "",
+   "source": "https://eddirasa.com/bac-lt-histoir-2017-2/",
+   "sourceName": "موقع الدراسة",
+   "solution": false,
+   "typeKey": "lesson",
+   "addedAt": "2026-09-23T20:42:42.297Z"
+  },
+  {
+   "id": "ed-bac-sci-francais-2017-2",
+   "title": "بكالوريا 2017 الإستثنائية – اختبار اللغة الفرنسية شعب علمية",
    "level": "bac",
    "levelName": "البكالوريا",
    "stage": "secondary",
@@ -2378,19 +2408,39 @@
    "subjectKey": "رياضيات",
    "stream": "sci",
    "streamName": "الشعب العلمية",
-   "year": 2016,
+   "year": 2017,
    "type": "دروس",
-   "pdf": "https://eddirasa.com/wp-content/uploads/2016/05/eddirasa-com-bac-ge-fra-2016.pdf",
+   "pdf": "https://eddirasa.com/wp-content/uploads/2017/07/bac-sci-francais-2017-2.pdf",
    "image": "",
-   "source": "https://eddirasa.com/bac-sci-francais-2016/",
+   "source": "https://eddirasa.com/bac-sci-francais-2017-2/",
    "sourceName": "موقع الدراسة",
    "solution": false,
    "typeKey": "lesson",
-   "addedAt": "2026-09-23T17:29:05.611Z"
+   "addedAt": "2026-09-23T20:42:36.375Z"
   },
   {
-   "id": "ed-correction-bac-se-francais-2016",
-   "title": "تصحيح بكالوريا 2016 – اختبار اللغة الفرنسية شعب علمية",
+   "id": "ed-bac-math-maths-2017-2",
+   "title": "بكالوريا 2017 الإستثنائية – اختبار الرياضيات شعبة رياضيات",
+   "level": "bac",
+   "levelName": "البكالوريا",
+   "stage": "secondary",
+   "subject": "الرياضيات",
+   "subjectKey": "رياضيات",
+   "stream": "all",
+   "streamName": "جميع الشعب",
+   "year": 2017,
+   "type": "دروس",
+   "pdf": "https://eddirasa.com/wp-content/uploads/2017/07/bac-math-maths-2017.pdf",
+   "image": "",
+   "source": "https://eddirasa.com/bac-math-maths-2017-2/",
+   "sourceName": "موقع الدراسة",
+   "solution": false,
+   "typeKey": "lesson",
+   "addedAt": "2026-09-23T20:42:33.316Z"
+  },
+  {
+   "id": "ed-bac-sci-english-2017-2",
+   "title": "بكالوريا 2017 الإستثنائية – اختبار اللغة الانجليزية شعب علمية",
    "level": "bac",
    "levelName": "البكالوريا",
    "stage": "secondary",
@@ -2398,59 +2448,59 @@
    "subjectKey": "رياضيات",
    "stream": "sci",
    "streamName": "الشعب العلمية",
-   "year": 2016,
-   "type": "حلول وتصحيحات",
-   "pdf": "https://eddirasa.com/wp-content/uploads/2016/06/eddirasa-com-correction-bac-ge-fra-2016.pdf",
+   "year": 2017,
+   "type": "دروس",
+   "pdf": "https://eddirasa.com/wp-content/uploads/2017/07/bac-sci-english-2017-2.pdf",
    "image": "",
-   "source": "https://eddirasa.com/correction-bac-se-francais-2016/",
+   "source": "https://eddirasa.com/bac-sci-english-2017-2/",
    "sourceName": "موقع الدراسة",
-   "solution": true,
-   "typeKey": "solution",
-   "addedAt": "2026-09-23T17:28:59.683Z"
+   "solution": false,
+   "typeKey": "lesson",
+   "addedAt": "2026-09-23T20:42:24.263Z"
   },
   {
-   "id": "ed-bac-sc-phylosofie-2016",
-   "title": "بكالوريا 2016 – اختبار الفلسفة شعبة علوم تجريبية + رياضيات",
+   "id": "ed-bac-let-maths-2017-2",
+   "title": "بكالوريا 2017 الإستثنائية – اختبار الرياضيات شعب أدبية",
+   "level": "bac",
+   "levelName": "البكالوريا",
+   "stage": "secondary",
+   "subject": "الفلسفة",
+   "subjectKey": "فلسفة",
+   "stream": "lettres",
+   "streamName": "الشعب الأدبية",
+   "year": 2017,
+   "type": "دروس",
+   "pdf": "https://eddirasa.com/wp-content/uploads/2017/07/bac-let-maths-2017-2.pdf",
+   "image": "",
+   "source": "https://eddirasa.com/bac-let-maths-2017-2/",
+   "sourceName": "موقع الدراسة",
+   "solution": false,
+   "typeKey": "lesson",
+   "addedAt": "2026-09-23T20:41:48.148Z"
+  },
+  {
+   "id": "ed-bac-arabe-2017-se-2",
+   "title": "بكالوريا 2017 الاستثنائية – اختبار اللغة العربية الشعب العلمية",
    "level": "bac",
    "levelName": "البكالوريا",
    "stage": "secondary",
    "subject": "الرياضيات",
    "subjectKey": "رياضيات",
-   "stream": "se",
-   "streamName": "علوم تجريبية",
-   "year": 2016,
+   "stream": "sci",
+   "streamName": "الشعب العلمية",
+   "year": 2017,
    "type": "دروس",
-   "pdf": "https://eddirasa.com/wp-content/uploads/2016/06/eddirasa-com-bac-sci-philo-2016.pdf",
+   "pdf": "https://eddirasa.com/wp-content/uploads/2017/07/bac-arabe-2017-se-2.pdf",
    "image": "",
-   "source": "https://eddirasa.com/bac-sc-phylosofie-2016/",
+   "source": "https://eddirasa.com/bac-arabe-2017-se-2/",
    "sourceName": "موقع الدراسة",
    "solution": false,
    "typeKey": "lesson",
-   "addedAt": "2026-09-23T17:28:56.634Z"
+   "addedAt": "2026-09-23T20:41:18.109Z"
   },
   {
-   "id": "ed-bac-tamazighte-2016",
-   "title": "بكالوريا 2016 – اختبار اللغة الأمازيغية جميع الشعب",
-   "level": "bac",
-   "levelName": "البكالوريا",
-   "stage": "secondary",
-   "subject": "الفلسفة",
-   "subjectKey": "فلسفة",
-   "stream": "all",
-   "streamName": "جميع الشعب",
-   "year": 2016,
-   "type": "دروس",
-   "pdf": "https://eddirasa.com/wp-content/uploads/2016/06/eddirasa-com-bac-li-tam-2016.pdf",
-   "image": "",
-   "source": "https://eddirasa.com/bac-tamazighte-2016/",
-   "sourceName": "موقع الدراسة",
-   "solution": false,
-   "typeKey": "lesson",
-   "addedAt": "2026-09-23T17:28:50.630Z"
-  },
-  {
-   "id": "ed-correction-bac-lt-francais-2016",
-   "title": "تصحيح بكالوريا 2016 – اختبار اللغة الفرنسية شعبة آداب و فلسفة",
+   "id": "ed-correction-bac-lt-english-2017",
+   "title": "تصحيح بكالوريا 2017 – اختبار اللغة الانجليزية شعبة آداب وفلسفة",
    "level": "bac",
    "levelName": "البكالوريا",
    "stage": "secondary",
@@ -2458,39 +2508,19 @@
    "subjectKey": "فلسفة",
    "stream": "lit",
    "streamName": "آداب وفلسفة",
-   "year": 2016,
+   "year": 2017,
    "type": "حلول وتصحيحات",
-   "pdf": "https://eddirasa.com/wp-content/uploads/2016/06/eddirasa-com-correction-bac-li-fra-2016.pdf",
+   "pdf": "https://eddirasa.com/wp-content/uploads/2017/06/correction-bac-lt-english-2017.pdf",
    "image": "",
-   "source": "https://eddirasa.com/correction-bac-lt-francais-2016/",
+   "source": "https://eddirasa.com/correction-bac-lt-english-2017/",
    "sourceName": "موقع الدراسة",
    "solution": true,
    "typeKey": "solution",
-   "addedAt": "2026-09-23T17:28:38.558Z"
+   "addedAt": "2026-09-23T20:41:12.128Z"
   },
   {
-   "id": "ed-correction-bac-islamique-2016",
-   "title": "تصحيح بكالوريا 2016 – اختبار العلوم الإسلامية جميع الشعب",
-   "level": "bac",
-   "levelName": "البكالوريا",
-   "stage": "secondary",
-   "subject": "الفلسفة",
-   "subjectKey": "فلسفة",
-   "stream": "all",
-   "streamName": "جميع الشعب",
-   "year": 2016,
-   "type": "حلول وتصحيحات",
-   "pdf": "https://eddirasa.com/wp-content/uploads/2016/06/eddirasa-com-correction-bac-li-islamic-2016.pdf",
-   "image": "",
-   "source": "https://eddirasa.com/correction-bac-islamique-2016/",
-   "sourceName": "موقع الدراسة",
-   "solution": true,
-   "typeKey": "solution",
-   "addedAt": "2026-09-23T17:28:29.603Z"
-  },
-  {
-   "id": "ed-correction-bac-lt-arabe-2016",
-   "title": "تصحيح بكالوريا 2016 – اختبار اللغة العربية شعبة آداب و فلسفة",
+   "id": "ed-correction-bac-lt-his-geo-2017",
+   "title": "تصحيح بكالوريا 2017 – اختبار التاريخ والجغرافيا شعبة آداب وفلسفة",
    "level": "bac",
    "levelName": "البكالوريا",
    "stage": "secondary",
@@ -2498,35 +2528,15 @@
    "subjectKey": "فلسفة",
    "stream": "lit",
    "streamName": "آداب وفلسفة",
-   "year": 2016,
+   "year": 2017,
    "type": "حلول وتصحيحات",
-   "pdf": "https://eddirasa.com/wp-content/uploads/2016/06/eddirasa-com-correction-bac-li-ara-2016.pdf",
+   "pdf": "https://eddirasa.com/wp-content/uploads/2017/06/correction-bac-lt-his-geo-2017.pdf",
    "image": "",
-   "source": "https://eddirasa.com/correction-bac-lt-arabe-2016/",
+   "source": "https://eddirasa.com/correction-bac-lt-his-geo-2017/",
    "sourceName": "موقع الدراسة",
    "solution": true,
    "typeKey": "solution",
-   "addedAt": "2026-09-23T17:28:11.479Z"
-  },
-  {
-   "id": "ed-bac-lt-francais-2016",
-   "title": "بكالوريا 2016 – اختبار اللغة الفرنسية شعبة آداب و فلسفة",
-   "level": "bac",
-   "levelName": "البكالوريا",
-   "stage": "secondary",
-   "subject": "الفلسفة",
-   "subjectKey": "فلسفة",
-   "stream": "lit",
-   "streamName": "آداب وفلسفة",
-   "year": 2016,
-   "type": "دروس",
-   "pdf": "https://eddirasa.com/wp-content/uploads/2016/05/eddirasa-com-bac-li-fra-2016.pdf",
-   "image": "",
-   "source": "https://eddirasa.com/bac-lt-francais-2016/",
-   "sourceName": "موقع الدراسة",
-   "solution": false,
-   "typeKey": "lesson",
-   "addedAt": "2026-09-23T17:28:08.523Z"
+   "addedAt": "2026-09-23T20:41:06.042Z"
   }
  ],
  "news": [
