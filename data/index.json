@@ -1,23 +1,90 @@
 {
- "generated_at": "2026-09-23T15:58:04.509Z",
- "total": 11281,
+ "generated_at": "2026-09-23T16:28:03.645Z",
+ "total": 11283,
  "shards": [
   {
-   "file": "3am-11f30712.json",
-   "level": "3am",
-   "count": 337
+   "file": "4am-5886f037--x25af644b.json",
+   "level": "4am",
+   "subject": "تربية الاسلامية",
+   "count": 51
+  },
+  {
+   "file": "4am-5886f037--x87ffb58d.json",
+   "level": "4am",
+   "subject": "اعلام الالي",
+   "count": 11
+  },
+  {
+   "file": "4am-5886f037--x0acd2087.json",
+   "level": "4am",
+   "subject": "تربية الموسيقية",
+   "count": 1
+  },
+  {
+   "file": "4am-5886f037--x668a495b.json",
+   "level": "4am",
+   "subject": "تربية الفنية",
+   "count": 14
+  },
+  {
+   "file": "4am-5886f037--xc5ee3ebe.json",
+   "level": "4am",
+   "subject": "تربية المدنية",
+   "count": 51
+  },
+  {
+   "file": "4am-5886f037--xca4e049c.json",
+   "level": "4am",
+   "subject": "علوم الطبيعة والحياة",
+   "count": 144
+  },
+  {
+   "file": "4am-5886f037--x858e891e.json",
+   "level": "4am",
+   "subject": "فرنسية",
+   "count": 116
+  },
+  {
+   "file": "4am-5886f037--xdffa1d13.json",
+   "level": "4am",
+   "subject": "تاريخ والجغرافيا",
+   "count": 54
+  },
+  {
+   "file": "4am-5886f037--x8dd76b09.json",
+   "level": "4am",
+   "subject": "رياضيات",
+   "count": 177
+  },
+  {
+   "file": "4am-5886f037--xee86b77b.json",
+   "level": "4am",
+   "subject": "انجليزية",
+   "count": 90
+  },
+  {
+   "file": "4am-5886f037--x3a65f9b4.json",
+   "level": "4am",
+   "subject": "علوم الفيزيائية والتكنولوجيا",
+   "count": 150
+  },
+  {
+   "file": "4am-5886f037--x91b4a510.json",
+   "level": "4am",
+   "subject": "عربية",
+   "count": 114
+  },
+  {
+   "file": "3as-b0225673--x8dd76b09.json",
+   "level": "3as",
+   "subject": "رياضيات",
+   "count": 333
   },
   {
    "file": "3as-b0225673--xf0519d05.json",
    "level": "3as",
    "subject": "علوم الفيزيائية",
    "count": 108
-  },
-  {
-   "file": "3as-b0225673--x8dd76b09.json",
-   "level": "3as",
-   "subject": "رياضيات",
-   "count": 332
   },
   {
    "file": "3as-b0225673--xca4e049c.json",
@@ -156,6 +223,11 @@
    "level": "3as",
    "subject": "عربية وادابها",
    "count": 229
+  },
+  {
+   "file": "3am-11f30712.json",
+   "level": "3am",
+   "count": 337
   },
   {
    "file": "bac-5e4dec23--x8dd76b09.json",
@@ -743,78 +815,6 @@
    "count": 289
   },
   {
-   "file": "4am-5886f037--x87ffb58d.json",
-   "level": "4am",
-   "subject": "اعلام الالي",
-   "count": 11
-  },
-  {
-   "file": "4am-5886f037--x0acd2087.json",
-   "level": "4am",
-   "subject": "تربية الموسيقية",
-   "count": 1
-  },
-  {
-   "file": "4am-5886f037--x668a495b.json",
-   "level": "4am",
-   "subject": "تربية الفنية",
-   "count": 14
-  },
-  {
-   "file": "4am-5886f037--xc5ee3ebe.json",
-   "level": "4am",
-   "subject": "تربية المدنية",
-   "count": 51
-  },
-  {
-   "file": "4am-5886f037--xca4e049c.json",
-   "level": "4am",
-   "subject": "علوم الطبيعة والحياة",
-   "count": 144
-  },
-  {
-   "file": "4am-5886f037--x858e891e.json",
-   "level": "4am",
-   "subject": "فرنسية",
-   "count": 116
-  },
-  {
-   "file": "4am-5886f037--xdffa1d13.json",
-   "level": "4am",
-   "subject": "تاريخ والجغرافيا",
-   "count": 54
-  },
-  {
-   "file": "4am-5886f037--x8dd76b09.json",
-   "level": "4am",
-   "subject": "رياضيات",
-   "count": 177
-  },
-  {
-   "file": "4am-5886f037--xee86b77b.json",
-   "level": "4am",
-   "subject": "انجليزية",
-   "count": 90
-  },
-  {
-   "file": "4am-5886f037--x25af644b.json",
-   "level": "4am",
-   "subject": "تربية الاسلامية",
-   "count": 50
-  },
-  {
-   "file": "4am-5886f037--x3a65f9b4.json",
-   "level": "4am",
-   "subject": "علوم الفيزيائية والتكنولوجيا",
-   "count": 150
-  },
-  {
-   "file": "4am-5886f037--x91b4a510.json",
-   "level": "4am",
-   "subject": "عربية",
-   "count": 114
-  },
-  {
    "file": "bem-d722a518.json",
    "level": "bem",
    "count": 242
@@ -840,12 +840,12 @@
   {
    "id": "middle",
    "name": "المتوسط",
-   "count": 3066
+   "count": 3067
   },
   {
    "id": "secondary",
    "name": "الثانوي",
-   "count": 4637
+   "count": 4638
   },
   {
    "id": "teachers",
@@ -855,50 +855,58 @@
  ],
  "levels": [
   {
-   "id": "3am",
-   "name": "الثالثة متوسط",
+   "id": "4am",
+   "name": "الرابعة متوسط",
    "stage": "middle",
-   "count": 337,
+   "count": 973,
    "subjects": [
     {
      "id": "رياضيات",
-     "count": 53
+     "count": 177
     },
     {
      "id": "علوم الفيزيائية والتكنولوجيا",
-     "count": 50
+     "count": 150
     },
     {
      "id": "علوم الطبيعة والحياة",
-     "count": 41
+     "count": 144
     },
     {
      "id": "فرنسية",
-     "count": 39
-    },
-    {
-     "id": "انجليزية",
-     "count": 33
+     "count": 116
     },
     {
      "id": "عربية",
-     "count": 32
+     "count": 114
+    },
+    {
+     "id": "انجليزية",
+     "count": 90
     },
     {
      "id": "تاريخ والجغرافيا",
-     "count": 26
+     "count": 54
     },
     {
      "id": "تربية الاسلامية",
-     "count": 23
-    },
-    {
-     "id": "اعلام الالي",
-     "count": 21
+     "count": 51
     },
     {
      "id": "تربية المدنية",
-     "count": 19
+     "count": 51
+    },
+    {
+     "id": "تربية الفنية",
+     "count": 14
+    },
+    {
+     "id": "اعلام الالي",
+     "count": 11
+    },
+    {
+     "id": "تربية الموسيقية",
+     "count": 1
     }
    ]
   },
@@ -906,7 +914,7 @@
    "id": "3as",
    "name": "الثالثة ثانوي",
    "stage": "secondary",
-   "count": 2834,
+   "count": 2835,
    "subjects": [
     {
      "id": "علوم الطبيعة والحياة",
@@ -914,7 +922,7 @@
     },
     {
      "id": "رياضيات",
-     "count": 332
+     "count": 333
     },
     {
      "id": "فرنسية",
@@ -1007,6 +1015,54 @@
     {
      "id": "ايطالية",
      "count": 1
+    }
+   ]
+  },
+  {
+   "id": "3am",
+   "name": "الثالثة متوسط",
+   "stage": "middle",
+   "count": 337,
+   "subjects": [
+    {
+     "id": "رياضيات",
+     "count": 53
+    },
+    {
+     "id": "علوم الفيزيائية والتكنولوجيا",
+     "count": 50
+    },
+    {
+     "id": "علوم الطبيعة والحياة",
+     "count": 41
+    },
+    {
+     "id": "فرنسية",
+     "count": 39
+    },
+    {
+     "id": "انجليزية",
+     "count": 33
+    },
+    {
+     "id": "عربية",
+     "count": 32
+    },
+    {
+     "id": "تاريخ والجغرافيا",
+     "count": 26
+    },
+    {
+     "id": "تربية الاسلامية",
+     "count": 23
+    },
+    {
+     "id": "اعلام الالي",
+     "count": 21
+    },
+    {
+     "id": "تربية المدنية",
+     "count": 19
     }
    ]
   },
@@ -1591,62 +1647,6 @@
    ]
   },
   {
-   "id": "4am",
-   "name": "الرابعة متوسط",
-   "stage": "middle",
-   "count": 972,
-   "subjects": [
-    {
-     "id": "رياضيات",
-     "count": 177
-    },
-    {
-     "id": "علوم الفيزيائية والتكنولوجيا",
-     "count": 150
-    },
-    {
-     "id": "علوم الطبيعة والحياة",
-     "count": 144
-    },
-    {
-     "id": "فرنسية",
-     "count": 116
-    },
-    {
-     "id": "عربية",
-     "count": 114
-    },
-    {
-     "id": "انجليزية",
-     "count": 90
-    },
-    {
-     "id": "تاريخ والجغرافيا",
-     "count": 54
-    },
-    {
-     "id": "تربية المدنية",
-     "count": 51
-    },
-    {
-     "id": "تربية الاسلامية",
-     "count": 50
-    },
-    {
-     "id": "تربية الفنية",
-     "count": 14
-    },
-    {
-     "id": "اعلام الالي",
-     "count": 11
-    },
-    {
-     "id": "تربية الموسيقية",
-     "count": 1
-    }
-   ]
-  },
-  {
    "id": "bem",
    "name": "شهادة التعليم المتوسط",
    "stage": "middle",
@@ -1764,7 +1764,7 @@
    "id": "تربية الاسلامية",
    "name": "التربية الإسلامية",
    "icon": "🕌",
-   "count": 629
+   "count": 630
   },
   {
    "id": "تربية العلمية",
@@ -1812,7 +1812,7 @@
    "id": "رياضيات",
    "name": "الرياضيات",
    "icon": "📐",
-   "count": 1724
+   "count": 1725
   },
   {
    "id": "علوم الاسلامية",
@@ -2009,9 +2009,49 @@
  ],
  "recent": {
   "days": 7,
-  "count": 369
+  "count": 371
  },
  "featured": [
+  {
+   "id": "ed-%D9%85%D9%84%D8%AE%D8%B5-%D8%AF%D8%B1%D9%88%D8%B3-%D8%A7%D9%84%D8%AA%D8%B1%D8%A8%D9%8A%D8%A9-%D8%A7%D9%84%D8%A5%D8%B3%D9%84%D8%A7%D9%85%D9%8A%D8%A9-%D9%84%D9%84%D8%B3%D9%86%D8%A9-%D8%A7%D9%84%D8%B1-2",
+   "title": "ملخص دروس التربية الإسلامية للسنة الرابعة متوسط 2",
+   "level": "4am",
+   "levelName": "الرابعة متوسط",
+   "stage": "middle",
+   "subject": "التربية الإسلامية",
+   "subjectKey": "تربية الاسلامية",
+   "stream": "all",
+   "streamName": "جميع الشعب",
+   "year": "",
+   "type": "دروس",
+   "pdf": "https://eddirasa.com/wp-content/uploads/2015/04/islamic-4am-resumes.pdf",
+   "image": "",
+   "source": "https://eddirasa.com/%D9%85%D9%84%D8%AE%D8%B5-%D8%AF%D8%B1%D9%88%D8%B3-%D8%A7%D9%84%D8%AA%D8%B1%D8%A8%D9%8A%D8%A9-%D8%A7%D9%84%D8%A5%D8%B3%D9%84%D8%A7%D9%85%D9%8A%D8%A9-%D9%84%D9%84%D8%B3%D9%86%D8%A9-%D8%A7%D9%84%D8%B1-2/",
+   "sourceName": "موقع الدراسة",
+   "solution": false,
+   "typeKey": "lesson",
+   "addedAt": "2026-09-23T16:23:11.112Z"
+  },
+  {
+   "id": "ed-%D9%85%D9%84%D8%AE%D8%B5-%D8%AF%D8%B1%D9%88%D8%B3-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A7%D8%AA-%D8%AB%D8%A7%D9%84%D8%AB%D8%A9-%D8%AB%D8%A7%D9%86%D9%88%D9%8A-%D8%AC%D9%85%D9%8A%D8%B9-%D8%A7",
+   "title": "ملخص دروس الرياضيات ثالثة ثانوي جميع الشعب",
+   "level": "3as",
+   "levelName": "الثالثة ثانوي",
+   "stage": "secondary",
+   "subject": "الرياضيات",
+   "subjectKey": "رياضيات",
+   "stream": "all",
+   "streamName": "جميع الشعب",
+   "year": "",
+   "type": "ملخصات",
+   "pdf": "https://eddirasa.com/wp-content/uploads/2015/04/ملخص-لدروس-الرياضيات-سنة-ثالثة-ثانوي.pdf",
+   "image": "",
+   "source": "https://eddirasa.com/%D9%85%D9%84%D8%AE%D8%B5-%D8%AF%D8%B1%D9%88%D8%B3-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A7%D8%AA-%D8%AB%D8%A7%D9%84%D8%AB%D8%A9-%D8%AB%D8%A7%D9%86%D9%88%D9%8A-%D8%AC%D9%85%D9%8A%D8%B9-%D8%A7/",
+   "sourceName": "موقع الدراسة",
+   "solution": false,
+   "typeKey": "summary",
+   "addedAt": "2026-09-23T16:20:19.735Z"
+  },
   {
    "id": "ed-%D8%AD%D9%84%D9%88%D9%84-%D8%AA%D9%85%D8%A7%D8%B1%D9%8A%D9%86-%D8%A7%D9%84%D9%83%D8%AA%D8%A7%D8%A8-%D8%A7%D9%84%D9%85%D8%AF%D8%B1%D8%B3%D9%8A-%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A7%D8%AA-%D8%B3%D9%86",
    "title": "حلول تمارين الكتاب المدرسي رياضيات سنة ثالثة متوسط",
@@ -2451,46 +2491,6 @@
    "solution": false,
    "typeKey": "summary",
    "addedAt": "2026-09-23T13:17:19.620Z"
-  },
-  {
-   "id": "ed-%D9%85%D9%84%D8%AE%D8%B5-%D8%A7%D9%84%D8%AF%D9%88%D8%A7%D9%84-%D8%A7%D9%84%D9%85%D8%AB%D9%84%D8%AB%D9%8A%D8%A9-%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A7%D8%AA-%D8%B3%D9%86%D8%A9-%D8%AB%D8%A7%D9%84%D8%AB",
-   "title": "ملخص الدوال المثلثية رياضيات سنة ثالثة ثانوي",
-   "level": "3as",
-   "levelName": "الثالثة ثانوي",
-   "stage": "secondary",
-   "subject": "الرياضيات",
-   "subjectKey": "رياضيات",
-   "stream": "all",
-   "streamName": "جميع الشعب",
-   "year": "",
-   "type": "ملخصات",
-   "pdf": "https://eddirasa.com/wp-content/uploads/2015/03/07-Trigonométrie-2.pdf",
-   "image": "",
-   "source": "https://eddirasa.com/%D9%85%D9%84%D8%AE%D8%B5-%D8%A7%D9%84%D8%AF%D9%88%D8%A7%D9%84-%D8%A7%D9%84%D9%85%D8%AB%D9%84%D8%AB%D9%8A%D8%A9-%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A7%D8%AA-%D8%B3%D9%86%D8%A9-%D8%AB%D8%A7%D9%84%D8%AB/",
-   "sourceName": "موقع الدراسة",
-   "solution": false,
-   "typeKey": "summary",
-   "addedAt": "2026-09-23T13:17:10.591Z"
-  },
-  {
-   "id": "ed-%D9%85%D9%84%D8%AE%D8%B5-%D8%A7%D9%84%D8%AF%D9%88%D8%A7%D9%84-%D8%A7%D9%84%D9%85%D8%B1%D8%AC%D8%B9%D9%8A%D8%A9-%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A7%D8%AA-%D8%B3%D9%86%D8%A9-%D8%AB%D8%A7%D9%84%D8%AB",
-   "title": "ملخص الدوال المرجعية رياضيات سنة ثالثة ثانوي",
-   "level": "3as",
-   "levelName": "الثالثة ثانوي",
-   "stage": "secondary",
-   "subject": "الرياضيات",
-   "subjectKey": "رياضيات",
-   "stream": "all",
-   "streamName": "جميع الشعب",
-   "year": "",
-   "type": "ملخصات",
-   "pdf": "https://eddirasa.com/wp-content/uploads/2015/03/03-Fonctions-élémentaires.pdf",
-   "image": "",
-   "source": "https://eddirasa.com/%D9%85%D9%84%D8%AE%D8%B5-%D8%A7%D9%84%D8%AF%D9%88%D8%A7%D9%84-%D8%A7%D9%84%D9%85%D8%B1%D8%AC%D8%B9%D9%8A%D8%A9-%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A7%D8%AA-%D8%B3%D9%86%D8%A9-%D8%AB%D8%A7%D9%84%D8%AB/",
-   "sourceName": "موقع الدراسة",
-   "solution": false,
-   "typeKey": "summary",
-   "addedAt": "2026-09-23T13:17:07.560Z"
   }
  ],
  "news": [
