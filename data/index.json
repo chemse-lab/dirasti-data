@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-09-23T12:28:03.639Z",
- "total": 11239,
+ "generated_at": "2026-09-23T12:58:03.627Z",
+ "total": 11247,
  "shards": [
   {
    "file": "3as-b0225673--x91b4a510.json",
    "level": "3as",
    "subject": "عربية",
-   "count": 6
+   "count": 7
   },
   {
    "file": "3as-b0225673--xf0519d05.json",
@@ -153,16 +153,16 @@
    "count": 229
   },
   {
+   "file": "bac-5e4dec23--x8dd76b09.json",
+   "level": "bac",
+   "subject": "رياضيات",
+   "count": 197
+  },
+  {
    "file": "bac-5e4dec23--xca4e049c.json",
    "level": "bac",
    "subject": "علوم الطبيعة والحياة",
    "count": 45
-  },
-  {
-   "file": "bac-5e4dec23--x8dd76b09.json",
-   "level": "bac",
-   "subject": "رياضيات",
-   "count": 191
   },
   {
    "file": "bac-5e4dec23--xf2964ab5.json",
@@ -301,6 +301,66 @@
    "level": "bac",
    "subject": "عربية وادابها",
    "count": 38
+  },
+  {
+   "file": "1am-c55de173--x87ffb58d.json",
+   "level": "1am",
+   "subject": "اعلام الالي",
+   "count": 43
+  },
+  {
+   "file": "1am-c55de173--x858e891e.json",
+   "level": "1am",
+   "subject": "فرنسية",
+   "count": 97
+  },
+  {
+   "file": "1am-c55de173--xc5ee3ebe.json",
+   "level": "1am",
+   "subject": "تربية المدنية",
+   "count": 97
+  },
+  {
+   "file": "1am-c55de173--x25af644b.json",
+   "level": "1am",
+   "subject": "تربية الاسلامية",
+   "count": 54
+  },
+  {
+   "file": "1am-c55de173--xdffa1d13.json",
+   "level": "1am",
+   "subject": "تاريخ والجغرافيا",
+   "count": 78
+  },
+  {
+   "file": "1am-c55de173--x3a65f9b4.json",
+   "level": "1am",
+   "subject": "علوم الفيزيائية والتكنولوجيا",
+   "count": 119
+  },
+  {
+   "file": "1am-c55de173--x91b4a510.json",
+   "level": "1am",
+   "subject": "عربية",
+   "count": 86
+  },
+  {
+   "file": "1am-c55de173--xee86b77b.json",
+   "level": "1am",
+   "subject": "انجليزية",
+   "count": 98
+  },
+  {
+   "file": "1am-c55de173--xca4e049c.json",
+   "level": "1am",
+   "subject": "علوم الطبيعة والحياة",
+   "count": 86
+  },
+  {
+   "file": "1am-c55de173--x8dd76b09.json",
+   "level": "1am",
+   "subject": "رياضيات",
+   "count": 109
   },
   {
    "file": "2am-c898c188--xee86b77b.json",
@@ -760,66 +820,6 @@
    "count": 332
   },
   {
-   "file": "1am-c55de173--x87ffb58d.json",
-   "level": "1am",
-   "subject": "اعلام الالي",
-   "count": 42
-  },
-  {
-   "file": "1am-c55de173--x858e891e.json",
-   "level": "1am",
-   "subject": "فرنسية",
-   "count": 97
-  },
-  {
-   "file": "1am-c55de173--xc5ee3ebe.json",
-   "level": "1am",
-   "subject": "تربية المدنية",
-   "count": 97
-  },
-  {
-   "file": "1am-c55de173--x25af644b.json",
-   "level": "1am",
-   "subject": "تربية الاسلامية",
-   "count": 54
-  },
-  {
-   "file": "1am-c55de173--xdffa1d13.json",
-   "level": "1am",
-   "subject": "تاريخ والجغرافيا",
-   "count": 78
-  },
-  {
-   "file": "1am-c55de173--x3a65f9b4.json",
-   "level": "1am",
-   "subject": "علوم الفيزيائية والتكنولوجيا",
-   "count": 119
-  },
-  {
-   "file": "1am-c55de173--x91b4a510.json",
-   "level": "1am",
-   "subject": "عربية",
-   "count": 86
-  },
-  {
-   "file": "1am-c55de173--xee86b77b.json",
-   "level": "1am",
-   "subject": "انجليزية",
-   "count": 98
-  },
-  {
-   "file": "1am-c55de173--xca4e049c.json",
-   "level": "1am",
-   "subject": "علوم الطبيعة والحياة",
-   "count": 86
-  },
-  {
-   "file": "1am-c55de173--x8dd76b09.json",
-   "level": "1am",
-   "subject": "رياضيات",
-   "count": 109
-  },
-  {
    "file": "0ap-022538ad.json",
    "level": "0ap",
    "count": 68
@@ -840,12 +840,12 @@
   {
    "id": "middle",
    "name": "المتوسط",
-   "count": 3058
+   "count": 3059
   },
   {
    "id": "secondary",
    "name": "الثانوي",
-   "count": 4603
+   "count": 4610
   },
   {
    "id": "teachers",
@@ -858,7 +858,7 @@
    "id": "3as",
    "name": "الثالثة ثانوي",
    "stage": "secondary",
-   "count": 2808,
+   "count": 2809,
    "subjects": [
     {
      "id": "علوم الطبيعة والحياة",
@@ -938,7 +938,7 @@
     },
     {
      "id": "عربية",
-     "count": 6
+     "count": 7
     },
     {
      "id": "علوم اسلامية",
@@ -966,11 +966,11 @@
    "id": "bac",
    "name": "البكالوريا",
    "stage": "secondary",
-   "count": 948,
+   "count": 954,
    "subjects": [
     {
      "id": "رياضيات",
-     "count": 191
+     "count": 197
     },
     {
      "id": "فلسفة",
@@ -1067,6 +1067,54 @@
     {
      "id": "هندسة ميكانيكية",
      "count": 6
+    }
+   ]
+  },
+  {
+   "id": "1am",
+   "name": "الأولى متوسط",
+   "stage": "middle",
+   "count": 867,
+   "subjects": [
+    {
+     "id": "علوم الفيزيائية والتكنولوجيا",
+     "count": 119
+    },
+    {
+     "id": "رياضيات",
+     "count": 109
+    },
+    {
+     "id": "انجليزية",
+     "count": 98
+    },
+    {
+     "id": "فرنسية",
+     "count": 97
+    },
+    {
+     "id": "تربية المدنية",
+     "count": 97
+    },
+    {
+     "id": "عربية",
+     "count": 86
+    },
+    {
+     "id": "علوم الطبيعة والحياة",
+     "count": 86
+    },
+    {
+     "id": "تاريخ والجغرافيا",
+     "count": 78
+    },
+    {
+     "id": "تربية الاسلامية",
+     "count": 54
+    },
+    {
+     "id": "اعلام الالي",
+     "count": 43
     }
    ]
   },
@@ -1651,54 +1699,6 @@
    ]
   },
   {
-   "id": "1am",
-   "name": "الأولى متوسط",
-   "stage": "middle",
-   "count": 866,
-   "subjects": [
-    {
-     "id": "علوم الفيزيائية والتكنولوجيا",
-     "count": 119
-    },
-    {
-     "id": "رياضيات",
-     "count": 109
-    },
-    {
-     "id": "انجليزية",
-     "count": 98
-    },
-    {
-     "id": "فرنسية",
-     "count": 97
-    },
-    {
-     "id": "تربية المدنية",
-     "count": 97
-    },
-    {
-     "id": "عربية",
-     "count": 86
-    },
-    {
-     "id": "علوم الطبيعة والحياة",
-     "count": 86
-    },
-    {
-     "id": "تاريخ والجغرافيا",
-     "count": 78
-    },
-    {
-     "id": "تربية الاسلامية",
-     "count": 54
-    },
-    {
-     "id": "اعلام الالي",
-     "count": 42
-    }
-   ]
-  },
-  {
    "id": "0ap",
    "name": "القسم التحضيري",
    "stage": "primary",
@@ -1746,7 +1746,7 @@
    "id": "اعلام الالي",
    "name": "الإعلام الآلي",
    "icon": "🖥️",
-   "count": 122
+   "count": 123
   },
   {
    "id": "اقتصاد والمناجمنت",
@@ -1812,7 +1812,7 @@
    "id": "رياضيات",
    "name": "الرياضيات",
    "icon": "📐",
-   "count": 1701
+   "count": 1707
   },
   {
    "id": "علوم الاسلامية",
@@ -1878,7 +1878,7 @@
    "id": "عربية",
    "name": "اللغة العربية",
    "icon": "📖",
-   "count": 816
+   "count": 817
   },
   {
    "id": "عربية وادابها",
@@ -2009,9 +2009,169 @@
  ],
  "recent": {
   "days": 7,
-  "count": 327
+  "count": 335
  },
  "featured": [
+  {
+   "id": "ed-%D9%83%D8%AA%D8%A7%D8%A8-%D8%AF%D8%B1%D9%88%D8%B3-%D9%81%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%B1%D8%A7%D8%A8-%D9%84%D9%84%D8%B7%D9%84%D8%A7%D8%A8-%D9%88-%D8%A7%D9%84%D9%85%D8%B9%D9%84%D9%85%D9%8A%D9%86",
+   "title": "كتاب دروس في الإعراب للطلاب و المعلمين",
+   "level": "3as",
+   "levelName": "الثالثة ثانوي",
+   "stage": "secondary",
+   "subject": "اللغة العربية",
+   "subjectKey": "عربية",
+   "stream": "all",
+   "streamName": "جميع الشعب",
+   "year": "",
+   "type": "دروس",
+   "pdf": "https://eddirasa.com/wp-content/uploads/2015/01/arabic_livre-doros_i3rab.pdf",
+   "image": "",
+   "source": "https://eddirasa.com/%D9%83%D8%AA%D8%A7%D8%A8-%D8%AF%D8%B1%D9%88%D8%B3-%D9%81%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%B1%D8%A7%D8%A8-%D9%84%D9%84%D8%B7%D9%84%D8%A7%D8%A8-%D9%88-%D8%A7%D9%84%D9%85%D8%B9%D9%84%D9%85%D9%8A%D9%86/",
+   "sourceName": "موقع الدراسة",
+   "solution": false,
+   "typeKey": "lesson",
+   "addedAt": "2026-09-23T12:51:15.011Z"
+  },
+  {
+   "id": "ed-%D8%A7%D9%84%D8%AA%D8%B5%D8%AD%D9%8A%D8%AD-%D8%A7%D9%84%D9%85%D9%81%D8%B5%D9%84-%D9%84%D8%A8%D9%83%D8%A7%D9%84%D9%88%D8%B1%D9%8A%D8%A7-2011-%D9%81%D9%8A-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A",
+   "title": "التصحيح المفصل لبكالوريا 2011 في الرياضيات",
+   "level": "bac",
+   "levelName": "البكالوريا",
+   "stage": "secondary",
+   "subject": "الرياضيات",
+   "subjectKey": "رياضيات",
+   "stream": "all",
+   "streamName": "جميع الشعب",
+   "year": 2011,
+   "type": "حلول وتصحيحات",
+   "pdf": "https://eddirasa.com/wp-content/uploads/2015/01/BAC-2011-MATH-Correction.pdf",
+   "image": "",
+   "source": "https://eddirasa.com/%D8%A7%D9%84%D8%AA%D8%B5%D8%AD%D9%8A%D8%AD-%D8%A7%D9%84%D9%85%D9%81%D8%B5%D9%84-%D9%84%D8%A8%D9%83%D8%A7%D9%84%D9%88%D8%B1%D9%8A%D8%A7-2011-%D9%81%D9%8A-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A/",
+   "sourceName": "موقع الدراسة",
+   "solution": true,
+   "typeKey": "solution",
+   "addedAt": "2026-09-23T12:39:22.218Z"
+  },
+  {
+   "id": "ed-%D8%A7%D9%84%D8%AA%D8%B5%D8%AD%D9%8A%D8%AD-%D8%A7%D9%84%D9%85%D9%81%D8%B5%D9%84-%D9%84%D8%A8%D9%83%D8%A7%D9%84%D9%88%D8%B1%D9%8A%D8%A7-2013-%D9%81%D9%8A-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A",
+   "title": "التصحيح المفصل لبكالوريا 2013 في الرياضيات",
+   "level": "bac",
+   "levelName": "البكالوريا",
+   "stage": "secondary",
+   "subject": "الرياضيات",
+   "subjectKey": "رياضيات",
+   "stream": "all",
+   "streamName": "جميع الشعب",
+   "year": 2013,
+   "type": "حلول وتصحيحات",
+   "pdf": "https://eddirasa.com/wp-content/uploads/2015/01/BAC-2013-MATH-Correction.pdf",
+   "image": "",
+   "source": "https://eddirasa.com/%D8%A7%D9%84%D8%AA%D8%B5%D8%AD%D9%8A%D8%AD-%D8%A7%D9%84%D9%85%D9%81%D8%B5%D9%84-%D9%84%D8%A8%D9%83%D8%A7%D9%84%D9%88%D8%B1%D9%8A%D8%A7-2013-%D9%81%D9%8A-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A/",
+   "sourceName": "موقع الدراسة",
+   "solution": true,
+   "typeKey": "solution",
+   "addedAt": "2026-09-23T12:39:13.110Z"
+  },
+  {
+   "id": "ed-%D8%A7%D9%84%D8%AA%D8%B5%D8%AD%D9%8A%D8%AD-%D8%A7%D9%84%D9%85%D9%81%D8%B5%D9%84-%D9%84%D8%A8%D9%83%D8%A7%D9%84%D9%88%D8%B1%D9%8A%D8%A7-2012-%D9%81%D9%8A-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A",
+   "title": "التصحيح المفصل لبكالوريا 2012 في الرياضيات",
+   "level": "bac",
+   "levelName": "البكالوريا",
+   "stage": "secondary",
+   "subject": "الرياضيات",
+   "subjectKey": "رياضيات",
+   "stream": "all",
+   "streamName": "جميع الشعب",
+   "year": 2012,
+   "type": "حلول وتصحيحات",
+   "pdf": "https://eddirasa.com/wp-content/uploads/2015/01/BAC-2012-MATH-Correction.pdf",
+   "image": "",
+   "source": "https://eddirasa.com/%D8%A7%D9%84%D8%AA%D8%B5%D8%AD%D9%8A%D8%AD-%D8%A7%D9%84%D9%85%D9%81%D8%B5%D9%84-%D9%84%D8%A8%D9%83%D8%A7%D9%84%D9%88%D8%B1%D9%8A%D8%A7-2012-%D9%81%D9%8A-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A/",
+   "sourceName": "موقع الدراسة",
+   "solution": true,
+   "typeKey": "solution",
+   "addedAt": "2026-09-23T12:39:01.061Z"
+  },
+  {
+   "id": "ed-%D8%A7%D9%84%D8%AA%D8%B5%D8%AD%D9%8A%D8%AD-%D8%A7%D9%84%D9%85%D9%81%D8%B5%D9%84-%D9%84%D8%A8%D9%83%D8%A7%D9%84%D9%88%D8%B1%D9%8A%D8%A7-2009-%D9%81%D9%8A-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A",
+   "title": "التصحيح المفصل لبكالوريا 2009 في الرياضيات",
+   "level": "bac",
+   "levelName": "البكالوريا",
+   "stage": "secondary",
+   "subject": "الرياضيات",
+   "subjectKey": "رياضيات",
+   "stream": "all",
+   "streamName": "جميع الشعب",
+   "year": 2009,
+   "type": "حلول وتصحيحات",
+   "pdf": "https://eddirasa.com/wp-content/uploads/2015/01/BAC-2009-MATH-Correction.pdf",
+   "image": "",
+   "source": "https://eddirasa.com/%D8%A7%D9%84%D8%AA%D8%B5%D8%AD%D9%8A%D8%AD-%D8%A7%D9%84%D9%85%D9%81%D8%B5%D9%84-%D9%84%D8%A8%D9%83%D8%A7%D9%84%D9%88%D8%B1%D9%8A%D8%A7-2009-%D9%81%D9%8A-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A/",
+   "sourceName": "موقع الدراسة",
+   "solution": true,
+   "typeKey": "solution",
+   "addedAt": "2026-09-23T12:38:37.106Z"
+  },
+  {
+   "id": "ed-%D8%A7%D9%84%D8%AA%D8%B5%D8%AD%D9%8A%D8%AD-%D8%A7%D9%84%D9%85%D9%81%D8%B5%D9%84-%D9%84%D8%A8%D9%83%D8%A7%D9%84%D9%88%D8%B1%D9%8A%D8%A7-2010-%D9%81%D9%8A-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A",
+   "title": "التصحيح المفصل لبكالوريا 2010 في الرياضيات",
+   "level": "bac",
+   "levelName": "البكالوريا",
+   "stage": "secondary",
+   "subject": "الرياضيات",
+   "subjectKey": "رياضيات",
+   "stream": "all",
+   "streamName": "جميع الشعب",
+   "year": 2010,
+   "type": "حلول وتصحيحات",
+   "pdf": "https://eddirasa.com/wp-content/uploads/2015/01/BAC-2010-MATH-Correction.pdf",
+   "image": "",
+   "source": "https://eddirasa.com/%D8%A7%D9%84%D8%AA%D8%B5%D8%AD%D9%8A%D8%AD-%D8%A7%D9%84%D9%85%D9%81%D8%B5%D9%84-%D9%84%D8%A8%D9%83%D8%A7%D9%84%D9%88%D8%B1%D9%8A%D8%A7-2010-%D9%81%D9%8A-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A/",
+   "sourceName": "موقع الدراسة",
+   "solution": true,
+   "typeKey": "solution",
+   "addedAt": "2026-09-23T12:38:28.015Z"
+  },
+  {
+   "id": "ed-%D8%A7%D9%84%D8%AA%D8%B5%D8%AD%D9%8A%D8%AD-%D8%A7%D9%84%D9%85%D9%81%D8%B5%D9%84-%D9%84%D8%A8%D9%83%D8%A7%D9%84%D9%88%D8%B1%D9%8A%D8%A7-2008-%D9%81%D9%8A-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A",
+   "title": "التصحيح المفصل لبكالوريا 2008 في الرياضيات",
+   "level": "bac",
+   "levelName": "البكالوريا",
+   "stage": "secondary",
+   "subject": "الرياضيات",
+   "subjectKey": "رياضيات",
+   "stream": "all",
+   "streamName": "جميع الشعب",
+   "year": 2008,
+   "type": "حلول وتصحيحات",
+   "pdf": "https://eddirasa.com/wp-content/uploads/2015/01/BAC-2008-MATH-Correction.pdf",
+   "image": "",
+   "source": "https://eddirasa.com/%D8%A7%D9%84%D8%AA%D8%B5%D8%AD%D9%8A%D8%AD-%D8%A7%D9%84%D9%85%D9%81%D8%B5%D9%84-%D9%84%D8%A8%D9%83%D8%A7%D9%84%D9%88%D8%B1%D9%8A%D8%A7-2008-%D9%81%D9%8A-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A/",
+   "sourceName": "موقع الدراسة",
+   "solution": true,
+   "typeKey": "solution",
+   "addedAt": "2026-09-23T12:38:01.010Z"
+  },
+  {
+   "id": "ed-%D9%85%D8%B0%D9%83%D8%B1%D8%A7%D8%AA-%D8%AF%D8%B1%D9%88%D8%B3-%D8%A7%D9%84%D8%A5%D8%B9%D9%84%D8%A7%D9%85-%D8%A7%D9%84%D8%A2%D9%84%D9%8A-%D8%B3%D9%86%D8%A9-%D8%A3%D9%88%D9%84%D9%89-%D9%85%D8%AA%D9%88",
+   "title": "مذكرات دروس الإعلام الآلي سنة أولى متوسط",
+   "level": "1am",
+   "levelName": "الأولى متوسط",
+   "stage": "middle",
+   "subject": "الإعلام الآلي",
+   "subjectKey": "اعلام الالي",
+   "stream": "all",
+   "streamName": "جميع الشعب",
+   "year": "",
+   "type": "دروس",
+   "pdf": "https://eddirasa.com/wp-content/uploads/2015/01/مذكرات1-متوسط-معلوماتية-2011.pdf",
+   "image": "",
+   "source": "https://eddirasa.com/%D9%85%D8%B0%D9%83%D8%B1%D8%A7%D8%AA-%D8%AF%D8%B1%D9%88%D8%B3-%D8%A7%D9%84%D8%A5%D8%B9%D9%84%D8%A7%D9%85-%D8%A7%D9%84%D8%A2%D9%84%D9%8A-%D8%B3%D9%86%D8%A9-%D8%A3%D9%88%D9%84%D9%89-%D9%85%D8%AA%D9%88/",
+   "sourceName": "موقع الدراسة",
+   "solution": false,
+   "typeKey": "lesson",
+   "addedAt": "2026-09-23T12:30:44.933Z"
+  },
   {
    "id": "ed-%D9%83%D8%AA%D8%A7%D8%A8-%D8%A7%D9%84%D9%85%D8%A8%D8%B3%D8%B7-%D9%81%D9%8A-%D8%A7%D9%84%D9%84%D8%BA%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D8%A5%D8%AC%D8%A7%D8%A8%D8%A9-%D8%B9%D9%84%D9%89",
    "title": "كتاب المبسط في اللغة العربية إجابة على الأسئلة المتكررة 3 ثانوي",
@@ -2331,166 +2491,6 @@
    "solution": false,
    "typeKey": "summary",
    "addedAt": "2026-09-23T09:22:04.472Z"
-  },
-  {
-   "id": "ed-annals-prepared-bac-maths-science-14",
-   "title": "موضوع مقترح للبكالوريا في الرياضيات علوم تجريبية 14",
-   "level": "bac",
-   "levelName": "البكالوريا",
-   "stage": "secondary",
-   "subject": "الرياضيات",
-   "subjectKey": "رياضيات",
-   "stream": "se",
-   "streamName": "علوم تجريبية",
-   "year": "",
-   "type": "دروس",
-   "pdf": "https://eddirasa.com/wp-content/uploads/2014/12/math-se-subject14.pdf",
-   "image": "",
-   "source": "https://eddirasa.com/annals-prepared-bac-maths-science-14/",
-   "sourceName": "موقع الدراسة",
-   "solution": false,
-   "typeKey": "lesson",
-   "addedAt": "2026-09-23T09:21:52.383Z"
-  },
-  {
-   "id": "ed-%D9%85%D9%84%D8%AE%D8%B5-%D8%A2%D9%84%D9%8A%D8%A7%D8%AA-%D8%AA%D8%AD%D9%88%D9%8A%D9%84-%D8%A7%D9%84%D8%B7%D8%A7%D9%82%D8%A9-%D8%A7%D9%84%D8%B6%D9%88%D8%A6%D9%8A%D8%A9-%D8%A7%D9%84%D9%89-%D8%B7%D8%A7",
-   "title": "ملخص آليات تحويل الطاقة الضوئية الى طاقة كيميائية",
-   "level": "3as",
-   "levelName": "الثالثة ثانوي",
-   "stage": "secondary",
-   "subject": "علوم الطبيعة والحياة",
-   "subjectKey": "علوم الطبيعة والحياة",
-   "stream": "all",
-   "streamName": "جميع الشعب",
-   "year": "",
-   "type": "ملخصات",
-   "pdf": "https://eddirasa.com/wp-content/uploads/2014/12/1-آليات-تحويل-الطاقة-الضوئية-الى-طاقة-كيميائية.pdf",
-   "image": "",
-   "source": "https://eddirasa.com/%D9%85%D9%84%D8%AE%D8%B5-%D8%A2%D9%84%D9%8A%D8%A7%D8%AA-%D8%AA%D8%AD%D9%88%D9%8A%D9%84-%D8%A7%D9%84%D8%B7%D8%A7%D9%82%D8%A9-%D8%A7%D9%84%D8%B6%D9%88%D8%A6%D9%8A%D8%A9-%D8%A7%D9%84%D9%89-%D8%B7%D8%A7/",
-   "sourceName": "موقع الدراسة",
-   "solution": false,
-   "typeKey": "summary",
-   "addedAt": "2026-09-23T09:21:49.370Z"
-  },
-  {
-   "id": "ed-%D9%85%D9%84%D8%AE%D8%B5-%D8%A7%D9%84%D9%86%D8%B4%D8%A7%D8%B7-%D8%A7%D9%84%D8%AA%D9%83%D8%AA%D9%88%D9%86%D9%8A-%D9%88-%D8%A7%D9%84%D8%A8%D9%86%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%AC%D9%8A%D9%88%D9%84",
-   "title": "ملخص النشاط التكتوني و البنيات الجيولوجية علوم السنة 3 ثانوي",
-   "level": "3as",
-   "levelName": "الثالثة ثانوي",
-   "stage": "secondary",
-   "subject": "علوم الطبيعة والحياة",
-   "subjectKey": "علوم الطبيعة والحياة",
-   "stream": "all",
-   "streamName": "جميع الشعب",
-   "year": "",
-   "type": "ملخصات",
-   "pdf": "https://eddirasa.com/wp-content/uploads/2014/12/2-النشاط-التكتوني-و-البنيات-الجيولوجية.pdf",
-   "image": "",
-   "source": "https://eddirasa.com/%D9%85%D9%84%D8%AE%D8%B5-%D8%A7%D9%84%D9%86%D8%B4%D8%A7%D8%B7-%D8%A7%D9%84%D8%AA%D9%83%D8%AA%D9%88%D9%86%D9%8A-%D9%88-%D8%A7%D9%84%D8%A8%D9%86%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%AC%D9%8A%D9%88%D9%84/",
-   "sourceName": "موقع الدراسة",
-   "solution": false,
-   "typeKey": "summary",
-   "addedAt": "2026-09-23T09:21:46.397Z"
-  },
-  {
-   "id": "ed-%D9%85%D9%88%D8%B6%D9%88%D8%B9-%D8%A8%D9%83%D8%A7%D9%84%D9%88%D8%B1%D9%8A%D8%A7-%D9%85%D9%82%D8%AA%D8%B1%D8%AD-%D9%81%D9%8A-%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85-%D8%A7%D9%84%D8%B7%D8%A8%D9%8A%D8%B9-2",
-   "title": "موضوع بكالوريا مقترح في العلوم الطبيعية مع الحل رقم 2",
-   "level": "bac",
-   "levelName": "البكالوريا",
-   "stage": "secondary",
-   "subject": "علوم الطبيعة والحياة",
-   "subjectKey": "علوم الطبيعة والحياة",
-   "stream": "all",
-   "streamName": "جميع الشعب",
-   "year": "",
-   "type": "دروس",
-   "pdf": "https://eddirasa.com/wp-content/uploads/2014/12/annale-bac-science1.pdf",
-   "image": "",
-   "source": "https://eddirasa.com/%D9%85%D9%88%D8%B6%D9%88%D8%B9-%D8%A8%D9%83%D8%A7%D9%84%D9%88%D8%B1%D9%8A%D8%A7-%D9%85%D9%82%D8%AA%D8%B1%D8%AD-%D9%81%D9%8A-%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85-%D8%A7%D9%84%D8%B7%D8%A8%D9%8A%D8%B9-2/",
-   "sourceName": "موقع الدراسة",
-   "solution": true,
-   "typeKey": "lesson",
-   "addedAt": "2026-09-23T09:21:37.374Z"
-  },
-  {
-   "id": "ed-%D9%85%D9%84%D8%AE%D8%B5-%D8%A2%D9%84%D9%8A%D8%A7%D8%AA-%D8%AA%D8%AD%D9%88%D9%8A%D9%84-%D8%A7%D9%84%D8%B7%D8%A7%D9%82%D8%A9-%D8%A7%D9%84%D9%83%D9%8A%D9%85%D9%8A%D8%A7%D8%A6%D9%8A%D8%A9-%D9%81%D9%8A",
-   "title": "ملخص آليات تحويل الطاقة الكيميائية في الجزيئات العضوية الى ATP",
-   "level": "3as",
-   "levelName": "الثالثة ثانوي",
-   "stage": "secondary",
-   "subject": "علوم الطبيعة والحياة",
-   "subjectKey": "علوم الطبيعة والحياة",
-   "stream": "all",
-   "streamName": "جميع الشعب",
-   "year": "",
-   "type": "ملخصات",
-   "pdf": "https://eddirasa.com/wp-content/uploads/2014/12/2-آليات-تحويل-الطاقة-الكيميائية-في-الجزيئات-العضوية-الى-ATP.pdf",
-   "image": "",
-   "source": "https://eddirasa.com/%D9%85%D9%84%D8%AE%D8%B5-%D8%A2%D9%84%D9%8A%D8%A7%D8%AA-%D8%AA%D8%AD%D9%88%D9%8A%D9%84-%D8%A7%D9%84%D8%B7%D8%A7%D9%82%D8%A9-%D8%A7%D9%84%D9%83%D9%8A%D9%85%D9%8A%D8%A7%D8%A6%D9%8A%D8%A9-%D9%81%D9%8A/",
-   "sourceName": "موقع الدراسة",
-   "solution": false,
-   "typeKey": "summary",
-   "addedAt": "2026-09-23T09:21:31.361Z"
-  },
-  {
-   "id": "ed-%D9%85%D9%84%D8%AE%D8%B5-%D8%AF%D9%88%D8%B1-%D8%A7%D9%84%D8%A8%D8%B1%D9%88%D8%AA%D9%8A%D9%86%D8%A7%D8%AA-%D9%81%D9%8A-%D8%A7%D9%84%D8%AF%D9%81%D8%A7%D8%B9-%D8%B9%D9%86-%D8%A7%D9%84%D8%B0%D8%A7%D8%AA",
-   "title": "ملخص دور البروتينات في الدفاع عن الذات علوم سنة 3 ثانوي",
-   "level": "3as",
-   "levelName": "الثالثة ثانوي",
-   "stage": "secondary",
-   "subject": "علوم الطبيعة والحياة",
-   "subjectKey": "علوم الطبيعة والحياة",
-   "stream": "all",
-   "streamName": "جميع الشعب",
-   "year": "",
-   "type": "ملخصات",
-   "pdf": "https://eddirasa.com/wp-content/uploads/2014/12/4-دور-البروتينات-في-الدفاع-عن-الدات.pdf",
-   "image": "",
-   "source": "https://eddirasa.com/%D9%85%D9%84%D8%AE%D8%B5-%D8%AF%D9%88%D8%B1-%D8%A7%D9%84%D8%A8%D8%B1%D9%88%D8%AA%D9%8A%D9%86%D8%A7%D8%AA-%D9%81%D9%8A-%D8%A7%D9%84%D8%AF%D9%81%D8%A7%D8%B9-%D8%B9%D9%86-%D8%A7%D9%84%D8%B0%D8%A7%D8%AA/",
-   "sourceName": "موقع الدراسة",
-   "solution": false,
-   "typeKey": "summary",
-   "addedAt": "2026-09-23T09:21:19.375Z"
-  },
-  {
-   "id": "ed-%D9%85%D9%88%D8%B6%D9%88%D8%B9-%D8%A8%D9%83%D8%A7%D9%84%D9%88%D8%B1%D9%8A%D8%A7-%D9%85%D9%82%D8%AA%D8%B1%D8%AD-%D9%81%D9%8A-%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85-%D8%A7%D9%84%D8%B7%D8%A8%D9%8A%D8%B9-3",
-   "title": "موضوع بكالوريا مقترح في العلوم الطبيعية مع الحل رقم 3",
-   "level": "bac",
-   "levelName": "البكالوريا",
-   "stage": "secondary",
-   "subject": "علوم الطبيعة والحياة",
-   "subjectKey": "علوم الطبيعة والحياة",
-   "stream": "all",
-   "streamName": "جميع الشعب",
-   "year": "",
-   "type": "دروس",
-   "pdf": "https://eddirasa.com/wp-content/uploads/2014/12/annale-bac-science2.pdf",
-   "image": "",
-   "source": "https://eddirasa.com/%D9%85%D9%88%D8%B6%D9%88%D8%B9-%D8%A8%D9%83%D8%A7%D9%84%D9%88%D8%B1%D9%8A%D8%A7-%D9%85%D9%82%D8%AA%D8%B1%D8%AD-%D9%81%D9%8A-%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85-%D8%A7%D9%84%D8%B7%D8%A8%D9%8A%D8%B9-3/",
-   "sourceName": "موقع الدراسة",
-   "solution": true,
-   "typeKey": "lesson",
-   "addedAt": "2026-09-23T09:21:16.388Z"
-  },
-  {
-   "id": "ed-annals-prepared-bac-maths-science-16",
-   "title": "موضوع مقترح للبكالوريا في الرياضيات علوم تجريبية 16",
-   "level": "bac",
-   "levelName": "البكالوريا",
-   "stage": "secondary",
-   "subject": "الرياضيات",
-   "subjectKey": "رياضيات",
-   "stream": "se",
-   "streamName": "علوم تجريبية",
-   "year": "",
-   "type": "دروس",
-   "pdf": "https://eddirasa.com/wp-content/uploads/2014/12/math-se-subject16.pdf",
-   "image": "",
-   "source": "https://eddirasa.com/annals-prepared-bac-maths-science-16/",
-   "sourceName": "موقع الدراسة",
-   "solution": false,
-   "typeKey": "lesson",
-   "addedAt": "2026-09-23T09:21:13.377Z"
   }
  ],
  "news": [
