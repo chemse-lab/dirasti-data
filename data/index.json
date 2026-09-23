@@ -1,18 +1,24 @@
 {
- "generated_at": "2026-09-23T16:58:03.602Z",
- "total": 11320,
+ "generated_at": "2026-09-23T17:28:03.660Z",
+ "total": 11381,
  "shards": [
   {
    "file": "bac-5e4dec23--xf2964ab5.json",
    "level": "bac",
    "subject": "فلسفة",
-   "count": 113
+   "count": 130
   },
   {
    "file": "bac-5e4dec23--x8dd76b09.json",
    "level": "bac",
    "subject": "رياضيات",
-   "count": 204
+   "count": 219
+  },
+  {
+   "file": "bac-5e4dec23--x3084b732.json",
+   "level": "bac",
+   "subject": "تربية البدنية",
+   "count": 1
   },
   {
    "file": "bac-5e4dec23--xca4e049c.json",
@@ -153,10 +159,52 @@
    "count": 38
   },
   {
+   "file": "3as-b0225673--xee86b77b.json",
+   "level": "3as",
+   "subject": "انجليزية",
+   "count": 258
+  },
+  {
+   "file": "3as-b0225673--xca4e049c.json",
+   "level": "3as",
+   "subject": "علوم الطبيعة والحياة",
+   "count": 360
+  },
+  {
+   "file": "3as-b0225673--xdffa1d13.json",
+   "level": "3as",
+   "subject": "تاريخ والجغرافيا",
+   "count": 224
+  },
+  {
+   "file": "3as-b0225673--x090a0157.json",
+   "level": "3as",
+   "subject": "علوم اسلامية",
+   "count": 6
+  },
+  {
+   "file": "3as-b0225673--x858e891e.json",
+   "level": "3as",
+   "subject": "فرنسية",
+   "count": 258
+  },
+  {
+   "file": "3as-b0225673--xe204e82f.json",
+   "level": "3as",
+   "subject": "تكنولوجيا",
+   "count": 14
+  },
+  {
+   "file": "3as-b0225673--xc07862d0.json",
+   "level": "3as",
+   "subject": "لغة ايطالية",
+   "count": 1
+  },
+  {
    "file": "3as-b0225673--xf0519d05.json",
    "level": "3as",
    "subject": "علوم الفيزيائية",
-   "count": 110
+   "count": 111
   },
   {
    "file": "3as-b0225673--x25af644b.json",
@@ -165,34 +213,10 @@
    "count": 127
   },
   {
-   "file": "3as-b0225673--xee86b77b.json",
-   "level": "3as",
-   "subject": "انجليزية",
-   "count": 254
-  },
-  {
    "file": "3as-b0225673--x8dd76b09.json",
    "level": "3as",
    "subject": "رياضيات",
    "count": 333
-  },
-  {
-   "file": "3as-b0225673--xca4e049c.json",
-   "level": "3as",
-   "subject": "علوم الطبيعة والحياة",
-   "count": 347
-  },
-  {
-   "file": "3as-b0225673--xdffa1d13.json",
-   "level": "3as",
-   "subject": "تاريخ والجغرافيا",
-   "count": 223
-  },
-  {
-   "file": "3as-b0225673--x858e891e.json",
-   "level": "3as",
-   "subject": "فرنسية",
-   "count": 257
   },
   {
    "file": "3as-b0225673--x91b4a510.json",
@@ -205,12 +229,6 @@
    "level": "3as",
    "subject": "فلسفة",
    "count": 131
-  },
-  {
-   "file": "3as-b0225673--xe204e82f.json",
-   "level": "3as",
-   "subject": "تكنولوجيا",
-   "count": 8
   },
   {
    "file": "3as-b0225673--x6acf11b0.json",
@@ -241,12 +259,6 @@
    "level": "3as",
    "subject": "علوم فيزيائية",
    "count": 1
-  },
-  {
-   "file": "3as-b0225673--x090a0157.json",
-   "level": "3as",
-   "subject": "علوم اسلامية",
-   "count": 5
   },
   {
    "file": "3as-b0225673--xd1ec9be1.json",
@@ -851,7 +863,7 @@
   {
    "id": "secondary",
    "name": "الثانوي",
-   "count": 4654
+   "count": 4715
   },
   {
    "id": "teachers",
@@ -864,15 +876,15 @@
    "id": "bac",
    "name": "البكالوريا",
    "stage": "secondary",
-   "count": 967,
+   "count": 1000,
    "subjects": [
     {
      "id": "رياضيات",
-     "count": 204
+     "count": 219
     },
     {
      "id": "فلسفة",
-     "count": 113
+     "count": 130
     },
     {
      "id": "انجليزية",
@@ -965,6 +977,10 @@
     {
      "id": "هندسة ميكانيكية",
      "count": 6
+    },
+    {
+     "id": "تربية البدنية",
+     "count": 1
     }
    ]
   },
@@ -972,23 +988,23 @@
    "id": "3as",
    "name": "الثالثة ثانوي",
    "stage": "secondary",
-   "count": 2839,
+   "count": 2867,
    "subjects": [
     {
      "id": "علوم الطبيعة والحياة",
-     "count": 347
+     "count": 360
     },
     {
      "id": "رياضيات",
      "count": 333
     },
     {
-     "id": "فرنسية",
-     "count": 257
+     "id": "انجليزية",
+     "count": 258
     },
     {
-     "id": "انجليزية",
-     "count": 254
+     "id": "فرنسية",
+     "count": 258
     },
     {
      "id": "عربية وادابها",
@@ -1000,7 +1016,7 @@
     },
     {
      "id": "تاريخ والجغرافيا",
-     "count": 223
+     "count": 224
     },
     {
      "id": "فلسفة",
@@ -1012,7 +1028,7 @@
     },
     {
      "id": "علوم الفيزيائية",
-     "count": 110
+     "count": 111
     },
     {
      "id": "هندسة المدنية",
@@ -1048,7 +1064,7 @@
     },
     {
      "id": "تكنولوجيا",
-     "count": 8
+     "count": 14
     },
     {
      "id": "عربية",
@@ -1056,11 +1072,15 @@
     },
     {
      "id": "علوم اسلامية",
-     "count": 5
+     "count": 6
     },
     {
      "id": "تسيير محاسبي",
      "count": 4
+    },
+    {
+     "id": "لغة ايطالية",
+     "count": 1
     },
     {
      "id": "اقتصاد ومناجمنت",
@@ -1768,13 +1788,19 @@
    "id": "تاريخ والجغرافيا",
    "name": "التاريخ والجغرافيا",
    "icon": "🗺️",
-   "count": 893
+   "count": 894
   },
   {
    "id": "تربية الاسلامية",
    "name": "التربية الإسلامية",
    "icon": "🕌",
    "count": 631
+  },
+  {
+   "id": "تربية البدنية",
+   "name": "التربية البدنية",
+   "icon": "🤸",
+   "count": 1
   },
   {
    "id": "تربية العلمية",
@@ -1816,13 +1842,13 @@
    "id": "تكنولوجيا",
    "name": "التكنولوجيا",
    "icon": "⚙️",
-   "count": 37
+   "count": 43
   },
   {
    "id": "رياضيات",
    "name": "الرياضيات",
    "icon": "📐",
-   "count": 1731
+   "count": 1746
   },
   {
    "id": "علوم الاسلامية",
@@ -1834,7 +1860,7 @@
    "id": "علوم الفيزيائية",
    "name": "العلوم الفيزيائية",
    "icon": "🔬",
-   "count": 273
+   "count": 274
   },
   {
    "id": "علوم الفيزيائية والتكنولوجيا",
@@ -1846,7 +1872,7 @@
    "id": "فلسفة",
    "name": "الفلسفة",
    "icon": "💭",
-   "count": 257
+   "count": 274
   },
   {
    "id": "قانون",
@@ -1876,7 +1902,7 @@
    "id": "انجليزية",
    "name": "اللغة الإنجليزية",
    "icon": "EN",
-   "count": 725
+   "count": 729
   },
   {
    "id": "ايطالية",
@@ -1900,7 +1926,7 @@
    "id": "فرنسية",
    "name": "اللغة الفرنسية",
    "icon": "FR",
-   "count": 1069
+   "count": 1070
   },
   {
    "id": "هندسة الكهربائية",
@@ -1942,13 +1968,13 @@
    "id": "علوم اسلامية",
    "name": "علوم إسلامية",
    "icon": "🕌",
-   "count": 7
+   "count": 8
   },
   {
    "id": "علوم الطبيعة والحياة",
    "name": "علوم الطبيعة والحياة",
    "icon": "🧬",
-   "count": 821
+   "count": 834
   },
   {
    "id": "علوم فيزيائية",
@@ -1960,7 +1986,7 @@
    "id": "لغة ايطالية",
    "name": "لغة إيطالية",
    "icon": "IT",
-   "count": 2
+   "count": 3
   },
   {
    "id": "هندسة الطرائق",
@@ -2019,292 +2045,12 @@
  ],
  "recent": {
   "days": 7,
-  "count": 408
+  "count": 469
  },
  "featured": [
   {
-   "id": "ed-bac-lt-engis-2015",
-   "title": "بكالوريا 2015 – اختبار اللغة الإنجليزية شعبة آداب و فلسفة",
-   "level": "bac",
-   "levelName": "البكالوريا",
-   "stage": "secondary",
-   "subject": "الفلسفة",
-   "subjectKey": "فلسفة",
-   "stream": "lit",
-   "streamName": "آداب وفلسفة",
-   "year": 2015,
-   "type": "دروس",
-   "pdf": "https://eddirasa.com/wp-content/uploads/2015/06/bac-lt-english-2015.pdf",
-   "image": "",
-   "source": "https://eddirasa.com/bac-lt-engis-2015/",
-   "sourceName": "موقع الدراسة",
-   "solution": false,
-   "typeKey": "lesson",
-   "addedAt": "2026-09-23T16:57:57.720Z"
-  },
-  {
-   "id": "ed-bac-math-physique-2015",
-   "title": "بكالوريا 2015 – اختبار العلوم الفيزيائية شعبة رياضيات و تقني رياضي",
-   "level": "bac",
-   "levelName": "البكالوريا",
-   "stage": "secondary",
-   "subject": "الرياضيات",
-   "subjectKey": "رياضيات",
-   "stream": "mt",
-   "streamName": "تقني رياضي",
-   "year": 2015,
-   "type": "دروس",
-   "pdf": "https://eddirasa.com/wp-content/uploads/2015/06/bac-math-physique-2015.pdf",
-   "image": "",
-   "source": "https://eddirasa.com/bac-math-physique-2015/",
-   "sourceName": "موقع الدراسة",
-   "solution": false,
-   "typeKey": "lesson",
-   "addedAt": "2026-09-23T16:57:51.778Z"
-  },
-  {
-   "id": "ed-bac-math-sciences-2015",
-   "title": "بكالوريا 2015 – اختبار العلوم الطبيعية شعبة رياضيات",
-   "level": "bac",
-   "levelName": "البكالوريا",
-   "stage": "secondary",
-   "subject": "الرياضيات",
-   "subjectKey": "رياضيات",
-   "stream": "all",
-   "streamName": "جميع الشعب",
-   "year": 2015,
-   "type": "دروس",
-   "pdf": "https://eddirasa.com/wp-content/uploads/2015/06/bac-math-sciences-2015.pdf",
-   "image": "",
-   "source": "https://eddirasa.com/bac-math-sciences-2015/",
-   "sourceName": "موقع الدراسة",
-   "solution": false,
-   "typeKey": "lesson",
-   "addedAt": "2026-09-23T16:57:42.672Z"
-  },
-  {
-   "id": "ed-bac-let-philos-2015",
-   "title": "بكالوريا 2015 – اختبار الفلسفة شعبة آداب و فلسفة",
-   "level": "bac",
-   "levelName": "البكالوريا",
-   "stage": "secondary",
-   "subject": "الفلسفة",
-   "subjectKey": "فلسفة",
-   "stream": "lit",
-   "streamName": "آداب وفلسفة",
-   "year": 2015,
-   "type": "دروس",
-   "pdf": "https://eddirasa.com/wp-content/uploads/2015/06/bac-let-philos-2015.pdf",
-   "image": "",
-   "source": "https://eddirasa.com/bac-let-philos-2015/",
-   "sourceName": "موقع الدراسة",
-   "solution": false,
-   "typeKey": "lesson",
-   "addedAt": "2026-09-23T16:57:27.678Z"
-  },
-  {
-   "id": "ed-bac-sci-his-geo-2015",
-   "title": "بكالوريا 2015 – اختبار التاريخ و الجغرافيا الشعب العلمية",
-   "level": "bac",
-   "levelName": "البكالوريا",
-   "stage": "secondary",
-   "subject": "الرياضيات",
-   "subjectKey": "رياضيات",
-   "stream": "sci",
-   "streamName": "الشعب العلمية",
-   "year": 2015,
-   "type": "دروس",
-   "pdf": "https://eddirasa.com/wp-content/uploads/2015/06/bac-his-geo-se-2015.pdf",
-   "image": "",
-   "source": "https://eddirasa.com/bac-sci-his-geo-2015/",
-   "sourceName": "موقع الدراسة",
-   "solution": false,
-   "typeKey": "lesson",
-   "addedAt": "2026-09-23T16:57:21.633Z"
-  },
-  {
-   "id": "ed-bac-sci-francais-2015",
-   "title": "بكالوريا 2015 – اختبار اللغة الفرنسية الشعب العلمية",
-   "level": "bac",
-   "levelName": "البكالوريا",
-   "stage": "secondary",
-   "subject": "الرياضيات",
-   "subjectKey": "رياضيات",
-   "stream": "sci",
-   "streamName": "الشعب العلمية",
-   "year": 2015,
-   "type": "دروس",
-   "pdf": "https://eddirasa.com/wp-content/uploads/2015/06/bac-français-se-2015.pdf",
-   "image": "",
-   "source": "https://eddirasa.com/bac-sci-francais-2015/",
-   "sourceName": "موقع الدراسة",
-   "solution": false,
-   "typeKey": "lesson",
-   "addedAt": "2026-09-23T16:57:15.606Z"
-  },
-  {
-   "id": "ed-bac-lt-francais-2015",
-   "title": "بكالوريا 2015 – اختبار اللغة الفرنسية شعبة آداب و فلسفة",
-   "level": "bac",
-   "levelName": "البكالوريا",
-   "stage": "secondary",
-   "subject": "الفلسفة",
-   "subjectKey": "فلسفة",
-   "stream": "lit",
-   "streamName": "آداب وفلسفة",
-   "year": 2015,
-   "type": "دروس",
-   "pdf": "https://eddirasa.com/wp-content/uploads/2015/06/bac-lt-francais-2015.pdf",
-   "image": "",
-   "source": "https://eddirasa.com/bac-lt-francais-2015/",
-   "sourceName": "موقع الدراسة",
-   "solution": false,
-   "typeKey": "lesson",
-   "addedAt": "2026-09-23T16:57:12.645Z"
-  },
-  {
-   "id": "ed-%D9%81%D9%8A%D8%B2%D9%8A%D8%A7%D8%A1-3as-%D8%A7%D9%84%D8%B8%D9%88%D8%A7%D9%87%D8%B1-%D8%A7%D9%84%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A6%D9%8A%D8%A9-%D8%A7%D9%84%D8%AF%D8%B1%D8%B3-%D8%A7%D9%84%D8%A3",
-   "title": "فيزياء 3AS : الظواهر الكهربائية الدرس الأول",
-   "level": "3as",
-   "levelName": "الثالثة ثانوي",
-   "stage": "secondary",
-   "subject": "العلوم الفيزيائية",
-   "subjectKey": "علوم الفيزيائية",
-   "stream": "all",
-   "streamName": "جميع الشعب",
-   "year": "",
-   "type": "دروس",
-   "pdf": "https://eddirasa.com/wp-content/uploads/2013/05/U3A.pdf",
-   "image": "",
-   "source": "https://eddirasa.com/%D9%81%D9%8A%D8%B2%D9%8A%D8%A7%D8%A1-3as-%D8%A7%D9%84%D8%B8%D9%88%D8%A7%D9%87%D8%B1-%D8%A7%D9%84%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A6%D9%8A%D8%A9-%D8%A7%D9%84%D8%AF%D8%B1%D8%B3-%D8%A7%D9%84%D8%A3/",
-   "sourceName": "موقع الدراسة",
-   "solution": false,
-   "typeKey": "lesson",
-   "addedAt": "2026-09-23T16:56:42.534Z"
-  },
-  {
-   "id": "ed-bac-let-arabe-2015",
-   "title": "بكالوريا 2015 – اختبار اللغة العربية شعبة آداب و فلسفة",
-   "level": "bac",
-   "levelName": "البكالوريا",
-   "stage": "secondary",
-   "subject": "الفلسفة",
-   "subjectKey": "فلسفة",
-   "stream": "lit",
-   "streamName": "آداب وفلسفة",
-   "year": 2015,
-   "type": "دروس",
-   "pdf": "https://eddirasa.com/wp-content/uploads/2015/06/bac-let-arabe-2015.pdf",
-   "image": "",
-   "source": "https://eddirasa.com/bac-let-arabe-2015/",
-   "sourceName": "موقع الدراسة",
-   "solution": false,
-   "typeKey": "lesson",
-   "addedAt": "2026-09-23T16:56:39.535Z"
-  },
-  {
-   "id": "ed-bac-math-maths-2015",
-   "title": "بكالوريا 2015 – اختبار الرياضيات شعبة رياضيات",
-   "level": "bac",
-   "levelName": "البكالوريا",
-   "stage": "secondary",
-   "subject": "الرياضيات",
-   "subjectKey": "رياضيات",
-   "stream": "all",
-   "streamName": "جميع الشعب",
-   "year": 2015,
-   "type": "دروس",
-   "pdf": "https://eddirasa.com/wp-content/uploads/2015/06/bac-math-maths-2015.pdf",
-   "image": "",
-   "source": "https://eddirasa.com/bac-math-maths-2015/",
-   "sourceName": "موقع الدراسة",
-   "solution": false,
-   "typeKey": "lesson",
-   "addedAt": "2026-09-23T16:56:24.486Z"
-  },
-  {
-   "id": "ed-%D9%81%D9%8A%D8%B2%D9%8A%D8%A7%D8%A1-3as-%D8%A7%D9%84%D8%A5%D9%87%D8%AA%D8%B2%D8%A7%D8%B2%D8%A7%D8%AA-%D8%A7%D9%84%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A6%D9%8A%D8%A9",
-   "title": "فيزياء 3AS : الإهتزازات الكهربائية",
-   "level": "3as",
-   "levelName": "الثالثة ثانوي",
-   "stage": "secondary",
-   "subject": "العلوم الفيزيائية",
-   "subjectKey": "علوم الفيزيائية",
-   "stream": "all",
-   "streamName": "جميع الشعب",
-   "year": "",
-   "type": "دروس",
-   "pdf": "https://eddirasa.com/wp-content/uploads/2015/05/U7b_cours.pdf",
-   "image": "",
-   "source": "https://eddirasa.com/%D9%81%D9%8A%D8%B2%D9%8A%D8%A7%D8%A1-3as-%D8%A7%D9%84%D8%A5%D9%87%D8%AA%D8%B2%D8%A7%D8%B2%D8%A7%D8%AA-%D8%A7%D9%84%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A6%D9%8A%D8%A9/",
-   "sourceName": "موقع الدراسة",
-   "solution": false,
-   "typeKey": "lesson",
-   "addedAt": "2026-09-23T16:56:18.423Z"
-  },
-  {
-   "id": "ed-%D9%85%D9%84%D8%AE%D8%B5%D8%A7%D8%AA-%D8%AC%D9%85%D9%8A%D8%B9-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D8%AF-%D8%A7%D9%84%D8%A3%D8%AF%D8%A8%D9%8A%D8%A9-%D8%AA%D8%AD%D8%B6%D9%8A%D8%B1%D9%8B%D8%A7-%D9%84%D9%84",
-   "title": "ملخصات جميع المواد الأدبية تحضيرًا للبكالوريا شعب العلمية",
-   "level": "3as",
-   "levelName": "الثالثة ثانوي",
-   "stage": "secondary",
-   "subject": "التربية الإسلامية",
-   "subjectKey": "تربية الاسلامية",
-   "stream": "all",
-   "streamName": "جميع الشعب",
-   "year": "",
-   "type": "دروس",
-   "pdf": "https://eddirasa.com/wp-content/uploads/2015/05/ملخصات-جميع-المواد-الأدبية-شعبة-العلوم-الرياضيات-و-التقني-رياضي.pdf",
-   "image": "",
-   "source": "https://eddirasa.com/%D9%85%D9%84%D8%AE%D8%B5%D8%A7%D8%AA-%D8%AC%D9%85%D9%8A%D8%B9-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D8%AF-%D8%A7%D9%84%D8%A3%D8%AF%D8%A8%D9%8A%D8%A9-%D8%AA%D8%AD%D8%B6%D9%8A%D8%B1%D9%8B%D8%A7-%D9%84%D9%84/",
-   "sourceName": "موقع الدراسة",
-   "solution": false,
-   "typeKey": "lesson",
-   "addedAt": "2026-09-23T16:56:03.389Z"
-  },
-  {
-   "id": "ed-bac-arabe-2015-se",
-   "title": "بكالوريا 2015 – اختبار اللغة العربية الشعب العلمية",
-   "level": "bac",
-   "levelName": "البكالوريا",
-   "stage": "secondary",
-   "subject": "الرياضيات",
-   "subjectKey": "رياضيات",
-   "stream": "sci",
-   "streamName": "الشعب العلمية",
-   "year": 2015,
-   "type": "دروس",
-   "pdf": "https://eddirasa.com/wp-content/uploads/2015/06/bac-arabic-se-2015.pdf",
-   "image": "",
-   "source": "https://eddirasa.com/bac-arabe-2015-se/",
-   "sourceName": "موقع الدراسة",
-   "solution": false,
-   "typeKey": "lesson",
-   "addedAt": "2026-09-23T16:56:00.446Z"
-  },
-  {
-   "id": "ed-bac-science-islamique-2015",
-   "title": "بكالوريا 2015 – إختبار العلوم الإسلامية جميع الشعب",
-   "level": "bac",
-   "levelName": "البكالوريا",
-   "stage": "secondary",
-   "subject": "الفلسفة",
-   "subjectKey": "فلسفة",
-   "stream": "all",
-   "streamName": "جميع الشعب",
-   "year": 2015,
-   "type": "دروس",
-   "pdf": "https://eddirasa.com/wp-content/uploads/2015/06/bac-islamic-2015.pdf",
-   "image": "",
-   "source": "https://eddirasa.com/bac-science-islamique-2015/",
-   "sourceName": "موقع الدراسة",
-   "solution": false,
-   "typeKey": "lesson",
-   "addedAt": "2026-09-23T16:55:54.419Z"
-  },
-  {
-   "id": "ed-bac-let-maths-2015",
-   "title": "بكالوريا 2015 – اختبار الرياضيات شعب أدبية",
+   "id": "ed-correction-bac-lt-maths-2016",
+   "title": "تصحيح بكالوريا 2016 – اختبار الرياضيات شعب أدبية",
    "level": "bac",
    "levelName": "البكالوريا",
    "stage": "secondary",
@@ -2312,39 +2058,239 @@
    "subjectKey": "فلسفة",
    "stream": "lettres",
    "streamName": "الشعب الأدبية",
-   "year": 2015,
-   "type": "دروس",
-   "pdf": "https://eddirasa.com/wp-content/uploads/2015/06/bac-let-maths-2015.pdf",
+   "year": 2016,
+   "type": "حلول وتصحيحات",
+   "pdf": "https://eddirasa.com/wp-content/uploads/2016/06/eddirasa-com-correction-bac-li-math-2016.pdf",
    "image": "",
-   "source": "https://eddirasa.com/bac-let-maths-2015/",
+   "source": "https://eddirasa.com/correction-bac-lt-maths-2016/",
+   "sourceName": "موقع الدراسة",
+   "solution": true,
+   "typeKey": "solution",
+   "addedAt": "2026-09-23T17:28:02.472Z"
+  },
+  {
+   "id": "ed-bac-math-physique-2016",
+   "title": "بكالوريا 2016 – اختبار الفيزياء شعب رياضيات + تقني رياضي",
+   "level": "bac",
+   "levelName": "البكالوريا",
+   "stage": "secondary",
+   "subject": "الرياضيات",
+   "subjectKey": "رياضيات",
+   "stream": "mt",
+   "streamName": "تقني رياضي",
+   "year": 2016,
+   "type": "دروس",
+   "pdf": "https://eddirasa.com/wp-content/uploads/2016/06/eddirasa-com-bac-math-physique-2016.pdf",
+   "image": "",
+   "source": "https://eddirasa.com/bac-math-physique-2016/",
    "sourceName": "موقع الدراسة",
    "solution": false,
    "typeKey": "lesson",
-   "addedAt": "2026-09-23T16:55:36.410Z"
+   "addedAt": "2026-09-23T17:27:50.390Z"
   },
   {
-   "id": "ed-6-%D9%85%D9%88%D8%A7%D8%B6%D9%8A%D8%B9-%D9%85%D9%82%D8%AA%D8%B1%D8%AD%D8%A9-%D9%84%D8%B4%D9%87%D8%A7%D8%AF%D8%A9-%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D8%A7%D9%84%D9%85%D8%AA%D9%88%D8%B3%D8%B7",
-   "title": "6 مواضيع مقترحة لشهادة التعليم المتوسط في اللغة العربية مع الحل",
-   "level": "bem",
-   "levelName": "شهادة التعليم المتوسط",
-   "stage": "middle",
-   "subject": "اللغة العربية",
-   "subjectKey": "عربية",
+   "id": "ed-bac-lt-histoir-2016",
+   "title": "بكالوريا 2016 – اختبار التاريخ و الجغرافيا شعبة آداب و فلسفة",
+   "level": "bac",
+   "levelName": "البكالوريا",
+   "stage": "secondary",
+   "subject": "الفلسفة",
+   "subjectKey": "فلسفة",
+   "stream": "lit",
+   "streamName": "آداب وفلسفة",
+   "year": 2016,
+   "type": "دروس",
+   "pdf": "https://eddirasa.com/wp-content/uploads/2016/06/eddirasa-com-bac-li-his-geo-2016.pdf",
+   "image": "",
+   "source": "https://eddirasa.com/bac-lt-histoir-2016/",
+   "sourceName": "موقع الدراسة",
+   "solution": false,
+   "typeKey": "lesson",
+   "addedAt": "2026-09-23T17:27:47.383Z"
+  },
+  {
+   "id": "ed-bac-let-philos-2016",
+   "title": "بكالوريا 2016 – اختبار الفلسفة شعبة آداب و فلسفة",
+   "level": "bac",
+   "levelName": "البكالوريا",
+   "stage": "secondary",
+   "subject": "الفلسفة",
+   "subjectKey": "فلسفة",
+   "stream": "lit",
+   "streamName": "آداب وفلسفة",
+   "year": 2016,
+   "type": "دروس",
+   "pdf": "https://eddirasa.com/wp-content/uploads/2016/05/eddirasa-com-bac-li-philo-2016.pdf",
+   "image": "",
+   "source": "https://eddirasa.com/bac-let-philos-2016/",
+   "sourceName": "موقع الدراسة",
+   "solution": false,
+   "typeKey": "lesson",
+   "addedAt": "2026-09-23T17:27:35.367Z"
+  },
+  {
+   "id": "ed-bac-math-maths-2016",
+   "title": "بكالوريا 2016 – اختبار الرياضيات شعبة رياضيات",
+   "level": "bac",
+   "levelName": "البكالوريا",
+   "stage": "secondary",
+   "subject": "الرياضيات",
+   "subjectKey": "رياضيات",
    "stream": "all",
    "streamName": "جميع الشعب",
-   "year": "",
-   "type": "اختبارات وفروض",
-   "pdf": "https://eddirasa.com/wp-content/uploads/2015/04/Sujetscorriges-ar.pdf",
+   "year": 2016,
+   "type": "دروس",
+   "pdf": "https://eddirasa.com/wp-content/uploads/2016/05/eddirasa-com-bac-math-math-2016.pdf",
    "image": "",
-   "source": "https://eddirasa.com/6-%D9%85%D9%88%D8%A7%D8%B6%D9%8A%D8%B9-%D9%85%D9%82%D8%AA%D8%B1%D8%AD%D8%A9-%D9%84%D8%B4%D9%87%D8%A7%D8%AF%D8%A9-%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D8%A7%D9%84%D9%85%D8%AA%D9%88%D8%B3%D8%B7/",
+   "source": "https://eddirasa.com/bac-math-maths-2016/",
    "sourceName": "موقع الدراسة",
-   "solution": true,
-   "typeKey": "exam",
-   "addedAt": "2026-09-23T16:47:26.233Z"
+   "solution": false,
+   "typeKey": "lesson",
+   "addedAt": "2026-09-23T17:27:29.367Z"
   },
   {
-   "id": "ed-%D8%A3%D8%B3%D8%A6%D9%84%D8%A9-%D8%A8%D9%83%D8%A7%D9%84%D9%88%D8%B1%D9%8A%D8%A7-%D9%81%D9%8A-%D8%A7%D9%84%D9%84%D8%BA%D8%A9-%D8%A7%D9%84%D8%A5%D9%86%D8%AC%D9%84%D9%8A%D8%B2%D9%8A%D8%A9-%D9%85%D8%AA",
-   "title": "أسئلة بكالوريا في اللغة الإنجليزية مترجمة للغة العربية",
+   "id": "ed-bac-let-maths-2016",
+   "title": "بكالوريا 2016 – اختبار الرياضيات شعب أدبية",
+   "level": "bac",
+   "levelName": "البكالوريا",
+   "stage": "secondary",
+   "subject": "الفلسفة",
+   "subjectKey": "فلسفة",
+   "stream": "lettres",
+   "streamName": "الشعب الأدبية",
+   "year": 2016,
+   "type": "دروس",
+   "pdf": "https://eddirasa.com/wp-content/uploads/2016/05/eddirasa-com-bac-li-math-2016.pdf",
+   "image": "",
+   "source": "https://eddirasa.com/bac-let-maths-2016/",
+   "sourceName": "موقع الدراسة",
+   "solution": false,
+   "typeKey": "lesson",
+   "addedAt": "2026-09-23T17:27:26.331Z"
+  },
+  {
+   "id": "ed-bac-let-arabe-2016",
+   "title": "بكالوريا 2016 – اختبار اللغة العربية شعبة آداب و فلسفة",
+   "level": "bac",
+   "levelName": "البكالوريا",
+   "stage": "secondary",
+   "subject": "الفلسفة",
+   "subjectKey": "فلسفة",
+   "stream": "lit",
+   "streamName": "آداب وفلسفة",
+   "year": 2016,
+   "type": "دروس",
+   "pdf": "https://eddirasa.com/wp-content/uploads/2016/05/eddirasa-com-bac-li-ara-2016.pdf",
+   "image": "",
+   "source": "https://eddirasa.com/bac-let-arabe-2016/",
+   "sourceName": "موقع الدراسة",
+   "solution": false,
+   "typeKey": "lesson",
+   "addedAt": "2026-09-23T17:27:02.300Z"
+  },
+  {
+   "id": "ed-bac-arabe-2016-se",
+   "title": "بكالوريا 2016 – اختبار اللغة العربية الشعب العلمية",
+   "level": "bac",
+   "levelName": "البكالوريا",
+   "stage": "secondary",
+   "subject": "الرياضيات",
+   "subjectKey": "رياضيات",
+   "stream": "sci",
+   "streamName": "الشعب العلمية",
+   "year": 2016,
+   "type": "دروس",
+   "pdf": "https://eddirasa.com/wp-content/uploads/2016/05/eddirasa-com-bac-ge-ara-2016.pdf",
+   "image": "",
+   "source": "https://eddirasa.com/bac-arabe-2016-se/",
+   "sourceName": "موقع الدراسة",
+   "solution": false,
+   "typeKey": "lesson",
+   "addedAt": "2026-09-23T17:26:56.318Z"
+  },
+  {
+   "id": "ed-bac-science-islamique-2016",
+   "title": "بكالوريا 2016 – اختبار العلوم الإسلامية جميع الشعب",
+   "level": "bac",
+   "levelName": "البكالوريا",
+   "stage": "secondary",
+   "subject": "الفلسفة",
+   "subjectKey": "فلسفة",
+   "stream": "all",
+   "streamName": "جميع الشعب",
+   "year": 2016,
+   "type": "دروس",
+   "pdf": "https://eddirasa.com/wp-content/uploads/2016/05/eddirasa-com-bac-li-islamic-2016.pdf",
+   "image": "",
+   "source": "https://eddirasa.com/bac-science-islamique-2016/",
+   "sourceName": "موقع الدراسة",
+   "solution": false,
+   "typeKey": "lesson",
+   "addedAt": "2026-09-23T17:26:53.242Z"
+  },
+  {
+   "id": "ed-bac-math-sciences-2016",
+   "title": "بكالوريا 2016 – اختبار العلوم الطبيعية شعبة رياضيات",
+   "level": "bac",
+   "levelName": "البكالوريا",
+   "stage": "secondary",
+   "subject": "الرياضيات",
+   "subjectKey": "رياضيات",
+   "stream": "all",
+   "streamName": "جميع الشعب",
+   "year": 2016,
+   "type": "دروس",
+   "pdf": "https://eddirasa.com/wp-content/uploads/2016/05/eddirasa-com-bac-math-science-2016.pdf",
+   "image": "",
+   "source": "https://eddirasa.com/bac-math-sciences-2016/",
+   "sourceName": "موقع الدراسة",
+   "solution": false,
+   "typeKey": "lesson",
+   "addedAt": "2026-09-23T17:26:50.277Z"
+  },
+  {
+   "id": "ed-bac-sci-english-2016",
+   "title": "بكالوريا 2016 – اختبار اللغة الإنجليزية شعب علمية",
+   "level": "bac",
+   "levelName": "البكالوريا",
+   "stage": "secondary",
+   "subject": "الرياضيات",
+   "subjectKey": "رياضيات",
+   "stream": "sci",
+   "streamName": "الشعب العلمية",
+   "year": 2016,
+   "type": "دروس",
+   "pdf": "https://eddirasa.com/wp-content/uploads/2016/05/eddirasa-com-bac-ge-eng-2016.pdf",
+   "image": "",
+   "source": "https://eddirasa.com/bac-sci-english-2016/",
+   "sourceName": "موقع الدراسة",
+   "solution": false,
+   "typeKey": "lesson",
+   "addedAt": "2026-09-23T17:26:44.282Z"
+  },
+  {
+   "id": "ed-bac-lt-english-2016",
+   "title": "بكالوريا 2016 – اختبار اللغة الإنجليزية شعبة آداب وفلسفة",
+   "level": "bac",
+   "levelName": "البكالوريا",
+   "stage": "secondary",
+   "subject": "الفلسفة",
+   "subjectKey": "فلسفة",
+   "stream": "lit",
+   "streamName": "آداب وفلسفة",
+   "year": 2016,
+   "type": "دروس",
+   "pdf": "https://eddirasa.com/wp-content/uploads/2016/05/eddirasa-com-bac-li-eng-2016.pdf",
+   "image": "",
+   "source": "https://eddirasa.com/bac-lt-english-2016/",
+   "sourceName": "موقع الدراسة",
+   "solution": false,
+   "typeKey": "lesson",
+   "addedAt": "2026-09-23T17:26:32.248Z"
+  },
+  {
+   "id": "ed-%D9%85%D9%84%D8%AE%D8%B5-%D9%85%D9%88%D8%A7%D8%B6%D9%8A%D8%B9-%D8%A7%D9%84%D8%AA%D8%B9%D8%A8%D9%8A%D8%B1-%D8%A7%D9%84%D9%83%D8%AA%D8%A7%D8%A8%D9%8A-%D9%81%D9%8A-%D8%A8%D9%83%D8%A7%D9%84%D9%88%D8%B1",
+   "title": "ملخص مواضيع التعبير الكتابي في بكالوريا اللغة الإنجليزية",
    "level": "3as",
    "levelName": "الثالثة ثانوي",
    "stage": "secondary",
@@ -2354,153 +2300,233 @@
    "streamName": "جميع الشعب",
    "year": "",
    "type": "دروس",
-   "pdf": "https://eddirasa.com/wp-content/uploads/2015/04/الأسئلة-المعتادة-في-البكالوريا-في-اللغة-الإنجليزية-مترجمة-للغة-العربية.pdf",
+   "pdf": "https://eddirasa.com/wp-content/uploads/2016/05/ملخص-مواضيع-التعبير-الكتابي-في-بكالوريا-اللغة-الإنجليزية.pdf",
    "image": "",
-   "source": "https://eddirasa.com/%D8%A3%D8%B3%D8%A6%D9%84%D8%A9-%D8%A8%D9%83%D8%A7%D9%84%D9%88%D8%B1%D9%8A%D8%A7-%D9%81%D9%8A-%D8%A7%D9%84%D9%84%D8%BA%D8%A9-%D8%A7%D9%84%D8%A5%D9%86%D8%AC%D9%84%D9%8A%D8%B2%D9%8A%D8%A9-%D9%85%D8%AA/",
+   "source": "https://eddirasa.com/%D9%85%D9%84%D8%AE%D8%B5-%D9%85%D9%88%D8%A7%D8%B6%D9%8A%D8%B9-%D8%A7%D9%84%D8%AA%D8%B9%D8%A8%D9%8A%D8%B1-%D8%A7%D9%84%D9%83%D8%AA%D8%A7%D8%A8%D9%8A-%D9%81%D9%8A-%D8%A8%D9%83%D8%A7%D9%84%D9%88%D8%B1/",
    "sourceName": "موقع الدراسة",
    "solution": false,
    "typeKey": "lesson",
-   "addedAt": "2026-09-23T16:45:07.767Z"
+   "addedAt": "2026-09-23T17:26:05.199Z"
   },
   {
-   "id": "ed-%D9%83%D8%AA%D8%A7%D8%A8-%D8%A7%D9%84%D8%A3%D8%B3%D8%AA%D8%A7%D8%B0-%D9%84%D8%BA%D8%A9-%D9%81%D8%B1%D9%86%D8%B3%D9%8A%D8%A9-%D8%AD%D9%84%D9%88%D9%84-%D8%AA%D9%85%D8%A7%D8%B1%D9%8A%D9%86-%D8%A7%D9%84",
-   "title": "كتاب الأستاذ لغة فرنسية حلول تمارين الكتاب رابعة متوسط",
-   "level": "4am",
-   "levelName": "الرابعة متوسط",
-   "stage": "middle",
-   "subject": "اللغة الفرنسية",
-   "subjectKey": "فرنسية",
+   "id": "ed-%D8%A7%D9%84%D8%A3%D8%B3%D8%A6%D9%84%D8%A9-%D8%A7%D9%84%D9%85%D8%B9%D8%AA%D8%A7%D8%AF%D8%A9-%D9%81%D9%8A-%D8%A8%D9%83%D8%A7%D9%84%D9%88%D8%B1%D9%8A%D8%A7-%D8%A7%D9%84%D9%84%D8%BA%D8%A9-%D8%A7%D9%84",
+   "title": "الأسئلة المعتادة في بكالوريا اللغة الإنجليزية مترجمة للعربية",
+   "level": "3as",
+   "levelName": "الثالثة ثانوي",
+   "stage": "secondary",
+   "subject": "اللغة الإنجليزية",
+   "subjectKey": "انجليزية",
    "stream": "all",
    "streamName": "جميع الشعب",
    "year": "",
    "type": "دروس",
-   "pdf": "https://eddirasa.com/wp-content/uploads/2015/04/french4am-guide_manuel.pdf",
+   "pdf": "https://eddirasa.com/wp-content/uploads/2016/05/الأسئلة-النموذجية-في-اختبار-بكالوريا-اللغة-الإنجليزية-مترجمة-للعربية.pdf",
    "image": "",
-   "source": "https://eddirasa.com/%D9%83%D8%AA%D8%A7%D8%A8-%D8%A7%D9%84%D8%A3%D8%B3%D8%AA%D8%A7%D8%B0-%D9%84%D8%BA%D8%A9-%D9%81%D8%B1%D9%86%D8%B3%D9%8A%D8%A9-%D8%AD%D9%84%D9%88%D9%84-%D8%AA%D9%85%D8%A7%D8%B1%D9%8A%D9%86-%D8%A7%D9%84/",
+   "source": "https://eddirasa.com/%D8%A7%D9%84%D8%A3%D8%B3%D8%A6%D9%84%D8%A9-%D8%A7%D9%84%D9%85%D8%B9%D8%AA%D8%A7%D8%AF%D8%A9-%D9%81%D9%8A-%D8%A8%D9%83%D8%A7%D9%84%D9%88%D8%B1%D9%8A%D8%A7-%D8%A7%D9%84%D9%84%D8%BA%D8%A9-%D8%A7%D9%84/",
    "sourceName": "موقع الدراسة",
-   "solution": true,
+   "solution": false,
    "typeKey": "lesson",
-   "addedAt": "2026-09-23T16:42:16.398Z"
+   "addedAt": "2026-09-23T17:25:53.127Z"
   },
   {
-   "id": "ed-%D8%AD%D9%84%D9%88%D9%84-%D8%AA%D9%85%D8%A7%D8%B1%D9%8A%D9%86-%D8%A7%D9%84%D9%83%D8%AA%D8%A7%D8%A8-%D8%A7%D9%84%D9%85%D8%AF%D8%B1%D8%B3%D9%8A-%D9%84%D8%BA%D8%A9-%D9%81%D8%B1%D9%86%D8%B3%D9%8A%D8%A9-4",
-   "title": "حلول تمارين الكتاب المدرسي لغة فرنسية 4 متوسط 2014",
-   "level": "4am",
-   "levelName": "الرابعة متوسط",
-   "stage": "middle",
-   "subject": "اللغة الفرنسية",
-   "subjectKey": "فرنسية",
-   "stream": "all",
-   "streamName": "جميع الشعب",
-   "year": 2014,
-   "type": "دروس",
-   "pdf": "https://eddirasa.com/wp-content/uploads/2015/04/4am_programme_français-_2014.pdf",
-   "image": "",
-   "source": "https://eddirasa.com/%D8%AD%D9%84%D9%88%D9%84-%D8%AA%D9%85%D8%A7%D8%B1%D9%8A%D9%86-%D8%A7%D9%84%D9%83%D8%AA%D8%A7%D8%A8-%D8%A7%D9%84%D9%85%D8%AF%D8%B1%D8%B3%D9%8A-%D9%84%D8%BA%D8%A9-%D9%81%D8%B1%D9%86%D8%B3%D9%8A%D8%A9-4/",
-   "sourceName": "موقع الدراسة",
-   "solution": true,
-   "typeKey": "lesson",
-   "addedAt": "2026-09-23T16:42:01.383Z"
-  },
-  {
-   "id": "ed-6-%D8%AD%D9%88%D9%84%D9%8A%D8%A7%D8%AA-%D9%84%D8%B4%D9%87%D8%A7%D8%AF%D8%A9-%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D8%A7%D9%84%D9%85%D8%AA%D9%88%D8%B3%D8%B7-%D9%81%D9%8A-%D8%A7%D9%84%D9%84%D8%BA",
-   "title": "6 حوليات لشهادة التعليم المتوسط في اللغة الفرنسية",
-   "level": "bem",
-   "levelName": "شهادة التعليم المتوسط",
-   "stage": "middle",
-   "subject": "اللغة الفرنسية",
-   "subjectKey": "فرنسية",
+   "id": "ed-%D9%85%D9%84%D8%AE%D8%B5-%D8%AF%D9%88%D8%B1-%D8%A7%D9%84%D8%A8%D8%B1%D9%88%D8%AA%D9%8A%D9%86%D8%A7%D8%AA-%D9%81%D9%8A-%D8%A7%D9%84%D8%AF%D9%81%D8%A7%D8%B9-%D8%B9%D9%86-%D8%A7%D9%84%D8%B0%D8%A7%D8%AA-3",
+   "title": "ملخص دور البروتينات في الدفاع عن الذات علوم سنة ثالثة ثانوي",
+   "level": "3as",
+   "levelName": "الثالثة ثانوي",
+   "stage": "secondary",
+   "subject": "علوم الطبيعة والحياة",
+   "subjectKey": "علوم الطبيعة والحياة",
    "stream": "all",
    "streamName": "جميع الشعب",
    "year": "",
-   "type": "اختبارات وفروض",
-   "pdf": "https://eddirasa.com/wp-content/uploads/2015/04/french4am-annales1.pdf",
+   "type": "ملخصات",
+   "pdf": "https://eddirasa.com/wp-content/uploads/2016/05/ملخص-الوحدة04-مناعة.pdf",
    "image": "",
-   "source": "https://eddirasa.com/6-%D8%AD%D9%88%D9%84%D9%8A%D8%A7%D8%AA-%D9%84%D8%B4%D9%87%D8%A7%D8%AF%D8%A9-%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D8%A7%D9%84%D9%85%D8%AA%D9%88%D8%B3%D8%B7-%D9%81%D9%8A-%D8%A7%D9%84%D9%84%D8%BA/",
+   "source": "https://eddirasa.com/%D9%85%D9%84%D8%AE%D8%B5-%D8%AF%D9%88%D8%B1-%D8%A7%D9%84%D8%A8%D8%B1%D9%88%D8%AA%D9%8A%D9%86%D8%A7%D8%AA-%D9%81%D9%8A-%D8%A7%D9%84%D8%AF%D9%81%D8%A7%D8%B9-%D8%B9%D9%86-%D8%A7%D9%84%D8%B0%D8%A7%D8%AA-3/",
    "sourceName": "موقع الدراسة",
    "solution": false,
-   "typeKey": "exam",
-   "addedAt": "2026-09-23T16:41:31.301Z"
+   "typeKey": "summary",
+   "addedAt": "2026-09-23T17:23:01.374Z"
   },
   {
-   "id": "ed-recueil-de-jeux-de-mots-%D9%84%D8%BA%D8%A9-%D9%81%D8%B1%D9%86%D8%B3%D9%8A%D8%A9-%D8%B3%D9%86%D8%A9-%D8%B1%D8%A7%D8%A8%D8%B9%D8%A9-%D9%85%D8%AA%D9%88%D8%B3%D8%B7",
-   "title": "Recueil de jeux de mots لغة فرنسية سنة رابعة متوسط",
-   "level": "4am",
-   "levelName": "الرابعة متوسط",
-   "stage": "middle",
-   "subject": "اللغة الفرنسية",
-   "subjectKey": "فرنسية",
+   "id": "ed-%D8%A3%D9%81%D8%B6%D9%84-%D9%85%D9%84%D8%AE%D8%B5-%D9%81%D9%8A-%D8%A7%D9%84%D9%84%D8%BA%D8%A9-%D8%A7%D9%84%D8%A5%D9%86%D8%AC%D9%84%D9%8A%D8%B2%D9%8A%D8%A9-%D9%84%D9%84%D8%AA%D8%AD%D8%B6%D9%8A%D8%B1",
+   "title": "أفضل ملخص في اللغة الإنجليزية للتحضير للبكالوريا",
+   "level": "3as",
+   "levelName": "الثالثة ثانوي",
+   "stage": "secondary",
+   "subject": "اللغة الإنجليزية",
+   "subjectKey": "انجليزية",
    "stream": "all",
    "streamName": "جميع الشعب",
    "year": "",
    "type": "دروس",
-   "pdf": "https://eddirasa.com/wp-content/uploads/2015/04/Recueil_de_-jeux_de_mots.pdf",
+   "pdf": "https://eddirasa.com/wp-content/uploads/2016/05/أفضل-ملخص-في-اللغة-الانجليزية-للبكالوريا.pdf",
    "image": "",
-   "source": "https://eddirasa.com/recueil-de-jeux-de-mots-%D9%84%D8%BA%D8%A9-%D9%81%D8%B1%D9%86%D8%B3%D9%8A%D8%A9-%D8%B3%D9%86%D8%A9-%D8%B1%D8%A7%D8%A8%D8%B9%D8%A9-%D9%85%D8%AA%D9%88%D8%B3%D8%B7/",
+   "source": "https://eddirasa.com/%D8%A3%D9%81%D8%B6%D9%84-%D9%85%D9%84%D8%AE%D8%B5-%D9%81%D9%8A-%D8%A7%D9%84%D9%84%D8%BA%D8%A9-%D8%A7%D9%84%D8%A5%D9%86%D8%AC%D9%84%D9%8A%D8%B2%D9%8A%D8%A9-%D9%84%D9%84%D8%AA%D8%AD%D8%B6%D9%8A%D8%B1/",
    "sourceName": "موقع الدراسة",
    "solution": false,
    "typeKey": "lesson",
-   "addedAt": "2026-09-23T16:41:22.289Z"
+   "addedAt": "2026-09-23T17:22:37.344Z"
   },
   {
-   "id": "ed-conjugaison-%D9%84%D8%BA%D8%A9-%D9%81%D8%B1%D9%86%D8%B3%D9%8A%D8%A9-%D8%B3%D9%86%D8%A9-%D8%B1%D8%A7%D8%A8%D8%B9%D8%A9-%D9%85%D8%AA%D9%88%D8%B3%D8%B7",
-   "title": "Conjugaison لغة فرنسية سنة رابعة متوسط",
-   "level": "4am",
-   "levelName": "الرابعة متوسط",
-   "stage": "middle",
-   "subject": "اللغة الفرنسية",
-   "subjectKey": "فرنسية",
+   "id": "ed-%D9%85%D9%84%D8%AE%D8%B5-%D8%A2%D9%84%D9%8A%D8%A7%D8%AA-%D8%AA%D8%AD%D9%88%D9%8A%D9%84-%D8%A7%D9%84%D8%B7%D8%A7%D9%82%D8%A9-%D8%A7%D9%84%D8%B6%D9%88%D8%A6%D9%8A%D8%A9-%D8%A7%D9%84%D9%89-%D8%B7%D8%A7-2",
+   "title": "ملخص آليات تحويل الطاقة الضوئية الى طاقة كيميائية",
+   "level": "3as",
+   "levelName": "الثالثة ثانوي",
+   "stage": "secondary",
+   "subject": "علوم الطبيعة والحياة",
+   "subjectKey": "علوم الطبيعة والحياة",
    "stream": "all",
    "streamName": "جميع الشعب",
    "year": "",
-   "type": "دروس",
-   "pdf": "https://eddirasa.com/wp-content/uploads/2015/04/GUIDE_DE_CONJUGAISON.pdf",
+   "type": "ملخصات",
+   "pdf": "https://eddirasa.com/wp-content/uploads/2016/05/ملخص-الوحدة01-تركيب-ضوئي.pdf",
    "image": "",
-   "source": "https://eddirasa.com/conjugaison-%D9%84%D8%BA%D8%A9-%D9%81%D8%B1%D9%86%D8%B3%D9%8A%D8%A9-%D8%B3%D9%86%D8%A9-%D8%B1%D8%A7%D8%A8%D8%B9%D8%A9-%D9%85%D8%AA%D9%88%D8%B3%D8%B7/",
+   "source": "https://eddirasa.com/%D9%85%D9%84%D8%AE%D8%B5-%D8%A2%D9%84%D9%8A%D8%A7%D8%AA-%D8%AA%D8%AD%D9%88%D9%8A%D9%84-%D8%A7%D9%84%D8%B7%D8%A7%D9%82%D8%A9-%D8%A7%D9%84%D8%B6%D9%88%D8%A6%D9%8A%D8%A9-%D8%A7%D9%84%D9%89-%D8%B7%D8%A7-2/",
    "sourceName": "موقع الدراسة",
    "solution": false,
-   "typeKey": "lesson",
-   "addedAt": "2026-09-23T16:41:19.256Z"
+   "typeKey": "summary",
+   "addedAt": "2026-09-23T17:22:25.315Z"
   },
   {
-   "id": "ed-grammaire-%D9%84%D8%BA%D8%A9-%D9%81%D8%B1%D9%86%D8%B3%D9%8A%D8%A9-%D8%B3%D9%86%D8%A9-%D8%B1%D8%A7%D8%A8%D8%B9%D8%A9-%D9%85%D8%AA%D9%88%D8%B3%D8%B7",
-   "title": "Grammaire لغة فرنسية سنة رابعة متوسط",
-   "level": "4am",
-   "levelName": "الرابعة متوسط",
-   "stage": "middle",
-   "subject": "اللغة الفرنسية",
-   "subjectKey": "فرنسية",
+   "id": "ed-%D9%85%D9%84%D8%AE%D8%B5-%D8%A2%D9%84%D9%8A%D8%A7%D8%AA-%D8%AA%D8%AD%D9%88%D9%8A%D9%84-%D8%A7%D9%84%D8%B7%D8%A7%D9%82%D8%A9-%D8%A7%D9%84%D9%83%D9%8A%D9%85%D9%8A%D8%A7%D8%A6%D9%8A%D8%A9-%D9%81%D9%8A-2",
+   "title": "ملخص آليات تحويل الطاقة الكيميائية في الجزيئات العضوية الى ATP",
+   "level": "3as",
+   "levelName": "الثالثة ثانوي",
+   "stage": "secondary",
+   "subject": "علوم الطبيعة والحياة",
+   "subjectKey": "علوم الطبيعة والحياة",
    "stream": "all",
    "streamName": "جميع الشعب",
    "year": "",
-   "type": "دروس",
-   "pdf": "https://eddirasa.com/wp-content/uploads/2015/04/GUIDE_DE_GRAMMAIRE.pdf",
+   "type": "ملخصات",
+   "pdf": "https://eddirasa.com/wp-content/uploads/2016/05/ملخص-الوحدة-02-تنفس.pdf",
    "image": "",
-   "source": "https://eddirasa.com/grammaire-%D9%84%D8%BA%D8%A9-%D9%81%D8%B1%D9%86%D8%B3%D9%8A%D8%A9-%D8%B3%D9%86%D8%A9-%D8%B1%D8%A7%D8%A8%D8%B9%D8%A9-%D9%85%D8%AA%D9%88%D8%B3%D8%B7/",
+   "source": "https://eddirasa.com/%D9%85%D9%84%D8%AE%D8%B5-%D8%A2%D9%84%D9%8A%D8%A7%D8%AA-%D8%AA%D8%AD%D9%88%D9%8A%D9%84-%D8%A7%D9%84%D8%B7%D8%A7%D9%82%D8%A9-%D8%A7%D9%84%D9%83%D9%8A%D9%85%D9%8A%D8%A7%D8%A6%D9%8A%D8%A9-%D9%81%D9%8A-2/",
    "sourceName": "موقع الدراسة",
    "solution": false,
-   "typeKey": "lesson",
-   "addedAt": "2026-09-23T16:41:13.198Z"
+   "typeKey": "summary",
+   "addedAt": "2026-09-23T17:22:13.308Z"
   },
   {
-   "id": "ed-%D9%85%D9%84%D8%AE%D8%B5-%D9%84%D8%AF%D8%B1%D9%88%D8%B3-%D8%A7%D9%84%D9%84%D8%BA%D8%A9-%D8%A7%D9%84%D9%81%D8%B1%D9%86%D8%B3%D9%8A%D8%A9-%D8%B3%D9%86%D8%A9-%D8%B1%D8%A7%D8%A8%D8%B9%D8%A9-%D9%85%D8%AA",
-   "title": "ملخص لدروس اللغة الفرنسية سنة رابعة متوسط",
-   "level": "4am",
-   "levelName": "الرابعة متوسط",
-   "stage": "middle",
-   "subject": "اللغة الفرنسية",
-   "subjectKey": "فرنسية",
+   "id": "ed-%D9%85%D9%84%D8%AE%D8%B5-%D8%AF%D9%88%D8%B1-%D8%A7%D9%84%D8%A8%D8%B1%D9%88%D8%AA%D9%8A%D9%86%D8%A7%D8%AA-%D9%81%D9%8A-%D8%A7%D9%84%D8%A5%D8%AA%D8%B5%D8%A7%D9%84-%D8%A7%D9%84%D8%B9%D8%B5%D8%A8%D9%8A-3",
+   "title": "ملخص دور البروتينات في الإتصال العصبي علوم سنة ثالثة ثانوي",
+   "level": "3as",
+   "levelName": "الثالثة ثانوي",
+   "stage": "secondary",
+   "subject": "علوم الطبيعة والحياة",
+   "subjectKey": "علوم الطبيعة والحياة",
    "stream": "all",
    "streamName": "جميع الشعب",
    "year": "",
-   "type": "دروس",
-   "pdf": "https://eddirasa.com/wp-content/uploads/2015/04/french4am-resume_questions.pdf",
+   "type": "ملخصات",
+   "pdf": "https://eddirasa.com/wp-content/uploads/2016/05/ملخص-الوحدة05-اتصال-عصبي.pdf",
    "image": "",
-   "source": "https://eddirasa.com/%D9%85%D9%84%D8%AE%D8%B5-%D9%84%D8%AF%D8%B1%D9%88%D8%B3-%D8%A7%D9%84%D9%84%D8%BA%D8%A9-%D8%A7%D9%84%D9%81%D8%B1%D9%86%D8%B3%D9%8A%D8%A9-%D8%B3%D9%86%D8%A9-%D8%B1%D8%A7%D8%A8%D8%B9%D8%A9-%D9%85%D8%AA/",
+   "source": "https://eddirasa.com/%D9%85%D9%84%D8%AE%D8%B5-%D8%AF%D9%88%D8%B1-%D8%A7%D9%84%D8%A8%D8%B1%D9%88%D8%AA%D9%8A%D9%86%D8%A7%D8%AA-%D9%81%D9%8A-%D8%A7%D9%84%D8%A5%D8%AA%D8%B5%D8%A7%D9%84-%D8%A7%D9%84%D8%B9%D8%B5%D8%A8%D9%8A-3/",
    "sourceName": "موقع الدراسة",
    "solution": false,
-   "typeKey": "lesson",
-   "addedAt": "2026-09-23T16:41:07.265Z"
+   "typeKey": "summary",
+   "addedAt": "2026-09-23T17:21:58.237Z"
+  },
+  {
+   "id": "ed-%D9%85%D9%84%D8%AE%D8%B5-%D9%88%D8%AD%D8%AF%D8%A9-%D8%AA%D8%B1%D9%83%D9%8A%D8%A8-%D8%A7%D9%84%D8%A8%D8%B1%D9%88%D8%AA%D9%8A%D9%86-%D8%B9%D9%84%D9%88%D9%85-%D8%B3%D9%86%D8%A9-%D8%AB%D8%A7%D9%84%D8%AB",
+   "title": "ملخص وحدة تركيب البروتين علوم سنة ثالثة ثانوي",
+   "level": "3as",
+   "levelName": "الثالثة ثانوي",
+   "stage": "secondary",
+   "subject": "علوم الطبيعة والحياة",
+   "subjectKey": "علوم الطبيعة والحياة",
+   "stream": "all",
+   "streamName": "جميع الشعب",
+   "year": "",
+   "type": "ملخصات",
+   "pdf": "https://eddirasa.com/wp-content/uploads/2016/05/ملخص-الوحدة01-تركيب-البروتين.pdf",
+   "image": "",
+   "source": "https://eddirasa.com/%D9%85%D9%84%D8%AE%D8%B5-%D9%88%D8%AD%D8%AF%D8%A9-%D8%AA%D8%B1%D9%83%D9%8A%D8%A8-%D8%A7%D9%84%D8%A8%D8%B1%D9%88%D8%AA%D9%8A%D9%86-%D8%B9%D9%84%D9%88%D9%85-%D8%B3%D9%86%D8%A9-%D8%AB%D8%A7%D9%84%D8%AB/",
+   "sourceName": "موقع الدراسة",
+   "solution": false,
+   "typeKey": "summary",
+   "addedAt": "2026-09-23T17:21:49.143Z"
+  },
+  {
+   "id": "ed-%D9%85%D9%84%D8%AE%D8%B5-%D8%A7%D9%84%D8%B9%D9%84%D8%A7%D9%82%D8%A9-%D8%A8%D9%8A%D9%86-%D8%A8%D9%86%D9%8A%D8%A9-%D9%88-%D8%AA%D8%B1%D9%83%D9%8A%D8%A8-%D8%A7%D9%84%D8%A8%D8%B1%D9%88%D8%AA%D9%8A%D9%86-3",
+   "title": "ملخص العلاقة بين بنية و تركيب البروتين علوم سنة ثالثة ثانوي",
+   "level": "3as",
+   "levelName": "الثالثة ثانوي",
+   "stage": "secondary",
+   "subject": "علوم الطبيعة والحياة",
+   "subjectKey": "علوم الطبيعة والحياة",
+   "stream": "all",
+   "streamName": "جميع الشعب",
+   "year": "",
+   "type": "ملخصات",
+   "pdf": "https://eddirasa.com/wp-content/uploads/2016/05/ملخص-الوحدة02-علاقة-بن-البنية-والوظيفة.pdf",
+   "image": "",
+   "source": "https://eddirasa.com/%D9%85%D9%84%D8%AE%D8%B5-%D8%A7%D9%84%D8%B9%D9%84%D8%A7%D9%82%D8%A9-%D8%A8%D9%8A%D9%86-%D8%A8%D9%86%D9%8A%D8%A9-%D9%88-%D8%AA%D8%B1%D9%83%D9%8A%D8%A8-%D8%A7%D9%84%D8%A8%D8%B1%D9%88%D8%AA%D9%8A%D9%86-3/",
+   "sourceName": "موقع الدراسة",
+   "solution": false,
+   "typeKey": "summary",
+   "addedAt": "2026-09-23T17:21:46.219Z"
+  },
+  {
+   "id": "ed-%D9%85%D9%84%D8%AE%D8%B5-%D8%A7%D9%84%D9%86%D8%B4%D8%A7%D8%B7-%D8%A7%D9%84%D8%A5%D9%86%D8%B2%D9%8A%D9%85%D9%8A-%D9%84%D9%84%D8%A8%D8%B1%D9%88%D8%AA%D9%8A%D9%86%D8%A7%D8%AA-%D8%B9%D9%84%D9%88%D9%85-3",
+   "title": "ملخص النشاط الإنزيمي للبروتينات علوم سنة ثالثة ثانوي",
+   "level": "3as",
+   "levelName": "الثالثة ثانوي",
+   "stage": "secondary",
+   "subject": "علوم الطبيعة والحياة",
+   "subjectKey": "علوم الطبيعة والحياة",
+   "stream": "all",
+   "streamName": "جميع الشعب",
+   "year": "",
+   "type": "ملخصات",
+   "pdf": "https://eddirasa.com/wp-content/uploads/2016/05/ملخص-الوحدة03-الانزيمات.pdf",
+   "image": "",
+   "source": "https://eddirasa.com/%D9%85%D9%84%D8%AE%D8%B5-%D8%A7%D9%84%D9%86%D8%B4%D8%A7%D8%B7-%D8%A7%D9%84%D8%A5%D9%86%D8%B2%D9%8A%D9%85%D9%8A-%D9%84%D9%84%D8%A8%D8%B1%D9%88%D8%AA%D9%8A%D9%86%D8%A7%D8%AA-%D8%B9%D9%84%D9%88%D9%85-3/",
+   "sourceName": "موقع الدراسة",
+   "solution": false,
+   "typeKey": "summary",
+   "addedAt": "2026-09-23T17:21:40.166Z"
+  },
+  {
+   "id": "ed-%D9%85%D9%84%D8%AE%D8%B5-%D8%A7%D9%84%D9%86%D8%B4%D8%A7%D8%B7-%D8%A7%D9%84%D8%A5%D9%86%D8%B2%D9%8A%D9%85%D9%8A-%D9%84%D9%84%D8%A8%D8%B1%D9%88%D8%AA%D9%8A%D9%86%D8%A7%D8%AA-%D8%B9%D9%84%D9%88%D9%85-2",
+   "title": "ملخص النشاط الإنزيمي للبروتينات علوم سنة 3 ثانوي",
+   "level": "3as",
+   "levelName": "الثالثة ثانوي",
+   "stage": "secondary",
+   "subject": "علوم الطبيعة والحياة",
+   "subjectKey": "علوم الطبيعة والحياة",
+   "stream": "all",
+   "streamName": "جميع الشعب",
+   "year": "",
+   "type": "ملخصات",
+   "pdf": "https://eddirasa.com/wp-content/uploads/2016/04/RES3.pdf",
+   "image": "",
+   "source": "https://eddirasa.com/%D9%85%D9%84%D8%AE%D8%B5-%D8%A7%D9%84%D9%86%D8%B4%D8%A7%D8%B7-%D8%A7%D9%84%D8%A5%D9%86%D8%B2%D9%8A%D9%85%D9%8A-%D9%84%D9%84%D8%A8%D8%B1%D9%88%D8%AA%D9%8A%D9%86%D8%A7%D8%AA-%D8%B9%D9%84%D9%88%D9%85-2/",
+   "sourceName": "موقع الدراسة",
+   "solution": false,
+   "typeKey": "summary",
+   "addedAt": "2026-09-23T17:20:06.915Z"
+  },
+  {
+   "id": "ed-%D9%85%D9%84%D8%AE%D8%B5-%D9%88%D8%AD%D8%AF%D8%A9-%D8%AA%D8%B1%D9%83%D9%8A%D8%A8-%D8%A7%D9%84%D8%A8%D8%B1%D9%88%D8%AA%D9%8A%D9%86-%D8%B9%D9%84%D9%88%D9%85-%D8%B3%D9%86%D8%A9-3-%D8%AB%D8%A7%D9%86-2",
+   "title": "ملخص وحدة تركيب البروتين علوم سنة 3 ثانوي",
+   "level": "3as",
+   "levelName": "الثالثة ثانوي",
+   "stage": "secondary",
+   "subject": "علوم الطبيعة والحياة",
+   "subjectKey": "علوم الطبيعة والحياة",
+   "stream": "all",
+   "streamName": "جميع الشعب",
+   "year": "",
+   "type": "ملخصات",
+   "pdf": "https://eddirasa.com/wp-content/uploads/2016/04/RES1.pdf",
+   "image": "",
+   "source": "https://eddirasa.com/%D9%85%D9%84%D8%AE%D8%B5-%D9%88%D8%AD%D8%AF%D8%A9-%D8%AA%D8%B1%D9%83%D9%8A%D8%A8-%D8%A7%D9%84%D8%A8%D8%B1%D9%88%D8%AA%D9%8A%D9%86-%D8%B9%D9%84%D9%88%D9%85-%D8%B3%D9%86%D8%A9-3-%D8%AB%D8%A7%D9%86-2/",
+   "sourceName": "موقع الدراسة",
+   "solution": false,
+   "typeKey": "summary",
+   "addedAt": "2026-09-23T17:19:45.878Z"
   }
  ],
  "news": [
