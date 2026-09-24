@@ -1,12 +1,312 @@
 {
- "generated_at": "2026-09-24T12:28:05.114Z",
- "total": 11616,
+ "generated_at": "2026-09-24T12:58:05.130Z",
+ "total": 11635,
  "shards": [
+  {
+   "file": "1am-c55de173--x8dd76b09.json",
+   "level": "1am",
+   "subject": "رياضيات",
+   "count": 119
+  },
+  {
+   "file": "1am-c55de173--xec764203.json",
+   "level": "1am",
+   "subject": "علوم فيزيائية",
+   "count": 1
+  },
+  {
+   "file": "1am-c55de173--x91b4a510.json",
+   "level": "1am",
+   "subject": "عربية",
+   "count": 87
+  },
+  {
+   "file": "1am-c55de173--x87ffb58d.json",
+   "level": "1am",
+   "subject": "اعلام الالي",
+   "count": 43
+  },
+  {
+   "file": "1am-c55de173--x858e891e.json",
+   "level": "1am",
+   "subject": "فرنسية",
+   "count": 97
+  },
+  {
+   "file": "1am-c55de173--xc5ee3ebe.json",
+   "level": "1am",
+   "subject": "تربية المدنية",
+   "count": 97
+  },
+  {
+   "file": "1am-c55de173--x25af644b.json",
+   "level": "1am",
+   "subject": "تربية الاسلامية",
+   "count": 54
+  },
+  {
+   "file": "1am-c55de173--xdffa1d13.json",
+   "level": "1am",
+   "subject": "تاريخ والجغرافيا",
+   "count": 78
+  },
+  {
+   "file": "1am-c55de173--x3a65f9b4.json",
+   "level": "1am",
+   "subject": "علوم الفيزيائية والتكنولوجيا",
+   "count": 119
+  },
+  {
+   "file": "1am-c55de173--xee86b77b.json",
+   "level": "1am",
+   "subject": "انجليزية",
+   "count": 98
+  },
+  {
+   "file": "1am-c55de173--xca4e049c.json",
+   "level": "1am",
+   "subject": "علوم الطبيعة والحياة",
+   "count": 86
+  },
+  {
+   "file": "4am-5886f037--xee86b77b.json",
+   "level": "4am",
+   "subject": "انجليزية",
+   "count": 91
+  },
+  {
+   "file": "4am-5886f037--xf0519d05.json",
+   "level": "4am",
+   "subject": "علوم الفيزيائية",
+   "count": 15
+  },
+  {
+   "file": "4am-5886f037--xc5ee3ebe.json",
+   "level": "4am",
+   "subject": "تربية المدنية",
+   "count": 52
+  },
+  {
+   "file": "4am-5886f037--xdffa1d13.json",
+   "level": "4am",
+   "subject": "تاريخ والجغرافيا",
+   "count": 57
+  },
+  {
+   "file": "4am-5886f037--x91b4a510.json",
+   "level": "4am",
+   "subject": "عربية",
+   "count": 115
+  },
+  {
+   "file": "4am-5886f037--x8dd76b09.json",
+   "level": "4am",
+   "subject": "رياضيات",
+   "count": 178
+  },
+  {
+   "file": "4am-5886f037--x858e891e.json",
+   "level": "4am",
+   "subject": "فرنسية",
+   "count": 123
+  },
+  {
+   "file": "4am-5886f037--x25af644b.json",
+   "level": "4am",
+   "subject": "تربية الاسلامية",
+   "count": 51
+  },
+  {
+   "file": "4am-5886f037--x87ffb58d.json",
+   "level": "4am",
+   "subject": "اعلام الالي",
+   "count": 11
+  },
+  {
+   "file": "4am-5886f037--x0acd2087.json",
+   "level": "4am",
+   "subject": "تربية الموسيقية",
+   "count": 1
+  },
+  {
+   "file": "4am-5886f037--x668a495b.json",
+   "level": "4am",
+   "subject": "تربية الفنية",
+   "count": 14
+  },
+  {
+   "file": "4am-5886f037--xca4e049c.json",
+   "level": "4am",
+   "subject": "علوم الطبيعة والحياة",
+   "count": 144
+  },
+  {
+   "file": "4am-5886f037--x3a65f9b4.json",
+   "level": "4am",
+   "subject": "علوم الفيزيائية والتكنولوجيا",
+   "count": 150
+  },
+  {
+   "file": "bac-5e4dec23--xf2964ab5.json",
+   "level": "bac",
+   "subject": "فلسفة",
+   "count": 210
+  },
+  {
+   "file": "bac-5e4dec23--x8dd76b09.json",
+   "level": "bac",
+   "subject": "رياضيات",
+   "count": 315
+  },
+  {
+   "file": "bac-5e4dec23--x91b4a510.json",
+   "level": "bac",
+   "subject": "عربية",
+   "count": 21
+  },
+  {
+   "file": "bac-5e4dec23--xca4e049c.json",
+   "level": "bac",
+   "subject": "علوم الطبيعة والحياة",
+   "count": 49
+  },
+  {
+   "file": "bac-5e4dec23--xf0519d05.json",
+   "level": "bac",
+   "subject": "علوم الفيزيائية",
+   "count": 40
+  },
+  {
+   "file": "bac-5e4dec23--x3084b732.json",
+   "level": "bac",
+   "subject": "تربية البدنية",
+   "count": 1
+  },
+  {
+   "file": "bac-5e4dec23--xee86b77b.json",
+   "level": "bac",
+   "subject": "انجليزية",
+   "count": 59
+  },
+  {
+   "file": "bac-5e4dec23--xdffa1d13.json",
+   "level": "bac",
+   "subject": "تاريخ والجغرافيا",
+   "count": 59
+  },
+  {
+   "file": "bac-5e4dec23--x858e891e.json",
+   "level": "bac",
+   "subject": "فرنسية",
+   "count": 58
+  },
+  {
+   "file": "bac-5e4dec23--x1dc2f60b.json",
+   "level": "bac",
+   "subject": "ايطالية",
+   "count": 19
+  },
+  {
+   "file": "bac-5e4dec23--x5e37d86f.json",
+   "level": "bac",
+   "subject": "المانية",
+   "count": 26
+  },
+  {
+   "file": "bac-5e4dec23--x6f7b65fd.json",
+   "level": "bac",
+   "subject": "اسبانية",
+   "count": 26
+  },
+  {
+   "file": "bac-5e4dec23--xde7cefe6.json",
+   "level": "bac",
+   "subject": "اقتصاد والمناجمنت",
+   "count": 26
+  },
+  {
+   "file": "bac-5e4dec23--x402215f0.json",
+   "level": "bac",
+   "subject": "هندسة الميكانيكية",
+   "count": 20
+  },
+  {
+   "file": "bac-5e4dec23--x3b0e76c9.json",
+   "level": "bac",
+   "subject": "هندسة المدنية",
+   "count": 20
+  },
+  {
+   "file": "bac-5e4dec23--x9c0466c0.json",
+   "level": "bac",
+   "subject": "تسيير المحاسبي والمالي",
+   "count": 26
+  },
+  {
+   "file": "bac-5e4dec23--x038864e8.json",
+   "level": "bac",
+   "subject": "هندسة الكهربائية",
+   "count": 20
+  },
+  {
+   "file": "bac-5e4dec23--xd1ec9be1.json",
+   "level": "bac",
+   "subject": "قانون",
+   "count": 26
+  },
+  {
+   "file": "bac-5e4dec23--x3c29dace.json",
+   "level": "bac",
+   "subject": "هندسة الطرائق",
+   "count": 26
+  },
+  {
+   "file": "bac-5e4dec23--x25af644b.json",
+   "level": "bac",
+   "subject": "تربية الاسلامية",
+   "count": 20
+  },
+  {
+   "file": "bac-5e4dec23--x6bf47148.json",
+   "level": "bac",
+   "subject": "امازيغية",
+   "count": 20
+  },
+  {
+   "file": "bac-5e4dec23--xcb15c783.json",
+   "level": "bac",
+   "subject": "هندسة مدنية",
+   "count": 6
+  },
+  {
+   "file": "bac-5e4dec23--x6a39dff9.json",
+   "level": "bac",
+   "subject": "هندسة كهربائية",
+   "count": 6
+  },
+  {
+   "file": "bac-5e4dec23--xb1b9bb20.json",
+   "level": "bac",
+   "subject": "هندسة ميكانيكية",
+   "count": 6
+  },
+  {
+   "file": "bac-5e4dec23--x4f1940c3.json",
+   "level": "bac",
+   "subject": "علوم الاسلامية",
+   "count": 39
+  },
+  {
+   "file": "bac-5e4dec23--xfd1ffea5.json",
+   "level": "bac",
+   "subject": "عربية وادابها",
+   "count": 38
+  },
   {
    "file": "3as-b0225673--x5e37d86f.json",
    "level": "3as",
    "subject": "المانية",
-   "count": 54
+   "count": 55
   },
   {
    "file": "3as-b0225673--xf2964ab5.json",
@@ -159,240 +459,6 @@
    "count": 229
   },
   {
-   "file": "4am-5886f037--xf0519d05.json",
-   "level": "4am",
-   "subject": "علوم الفيزيائية",
-   "count": 15
-  },
-  {
-   "file": "4am-5886f037--xc5ee3ebe.json",
-   "level": "4am",
-   "subject": "تربية المدنية",
-   "count": 52
-  },
-  {
-   "file": "4am-5886f037--xdffa1d13.json",
-   "level": "4am",
-   "subject": "تاريخ والجغرافيا",
-   "count": 57
-  },
-  {
-   "file": "4am-5886f037--x91b4a510.json",
-   "level": "4am",
-   "subject": "عربية",
-   "count": 115
-  },
-  {
-   "file": "4am-5886f037--x8dd76b09.json",
-   "level": "4am",
-   "subject": "رياضيات",
-   "count": 178
-  },
-  {
-   "file": "4am-5886f037--x858e891e.json",
-   "level": "4am",
-   "subject": "فرنسية",
-   "count": 123
-  },
-  {
-   "file": "4am-5886f037--x25af644b.json",
-   "level": "4am",
-   "subject": "تربية الاسلامية",
-   "count": 51
-  },
-  {
-   "file": "4am-5886f037--x87ffb58d.json",
-   "level": "4am",
-   "subject": "اعلام الالي",
-   "count": 11
-  },
-  {
-   "file": "4am-5886f037--x0acd2087.json",
-   "level": "4am",
-   "subject": "تربية الموسيقية",
-   "count": 1
-  },
-  {
-   "file": "4am-5886f037--x668a495b.json",
-   "level": "4am",
-   "subject": "تربية الفنية",
-   "count": 14
-  },
-  {
-   "file": "4am-5886f037--xca4e049c.json",
-   "level": "4am",
-   "subject": "علوم الطبيعة والحياة",
-   "count": 144
-  },
-  {
-   "file": "4am-5886f037--xee86b77b.json",
-   "level": "4am",
-   "subject": "انجليزية",
-   "count": 90
-  },
-  {
-   "file": "4am-5886f037--x3a65f9b4.json",
-   "level": "4am",
-   "subject": "علوم الفيزيائية والتكنولوجيا",
-   "count": 150
-  },
-  {
-   "file": "bac-5e4dec23--x8dd76b09.json",
-   "level": "bac",
-   "subject": "رياضيات",
-   "count": 314
-  },
-  {
-   "file": "bac-5e4dec23--xf2964ab5.json",
-   "level": "bac",
-   "subject": "فلسفة",
-   "count": 202
-  },
-  {
-   "file": "bac-5e4dec23--x91b4a510.json",
-   "level": "bac",
-   "subject": "عربية",
-   "count": 21
-  },
-  {
-   "file": "bac-5e4dec23--xca4e049c.json",
-   "level": "bac",
-   "subject": "علوم الطبيعة والحياة",
-   "count": 49
-  },
-  {
-   "file": "bac-5e4dec23--xf0519d05.json",
-   "level": "bac",
-   "subject": "علوم الفيزيائية",
-   "count": 40
-  },
-  {
-   "file": "bac-5e4dec23--x3084b732.json",
-   "level": "bac",
-   "subject": "تربية البدنية",
-   "count": 1
-  },
-  {
-   "file": "bac-5e4dec23--xee86b77b.json",
-   "level": "bac",
-   "subject": "انجليزية",
-   "count": 59
-  },
-  {
-   "file": "bac-5e4dec23--xdffa1d13.json",
-   "level": "bac",
-   "subject": "تاريخ والجغرافيا",
-   "count": 59
-  },
-  {
-   "file": "bac-5e4dec23--x858e891e.json",
-   "level": "bac",
-   "subject": "فرنسية",
-   "count": 58
-  },
-  {
-   "file": "bac-5e4dec23--x1dc2f60b.json",
-   "level": "bac",
-   "subject": "ايطالية",
-   "count": 19
-  },
-  {
-   "file": "bac-5e4dec23--x5e37d86f.json",
-   "level": "bac",
-   "subject": "المانية",
-   "count": 26
-  },
-  {
-   "file": "bac-5e4dec23--x6f7b65fd.json",
-   "level": "bac",
-   "subject": "اسبانية",
-   "count": 26
-  },
-  {
-   "file": "bac-5e4dec23--xde7cefe6.json",
-   "level": "bac",
-   "subject": "اقتصاد والمناجمنت",
-   "count": 26
-  },
-  {
-   "file": "bac-5e4dec23--x402215f0.json",
-   "level": "bac",
-   "subject": "هندسة الميكانيكية",
-   "count": 20
-  },
-  {
-   "file": "bac-5e4dec23--x3b0e76c9.json",
-   "level": "bac",
-   "subject": "هندسة المدنية",
-   "count": 20
-  },
-  {
-   "file": "bac-5e4dec23--x9c0466c0.json",
-   "level": "bac",
-   "subject": "تسيير المحاسبي والمالي",
-   "count": 26
-  },
-  {
-   "file": "bac-5e4dec23--x038864e8.json",
-   "level": "bac",
-   "subject": "هندسة الكهربائية",
-   "count": 20
-  },
-  {
-   "file": "bac-5e4dec23--xd1ec9be1.json",
-   "level": "bac",
-   "subject": "قانون",
-   "count": 26
-  },
-  {
-   "file": "bac-5e4dec23--x3c29dace.json",
-   "level": "bac",
-   "subject": "هندسة الطرائق",
-   "count": 26
-  },
-  {
-   "file": "bac-5e4dec23--x25af644b.json",
-   "level": "bac",
-   "subject": "تربية الاسلامية",
-   "count": 20
-  },
-  {
-   "file": "bac-5e4dec23--x6bf47148.json",
-   "level": "bac",
-   "subject": "امازيغية",
-   "count": 20
-  },
-  {
-   "file": "bac-5e4dec23--xcb15c783.json",
-   "level": "bac",
-   "subject": "هندسة مدنية",
-   "count": 6
-  },
-  {
-   "file": "bac-5e4dec23--x6a39dff9.json",
-   "level": "bac",
-   "subject": "هندسة كهربائية",
-   "count": 6
-  },
-  {
-   "file": "bac-5e4dec23--xb1b9bb20.json",
-   "level": "bac",
-   "subject": "هندسة ميكانيكية",
-   "count": 6
-  },
-  {
-   "file": "bac-5e4dec23--x4f1940c3.json",
-   "level": "bac",
-   "subject": "علوم الاسلامية",
-   "count": 39
-  },
-  {
-   "file": "bac-5e4dec23--xfd1ffea5.json",
-   "level": "bac",
-   "subject": "عربية وادابها",
-   "count": 38
-  },
-  {
    "file": "4ap-17f97124--x858e891e.json",
    "level": "4ap",
    "subject": "فرنسية",
@@ -445,72 +511,6 @@
    "level": "4ap",
    "subject": "تربية العلمية",
    "count": 61
-  },
-  {
-   "file": "1am-c55de173--xec764203.json",
-   "level": "1am",
-   "subject": "علوم فيزيائية",
-   "count": 1
-  },
-  {
-   "file": "1am-c55de173--x91b4a510.json",
-   "level": "1am",
-   "subject": "عربية",
-   "count": 87
-  },
-  {
-   "file": "1am-c55de173--x8dd76b09.json",
-   "level": "1am",
-   "subject": "رياضيات",
-   "count": 111
-  },
-  {
-   "file": "1am-c55de173--x87ffb58d.json",
-   "level": "1am",
-   "subject": "اعلام الالي",
-   "count": 43
-  },
-  {
-   "file": "1am-c55de173--x858e891e.json",
-   "level": "1am",
-   "subject": "فرنسية",
-   "count": 97
-  },
-  {
-   "file": "1am-c55de173--xc5ee3ebe.json",
-   "level": "1am",
-   "subject": "تربية المدنية",
-   "count": 97
-  },
-  {
-   "file": "1am-c55de173--x25af644b.json",
-   "level": "1am",
-   "subject": "تربية الاسلامية",
-   "count": 54
-  },
-  {
-   "file": "1am-c55de173--xdffa1d13.json",
-   "level": "1am",
-   "subject": "تاريخ والجغرافيا",
-   "count": 78
-  },
-  {
-   "file": "1am-c55de173--x3a65f9b4.json",
-   "level": "1am",
-   "subject": "علوم الفيزيائية والتكنولوجيا",
-   "count": 119
-  },
-  {
-   "file": "1am-c55de173--xee86b77b.json",
-   "level": "1am",
-   "subject": "انجليزية",
-   "count": 98
-  },
-  {
-   "file": "1am-c55de173--xca4e049c.json",
-   "level": "1am",
-   "subject": "علوم الطبيعة والحياة",
-   "count": 86
   },
   {
    "file": "bem-d722a518.json",
@@ -864,12 +864,12 @@
   {
    "id": "middle",
    "name": "المتوسط",
-   "count": 3099
+   "count": 3108
   },
   {
    "id": "secondary",
    "name": "الثانوي",
-   "count": 4937
+   "count": 4947
   },
   {
    "id": "teachers",
@@ -879,113 +879,53 @@
  ],
  "levels": [
   {
-   "id": "3as",
-   "name": "الثالثة ثانوي",
-   "stage": "secondary",
-   "count": 2916,
+   "id": "1am",
+   "name": "الأولى متوسط",
+   "stage": "middle",
+   "count": 879,
    "subjects": [
     {
-     "id": "علوم الطبيعة والحياة",
-     "count": 367
-    },
-    {
      "id": "رياضيات",
-     "count": 339
+     "count": 119
     },
     {
-     "id": "فرنسية",
-     "count": 260
+     "id": "علوم الفيزيائية والتكنولوجيا",
+     "count": 119
     },
     {
      "id": "انجليزية",
-     "count": 259
+     "count": 98
     },
     {
-     "id": "عربية وادابها",
-     "count": 229
+     "id": "فرنسية",
+     "count": 97
     },
     {
-     "id": "تاريخ والجغرافيا",
-     "count": 227
-    },
-    {
-     "id": "تسيير المحاسبي والمالي",
-     "count": 227
-    },
-    {
-     "id": "فلسفة",
-     "count": 137
-    },
-    {
-     "id": "تربية الاسلامية",
-     "count": 127
-    },
-    {
-     "id": "علوم الفيزيائية",
-     "count": 114
-    },
-    {
-     "id": "هندسة المدنية",
-     "count": 102
-    },
-    {
-     "id": "هندسة الكهربائية",
-     "count": 92
-    },
-    {
-     "id": "اقتصاد والمناجمنت",
-     "count": 82
-    },
-    {
-     "id": "قانون",
-     "count": 79
-    },
-    {
-     "id": "هندسة الطرائق",
-     "count": 76
-    },
-    {
-     "id": "اسبانية",
-     "count": 61
-    },
-    {
-     "id": "المانية",
-     "count": 54
-    },
-    {
-     "id": "هندسة الميكانيكية",
-     "count": 37
-    },
-    {
-     "id": "تكنولوجيا",
-     "count": 19
-    },
-    {
-     "id": "علوم اسلامية",
-     "count": 9
+     "id": "تربية المدنية",
+     "count": 97
     },
     {
      "id": "عربية",
-     "count": 8
+     "count": 87
     },
     {
-     "id": "تسيير محاسبي",
-     "count": 5
+     "id": "علوم الطبيعة والحياة",
+     "count": 86
     },
     {
-     "id": "اقتصاد ومناجمنت",
-     "count": 2
+     "id": "تاريخ والجغرافيا",
+     "count": 78
     },
     {
-     "id": "لغة ايطالية",
-     "count": 2
+     "id": "تربية الاسلامية",
+     "count": 54
+    },
+    {
+     "id": "اعلام الالي",
+     "count": 43
     },
     {
      "id": "علوم فيزيائية",
-     "count": 1
-    },
-    {
-     "id": "ايطالية",
      "count": 1
     }
    ]
@@ -994,7 +934,7 @@
    "id": "4am",
    "name": "الرابعة متوسط",
    "stage": "middle",
-   "count": 1001,
+   "count": 1002,
    "subjects": [
     {
      "id": "رياضيات",
@@ -1018,7 +958,7 @@
     },
     {
      "id": "انجليزية",
-     "count": 90
+     "count": 91
     },
     {
      "id": "تاريخ والجغرافيا",
@@ -1054,15 +994,15 @@
    "id": "bac",
    "name": "البكالوريا",
    "stage": "secondary",
-   "count": 1173,
+   "count": 1182,
    "subjects": [
     {
      "id": "رياضيات",
-     "count": 314
+     "count": 315
     },
     {
      "id": "فلسفة",
-     "count": 202
+     "count": 210
     },
     {
      "id": "انجليزية",
@@ -1163,6 +1103,118 @@
    ]
   },
   {
+   "id": "3as",
+   "name": "الثالثة ثانوي",
+   "stage": "secondary",
+   "count": 2917,
+   "subjects": [
+    {
+     "id": "علوم الطبيعة والحياة",
+     "count": 367
+    },
+    {
+     "id": "رياضيات",
+     "count": 339
+    },
+    {
+     "id": "فرنسية",
+     "count": 260
+    },
+    {
+     "id": "انجليزية",
+     "count": 259
+    },
+    {
+     "id": "عربية وادابها",
+     "count": 229
+    },
+    {
+     "id": "تاريخ والجغرافيا",
+     "count": 227
+    },
+    {
+     "id": "تسيير المحاسبي والمالي",
+     "count": 227
+    },
+    {
+     "id": "فلسفة",
+     "count": 137
+    },
+    {
+     "id": "تربية الاسلامية",
+     "count": 127
+    },
+    {
+     "id": "علوم الفيزيائية",
+     "count": 114
+    },
+    {
+     "id": "هندسة المدنية",
+     "count": 102
+    },
+    {
+     "id": "هندسة الكهربائية",
+     "count": 92
+    },
+    {
+     "id": "اقتصاد والمناجمنت",
+     "count": 82
+    },
+    {
+     "id": "قانون",
+     "count": 79
+    },
+    {
+     "id": "هندسة الطرائق",
+     "count": 76
+    },
+    {
+     "id": "اسبانية",
+     "count": 61
+    },
+    {
+     "id": "المانية",
+     "count": 55
+    },
+    {
+     "id": "هندسة الميكانيكية",
+     "count": 37
+    },
+    {
+     "id": "تكنولوجيا",
+     "count": 19
+    },
+    {
+     "id": "علوم اسلامية",
+     "count": 9
+    },
+    {
+     "id": "عربية",
+     "count": 8
+    },
+    {
+     "id": "تسيير محاسبي",
+     "count": 5
+    },
+    {
+     "id": "اقتصاد ومناجمنت",
+     "count": 2
+    },
+    {
+     "id": "لغة ايطالية",
+     "count": 2
+    },
+    {
+     "id": "علوم فيزيائية",
+     "count": 1
+    },
+    {
+     "id": "ايطالية",
+     "count": 1
+    }
+   ]
+  },
+  {
    "id": "4ap",
    "name": "الرابعة ابتدائي",
    "stage": "primary",
@@ -1203,58 +1255,6 @@
     {
      "id": "تربية العلمية والتكنولوجية",
      "count": 16
-    }
-   ]
-  },
-  {
-   "id": "1am",
-   "name": "الأولى متوسط",
-   "stage": "middle",
-   "count": 871,
-   "subjects": [
-    {
-     "id": "علوم الفيزيائية والتكنولوجيا",
-     "count": 119
-    },
-    {
-     "id": "رياضيات",
-     "count": 111
-    },
-    {
-     "id": "انجليزية",
-     "count": 98
-    },
-    {
-     "id": "فرنسية",
-     "count": 97
-    },
-    {
-     "id": "تربية المدنية",
-     "count": 97
-    },
-    {
-     "id": "عربية",
-     "count": 87
-    },
-    {
-     "id": "علوم الطبيعة والحياة",
-     "count": 86
-    },
-    {
-     "id": "تاريخ والجغرافيا",
-     "count": 78
-    },
-    {
-     "id": "تربية الاسلامية",
-     "count": 54
-    },
-    {
-     "id": "اعلام الالي",
-     "count": 43
-    },
-    {
-     "id": "علوم فيزيائية",
-     "count": 1
     }
    ]
   },
@@ -1858,7 +1858,7 @@
    "id": "رياضيات",
    "name": "الرياضيات",
    "icon": "📐",
-   "count": 1848
+   "count": 1857
   },
   {
    "id": "علوم الاسلامية",
@@ -1882,7 +1882,7 @@
    "id": "فلسفة",
    "name": "الفلسفة",
    "icon": "💭",
-   "count": 352
+   "count": 360
   },
   {
    "id": "قانون",
@@ -1900,7 +1900,7 @@
    "id": "المانية",
    "name": "اللغة الألمانية",
    "icon": "DE",
-   "count": 108
+   "count": 109
   },
   {
    "id": "امازيغية",
@@ -1912,7 +1912,7 @@
    "id": "انجليزية",
    "name": "اللغة الإنجليزية",
    "icon": "EN",
-   "count": 730
+   "count": 731
   },
   {
    "id": "ايطالية",
@@ -2055,9 +2055,389 @@
  ],
  "recent": {
   "days": 7,
-  "count": 704
+  "count": 723
  },
  "featured": [
+  {
+   "id": "ed-%D8%B3%D9%84%D8%A7%D8%B3%D9%84-%D8%AA%D9%85%D8%A7%D8%B1%D9%8A%D9%86-%D9%81%D9%8A-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A7%D8%AA-%D9%84%D9%84%D8%B3%D9%86%D8%A9-%D8%A7%D9%84%D8%A3%D9%88%D9%84",
+   "title": "سلاسل تمارين في الرياضيات للسنة الأولى متوسط",
+   "level": "1am",
+   "levelName": "الأولى متوسط",
+   "stage": "middle",
+   "subject": "الرياضيات",
+   "subjectKey": "رياضيات",
+   "stream": "all",
+   "streamName": "جميع الشعب",
+   "year": "",
+   "type": "ملخصات",
+   "pdf": "https://eddirasa.com/wp-content/uploads/2020/12/math-1am19-takwim1.pdf",
+   "image": "",
+   "source": "https://eddirasa.com/%D8%B3%D9%84%D8%A7%D8%B3%D9%84-%D8%AA%D9%85%D8%A7%D8%B1%D9%8A%D9%86-%D9%81%D9%8A-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A7%D8%AA-%D9%84%D9%84%D8%B3%D9%86%D8%A9-%D8%A7%D9%84%D8%A3%D9%88%D9%84/",
+   "sourceName": "موقع الدراسة",
+   "solution": false,
+   "typeKey": "summary",
+   "addedAt": "2026-09-24T12:52:19.953Z"
+  },
+  {
+   "id": "ed-%D8%A7%D9%84%D9%85%D8%AE%D8%B7%D8%B7-%D8%A7%D9%84%D8%B3%D9%86%D9%88%D9%8A-%D9%84%D8%A8%D9%86%D8%A7%D8%A1-%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%85%D8%A7%D8%AA-%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A7%D8%AA",
+   "title": "المخطط السنوي لبناء التعلمات رياضيات سنة أولى متوسط 2020 2021",
+   "level": "1am",
+   "levelName": "الأولى متوسط",
+   "stage": "middle",
+   "subject": "الرياضيات",
+   "subjectKey": "رياضيات",
+   "stream": "all",
+   "streamName": "جميع الشعب",
+   "year": 2021,
+   "type": "دروس",
+   "pdf": "https://eddirasa.com/wp-content/uploads/2020/12/مخطط-التعلّم-رياضيات-1م-2020.pdf",
+   "image": "",
+   "source": "https://eddirasa.com/%D8%A7%D9%84%D9%85%D8%AE%D8%B7%D8%B7-%D8%A7%D9%84%D8%B3%D9%86%D9%88%D9%8A-%D9%84%D8%A8%D9%86%D8%A7%D8%A1-%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%85%D8%A7%D8%AA-%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A7%D8%AA/",
+   "sourceName": "موقع الدراسة",
+   "solution": false,
+   "typeKey": "lesson",
+   "addedAt": "2026-09-24T12:52:16.871Z"
+  },
+  {
+   "id": "ed-%D8%AA%D9%85%D8%A7%D8%B1%D9%8A%D9%86-%D9%81%D9%8A-%D8%A7%D9%84%D9%87%D9%86%D8%AF%D8%B3%D8%A9-%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%B3%D9%86%D8%A9-%D8%A7%D9%84%D8%A3%D9%88%D9%84",
+   "title": "تمارين في الهندسة رياضيات السنة الأولى متوسط",
+   "level": "1am",
+   "levelName": "الأولى متوسط",
+   "stage": "middle",
+   "subject": "الرياضيات",
+   "subjectKey": "رياضيات",
+   "stream": "all",
+   "streamName": "جميع الشعب",
+   "year": "",
+   "type": "ملخصات",
+   "pdf": "https://eddirasa.com/wp-content/uploads/2020/12/math1am-activities_handasa.pdf",
+   "image": "",
+   "source": "https://eddirasa.com/%D8%AA%D9%85%D8%A7%D8%B1%D9%8A%D9%86-%D9%81%D9%8A-%D8%A7%D9%84%D9%87%D9%86%D8%AF%D8%B3%D8%A9-%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%B3%D9%86%D8%A9-%D8%A7%D9%84%D8%A3%D9%88%D9%84/",
+   "sourceName": "موقع الدراسة",
+   "solution": false,
+   "typeKey": "summary",
+   "addedAt": "2026-09-24T12:52:01.871Z"
+  },
+  {
+   "id": "ed-%D9%83%D8%B1%D8%A7%D8%B3-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A7%D8%AA-%D9%84%D9%84%D8%B3%D9%86%D8%A9-%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%89-%D9%85%D8%AA%D9%88%D8%B3%D8%B7-%D8%A7%D9%84%D8%AC",
+   "title": "كراس الرياضيات للسنة الأولى متوسط الجيل الثاني",
+   "level": "1am",
+   "levelName": "الأولى متوسط",
+   "stage": "middle",
+   "subject": "الرياضيات",
+   "subjectKey": "رياضيات",
+   "stream": "all",
+   "streamName": "جميع الشعب",
+   "year": "",
+   "type": "ملخصات",
+   "pdf": "https://eddirasa.com/wp-content/uploads/2020/12/كراس-الرياضيات-للسنة-1.pdf",
+   "image": "",
+   "source": "https://eddirasa.com/%D9%83%D8%B1%D8%A7%D8%B3-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A7%D8%AA-%D9%84%D9%84%D8%B3%D9%86%D8%A9-%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%89-%D9%85%D8%AA%D9%88%D8%B3%D8%B7-%D8%A7%D9%84%D8%AC/",
+   "sourceName": "موقع الدراسة",
+   "solution": false,
+   "typeKey": "summary",
+   "addedAt": "2026-09-24T12:51:45.686Z"
+  },
+  {
+   "id": "ed-%D8%AF%D9%84%D9%8A%D9%84-%D8%A7%D9%84%D8%A3%D8%B3%D8%AA%D8%A7%D8%B0-%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%B3%D9%86%D8%A9-%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%89-%D9%85%D8%AA%D9%88",
+   "title": "دليل الأستاذ رياضيات السنة الأولى متوسط الجيل الثاني",
+   "level": "1am",
+   "levelName": "الأولى متوسط",
+   "stage": "middle",
+   "subject": "الرياضيات",
+   "subjectKey": "رياضيات",
+   "stream": "all",
+   "streamName": "جميع الشعب",
+   "year": "",
+   "type": "دروس",
+   "pdf": "https://eddirasa.com/wp-content/uploads/2020/12/دليل-الأستاذ-في-الرياضيات-السنة-الأولى-متوسط-الجيل-الثاني.pdf",
+   "image": "",
+   "source": "https://eddirasa.com/%D8%AF%D9%84%D9%8A%D9%84-%D8%A7%D9%84%D8%A3%D8%B3%D8%AA%D8%A7%D8%B0-%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%B3%D9%86%D8%A9-%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%89-%D9%85%D8%AA%D9%88/",
+   "sourceName": "موقع الدراسة",
+   "solution": false,
+   "typeKey": "lesson",
+   "addedAt": "2026-09-24T12:51:12.686Z"
+  },
+  {
+   "id": "ed-%D9%83%D8%AA%D8%A7%D8%A8-%D8%A7%D9%84%D9%86%D8%AC%D9%8A%D8%A8-%D8%AC%D9%85%D9%8A%D8%B9-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D8%AF-%D9%84%D9%84%D8%B3%D9%86%D8%A9-%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%89-%D9%85",
+   "title": "كتاب النجيب جميع المواد للسنة الأولى متوسط الجيل الثاني",
+   "level": "1am",
+   "levelName": "الأولى متوسط",
+   "stage": "middle",
+   "subject": "الرياضيات",
+   "subjectKey": "رياضيات",
+   "stream": "all",
+   "streamName": "جميع الشعب",
+   "year": "",
+   "type": "ملخصات",
+   "pdf": "https://eddirasa.com/wp-content/uploads/2020/12/كتاب-النجيبwww.ORmathsDZ.com-.pdf",
+   "image": "",
+   "source": "https://eddirasa.com/%D9%83%D8%AA%D8%A7%D8%A8-%D8%A7%D9%84%D9%86%D8%AC%D9%8A%D8%A8-%D8%AC%D9%85%D9%8A%D8%B9-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D8%AF-%D9%84%D9%84%D8%B3%D9%86%D8%A9-%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%89-%D9%85/",
+   "sourceName": "موقع الدراسة",
+   "solution": false,
+   "typeKey": "summary",
+   "addedAt": "2026-09-24T12:51:09.659Z"
+  },
+  {
+   "id": "ed-%D9%88%D8%B6%D8%B9%D9%8A%D8%A7%D8%AA-%D8%A7%D9%86%D8%B7%D9%84%D8%A7%D9%82-%D8%A3%D9%86%D8%B4%D8%B7%D8%A9-%D9%87%D9%86%D8%AF%D8%B3%D9%8A%D8%A9-%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A7%D8%AA-%D8%A3%D9%88",
+   "title": "وضعيات انطلاق أنشطة هندسية رياضيات أولى متوسط الجيل الثاني",
+   "level": "1am",
+   "levelName": "الأولى متوسط",
+   "stage": "middle",
+   "subject": "الرياضيات",
+   "subjectKey": "رياضيات",
+   "stream": "all",
+   "streamName": "جميع الشعب",
+   "year": "",
+   "type": "دروس",
+   "pdf": "https://eddirasa.com/wp-content/uploads/2020/12/وضعيات-انطلاق-هندسة.pdf",
+   "image": "",
+   "source": "https://eddirasa.com/%D9%88%D8%B6%D8%B9%D9%8A%D8%A7%D8%AA-%D8%A7%D9%86%D8%B7%D9%84%D8%A7%D9%82-%D8%A3%D9%86%D8%B4%D8%B7%D8%A9-%D9%87%D9%86%D8%AF%D8%B3%D9%8A%D8%A9-%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A7%D8%AA-%D8%A3%D9%88/",
+   "sourceName": "موقع الدراسة",
+   "solution": false,
+   "typeKey": "lesson",
+   "addedAt": "2026-09-24T12:50:57.599Z"
+  },
+  {
+   "id": "ed-%D9%85%D9%86%D9%87%D8%A7%D8%AC-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A7%D8%AA-%D8%B3%D9%86%D8%A9-%D8%A3%D9%88%D9%84%D9%89-%D9%85%D8%AA%D9%88%D8%B3%D8%B7-%D8%A7%D9%84%D8%AC%D9%8A%D9%84-%D8%A7",
+   "title": "منهاج الرياضيات سنة أولى متوسط الجيل الثاني",
+   "level": "1am",
+   "levelName": "الأولى متوسط",
+   "stage": "middle",
+   "subject": "الرياضيات",
+   "subjectKey": "رياضيات",
+   "stream": "all",
+   "streamName": "جميع الشعب",
+   "year": "",
+   "type": "دروس",
+   "pdf": "https://eddirasa.com/wp-content/uploads/2020/12/منهاج-السنة-الاولى.pdf",
+   "image": "",
+   "source": "https://eddirasa.com/%D9%85%D9%86%D9%87%D8%A7%D8%AC-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A7%D8%AA-%D8%B3%D9%86%D8%A9-%D8%A3%D9%88%D9%84%D9%89-%D9%85%D8%AA%D9%88%D8%B3%D8%B7-%D8%A7%D9%84%D8%AC%D9%8A%D9%84-%D8%A7/",
+   "sourceName": "موقع الدراسة",
+   "solution": false,
+   "typeKey": "lesson",
+   "addedAt": "2026-09-24T12:50:54.577Z"
+  },
+  {
+   "id": "ed-%D9%85%D9%84%D8%AE%D8%B5-%D9%84%D8%AF%D8%B1%D9%88%D8%B3-%D8%A7%D9%84%D9%84%D8%BA%D8%A9-%D8%A7%D9%84%D8%A7%D9%86%D8%AC%D9%84%D9%8A%D8%B2%D9%8A%D8%A9-%D8%B3%D9%86%D8%A9-%D8%B1%D8%A7%D8%A8%D8%B9%D8%A9",
+   "title": "ملخص لدروس اللغة الانجليزية سنة رابعة متوسط",
+   "level": "4am",
+   "levelName": "الرابعة متوسط",
+   "stage": "middle",
+   "subject": "اللغة الإنجليزية",
+   "subjectKey": "انجليزية",
+   "stream": "all",
+   "streamName": "جميع الشعب",
+   "year": "",
+   "type": "دروس",
+   "pdf": "https://eddirasa.com/wp-content/uploads/2020/12/Summary-of-4am-english-lessons.pdf",
+   "image": "",
+   "source": "https://eddirasa.com/%D9%85%D9%84%D8%AE%D8%B5-%D9%84%D8%AF%D8%B1%D9%88%D8%B3-%D8%A7%D9%84%D9%84%D8%BA%D8%A9-%D8%A7%D9%84%D8%A7%D9%86%D8%AC%D9%84%D9%8A%D8%B2%D9%8A%D8%A9-%D8%B3%D9%86%D8%A9-%D8%B1%D8%A7%D8%A8%D8%B9%D8%A9/",
+   "sourceName": "موقع الدراسة",
+   "solution": false,
+   "typeKey": "lesson",
+   "addedAt": "2026-09-24T12:38:19.847Z"
+  },
+  {
+   "id": "ed-bac-lt-histoir-2019",
+   "title": "موضوع بكالوريا 2019 في التاريخ و الجغرافيا شعبة آداب و فلسفة",
+   "level": "bac",
+   "levelName": "البكالوريا",
+   "stage": "secondary",
+   "subject": "الفلسفة",
+   "subjectKey": "فلسفة",
+   "stream": "lit",
+   "streamName": "آداب وفلسفة",
+   "year": 2019,
+   "type": "دروس",
+   "pdf": "https://eddirasa.com/wp-content/uploads/2019/06/eddirasa.com-bac-li-his-geo-2019.pdf",
+   "image": "",
+   "source": "https://eddirasa.com/bac-lt-histoir-2019/",
+   "sourceName": "موقع الدراسة",
+   "solution": false,
+   "typeKey": "lesson",
+   "addedAt": "2026-09-24T12:30:11.570Z"
+  },
+  {
+   "id": "ed-correction-bac-math-physique-2019",
+   "title": "تصحيح موضوع بكالوريا 2019 في الفيزياء شعب رياضيات + تقني رياضي",
+   "level": "bac",
+   "levelName": "البكالوريا",
+   "stage": "secondary",
+   "subject": "الرياضيات",
+   "subjectKey": "رياضيات",
+   "stream": "mt",
+   "streamName": "تقني رياضي",
+   "year": 2019,
+   "type": "حلول وتصحيحات",
+   "pdf": "https://eddirasa.com/wp-content/uploads/2019/06/eddirasa.com-correction-bac-math-physics-2019.pdf",
+   "image": "",
+   "source": "https://eddirasa.com/correction-bac-math-physique-2019/",
+   "sourceName": "موقع الدراسة",
+   "solution": true,
+   "typeKey": "solution",
+   "addedAt": "2026-09-24T12:30:05.546Z"
+  },
+  {
+   "id": "ed-correction-bac-let-maths-2019",
+   "title": "تصحيح موضوع بكالوريا 2019 في الرياضيات شعب أدبية",
+   "level": "bac",
+   "levelName": "البكالوريا",
+   "stage": "secondary",
+   "subject": "الفلسفة",
+   "subjectKey": "فلسفة",
+   "stream": "lettres",
+   "streamName": "الشعب الأدبية",
+   "year": 2019,
+   "type": "حلول وتصحيحات",
+   "pdf": "https://eddirasa.com/wp-content/uploads/2019/06/eddirasa.com-correction-bac-li-maths-2019.pdf",
+   "image": "",
+   "source": "https://eddirasa.com/correction-bac-let-maths-2019/",
+   "sourceName": "موقع الدراسة",
+   "solution": true,
+   "typeKey": "solution",
+   "addedAt": "2026-09-24T12:29:53.520Z"
+  },
+  {
+   "id": "ed-bac-let-arabe-2019",
+   "title": "موضوع بكالوريا 2019 في اللغة العربية شعبة آداب و فلسفة",
+   "level": "bac",
+   "levelName": "البكالوريا",
+   "stage": "secondary",
+   "subject": "الفلسفة",
+   "subjectKey": "فلسفة",
+   "stream": "lit",
+   "streamName": "آداب وفلسفة",
+   "year": 2019,
+   "type": "دروس",
+   "pdf": "https://eddirasa.com/wp-content/uploads/2019/06/eddirasa.com-bac-li-arabic-2019.pdf",
+   "image": "",
+   "source": "https://eddirasa.com/bac-let-arabe-2019/",
+   "sourceName": "موقع الدراسة",
+   "solution": false,
+   "typeKey": "lesson",
+   "addedAt": "2026-09-24T12:29:47.564Z"
+  },
+  {
+   "id": "ed-correction-bac-islamic-2019",
+   "title": "تصحيح موضوع بكالوريا 2019 في العلوم الإسلامية جميع الشعب",
+   "level": "bac",
+   "levelName": "البكالوريا",
+   "stage": "secondary",
+   "subject": "الفلسفة",
+   "subjectKey": "فلسفة",
+   "stream": "all",
+   "streamName": "جميع الشعب",
+   "year": 2019,
+   "type": "حلول وتصحيحات",
+   "pdf": "https://eddirasa.com/wp-content/uploads/2019/06/eddirasa.com-correction-bac-sc-islamic-2019.pdf",
+   "image": "",
+   "source": "https://eddirasa.com/correction-bac-islamic-2019/",
+   "sourceName": "موقع الدراسة",
+   "solution": true,
+   "typeKey": "solution",
+   "addedAt": "2026-09-24T12:29:41.591Z"
+  },
+  {
+   "id": "ed-bac-lt-francais-2019",
+   "title": "موضوع بكالوريا 2019 في اللغة الفرنسية شعبة آداب و فلسفة",
+   "level": "bac",
+   "levelName": "البكالوريا",
+   "stage": "secondary",
+   "subject": "الفلسفة",
+   "subjectKey": "فلسفة",
+   "stream": "lit",
+   "streamName": "آداب وفلسفة",
+   "year": 2019,
+   "type": "دروس",
+   "pdf": "https://eddirasa.com/wp-content/uploads/2019/06/eddirasa.com-bac-li-french-2019.pdf",
+   "image": "",
+   "source": "https://eddirasa.com/bac-lt-francais-2019/",
+   "sourceName": "موقع الدراسة",
+   "solution": false,
+   "typeKey": "lesson",
+   "addedAt": "2026-09-24T12:29:32.486Z"
+  },
+  {
+   "id": "ed-correction-bac-tamazighte-2019",
+   "title": "تصحيح موضوع بكالوريا 2019 في اللغة الأمازيغية جميع الشعب",
+   "level": "bac",
+   "levelName": "البكالوريا",
+   "stage": "secondary",
+   "subject": "الفلسفة",
+   "subjectKey": "فلسفة",
+   "stream": "all",
+   "streamName": "جميع الشعب",
+   "year": 2019,
+   "type": "حلول وتصحيحات",
+   "pdf": "https://eddirasa.com/wp-content/uploads/2019/06/eddirasa.com-correction-bac-sc-tamazight-2019.pdf",
+   "image": "",
+   "source": "https://eddirasa.com/correction-bac-tamazighte-2019/",
+   "sourceName": "موقع الدراسة",
+   "solution": true,
+   "typeKey": "solution",
+   "addedAt": "2026-09-24T12:29:29.472Z"
+  },
+  {
+   "id": "ed-bac-let-maths-2019",
+   "title": "موضوع بكالوريا 2019 في الرياضيات شعب أدبية",
+   "level": "bac",
+   "levelName": "البكالوريا",
+   "stage": "secondary",
+   "subject": "الفلسفة",
+   "subjectKey": "فلسفة",
+   "stream": "lettres",
+   "streamName": "الشعب الأدبية",
+   "year": 2019,
+   "type": "دروس",
+   "pdf": "https://eddirasa.com/wp-content/uploads/2019/06/eddirasa.com-bac-li-maths-2019.pdf",
+   "image": "",
+   "source": "https://eddirasa.com/bac-let-maths-2019/",
+   "sourceName": "موقع الدراسة",
+   "solution": false,
+   "typeKey": "lesson",
+   "addedAt": "2026-09-24T12:29:02.397Z"
+  },
+  {
+   "id": "ed-bac-let-philos-2019",
+   "title": "موضوع بكالوريا 2019 في الفلسفة شعبة آداب و فلسفة",
+   "level": "bac",
+   "levelName": "البكالوريا",
+   "stage": "secondary",
+   "subject": "الفلسفة",
+   "subjectKey": "فلسفة",
+   "stream": "lit",
+   "streamName": "آداب وفلسفة",
+   "year": 2019,
+   "type": "دروس",
+   "pdf": "https://eddirasa.com/wp-content/uploads/2019/06/eddirasa.com-bac-li-philo-2019.pdf",
+   "image": "",
+   "source": "https://eddirasa.com/bac-let-philos-2019/",
+   "sourceName": "موقع الدراسة",
+   "solution": false,
+   "typeKey": "lesson",
+   "addedAt": "2026-09-24T12:28:47.368Z"
+  },
+  {
+   "id": "ed-%D9%85%D9%84%D8%AE%D8%B5-%D8%A7%D9%84%D9%84%D8%BA%D8%A9-%D8%A7%D9%84%D8%A3%D9%84%D9%85%D8%A7%D9%86%D9%8A%D8%A9-%D9%84%D9%84%D8%B3%D9%86%D8%A9-%D8%A7%D9%84%D8%AB%D8%A7%D9%84%D8%AB%D8%A9-%D8%AB%D8%A7",
+   "title": "ملخص اللغة الألمانية للسنة الثالثة ثانوي",
+   "level": "3as",
+   "levelName": "الثالثة ثانوي",
+   "stage": "secondary",
+   "subject": "اللغة الألمانية",
+   "subjectKey": "المانية",
+   "stream": "all",
+   "streamName": "جميع الشعب",
+   "year": "",
+   "type": "ملخصات",
+   "pdf": "https://eddirasa.com/wp-content/uploads/2016/09/resume_dallemand.pdf",
+   "image": "",
+   "source": "https://eddirasa.com/%D9%85%D9%84%D8%AE%D8%B5-%D8%A7%D9%84%D9%84%D8%BA%D8%A9-%D8%A7%D9%84%D8%A3%D9%84%D9%85%D8%A7%D9%86%D9%8A%D8%A9-%D9%84%D9%84%D8%B3%D9%86%D8%A9-%D8%A7%D9%84%D8%AB%D8%A7%D9%84%D8%AB%D8%A9-%D8%AB%D8%A7/",
+   "sourceName": "موقع الدراسة",
+   "solution": false,
+   "typeKey": "summary",
+   "addedAt": "2026-09-24T12:28:11.255Z"
+  },
   {
    "id": "ed-%D9%86%D8%B5%D9%88%D8%B5-%D9%88%D9%81%D9%82%D8%B1%D8%A7%D8%AA-%D8%A8%D8%A7%D9%84%D9%84%D8%BA%D8%A9-%D8%A7%D9%84%D8%A3%D9%84%D9%85%D8%A7%D9%86%D9%8A%D8%A9-%D9%84%D9%84%D8%B3%D9%86%D8%A9-%D8%A7%D9%84",
    "title": "نصوص وفقرات باللغة الألمانية للسنة الثالثة ثانوي",
@@ -2157,386 +2537,6 @@
    "solution": false,
    "typeKey": "summary",
    "addedAt": "2026-09-24T12:21:40.191Z"
-  },
-  {
-   "id": "ed-%D9%85%D9%88%D8%A7%D8%B6%D9%8A%D8%B9-%D8%A8%D9%83%D8%A7%D9%84%D9%88%D8%B1%D9%8A%D8%A7-%D8%AA%D8%AC%D8%B1%D9%8A%D8%A8%D9%8A%D8%A9-%D9%81%D9%8A-%D9%85%D8%B1%D9%83%D8%B2-%D9%88%D8%AD%D8%AF%D8%A9-%D8%A7",
-   "title": "مواضيع بكالوريا تجريبية في مركز وحدة التثقيب و التجويف هندسة ميكانيكية",
-   "level": "3as",
-   "levelName": "الثالثة ثانوي",
-   "stage": "secondary",
-   "subject": "التكنولوجيا",
-   "subjectKey": "تكنولوجيا",
-   "stream": "all",
-   "streamName": "جميع الشعب",
-   "year": "",
-   "type": "ملخصات",
-   "pdf": "https://eddirasa.com/wp-content/uploads/2016/01/مواضيع-بكالوريا-تجريبية-في-مركز-وحدة-التثقيب-و-التجويف.pdf",
-   "image": "",
-   "source": "https://eddirasa.com/%D9%85%D9%88%D8%A7%D8%B6%D9%8A%D8%B9-%D8%A8%D9%83%D8%A7%D9%84%D9%88%D8%B1%D9%8A%D8%A7-%D8%AA%D8%AC%D8%B1%D9%8A%D8%A8%D9%8A%D8%A9-%D9%81%D9%8A-%D9%85%D8%B1%D9%83%D8%B2-%D9%88%D8%AD%D8%AF%D8%A9-%D8%A7/",
-   "sourceName": "موقع الدراسة",
-   "solution": false,
-   "typeKey": "summary",
-   "addedAt": "2026-09-24T12:19:21.927Z"
-  },
-  {
-   "id": "ed-%D9%85%D9%84%D8%AE%D8%B5-%D8%AF%D8%B1%D9%88%D8%B3-%D8%A7%D9%84%D9%87%D9%86%D8%AF%D8%B3%D8%A9-%D8%A7%D9%84%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A6%D9%8A%D8%A9-%D8%AB%D8%A7%D9%84%D8%AB%D8%A9-%D8%AB%D8%A7",
-   "title": "ملخص دروس الهندسة الكهربائية ثالثة ثانوي",
-   "level": "3as",
-   "levelName": "الثالثة ثانوي",
-   "stage": "secondary",
-   "subject": "التكنولوجيا",
-   "subjectKey": "تكنولوجيا",
-   "stream": "all",
-   "streamName": "جميع الشعب",
-   "year": "",
-   "type": "ملخصات",
-   "pdf": "https://eddirasa.com/wp-content/uploads/2015/12/ملخص-دروس-الهندسة-الكهربائية-ثالثة-ثانوي.pdf",
-   "image": "",
-   "source": "https://eddirasa.com/%D9%85%D9%84%D8%AE%D8%B5-%D8%AF%D8%B1%D9%88%D8%B3-%D8%A7%D9%84%D9%87%D9%86%D8%AF%D8%B3%D8%A9-%D8%A7%D9%84%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A6%D9%8A%D8%A9-%D8%AB%D8%A7%D9%84%D8%AB%D8%A9-%D8%AB%D8%A7/",
-   "sourceName": "موقع الدراسة",
-   "solution": false,
-   "typeKey": "summary",
-   "addedAt": "2026-09-24T12:18:57.930Z"
-  },
-  {
-   "id": "ed-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D8%AC-%D8%AF%D8%B1%D9%88%D8%B3-%D8%A7%D9%84%D9%87%D9%86%D8%AF%D8%B3%D8%A9-%D8%A7%D9%84%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A6%D9%8A%D8%A9-%D8%AB%D8%A7%D9%84%D8%AB%D8%A9",
-   "title": "برنامج دروس الهندسة الكهربائية ثالثة ثانوي",
-   "level": "3as",
-   "levelName": "الثالثة ثانوي",
-   "stage": "secondary",
-   "subject": "التكنولوجيا",
-   "subjectKey": "تكنولوجيا",
-   "stream": "all",
-   "streamName": "جميع الشعب",
-   "year": "",
-   "type": "ملخصات",
-   "pdf": "https://eddirasa.com/wp-content/uploads/2015/12/هندسة-كهربائية‎.pdf",
-   "image": "",
-   "source": "https://eddirasa.com/%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D8%AC-%D8%AF%D8%B1%D9%88%D8%B3-%D8%A7%D9%84%D9%87%D9%86%D8%AF%D8%B3%D8%A9-%D8%A7%D9%84%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A6%D9%8A%D8%A9-%D8%AB%D8%A7%D9%84%D8%AB%D8%A9/",
-   "sourceName": "موقع الدراسة",
-   "solution": false,
-   "typeKey": "summary",
-   "addedAt": "2026-09-24T12:18:39.848Z"
-  },
-  {
-   "id": "ed-%D9%85%D9%84%D8%AE%D8%B5-%D8%AF%D8%B1%D9%88%D8%B3-%D8%A7%D9%84%D9%87%D9%86%D8%AF%D8%B3%D8%A9-%D8%A7%D9%84%D9%85%D9%8A%D9%83%D8%A7%D9%86%D9%8A%D9%83%D9%8A%D8%A9-%D8%AB%D8%A7%D9%84%D8%AB%D8%A9-%D8%AB",
-   "title": "ملخص دروس الهندسة الميكانيكية ثالثة ثانوي",
-   "level": "3as",
-   "levelName": "الثالثة ثانوي",
-   "stage": "secondary",
-   "subject": "التكنولوجيا",
-   "subjectKey": "تكنولوجيا",
-   "stream": "all",
-   "streamName": "جميع الشعب",
-   "year": "",
-   "type": "ملخصات",
-   "pdf": "https://eddirasa.com/wp-content/uploads/2016/01/Resume-Mecanique.pdf",
-   "image": "",
-   "source": "https://eddirasa.com/%D9%85%D9%84%D8%AE%D8%B5-%D8%AF%D8%B1%D9%88%D8%B3-%D8%A7%D9%84%D9%87%D9%86%D8%AF%D8%B3%D8%A9-%D8%A7%D9%84%D9%85%D9%8A%D9%83%D8%A7%D9%86%D9%8A%D9%83%D9%8A%D8%A9-%D8%AB%D8%A7%D9%84%D8%AB%D8%A9-%D8%AB/",
-   "sourceName": "موقع الدراسة",
-   "solution": false,
-   "typeKey": "summary",
-   "addedAt": "2026-09-24T12:18:33.809Z"
-  },
-  {
-   "id": "ed-%D8%A7%D9%84%D8%A3%D9%85%D9%86-%D8%A7%D9%84%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A6%D9%8A-%D9%81%D9%8A%D8%B2%D9%8A%D8%A7%D8%A1-%D8%B1%D8%A7%D8%A8%D8%B9%D8%A9-%D9%85%D8%AA%D9%88%D8%B3%D8%B7",
-   "title": "الأمن الكهربائي فيزياء رابعة متوسط",
-   "level": "4am",
-   "levelName": "الرابعة متوسط",
-   "stage": "middle",
-   "subject": "العلوم الفيزيائية",
-   "subjectKey": "علوم الفيزيائية",
-   "stream": "all",
-   "streamName": "جميع الشعب",
-   "year": "",
-   "type": "دروس",
-   "pdf": "https://eddirasa.com/wp-content/uploads/2015/04/الأمن-الكهربائيi.pdf",
-   "image": "",
-   "source": "https://eddirasa.com/%D8%A7%D9%84%D8%A3%D9%85%D9%86-%D8%A7%D9%84%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A6%D9%8A-%D9%81%D9%8A%D8%B2%D9%8A%D8%A7%D8%A1-%D8%B1%D8%A7%D8%A8%D8%B9%D8%A9-%D9%85%D8%AA%D9%88%D8%B3%D8%B7/",
-   "sourceName": "موقع الدراسة",
-   "solution": false,
-   "typeKey": "lesson",
-   "addedAt": "2026-09-24T12:18:18.761Z"
-  },
-  {
-   "id": "ed-%D8%A7%D9%84%D9%85%D9%82%D8%A7%D8%B1%D8%A8%D8%A9-%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%8A%D8%A9-%D9%84%D9%84%D9%82%D9%88%D8%A9-%D9%83%D8%B4%D8%B9%D8%A7%D8%B9-%D9%81%D9%8A%D8%B2%D9%8A%D8%A7%D8%A1-%D8%B1",
-   "title": "المقاربة الأولية للقوة كشعاع فيزياء رابعة متوسط",
-   "level": "4am",
-   "levelName": "الرابعة متوسط",
-   "stage": "middle",
-   "subject": "العلوم الفيزيائية",
-   "subjectKey": "علوم الفيزيائية",
-   "stream": "all",
-   "streamName": "جميع الشعب",
-   "year": "",
-   "type": "دروس",
-   "pdf": "https://eddirasa.com/wp-content/uploads/2015/04/المقاربة-الأولية-للقوة-كشعاع.pdf",
-   "image": "",
-   "source": "https://eddirasa.com/%D8%A7%D9%84%D9%85%D9%82%D8%A7%D8%B1%D8%A8%D8%A9-%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%8A%D8%A9-%D9%84%D9%84%D9%82%D9%88%D8%A9-%D9%83%D8%B4%D8%B9%D8%A7%D8%B9-%D9%81%D9%8A%D8%B2%D9%8A%D8%A7%D8%A1-%D8%B1/",
-   "sourceName": "موقع الدراسة",
-   "solution": false,
-   "typeKey": "lesson",
-   "addedAt": "2026-09-24T12:18:15.744Z"
-  },
-  {
-   "id": "ed-%D8%AA%D8%AD%D9%85%D9%8A%D9%84-%D9%83%D8%AA%D8%A7%D8%A8-%D8%A7%D9%84%D8%B3%D8%A8%D9%8A%D9%84-%D9%81%D9%84%D8%B3%D9%81%D8%A9-%D8%AB%D8%A7%D9%84%D8%AB%D8%A9-%D8%B9%D9%84%D9%85%D9%8A",
-   "title": "كتاب السبيل في الفلسفة ثالثة ثانوي شعب علمية",
-   "level": "3as",
-   "levelName": "الثالثة ثانوي",
-   "stage": "secondary",
-   "subject": "الفلسفة",
-   "subjectKey": "فلسفة",
-   "stream": "sci",
-   "streamName": "الشعب العلمية",
-   "year": "",
-   "type": "دروس",
-   "pdf": "https://eddirasa.com/wp-content/uploads/2013/08/Essabil_phylo_3AS_sci.pdf",
-   "image": "",
-   "source": "https://eddirasa.com/%D8%AA%D8%AD%D9%85%D9%8A%D9%84-%D9%83%D8%AA%D8%A7%D8%A8-%D8%A7%D9%84%D8%B3%D8%A8%D9%8A%D9%84-%D9%81%D9%84%D8%B3%D9%81%D8%A9-%D8%AB%D8%A7%D9%84%D8%AB%D8%A9-%D8%B9%D9%84%D9%85%D9%8A/",
-   "sourceName": "موقع الدراسة",
-   "solution": false,
-   "typeKey": "lesson",
-   "addedAt": "2026-09-24T12:13:51.106Z"
-  },
-  {
-   "id": "ed-%D8%AA%D8%AD%D9%85%D9%8A%D9%84-%D9%83%D8%AA%D8%A7%D8%A8-%D8%AD%D9%88%D9%84%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%A8%D9%83%D8%A7%D9%84%D9%88%D8%B1%D9%8A%D8%A7-pdf",
-   "title": "كتاب حوليات البكالوريا في الرياضيات الفيزياء العلوم الطبيعية",
-   "level": "3as",
-   "levelName": "الثالثة ثانوي",
-   "stage": "secondary",
-   "subject": "الرياضيات",
-   "subjectKey": "رياضيات",
-   "stream": "all",
-   "streamName": "جميع الشعب",
-   "year": "",
-   "type": "دروس",
-   "pdf": "https://eddirasa.com/wp-content/uploads/2013/08/success-key-3SE.pdf",
-   "image": "",
-   "source": "https://eddirasa.com/%D8%AA%D8%AD%D9%85%D9%8A%D9%84-%D9%83%D8%AA%D8%A7%D8%A8-%D8%AD%D9%88%D9%84%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%A8%D9%83%D8%A7%D9%84%D9%88%D8%B1%D9%8A%D8%A7-pdf/",
-   "sourceName": "موقع الدراسة",
-   "solution": false,
-   "typeKey": "lesson",
-   "addedAt": "2026-09-24T12:13:42.170Z"
-  },
-  {
-   "id": "ed-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D8%AC-%D8%AF%D8%B1%D9%88%D8%B3-%D9%85%D8%A7%D8%AF%D8%A9-%D8%A7%D9%84%D8%A5%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-%D9%88%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%AC%D9%85%D9%86%D8%AA",
-   "title": "برنامج دروس مادة الإقتصاد والمناجمنت سنة 3 ثانوي",
-   "level": "3as",
-   "levelName": "الثالثة ثانوي",
-   "stage": "secondary",
-   "subject": "اقتصاد ومناجمنت",
-   "subjectKey": "اقتصاد ومناجمنت",
-   "stream": "all",
-   "streamName": "جميع الشعب",
-   "year": "",
-   "type": "ملخصات",
-   "pdf": "https://eddirasa.com/wp-content/uploads/2020/09/س3-اقتصاد-ومانجمنت.pdf",
-   "image": "",
-   "source": "https://eddirasa.com/%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D8%AC-%D8%AF%D8%B1%D9%88%D8%B3-%D9%85%D8%A7%D8%AF%D8%A9-%D8%A7%D9%84%D8%A5%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-%D9%88%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%AC%D9%85%D9%86%D8%AA/",
-   "sourceName": "موقع الدراسة",
-   "solution": false,
-   "typeKey": "summary",
-   "addedAt": "2026-09-23T21:23:45.279Z"
-  },
-  {
-   "id": "ed-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D8%AC-%D8%AF%D8%B1%D9%88%D8%B3-%D9%85%D8%A7%D8%AF%D8%A9-%D8%A7%D9%84%D9%81%D9%84%D8%B3%D9%81%D8%A9-%D8%B3%D9%86%D8%A9-3-%D8%AB%D8%A7%D9%86%D9%88%D9%8A",
-   "title": "برنامج دروس الفلسفة سنة 3 ثانوي شعب علوم تجريبية ورياضيات",
-   "level": "3as",
-   "levelName": "الثالثة ثانوي",
-   "stage": "secondary",
-   "subject": "الفلسفة",
-   "subjectKey": "فلسفة",
-   "stream": "se",
-   "streamName": "علوم تجريبية",
-   "year": "",
-   "type": "دروس",
-   "pdf": "https://eddirasa.com/wp-content/uploads/2020/09/سنة-ثالثة-علوم-تجريبية-و-رياضيات.pdf",
-   "image": "",
-   "source": "https://eddirasa.com/%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D8%AC-%D8%AF%D8%B1%D9%88%D8%B3-%D9%85%D8%A7%D8%AF%D8%A9-%D8%A7%D9%84%D9%81%D9%84%D8%B3%D9%81%D8%A9-%D8%B3%D9%86%D8%A9-3-%D8%AB%D8%A7%D9%86%D9%88%D9%8A/",
-   "sourceName": "موقع الدراسة",
-   "solution": false,
-   "typeKey": "lesson",
-   "addedAt": "2026-09-23T21:23:42.604Z"
-  },
-  {
-   "id": "ed-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D8%AC-%D8%AF%D8%B1%D9%88%D8%B3-%D9%85%D8%A7%D8%AF%D8%A9-%D8%A7%D9%84%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE-%D8%B3%D9%86%D8%A9-3-%D8%AB%D8%A7%D9%86%D9%88%D9%8A",
-   "title": "برنامج دروس مادة التاريخ سنة 3 ثانوي",
-   "level": "3as",
-   "levelName": "الثالثة ثانوي",
-   "stage": "secondary",
-   "subject": "التاريخ والجغرافيا",
-   "subjectKey": "تاريخ والجغرافيا",
-   "stream": "all",
-   "streamName": "جميع الشعب",
-   "year": "",
-   "type": "ملخصات",
-   "pdf": "https://eddirasa.com/wp-content/uploads/2020/09/برنامج-دروس-مادة-التاريخ-سنة-3-ثانوي.pdf",
-   "image": "",
-   "source": "https://eddirasa.com/%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D8%AC-%D8%AF%D8%B1%D9%88%D8%B3-%D9%85%D8%A7%D8%AF%D8%A9-%D8%A7%D9%84%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE-%D8%B3%D9%86%D8%A9-3-%D8%AB%D8%A7%D9%86%D9%88%D9%8A/",
-   "sourceName": "موقع الدراسة",
-   "solution": false,
-   "typeKey": "summary",
-   "addedAt": "2026-09-23T21:23:39.582Z"
-  },
-  {
-   "id": "ed-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D8%AC-%D8%AF%D8%B1%D9%88%D8%B3-%D9%85%D8%A7%D8%AF%D8%A9-%D8%A7%D9%84%D9%84%D8%BA%D8%A9-%D8%A7%D9%84%D9%81%D8%B1%D9%86%D8%B3%D9%8A%D8%A9-%D8%B3%D9%86%D8%A9-3-%D8%AB%D8%A7",
-   "title": "برنامج دروس مادة اللغة الفرنسية سنة 3 ثانوي شعب علمية",
-   "level": "3as",
-   "levelName": "الثالثة ثانوي",
-   "stage": "secondary",
-   "subject": "اللغة الفرنسية",
-   "subjectKey": "فرنسية",
-   "stream": "sci",
-   "streamName": "الشعب العلمية",
-   "year": "",
-   "type": "دروس",
-   "pdf": "https://eddirasa.com/wp-content/uploads/2020/09/برنامج-دروس-مادة-اللغة-الفرنسية-سنة-3-ثانوي-شعب-علمية.pdf",
-   "image": "",
-   "source": "https://eddirasa.com/%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D8%AC-%D8%AF%D8%B1%D9%88%D8%B3-%D9%85%D8%A7%D8%AF%D8%A9-%D8%A7%D9%84%D9%84%D8%BA%D8%A9-%D8%A7%D9%84%D9%81%D8%B1%D9%86%D8%B3%D9%8A%D8%A9-%D8%B3%D9%86%D8%A9-3-%D8%AB%D8%A7/",
-   "sourceName": "موقع الدراسة",
-   "solution": false,
-   "typeKey": "lesson",
-   "addedAt": "2026-09-23T21:23:36.584Z"
-  },
-  {
-   "id": "ed-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D8%AC-%D8%AF%D8%B1%D9%88%D8%B3-%D8%A7%D9%84%D9%84%D8%BA%D8%A9-%D8%A7%D9%84%D8%A3%D9%84%D9%85%D8%A7%D9%86%D9%8A%D8%A9-%D8%B3%D9%86%D8%A9-3-%D8%AB%D8%A7%D9%86%D9%88%D9%8A",
-   "title": "برنامج دروس اللغة الألمانية سنة 3 ثانوي",
-   "level": "3as",
-   "levelName": "الثالثة ثانوي",
-   "stage": "secondary",
-   "subject": "اللغة الألمانية",
-   "subjectKey": "المانية",
-   "stream": "all",
-   "streamName": "جميع الشعب",
-   "year": "",
-   "type": "ملخصات",
-   "pdf": "https://eddirasa.com/wp-content/uploads/2020/09/التدرجات-السنوية-سبتمبر-2022‎-لغة-ألمانية.pdf",
-   "image": "",
-   "source": "https://eddirasa.com/%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D8%AC-%D8%AF%D8%B1%D9%88%D8%B3-%D8%A7%D9%84%D9%84%D8%BA%D8%A9-%D8%A7%D9%84%D8%A3%D9%84%D9%85%D8%A7%D9%86%D9%8A%D8%A9-%D8%B3%D9%86%D8%A9-3-%D8%AB%D8%A7%D9%86%D9%88%D9%8A/",
-   "sourceName": "موقع الدراسة",
-   "solution": false,
-   "typeKey": "summary",
-   "addedAt": "2026-09-23T21:23:33.487Z"
-  },
-  {
-   "id": "ed-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D8%AC-%D8%AF%D8%B1%D9%88%D8%B3-%D9%85%D8%A7%D8%AF%D8%A9-%D8%A7%D9%84%D9%84%D8%BA%D8%A9-%D8%A7%D9%84%D8%A7%D9%86%D8%AC%D9%84%D9%8A%D8%B2%D9%8A%D8%A9-%D8%B3%D9%86%D8%A9-3",
-   "title": "برنامج دروس مادة اللغة الانجليزية سنة 3 ثانوي شعب علمية",
-   "level": "3as",
-   "levelName": "الثالثة ثانوي",
-   "stage": "secondary",
-   "subject": "اللغة الإنجليزية",
-   "subjectKey": "انجليزية",
-   "stream": "sci",
-   "streamName": "الشعب العلمية",
-   "year": "",
-   "type": "دروس",
-   "pdf": "https://eddirasa.com/wp-content/uploads/2020/09/برنامج-دروس-مادة-اللغة-الانجليزية-سنة-3-ثانوي-شعب-علمية.pdf",
-   "image": "",
-   "source": "https://eddirasa.com/%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D8%AC-%D8%AF%D8%B1%D9%88%D8%B3-%D9%85%D8%A7%D8%AF%D8%A9-%D8%A7%D9%84%D9%84%D8%BA%D8%A9-%D8%A7%D9%84%D8%A7%D9%86%D8%AC%D9%84%D9%8A%D8%B2%D9%8A%D8%A9-%D8%B3%D9%86%D8%A9-3/",
-   "sourceName": "موقع الدراسة",
-   "solution": false,
-   "typeKey": "lesson",
-   "addedAt": "2026-09-23T21:23:11.650Z"
-  },
-  {
-   "id": "ed-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D8%AC-%D8%AF%D8%B1%D9%88%D8%B3-%D9%85%D8%A7%D8%AF%D8%A9-%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85-%D8%A7%D9%84%D8%A5%D8%B3%D9%84%D8%A7%D9%85%D9%8A%D8%A9-%D8%B3%D9%86%D8%A9-3",
-   "title": "برنامج دروس مادة العلوم الإسلامية سنة 3 ثانوي",
-   "level": "3as",
-   "levelName": "الثالثة ثانوي",
-   "stage": "secondary",
-   "subject": "علوم إسلامية",
-   "subjectKey": "علوم اسلامية",
-   "stream": "all",
-   "streamName": "جميع الشعب",
-   "year": "",
-   "type": "ملخصات",
-   "pdf": "https://eddirasa.com/wp-content/uploads/2020/09/س3-جميع-الشعب.pdf",
-   "image": "",
-   "source": "https://eddirasa.com/%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D8%AC-%D8%AF%D8%B1%D9%88%D8%B3-%D9%85%D8%A7%D8%AF%D8%A9-%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85-%D8%A7%D9%84%D8%A5%D8%B3%D9%84%D8%A7%D9%85%D9%8A%D8%A9-%D8%B3%D9%86%D8%A9-3/",
-   "sourceName": "موقع الدراسة",
-   "solution": false,
-   "typeKey": "summary",
-   "addedAt": "2026-09-23T21:23:05.492Z"
-  },
-  {
-   "id": "ed-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D8%AC-%D8%AF%D8%B1%D9%88%D8%B3-%D9%85%D8%A7%D8%AF%D8%A9-%D8%A7%D9%84%D8%AC%D8%BA%D8%B1%D8%A7%D9%81%D9%8A%D8%A7-%D8%B3%D9%86%D8%A9-3-%D8%AB%D8%A7%D9%86%D9%88%D9%8A",
-   "title": "برنامج دروس مادة الجغرافيا سنة 3 ثانوي",
-   "level": "3as",
-   "levelName": "الثالثة ثانوي",
-   "stage": "secondary",
-   "subject": "التاريخ والجغرافيا",
-   "subjectKey": "تاريخ والجغرافيا",
-   "stream": "all",
-   "streamName": "جميع الشعب",
-   "year": "",
-   "type": "ملخصات",
-   "pdf": "https://eddirasa.com/wp-content/uploads/2020/09/برنامج-دروس-مادة-الجغرافيا-سنة-3-ثانوي.pdf",
-   "image": "",
-   "source": "https://eddirasa.com/%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D8%AC-%D8%AF%D8%B1%D9%88%D8%B3-%D9%85%D8%A7%D8%AF%D8%A9-%D8%A7%D9%84%D8%AC%D8%BA%D8%B1%D8%A7%D9%81%D9%8A%D8%A7-%D8%B3%D9%86%D8%A9-3-%D8%AB%D8%A7%D9%86%D9%88%D9%8A/",
-   "sourceName": "موقع الدراسة",
-   "solution": false,
-   "typeKey": "summary",
-   "addedAt": "2026-09-23T21:23:02.568Z"
-  },
-  {
-   "id": "ed-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D8%AC-%D8%AF%D8%B1%D9%88%D8%B3-%D8%A7%D9%84%D8%AA%D8%B3%D9%8A%D9%8A%D8%B1-%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D8%B3%D8%A8%D9%8A-%D9%88%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%8A",
-   "title": "برنامج دروس التسيير المحاسبي والمالي سنة 3 ثانوي",
-   "level": "3as",
-   "levelName": "الثالثة ثانوي",
-   "stage": "secondary",
-   "subject": "تسيير محاسبي",
-   "subjectKey": "تسيير محاسبي",
-   "stream": "all",
-   "streamName": "جميع الشعب",
-   "year": "",
-   "type": "ملخصات",
-   "pdf": "https://eddirasa.com/wp-content/uploads/2020/09/س3-تسيير-محاسبي-ومالي.pdf",
-   "image": "",
-   "source": "https://eddirasa.com/%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D8%AC-%D8%AF%D8%B1%D9%88%D8%B3-%D8%A7%D9%84%D8%AA%D8%B3%D9%8A%D9%8A%D8%B1-%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D8%B3%D8%A8%D9%8A-%D9%88%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%8A/",
-   "sourceName": "موقع الدراسة",
-   "solution": false,
-   "typeKey": "summary",
-   "addedAt": "2026-09-23T21:22:59.536Z"
-  },
-  {
-   "id": "ed-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D8%AC-%D8%AF%D8%B1%D9%88%D8%B3-%D9%85%D8%A7%D8%AF%D8%A9-%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86-%D8%B3%D9%86%D8%A9-3-%D8%AB%D8%A7%D9%86%D9%88%D9%8A",
-   "title": "برنامج دروس مادة القانون سنة 3 ثانوي",
-   "level": "3as",
-   "levelName": "الثالثة ثانوي",
-   "stage": "secondary",
-   "subject": "قانون",
-   "subjectKey": "قانون",
-   "stream": "all",
-   "streamName": "جميع الشعب",
-   "year": "",
-   "type": "ملخصات",
-   "pdf": "https://eddirasa.com/wp-content/uploads/2020/09/س3-قانون.pdf",
-   "image": "",
-   "source": "https://eddirasa.com/%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D8%AC-%D8%AF%D8%B1%D9%88%D8%B3-%D9%85%D8%A7%D8%AF%D8%A9-%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86-%D8%B3%D9%86%D8%A9-3-%D8%AB%D8%A7%D9%86%D9%88%D9%8A/",
-   "sourceName": "موقع الدراسة",
-   "solution": false,
-   "typeKey": "summary",
-   "addedAt": "2026-09-23T21:22:44.513Z"
-  },
-  {
-   "id": "ed-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D8%AC-%D8%AF%D8%B1%D9%88%D8%B3-%D9%85%D8%A7%D8%AF%D8%A9-%D8%A7%D9%84%D9%84%D8%BA%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D8%B3%D9%86%D8%A9-3-%D8%AB%D8%A7%D9%86",
-   "title": "برنامج دروس اللغة العربية سنة 3 ثانوي شعب علمية",
-   "level": "3as",
-   "levelName": "الثالثة ثانوي",
-   "stage": "secondary",
-   "subject": "اللغة العربية",
-   "subjectKey": "عربية",
-   "stream": "sci",
-   "streamName": "الشعب العلمية",
-   "year": "",
-   "type": "دروس",
-   "pdf": "https://eddirasa.com/wp-content/uploads/2020/09/س3-الشعب-العلمية-المشتركة.pdf",
-   "image": "",
-   "source": "https://eddirasa.com/%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D8%AC-%D8%AF%D8%B1%D9%88%D8%B3-%D9%85%D8%A7%D8%AF%D8%A9-%D8%A7%D9%84%D9%84%D8%BA%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D8%B3%D9%86%D8%A9-3-%D8%AB%D8%A7%D9%86/",
-   "sourceName": "موقع الدراسة",
-   "solution": false,
-   "typeKey": "lesson",
-   "addedAt": "2026-09-23T21:22:41.490Z"
   }
  ],
  "news": [
