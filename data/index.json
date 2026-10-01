@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-01T12:28:04.226Z",
+ "generated_at": "2026-10-01T12:58:11.982Z",
  "total": 11674,
  "shards": [
   {
@@ -2055,7 +2055,7 @@
  ],
  "recent": {
   "days": 7,
-  "count": 58
+  "count": 39
  },
  "featured": [
   {
